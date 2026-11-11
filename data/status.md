@@ -5,6 +5,6 @@ Last run of each pull (ET). The feed runs 7:25 AM premarket, hourly 9:45 AM–3:
 | Pull | Last run (ET) | OK |
 |---|---|---|
 | premarket | — | — |
-| intraday | 2026-11-11 13:34 | yes |
+| intraday | 2026-11-11 14:44 | yes |
 | close | 2026-11-11 10:33 | yes |
 | weekly | — | — |
