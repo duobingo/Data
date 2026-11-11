@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
-"""Decide what a scheduled run should do, so duplicate or early cron runs do nothing.
-
-GitHub's schedule fires each pull at two UTC times (to cover daylight saving) and can
-start late. This prints the mode to run (premarket / intraday / close / weekly) or
-nothing if the run falls outside a window or that pull already ran. A forced mode
-(manual run) is always printed.
-"""
+"""Decide what a scheduled run should do, so duplicate or early cron runs do nothing."""
 import datetime as dt
 import json
 import pathlib
@@ -16,7 +10,6 @@ ET = ZoneInfo("America/New_York")
 
 
 def pick_mode(now_et, forced):
-    """Same windows as pull.pick_mode (copied so this runs before packages are installed)."""
     if forced:
         return forced
     wd, hm = now_et.weekday(), now_et.hour * 60 + now_et.minute
@@ -42,8 +35,12 @@ def decide(now, forced=None):
     last = st.get(mode, {}).get("time_et")
     if last:
         last = dt.datetime.strptime(last, "%Y-%m-%d %H:%M").replace(tzinfo=ET)
-        gap = dt.timedelta(minutes=40) if mode == "intraday" else dt.timedelta(hours=8)
-        if now - last < gap:
+        if mode == "intraday":
+            done = now - last < dt.timedelta(minutes=40)
+        else:
+            start = {"premarket": (7, 0), "close": (16, 5), "weekly": (17, 0)}[mode]
+            done = last >= now.replace(hour=start[0], minute=start[1], second=0, microsecond=0)
+        if done:
             return ""
     return mode
 
