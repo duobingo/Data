@@ -1,0 +1,75 @@
+name: Data pull
+
+on:
+  schedule:
+    - cron: "25 11,12 * * 1-5"
+    - cron: "45 13-20 * * 1-5"
+    - cron: "40 20,21 * * 1-5"
+    - cron: "15 21,22 * * 0"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "premarket, intraday, close or weekly"
+        required: true
+        default: close
+        type: choice
+        options: [premarket, intraday, close, weekly]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: data-pull
+  cancel-in-progress: false
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Decide what to run
+        id: slot
+        run: |
+          m=$(python3 scripts/slot.py "${{ inputs.mode }}" 2>/dev/null || true)
+          echo "mode=$m" >> "$GITHUB_OUTPUT"
+          [ -n "$m" ] && echo "Running: $m" || echo "Nothing due now; exiting."
+
+      - if: steps.slot.outputs.mode != ''
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - if: steps.slot.outputs.mode != ''
+        run: pip install -r requirements.txt
+
+      - name: Pull data and scan
+        if: steps.slot.outputs.mode != ''
+        env:
+          FINNHUB_API_KEY: ${{ secrets.FINNHUB_API_KEY }}
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: |
+          m="${{ steps.slot.outputs.mode }}"
+          rc=0
+          python scripts/pull.py --mode "$m" || rc=1
+          if [ "$m" = close ] || [ "$m" = weekly ]; then
+            python scripts/scan.py --mode "$m" || rc=1
+          fi
+          python scripts/status.py "$m" "$rc"
+
+      - name: Privacy check
+        if: steps.slot.outputs.mode != ''
+        run: python scripts/privacy_check.py
+
+      - name: Commit data
+        if: steps.slot.outputs.mode != ''
+        run: |
+          git config user.name "data-bot"
+          git config user.email "data-bot@users.noreply.github.com"
+          git add data
+          if git diff --cached --quiet; then echo "No data changes."; exit 0; fi
+          git commit -m "Data pull (${{ steps.slot.outputs.mode }}) $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git pull --rebase -X theirs
+          git push
