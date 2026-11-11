@@ -1,0 +1,46 @@
+# Broad coverage list: large US companies plus widely followed growth, biotech and retail-favorite names.
+# Detailed data (filings, insider trades, earnings, valuation, news) is pulled for every name here.
+# This is a general market list; it says nothing about any account.
+
+tracked: [AAPL, MSFT, NVDA, AMZN, GOOGL, META, AVGO, TSLA, BRK-B, LLY, JPM, V, MA, UNH, XOM, ORCL, COST,
+          WMT, HD, PG, JNJ, NFLX, ABBV, BAC, CRM, KO, MRK, CVX, AMD, PEP, ADBE, TMO, LIN, CSCO, ACN, MCD,
+          ABT, WFC, IBM, GE, QCOM, DIS, TXN, INTU, AMGN, CAT, PM, VZ, ISRG, NOW, GS, MS, SPGI, UBER, PFE,
+          RTX, T, BKNG, AXP, LOW, HON, UNP, BLK, NEE, SYK, PLD, COP, DE, ETN, MU, LRCX, AMAT, KLAC, PANW,
+          ANET, ADI, REGN, VRTX, GILD, BMY, MDT, CVS, CI, ELV, MO, SCHW, C, SBUX, NKE, LULU, TJX, ORLY,
+          MCK, PLTR, CRWD, SNOW, SHOP, HOOD, SOFI, COIN, APP, TTWO, RBLX, DASH, ABNB, NVO, HIMS, RKLB,
+          IONQ, SMCI, ARM, TSM, ASML, VST, CEG]
+
+# Small/volatile names always included in the swing backtest (in addition to the S&P 500/400 screen)
+swing_test: [BFLY, HIMS, SOFI, RKLB, IONQ, RIVN, LCID, SOUN, ACHR, OKLO]
+
+benchmarks: [SPY, QQQ]
+
+# Clinical trials (ClinicalTrials.gov), by sponsor name as registered
+clinical_sponsors:
+  LLY: "Eli Lilly and Company"
+  NVO: "Novo Nordisk A/S"
+  PFE: "Pfizer"
+  MRK: "Merck Sharp & Dohme LLC"
+  ABBV: "AbbVie"
+  AMGN: "Amgen"
+  BMY: "Bristol-Myers Squibb"
+  GILD: "Gilead Sciences"
+  VRTX: "Vertex Pharmaceuticals Incorporated"
+  REGN: "Regeneron Pharmaceuticals"
+  BFLY: "Butterfly Network"
+
+# FDA (openFDA): drug approvals by sponsor, device clearances by applicant
+fda_drug_sponsors:
+  LLY: "ELI LILLY AND CO"
+  NVO: "NOVO NORDISK INC"
+  PFE: "PFIZER INC"
+  MRK: "MERCK SHARP DOHME"
+  ABBV: "ABBVIE INC"
+  AMGN: "AMGEN INC"
+  BMY: "BRISTOL MYERS SQUIBB"
+  GILD: "GILEAD SCIENCES INC"
+fda_device_applicants:
+  BFLY: "BUTTERFLY NETWORK"
+  ISRG: "INTUITIVE SURGICAL"
+  MDT: "MEDTRONIC"
+  SYK: "STRYKER"

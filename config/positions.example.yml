@@ -1,0 +1,23 @@
+# FORMAT EXAMPLE ONLY (made-up numbers). Real positions are never stored in this public repo.
+# Each scheduled report builds a file like this from the private plan doc, saves it outside the
+# repo (e.g. /tmp/positions.yml), and runs:  python3 scripts/portfolio.py /tmp/positions.yml
+as_of: 2026-01-01
+cash: 50000                 # uninvested cash
+spy_start: 600.00           # optional: SPY close on the day of the first buy (for "vs S&P 500")
+pending:                    # orders placed but not filled
+  - {ticker: XYZ, side: BUY, usd: 5000, limit: 100, note: "fills only at $100 or below"}
+positions:                  # one entry per purchase lot
+  AAA: [{date: 2026-01-01, shares: 10, price: 100.0}]
+  BBB:
+    - {date: 2026-01-01, shares: 5, price: 200.0}
+    - {date: 2026-02-01, shares: 5, price: 180.0}
+targets: {AAA: 0.10, BBB: 0.10}   # long-term target weights (share of the whole account)
+limits:
+  max_single: 0.18
+  chip_cap: 0.25
+  chip_names: [NVDA, MU]
+  shared_cycle: [GOOGL, AMZN, META, NVDA, MU, APP]
+  sector_cap: 0.40
+  cash_min: 0.08
+  cash_max: 0.15
+  trading_account: 25000
