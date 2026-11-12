@@ -1,5 +1,5 @@
-# Short-term scan — 2026-11-12 16:40 ET
-Universe: S&P 500 + S&P 400 (903 names, 912 priced). Filters: price ≥ $10, avg daily dollar volume ≥ $20M, no semiconductors, no names from the tracked list. These are candidates; check news, catalysts and the trading rules before proposing a trade.
+# Short-term scan — 2026-11-12 16:57 ET
+Universe: S&P 500 + S&P 400 (903 names, 911 priced). Filters: price ≥ $10, avg daily dollar volume ≥ $20M, no semiconductors, no names from the tracked list. These are candidates; check news, catalysts and the trading rules before proposing a trade.
 
 ## Market regime
 - **CAUTION** · SPY 757.12 (-1.00% vs 50-day, 3.49% vs 200-day) · VIX 18.70

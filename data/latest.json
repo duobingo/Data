@@ -1,7 +1,7 @@
 {
  "mode": "close",
- "generated_utc": "2026-11-12 21:24",
- "generated_et": "2026-11-12 16:24",
+ "generated_utc": "2026-11-12 21:42",
+ "generated_et": "2026-11-12 16:42",
  "since": "2026-11-10",
  "prices": {
   "AAPL": {
@@ -140,10 +140,10 @@
    "5d_pct": 3.06,
    "1m_pct": 12.06,
    "3m_pct": 17.02,
-   "52w_high": 596.92,
+   "52w_high": 596.9,
    "52w_low": 464.01,
-   "from_52w_high_pct": -1.19,
-   "vol_vs_20d": 0.97,
+   "from_52w_high_pct": -1.18,
+   "vol_vs_20d": 1.06,
    "finnhub_last": 589.83,
    "finnhub_prev_close": 588.24,
    "verified": true
@@ -159,7 +159,7 @@
    "52w_high": 1460.0,
    "52w_low": 850.51,
    "from_52w_high_pct": -2.24,
-   "vol_vs_20d": 0.76,
+   "vol_vs_20d": 0.78,
    "finnhub_last": 1427.28,
    "finnhub_prev_close": 1437.29,
    "verified": true
@@ -239,7 +239,7 @@
    "52w_high": 188.5,
    "52w_low": 114.19,
    "from_52w_high_pct": -9.93,
-   "vol_vs_20d": 0.77,
+   "vol_vs_20d": 0.86,
    "finnhub_last": 169.78,
    "finnhub_prev_close": 166.71,
    "verified": true
@@ -255,7 +255,7 @@
    "52w_high": 250.25,
    "52w_low": 109.21,
    "from_52w_high_pct": -49.21,
-   "vol_vs_20d": 0.5,
+   "vol_vs_20d": 0.52,
    "finnhub_last": 127.11,
    "finnhub_prev_close": 128.38,
    "verified": true
@@ -319,7 +319,7 @@
    "52w_high": 170.52,
    "52w_low": 137.62,
    "from_52w_high_pct": -1.46,
-   "vol_vs_20d": 0.56,
+   "vol_vs_20d": 0.61,
    "finnhub_last": 168.03,
    "finnhub_prev_close": 167.67,
    "verified": true
@@ -367,7 +367,7 @@
    "52w_high": 302.93,
    "52w_low": 190.75,
    "from_52w_high_pct": -2.8,
-   "vol_vs_20d": 0.71,
+   "vol_vs_20d": 0.88,
    "finnhub_last": 294.45,
    "finnhub_prev_close": 294.98,
    "verified": true
@@ -431,7 +431,7 @@
    "52w_high": 156.92,
    "52w_low": 90.9,
    "from_52w_high_pct": -6.35,
-   "vol_vs_20d": 0.57,
+   "vol_vs_20d": 0.59,
    "finnhub_last": 146.95,
    "finnhub_prev_close": 147.18,
    "verified": true
@@ -447,7 +447,7 @@
    "52w_high": 236.48,
    "52w_low": 146.49,
    "from_52w_high_pct": -8.51,
-   "vol_vs_20d": 0.77,
+   "vol_vs_20d": 1.09,
    "finnhub_last": 216.35,
    "finnhub_prev_close": 213.28,
    "verified": true
@@ -591,7 +591,7 @@
    "52w_high": 132.03,
    "52w_low": 81.97,
    "from_52w_high_pct": -18.77,
-   "vol_vs_20d": 0.85,
+   "vol_vs_20d": 0.96,
    "finnhub_last": 107.25,
    "finnhub_prev_close": 109.29,
    "verified": true
@@ -607,7 +607,7 @@
    "52w_high": 97.76,
    "52w_low": 72.78,
    "from_52w_high_pct": -12.27,
-   "vol_vs_20d": 0.45,
+   "vol_vs_20d": 0.53,
    "finnhub_last": 85.76,
    "finnhub_prev_close": 85.8,
    "verified": true
@@ -671,7 +671,7 @@
    "52w_high": 120.8,
    "52w_low": 92.19,
    "from_52w_high_pct": -2.13,
-   "vol_vs_20d": 0.68,
+   "vol_vs_20d": 0.7,
    "finnhub_last": 118.23,
    "finnhub_prev_close": 119.65,
    "verified": true
@@ -831,7 +831,7 @@
    "52w_high": 232.25,
    "52w_low": 152.8,
    "from_52w_high_pct": -18.55,
-   "vol_vs_20d": 0.59,
+   "vol_vs_20d": 0.6,
    "finnhub_last": 189.17,
    "finnhub_prev_close": 190.61,
    "verified": true
@@ -879,7 +879,7 @@
    "52w_high": 31.44,
    "52w_low": 23.62,
    "from_52w_high_pct": -8.3,
-   "vol_vs_20d": 0.82,
+   "vol_vs_20d": 0.86,
    "finnhub_last": 28.83,
    "finnhub_prev_close": 29.45,
    "verified": true
@@ -911,7 +911,7 @@
    "52w_high": 29.44,
    "52w_low": 19.89,
    "from_52w_high_pct": -24.66,
-   "vol_vs_20d": 0.7,
+   "vol_vs_20d": 0.86,
    "finnhub_last": 22.18,
    "finnhub_prev_close": 22.26,
    "verified": true
@@ -943,7 +943,7 @@
    "52w_high": 387.49,
    "52w_low": 290.97,
    "from_52w_high_pct": -17.92,
-   "vol_vs_20d": 0.77,
+   "vol_vs_20d": 0.79,
    "finnhub_last": 318.06,
    "finnhub_prev_close": 323.11,
    "verified": true
@@ -959,7 +959,7 @@
    "52w_high": 293.06,
    "52w_low": 178.45,
    "from_52w_high_pct": -22.38,
-   "vol_vs_20d": 0.95,
+   "vol_vs_20d": 1.11,
    "finnhub_last": 227.46,
    "finnhub_prev_close": 231.6,
    "verified": true
@@ -1039,7 +1039,7 @@
    "52w_high": 389.33,
    "52w_low": 267.0,
    "from_52w_high_pct": -19.76,
-   "vol_vs_20d": 0.72,
+   "vol_vs_20d": 0.74,
    "finnhub_last": 312.39,
    "finnhub_prev_close": 318.79,
    "verified": true
@@ -1359,7 +1359,7 @@
    "52w_high": 79.87,
    "52w_low": 54.7,
    "from_52w_high_pct": -2.44,
-   "vol_vs_20d": 0.73,
+   "vol_vs_20d": 0.83,
    "finnhub_last": 77.92,
    "finnhub_prev_close": 77.39,
    "verified": true
@@ -1391,7 +1391,7 @@
    "52w_high": 147.96,
    "52w_low": 95.83,
    "from_52w_high_pct": -16.15,
-   "vol_vs_20d": 0.61,
+   "vol_vs_20d": 0.64,
    "finnhub_last": 124.06,
    "finnhub_prev_close": 124.21,
    "verified": true
@@ -1455,7 +1455,7 @@
    "52w_high": 170.0,
    "52w_low": 122.78,
    "from_52w_high_pct": -20.01,
-   "vol_vs_20d": 0.99,
+   "vol_vs_20d": 1.01,
    "finnhub_last": 135.98,
    "finnhub_prev_close": 136.44,
    "verified": true
@@ -1647,7 +1647,7 @@
    "52w_high": 104.21,
    "52w_low": 33.88,
    "from_52w_high_pct": -50.66,
-   "vol_vs_20d": 0.49,
+   "vol_vs_20d": 0.5,
    "finnhub_last": 51.42,
    "finnhub_prev_close": 52.61,
    "verified": true
@@ -2025,7 +2025,18 @@
    }
   ],
   "GOOGL": [],
-  "META": [],
+  "META": [
+   {
+    "form": "8-K",
+    "date": "2026-11-12",
+    "url": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526458525/d177728d8k.htm",
+    "description": "8-K",
+    "items": [
+     "8.01 Other events",
+     "9.01 Exhibits"
+    ]
+   }
+  ],
   "AVGO": [],
   "TSLA": [],
   "BRK-B": [],
@@ -13585,16 +13596,6 @@
     "eps_est": 0.99,
     "rev_est": 3373102566
    },
-   "analysts": {
-    "period": "2026-11-01",
-    "strongBuy": 15,
-    "buy": 33,
-    "hold": 13,
-    "sell": 1,
-    "strongSell": 0,
-    "buy_change_vs_prior_month": 0,
-    "sell_change_vs_prior_month": 0
-   },
    "metrics": {
     "peTTM": 892.0343,
     "peExclExtraTTM": 892.0343,
@@ -13607,45 +13608,7 @@
     "netProfitMarginTTM": 2.67,
     "beta": 0.9975919,
     "marketCapitalization": 273854.53
-   },
-   "news": [
-    {
-     "time": "11-12 10:11",
-     "source": "Yahoo",
-     "headline": "Palo Alto Networks Heads 3 Top Cybersecurity Stocks To Watch",
-     "url": "https://finnhub.io/api/news?id=f45949dc59c7b681c564010e251c95fd5941b60dbba665ff098a9f10ae7c2c8e"
-    },
-    {
-     "time": "11-12 09:11",
-     "source": "Yahoo",
-     "headline": "Palo Alto Networks (PANW) Stock Looks Reasonably Priced Despite AI Deal Talk",
-     "url": "https://finnhub.io/api/news?id=fec35c760977375b52c2edc4cf4399a8c968fcaf46eadc3a9ff68b0de234f104"
-    },
-    {
-     "time": "11-12 08:07",
-     "source": "Yahoo",
-     "headline": "PANW vs. NET: Which Cybersecurity Stock Should You Buy Right Now?",
-     "url": "https://finnhub.io/api/news?id=52197f829adbb4ea401826251ea34f773e9aff0299ee908a73665e30f807bb62"
-    },
-    {
-     "time": "11-11 12:45",
-     "source": "Yahoo",
-     "headline": "Citi Sees Powerful Upside for Palo Alto Network Stock",
-     "url": "https://finnhub.io/api/news?id=cf6a593d3dc34f445df8c090eddfa7b21549d5ff9cff94a37da3fd0bf2ed961a"
-    },
-    {
-     "time": "11-11 12:27",
-     "source": "Yahoo",
-     "headline": "Palo Alto needs a 3% beat to justify its premium valuation, says Bank of America",
-     "url": "https://finnhub.io/api/news?id=887194a77afcce4525a8da8230c7baf6a7433cd04ccf07a3200a9297b591fa9a"
-    },
-    {
-     "time": "11-11 11:04",
-     "source": "Yahoo",
-     "headline": "Can Software Firewall Demand Boost PANW's Network Security Growth?",
-     "url": "https://finnhub.io/api/news?id=199242ab731690549cb12ea6cf4dc3d17f6dc0f721337726a0e3dd37523b5c2f"
-    }
-   ]
+   }
   },
   "ANET": {
    "next_earnings": {
@@ -14254,62 +14217,9 @@
     "netProfitMarginTTM": 2.09,
     "beta": 0.19191408,
     "marketCapitalization": 79432.85
-   },
-   "news": [
-    {
-     "time": "11-12 03:59",
-     "source": "Benzinga",
-     "headline": "Piper Sandler Maintains Overweight on Cigna Group, Lowers Price Target to $360",
-     "url": "https://finnhub.io/api/news?id=f1ba62e4c63817603449ccb3849cd5deea05f9d0ac7181e37f67142a5edbffcc"
-    },
-    {
-     "time": "11-11 15:12",
-     "source": "Yahoo",
-     "headline": "Cigna (CI) Recently Broke Out Above the 20-Day Moving Average",
-     "url": "https://finnhub.io/api/news?id=f577baa242b6e09efd3af951040b1468a145ed8e5aab1500a5e4a95107bc3429"
-    },
-    {
-     "time": "11-11 08:24",
-     "source": "Benzinga",
-     "headline": "Bernstein Maintains Outperform on Cigna Group, Raises Price Target to $390",
-     "url": "https://finnhub.io/api/news?id=75c747f3a7af79e13c04c59cc41250c8c86bad7712897060e678fe1539a21fc0"
-    },
-    {
-     "time": "11-11 02:14",
-     "source": "Yahoo",
-     "headline": "Cigna Group Targets $45 EPS by 2030 as Specialty Growth Offsets Pharmacy Headwinds",
-     "url": "https://finnhub.io/api/news?id=76e40854f16ca0e909869eabdc4a520647fbed41c7f144d3c6984e41ed554102"
-    },
-    {
-     "time": "11-10 10:00",
-     "source": "Yahoo",
-     "headline": "The Cigna Group Foundation Awards $3.45 Million To Strengthen Housing Stability and Improve Mental Health for Veterans",
-     "url": "https://finnhub.io/api/news?id=e5fdde0b55555a4abfaa59174c6e4bcd8e7977701a0ae9d6db775ec2d3bbcbd9"
-    },
-    {
-     "time": "11-10 06:09",
-     "source": "Yahoo",
-     "headline": "CI Q3 2026 deep dive: specialty pharmacy, cost initiatives, and model transition shape outlook",
-     "url": "https://finnhub.io/api/news?id=6046812b68a8b8f04f45ced5310698d707b622f92e00c30de91f61a003540c48"
-    }
-   ]
+   }
   },
   "ELV": {
-   "next_earnings": {
-    "date": "2027-01-26",
-    "hour": "amc",
-    "quarter": "2026Q4",
-    "eps_est": 2.08,
-    "rev_est": 49739265262
-   },
-   "last_earnings": {
-    "date": "2026-10-21",
-    "quarter": "2026Q3",
-    "eps_actual": 6.99,
-    "eps_est": 4.73,
-    "rev_actual": 50440000000,
-    "rev_est": 49628324681
-   },
    "analysts": {
     "period": "2026-11-01",
     "strongBuy": 7,
@@ -14933,16 +14843,6 @@
     "rev_actual": 110957000000,
     "rev_est": 110974079936
    },
-   "analysts": {
-    "period": "2026-11-01",
-    "strongBuy": 7,
-    "buy": 11,
-    "hold": 4,
-    "sell": 0,
-    "strongSell": 0,
-    "buy_change_vs_prior_month": 0,
-    "sell_change_vs_prior_month": 0
-   },
    "metrics": {
     "peTTM": 26.5704,
     "peExclExtraTTM": 26.5704,
@@ -14955,33 +14855,7 @@
     "netProfitMarginTTM": 1.12,
     "beta": 0.25789815,
     "marketCapitalization": 124881.09
-   },
-   "news": [
-    {
-     "time": "11-11 15:21",
-     "source": "Yahoo",
-     "headline": "Here is What to Know Beyond Why McKesson Corporation (MCK) is a Trending Stock",
-     "url": "https://finnhub.io/api/news?id=f1e7369dd420924baa020162162509c01137088ec609f61c6de7196fade171f0"
-    },
-    {
-     "time": "11-11 11:49",
-     "source": "Yahoo",
-     "headline": "Sales of Pharmaceuticals, GLP-1s Send McKesson Shares to New Highs",
-     "url": "https://finnhub.io/api/news?id=518a5b94b7d31b5b2049c0b5f19ed80f79e1924c58704a18fe50c554ef62e58e"
-    },
-    {
-     "time": "11-10 14:42",
-     "source": "Yahoo",
-     "headline": "3 Reasons Why Growth Investors Shouldn't Overlook McKesson (MCK)",
-     "url": "https://finnhub.io/api/news?id=a06ab9f55c967d8b95d47ce15ac7cfb468cc209c520b35a7f275ed6285120d38"
-    },
-    {
-     "time": "11-10 07:44",
-     "source": "Benzinga",
-     "headline": "JP Morgan Maintains Overweight on McKesson, Raises Price Target to $1255",
-     "url": "https://finnhub.io/api/news?id=cd3a30eb3e08d0a13d2f8bf856e29ab2d6385fc8eea26640afb60782c7079afb"
-    }
-   ]
+   }
   },
   "PLTR": {
    "next_earnings": {
@@ -17403,11 +17277,6 @@
    "eps_est": 7.49,
    "days_of_history": 3
   },
-  "ELV": {
-   "quarter": "2026Q4",
-   "eps_est": 2.08,
-   "days_of_history": 3
-  },
   "MO": {
    "quarter": "2026Q4",
    "eps_est": 1.43,
@@ -17948,7 +17817,7 @@
    "short_pct": 0.0174
   },
   "XOM": {
-   "fwd_pe": 13.526228,
+   "fwd_pe": 13.636334,
    "ttm_pe": 17.467077,
    "peg": 1.31,
    "target_mean": 184.31818,
@@ -17992,7 +17861,7 @@
    "short_pct": 0.0165
   },
   "HD": {
-   "fwd_pe": 21.88029,
+   "fwd_pe": 21.836716,
    "ttm_pe": 24.37089,
    "peg": 1.85,
    "target_mean": 378.8125,
@@ -18069,7 +17938,7 @@
    "short_pct": 0.0368
   },
   "KO": {
-   "fwd_pe": 27.611614,
+   "fwd_pe": 27.620691,
    "ttm_pe": 28.743362,
    "peg": 4.11,
    "target_mean": 98.43478,
@@ -18091,7 +17960,7 @@
    "short_pct": 0.0108
   },
   "CVX": {
-   "fwd_pe": 13.059386,
+   "fwd_pe": 13.115754,
    "ttm_pe": 15.884729,
    "peg": 0.8,
    "target_mean": 242.45833,
@@ -18641,7 +18510,7 @@
    "short_pct": 0.0227
   },
   "VRTX": {
-   "fwd_pe": 27.200144,
+   "fwd_pe": 27.24275,
    "ttm_pe": 34.917633,
    "peg": 2.38,
    "target_mean": 595.3571,
@@ -18816,7 +18685,7 @@
    "short_pct": 0.0173
   },
   "PLTR": {
-   "fwd_pe": 67.58391,
+   "fwd_pe": 67.67855,
    "ttm_pe": 120.83099,
    "peg": 1.41,
    "target_mean": 222.25357,
@@ -18902,7 +18771,7 @@
    "short_pct": 0.0383
   },
   "TTWO": {
-   "fwd_pe": 22.116692,
+   "fwd_pe": 22.241756,
    "peg": 3.17,
    "target_mean": 283.85553,
    "target_low": 170.0,
@@ -18944,12 +18813,12 @@
    "short_pct": 0.031
   },
   "NVO": {
-   "fwd_pe": 11.905962,
+   "fwd_pe": 12.009701,
    "ttm_pe": 10.265152,
    "peg": 4.21,
-   "target_mean": 45.605736,
-   "target_low": 39.658722,
-   "target_high": 64.44546,
+   "target_mean": 45.61612,
+   "target_low": 39.667755,
+   "target_high": 64.46014,
    "rating": "hold",
    "n_analysts": 12,
    "short_pct": 0.0121
@@ -18965,7 +18834,7 @@
    "short_pct": 0.2647
   },
   "RKLB": {
-   "fwd_pe": 895.0824,
+   "fwd_pe": 909.1812,
    "target_mean": 96.6,
    "target_low": 58.0,
    "target_high": 150.0,
@@ -19020,9 +18889,9 @@
    "fwd_pe": 23.614145,
    "ttm_pe": 36.838585,
    "peg": 0.8,
-   "target_mean": 2120.475,
-   "target_low": 855.3234,
-   "target_high": 2809.6904,
+   "target_mean": 2120.944,
+   "target_low": 855.5126,
+   "target_high": 2810.3118,
    "rating": "strong_buy",
    "n_analysts": 17,
    "short_pct": 0.003
@@ -19077,7 +18946,7 @@
    "short_pct": 0.6044
   },
   "SOUN": {
-   "fwd_pe": -56.845093,
+   "fwd_pe": -36.0,
    "target_mean": 12.0,
    "target_low": 5.0,
    "target_high": 17.0,
@@ -19104,5 +18973,12 @@
    "short_pct": 0.2188
   }
  },
- "errors": []
+ "errors": [
+  "finnhub/recs/PANW: HTTP 429 https://finnhub.io/api/v1/stock/recommendation",
+  "finnhub/news/PANW: HTTP 429 https://finnhub.io/api/v1/company-news",
+  "finnhub/news/CI: HTTP 429 https://finnhub.io/api/v1/company-news",
+  "finnhub/earnings/ELV: HTTP 429 https://finnhub.io/api/v1/calendar/earnings",
+  "finnhub/recs/MCK: HTTP 429 https://finnhub.io/api/v1/stock/recommendation",
+  "finnhub/news/MCK: HTTP 429 https://finnhub.io/api/v1/company-news"
+ ]
 }

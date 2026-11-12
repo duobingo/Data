@@ -1,5 +1,5 @@
 {
- "generated_et": "2026-11-12 16:40",
+ "generated_et": "2026-11-12 16:57",
  "mode": "close",
  "universe": 903,
  "priced": 912,
@@ -278,7 +278,7 @@
    "rsi_5d_ago": 24.1,
    "clv": 0.81,
    "day_low": 869.49,
-   "atr14": 86.75,
+   "atr14": 86.76,
    "pe": 6.1178,
    "pfcf": 6.8425,
    "rev_growth": 272.38,
@@ -1333,7 +1333,7 @@
    "low_20d": 94.54,
    "rsi_5d_ago": 55.3,
    "clv": 0.02,
-   "day_low": 111.15,
+   "day_low": 111.14,
    "atr14": 4.27,
    "core": false,
    "semi": false
