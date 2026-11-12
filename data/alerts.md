@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-12 07:43 ET
+# Alerts — watcher run 2026-11-12 08:59 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,15 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 08:59 | 1 | NVDA | Down 10.3% (premarket) | NVDA -10.3% at 155.80 vs 173.73 close (premarket, 08:55 ET) |  |
+| 11-12 08:59 | 1 | ORCL | Down 4.1% (premarket) | ORCL -4.1% at 123.18 vs 128.38 close (premarket, 08:55 ET) |  |
+| 11-12 08:59 | 1 | HOOD | Down 4.4% (premarket) | HOOD -4.4% at 80.90 vs 84.58 close (premarket, 08:55 ET) |  |
+| 11-12 08:59 | 1 | COIN | Down 4.2% (premarket) | COIN -4.2% at 130.50 vs 136.27 close (premarket, 08:55 ET) |  |
+| 11-12 08:59 | 1 | IONQ | Down 4.6% (premarket) | IONQ -4.6% at 32.51 vs 34.06 close (premarket, 08:55 ET) |  |
+| 11-12 08:59 | 1 | SMCI | Down 8.0% (premarket) | SMCI -8.0% at 28.00 vs 30.43 close (premarket, 08:55 ET) |  |
+| 11-12 08:59 | 1 | ARM | Down 4.7% (premarket) | ARM -4.7% at 193.89 vs 203.36 close (premarket, 08:55 ET) |  |
+| 11-12 08:59 | 1 | OKLO | Down 4.3% (premarket) | OKLO -4.3% at 24.76 vs 25.86 close (premarket, 08:55 ET) |  |
+| 11-12 08:59 | 1 | NVDA | 8-K: 5.02 Executive/director change | 8-K - NVIDIA CORP (0001045810) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/0001045810-26-000082-index.htm) |
 | 11-12 07:43 | 1 | MU | Down 4.5% (premarket) | MU -4.5% at 774.90 vs 811.30 close (premarket, 07:40 ET) |  |
 | 11-12 07:43 | 1 | HIMS | Down 4.2% (premarket) | HIMS -4.2% at 19.95 vs 20.81 close (premarket, 07:40 ET) |  |
 | 11-12 07:43 | 1 | NVDA | Leadership | Dow Jones Futures: Techs Fall As Nvidia Board Mulls Ousting CEO Jensen Huang | [link](https://finnhub.io/api/news?id=115e1d4bb0f4ce443fda8f7dad6e09cab5193b536c24c3d6a9e0591eca37de48) |
@@ -43,6 +52,13 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 08:59 | 2 | SNDK | Down 8.0% (premarket) | SNDK -8.0% at 899.05 vs 977.69 close (premarket, 08:55 ET) |  |
+| 11-12 08:59 | 2 | CTVA | Down 13.3% (premarket) | CTVA -13.3% at 10.52 vs 12.14 close (premarket, 09:00 ET) |  |
+| 11-12 08:59 | 2 | HUBS | Up 8.4% (premarket) | HUBS +8.4% at 219.96 vs 202.88 close (premarket, 08:55 ET) |  |
+| 11-12 08:59 | 2 | TEX | 8-K: 5.02 Executive/director change | 8-K - TEREX CORP (0000097216) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/97216/000009721626000146/0000097216-26-000146-index.htm) |
+| 11-12 08:59 | 2 | CTVA | 8-K: 2.02 Earnings results | 8-K - Corteva, Inc. (0001755672) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1755672/000175567226000031/0001755672-26-000031-index.htm) |
+| 11-12 08:59 | 2 | HUBS | 8-K: 5.02 Executive/director change | 8-K - HUBSPOT INC (0001404655) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1404655/000119312526457055/0001193125-26-457055-index.htm) |
+| 11-12 08:59 | 2 | PVH | 8-K: 2.05 Restructuring/exit costs | 8-K - PVH CORP. /DE/ (0000078239) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/78239/000121390026118427/0001213900-26-118427-index.htm) |
 | 11-12 07:43 | 2 | TTEK | Up 10.5% (premarket) | TTEK +10.5% at 41.55 vs 37.61 close (premarket, 07:42 ET) |  |
 | 11-12 06:40 | 2 | CTVA | Down 10.3% (premarket) | CTVA -10.3% at 10.89 vs 12.14 close (premarket, 06:35 ET) |  |
 | 11-12 06:40 | 2 | YETI | Down 8.9% (premarket) | YETI -8.9% at 39.00 vs 42.79 close (premarket, 06:35 ET) |  |
