@@ -1419,8 +1419,22 @@
    "url": "https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html",
    "published": "2026-11-12 13:11",
    "first_seen": "2026-11-12T13:57-05:00"
+  },
+  {
+   "id": "d90f020336ba078e",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "AMD",
+   "name": "Advanced Micro Devices",
+   "sector": "Information Technology",
+   "severity": 1,
+   "category": "Up 6.1% (regular)",
+   "title": "AMD +6.1% at 586.72 vs 552.90 close (regular, 14:55 ET)",
+   "url": "",
+   "move_pct": 6.12,
+   "first_seen": "2026-11-12T14:57-05:00"
   }
  ],
- "last_run": "2026-11-12T13:57-05:00",
+ "last_run": "2026-11-12T14:57-05:00",
  "errors": []
 }

@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-12 13:57 ET
+# Alerts — watcher run 2026-11-12 14:57 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 14:57 | 1 | AMD | Up 6.1% (regular) | AMD +6.1% at 586.72 vs 552.90 close (regular, 14:55 ET) |  |
 | 11-12 13:57 | 1 | SOUN | Down 7.7% (regular) | SOUN -7.7% at 3.61 vs 3.91 close (regular, 13:50 ET) |  |
 | 11-12 13:57 | 1 | ACHR | Down 9.7% (regular) | ACHR -9.7% at 4.39 vs 4.86 close (regular, 13:55 ET) |  |
 | 11-12 13:57 | 2 | NVDA | Legal/regulatory | Super Micro sinks as DOJ probes possible China smuggling links to Nvidia fallout | [link](https://finnhub.io/api/news?id=0efff8fe5859d0a951621e55cd7845f9a508d47599c572458668779b405d35eb) |
