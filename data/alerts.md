@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-12 12:04 ET
+# Alerts — watcher run 2026-11-12 12:56 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 12:56 | 1 | ANET | Up 4.4% (regular) | ANET +4.4% at 205.42 vs 196.68 close (regular, 12:55 ET) |  |
 | 11-12 12:04 | 1 | IONQ | Down 6.7% (regular) | IONQ -6.7% at 31.76 vs 34.06 close (regular, 12:00 ET) |  |
 | 11-12 12:04 | 1 | SMCI | Down 12.0% (regular) | SMCI -12.0% at 26.79 vs 30.43 close (regular, 12:00 ET) |  |
 | 11-12 12:04 | 1 | NVDA | Leadership | Who is Colette Kress, Nvidia's interim CEO? Longtime exec takes top spot after Jensen Huang resigns | [link](https://finnhub.io/api/news?id=adfe922bf490ec4012adea26b531cfb959bce5cdc37e0c9f051c968a77223907) |
@@ -76,6 +77,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 12:56 | 2 | GPN | Down 9.5% (regular) | GPN -9.5% at 90.68 vs 100.23 close (regular, 12:55 ET) |  |
+| 11-12 12:56 | 2 | YETI | Down 8.2% (regular) | YETI -8.2% at 39.27 vs 42.79 close (regular, 12:55 ET) |  |
 | 11-12 12:04 | 2 | CTVA | Down 19.3% (regular) | CTVA -19.3% at 9.80 vs 12.14 close (regular, 12:05 ET) |  |
 | 11-12 12:04 | 2 | EXPD | 8-K: 2.02 Earnings results | 8-K - EXPEDITORS INTERNATIONAL OF WASHINGTON INC (0000746515) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/746515/000119312526457594/0001193125-26-457594-index.htm) |
 | 11-12 11:02 | 2 | CTVA | Down 24.3% (regular) | CTVA -24.3% at 9.19 vs 12.14 close (regular, 11:00 ET) |  |
