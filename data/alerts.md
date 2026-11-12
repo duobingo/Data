@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-12 01:47 ET
+# Alerts — watcher run 2026-11-12 03:22 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
