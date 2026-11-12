@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-12 12:56 ET
+# Alerts — watcher run 2026-11-12 13:57 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,11 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 13:57 | 1 | SOUN | Down 7.7% (regular) | SOUN -7.7% at 3.61 vs 3.91 close (regular, 13:50 ET) |  |
+| 11-12 13:57 | 1 | ACHR | Down 9.7% (regular) | ACHR -9.7% at 4.39 vs 4.86 close (regular, 13:55 ET) |  |
+| 11-12 13:57 | 2 | NVDA | Legal/regulatory | Super Micro sinks as DOJ probes possible China smuggling links to Nvidia fallout | [link](https://finnhub.io/api/news?id=0efff8fe5859d0a951621e55cd7845f9a508d47599c572458668779b405d35eb) |
+| 11-12 13:57 | 1 | SMCI | Legal/regulatory | Supermicro, Nvidia Reportedly Face DOJ Scrutiny In Separate Inquiries — SMCI Stock Plunges | [link](https://finnhub.io/api/news?id=aeec0543de46902c03337425cee41fa0d901f97af4c4a2c3cd0a3613fae6fe2a) |
+| 11-12 13:57 | 1 | SMCI | Legal/regulatory | Super Micro sinks as DOJ probes possible China smuggling links to Nvidia fallout | [link](https://finnhub.io/api/news?id=0efff8fe5859d0a951621e55cd7845f9a508d47599c572458668779b405d35eb) |
 | 11-12 12:56 | 1 | ANET | Up 4.4% (regular) | ANET +4.4% at 205.42 vs 196.68 close (regular, 12:55 ET) |  |
 | 11-12 12:04 | 1 | IONQ | Down 6.7% (regular) | IONQ -6.7% at 31.76 vs 34.06 close (regular, 12:00 ET) |  |
 | 11-12 12:04 | 1 | SMCI | Down 12.0% (regular) | SMCI -12.0% at 26.79 vs 30.43 close (regular, 12:00 ET) |  |
@@ -107,7 +112,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 ## Market-wide news (Fed, data, policy)
 
-- none
+| First seen (ET) | Sev | Ticker | Type | What | Link |
+|---|---|---|---|---|---|
+| 11-12 13:57 | 2 | — | Fed/rates | In a policy switch, the Fed says its October 2027 meeting will not see a vote on interest rates | [link](https://www.cnbc.com/2026/11/12/in-policy-switch-fed-says-its-october-2027-meeting-will-not-see-a-vote-on-interest-rates.html) |
 
 ## Watcher health
 
