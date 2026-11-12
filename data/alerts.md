@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-12 16:48 ET
+# Alerts — watcher run 2026-11-12 17:49 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 17:49 | 1 | VST | Down 4.5% (after-hours) | VST -4.5% at 128.50 vs 134.51 close (after-hours, 17:10 ET) |  |
+| 11-12 17:49 | 1 | NVDA | Leadership | Alleged spy at center of Nvidia CEO affair reportedly being probed over Super Micro smuggling effort | [link](https://finnhub.io/api/news?id=e8b9a7cc3d8b49832b698c29acf47f50a6d13c0f21947eabc96f78bfee620349) |
+| 11-12 17:49 | 2 | SMCI | Leadership | Alleged spy at center of Nvidia CEO affair reportedly being probed over Super Micro smuggling effort | [link](https://finnhub.io/api/news?id=e8b9a7cc3d8b49832b698c29acf47f50a6d13c0f21947eabc96f78bfee620349) |
 | 11-12 16:48 | 1 | BFLY | Up 4.5% (after-hours) | BFLY +4.5% at 6.97 vs 6.67 close (after-hours, 16:10 ET) |  |
 | 11-12 16:48 | 2 | CSCO | 8-K: 2.02 Earnings results | 8-K - CISCO SYSTEMS, INC. (0000858877) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/858877/000085887726000170/0000858877-26-000170-index.htm) |
 | 11-12 15:52 | 1 | HIMS | Down 4.3% (regular) | HIMS -4.3% at 19.92 vs 20.81 close (regular, 15:50 ET) |  |
@@ -88,6 +91,10 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 17:49 | 2 | HST | 8-K: 1.01 Material agreement | 8-K - HOST HOTELS & RESORTS, INC. (0001070750) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1070750/000162828026073508/0001628280-26-073508-index.htm) |
+| 11-12 17:49 | 2 | DBX | 8-K: 1.01 Material agreement | 8-K - DROPBOX, INC. (0001467623) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1467623/000110465926126351/0001104659-26-126351-index.htm) |
+| 11-12 17:49 | 2 | DINO | 8-K: 5.02 Executive/director change | 8-K - HF Sinclair Corp (0001915657) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1915657/000162828026073498/0001628280-26-073498-index.htm) |
+| 11-12 17:49 | 2 | AKAM | 8-K: 1.01 Material agreement | 8-K - AKAMAI TECHNOLOGIES INC (0001086222) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1086222/000119312526458699/0001193125-26-458699-index.htm) |
 | 11-12 16:48 | 2 | ARMK | 8-K: 5.02 Executive/director change | 8-K/A - Aramark (0001584509) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1584509/000158450926000150/0001584509-26-000150-index.htm) |
 | 11-12 16:48 | 2 | TGT | 8-K: 5.02 Executive/director change | 8-K - TARGET CORP (0000027419) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/27419/000002741926000049/0000027419-26-000049-index.htm) |
 | 11-12 16:48 | 2 | NJR | 8-K: 5.02 Executive/director change | 8-K - NEW JERSEY RESOURCES CORP (0000356309) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/356309/000114036126043446/0001140361-26-043446-index.htm) |
