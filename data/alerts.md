@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-12 09:57 ET
+# Alerts — watcher run 2026-11-12 11:02 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 11:02 | 1 | NVDA | Down 4.8% (regular) | NVDA -4.8% at 165.47 vs 173.73 close (regular, 11:00 ET) |  |
+| 11-12 11:02 | 1 | AMD | Up 5.0% (regular) | AMD +5.0% at 580.43 vs 552.90 close (regular, 11:00 ET) |  |
+| 11-12 11:02 | 1 | BFLY | Down 4.2% (regular) | BFLY -4.2% at 6.84 vs 7.14 close (regular, 11:00 ET) |  |
+| 11-12 11:02 | 1 | RIVN | Down 4.1% (regular) | RIVN -4.1% at 12.98 vs 13.54 close (regular, 11:00 ET) |  |
+| 11-12 11:02 | 1 | LCID | Down 9.4% (regular) | LCID -9.4% at 3.33 vs 3.67 close (regular, 11:00 ET) |  |
+| 11-12 11:02 | 1 | ACHR | Down 7.9% (regular) | ACHR -7.9% at 4.47 vs 4.86 close (regular, 11:00 ET) |  |
 | 11-12 09:57 | 1 | NVDA | Down 6.9% (regular) | NVDA -6.9% at 161.74 vs 173.73 close (regular, 09:55 ET) |  |
 | 11-12 09:57 | 1 | AVGO | Up 4.1% (regular) | AVGO +4.1% at 359.21 vs 345.22 close (regular, 09:55 ET) |  |
 | 11-12 09:57 | 1 | MU | Down 4.9% (regular) | MU -4.9% at 771.88 vs 811.30 close (regular, 09:55 ET) |  |
@@ -66,6 +72,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 11:02 | 2 | CTVA | Down 24.3% (regular) | CTVA -24.3% at 9.19 vs 12.14 close (regular, 11:00 ET) |  |
+| 11-12 11:02 | 2 | YETI | Down 9.2% (regular) | YETI -9.2% at 38.87 vs 42.79 close (regular, 11:00 ET) |  |
 | 11-12 09:57 | 2 | CTVA | Down 22.4% (regular) | CTVA -22.4% at 9.41 vs 12.14 close (regular, 09:58 ET) |  |
 | 11-12 09:57 | 2 | HWC | Down 11.8% (regular) | HWC -11.8% at 63.85 vs 72.38 close (regular, 09:55 ET) |  |
 | 11-12 09:57 | 2 | MRVL | 8-K: 5.02 Executive/director change | 8-K - Marvell Technology, Inc. (0001835632) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1835632/000183563226000026/0001835632-26-000026-index.htm) |
