@@ -344,8 +344,64 @@
    "url": "https://finnhub.io/api/news?id=8269c364ea3e85f027796eceec509101c06646f092f79c35d7ce086d01a6f826",
    "published": "2026-11-11 16:10",
    "first_seen": "2026-11-11T21:34-05:00"
+  },
+  {
+   "id": "ef854ac436cb6d9e",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "NVDA",
+   "name": "Nvidia",
+   "sector": "Information Technology",
+   "severity": 1,
+   "category": "Down 6.6% (premarket)",
+   "title": "NVDA -6.6% at 162.34 vs 173.73 close (premarket, 04:25 ET)",
+   "url": "",
+   "move_pct": -6.56,
+   "first_seen": "2026-11-12T04:27-05:00"
+  },
+  {
+   "id": "f09b27783e04342b",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "AMD",
+   "name": "Advanced Micro Devices",
+   "sector": "Information Technology",
+   "severity": 1,
+   "category": "Up 4.4% (premarket)",
+   "title": "AMD +4.4% at 577.40 vs 552.90 close (premarket, 04:25 ET)",
+   "url": "",
+   "move_pct": 4.43,
+   "first_seen": "2026-11-12T04:27-05:00"
+  },
+  {
+   "id": "6d73ae042376eb41",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "SMCI",
+   "name": "Supermicro",
+   "sector": "Information Technology",
+   "severity": 1,
+   "category": "Down 5.2% (premarket)",
+   "title": "SMCI -5.2% at 28.85 vs 30.43 close (premarket, 04:26 ET)",
+   "url": "",
+   "move_pct": -5.19,
+   "first_seen": "2026-11-12T04:27-05:00"
+  },
+  {
+   "id": "9d05543cdfab4a1f",
+   "kind": "price",
+   "group": "universe",
+   "ticker": "CTVA",
+   "name": "Corteva",
+   "sector": "Materials",
+   "severity": 2,
+   "category": "Down 8.4% (premarket)",
+   "title": "CTVA -8.4% at 11.12 vs 12.14 close (premarket, 04:10 ET)",
+   "url": "",
+   "move_pct": -8.4,
+   "first_seen": "2026-11-12T04:27-05:00"
   }
  ],
- "last_run": "2026-11-12T03:22-05:00",
+ "last_run": "2026-11-12T04:27-05:00",
  "errors": []
 }

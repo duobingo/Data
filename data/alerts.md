@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-12 03:22 ET
+# Alerts — watcher run 2026-11-12 04:27 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 04:27 | 1 | NVDA | Down 6.6% (premarket) | NVDA -6.6% at 162.34 vs 173.73 close (premarket, 04:25 ET) |  |
+| 11-12 04:27 | 1 | AMD | Up 4.4% (premarket) | AMD +4.4% at 577.40 vs 552.90 close (premarket, 04:25 ET) |  |
+| 11-12 04:27 | 1 | SMCI | Down 5.2% (premarket) | SMCI -5.2% at 28.85 vs 30.43 close (premarket, 04:26 ET) |  |
 | 11-11 21:34 | 1 | NVDA | Leadership | Nvidia Directors Reportedly Consider Ousting CEO Jensen Huang, WSJ Reports | [link](https://finnhub.io/api/news?id=1e793578e568123606a1dba9e23dcb0b7bd1782b4c32c2fe5131b9884b13917d) |
 | 11-11 21:34 | 1 | NVDA | Leadership | Nvidia sinks after report implicates CEO Jensen Huang in 2nd affair | [link](https://finnhub.io/api/news?id=662fac808e5b9135fda0044b0cb23b925a9a75eea16b7433eb00a6b66f7dda91) |
 | 11-11 21:34 | 1 | NVDA | Leadership | Nvidia's stock dives as board weighs move to oust Jensen Huang | [link](https://finnhub.io/api/news?id=2411578ee09832557fc1387c6f2181677be979b7b64e1ced2e6a1e0e00fa567c) |
@@ -32,7 +35,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
-- none
+| First seen (ET) | Sev | Ticker | Type | What | Link |
+|---|---|---|---|---|---|
+| 11-12 04:27 | 2 | CTVA | Down 8.4% (premarket) | CTVA -8.4% at 11.12 vs 12.14 close (premarket, 04:10 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
