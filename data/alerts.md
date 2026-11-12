@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-12 11:02 ET
+# Alerts — watcher run 2026-11-12 12:04 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,10 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 12:04 | 1 | IONQ | Down 6.7% (regular) | IONQ -6.7% at 31.76 vs 34.06 close (regular, 12:00 ET) |  |
+| 11-12 12:04 | 1 | SMCI | Down 12.0% (regular) | SMCI -12.0% at 26.79 vs 30.43 close (regular, 12:00 ET) |  |
+| 11-12 12:04 | 1 | NVDA | Leadership | Who is Colette Kress, Nvidia's interim CEO? Longtime exec takes top spot after Jensen Huang resigns | [link](https://finnhub.io/api/news?id=adfe922bf490ec4012adea26b531cfb959bce5cdc37e0c9f051c968a77223907) |
+| 11-12 12:04 | 1 | NVDA | Leadership | The Latest: Nvidia CEO Jensen Huang resigns after his affair raises US security concerns | [link](https://finnhub.io/api/news?id=28f6a6dff9c7f9366e3bbe15b173d6e58a039661ea56a12a5335e96aa3dbc349) |
 | 11-12 11:02 | 1 | NVDA | Down 4.8% (regular) | NVDA -4.8% at 165.47 vs 173.73 close (regular, 11:00 ET) |  |
 | 11-12 11:02 | 1 | AMD | Up 5.0% (regular) | AMD +5.0% at 580.43 vs 552.90 close (regular, 11:00 ET) |  |
 | 11-12 11:02 | 1 | BFLY | Down 4.2% (regular) | BFLY -4.2% at 6.84 vs 7.14 close (regular, 11:00 ET) |  |
@@ -72,6 +76,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 12:04 | 2 | CTVA | Down 19.3% (regular) | CTVA -19.3% at 9.80 vs 12.14 close (regular, 12:05 ET) |  |
+| 11-12 12:04 | 2 | EXPD | 8-K: 2.02 Earnings results | 8-K - EXPEDITORS INTERNATIONAL OF WASHINGTON INC (0000746515) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/746515/000119312526457594/0001193125-26-457594-index.htm) |
 | 11-12 11:02 | 2 | CTVA | Down 24.3% (regular) | CTVA -24.3% at 9.19 vs 12.14 close (regular, 11:00 ET) |  |
 | 11-12 11:02 | 2 | YETI | Down 9.2% (regular) | YETI -9.2% at 38.87 vs 42.79 close (regular, 11:00 ET) |  |
 | 11-12 09:57 | 2 | CTVA | Down 22.4% (regular) | CTVA -22.4% at 9.41 vs 12.14 close (regular, 09:58 ET) |  |
