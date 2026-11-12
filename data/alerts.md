@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-12 15:52 ET
+# Alerts — watcher run 2026-11-12 16:48 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 16:48 | 1 | BFLY | Up 4.5% (after-hours) | BFLY +4.5% at 6.97 vs 6.67 close (after-hours, 16:10 ET) |  |
+| 11-12 16:48 | 2 | CSCO | 8-K: 2.02 Earnings results | 8-K - CISCO SYSTEMS, INC. (0000858877) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/858877/000085887726000170/0000858877-26-000170-index.htm) |
 | 11-12 15:52 | 1 | HIMS | Down 4.3% (regular) | HIMS -4.3% at 19.92 vs 20.81 close (regular, 15:50 ET) |  |
 | 11-12 15:52 | 1 | IONQ | Down 9.4% (regular) | IONQ -9.4% at 30.85 vs 34.06 close (regular, 15:50 ET) |  |
 | 11-12 15:52 | 1 | NVDA | Leadership | Stock Market Today: Nasdaq Higher Amid Nvidia CEO Change; Software Name Jumps (Live Coverage) | [link](https://finnhub.io/api/news?id=f3c9c08a4ebd04a5e93050c5400718e3959d4a31e4da57d4a47418ff1ccd64be) |
@@ -86,6 +88,14 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 16:48 | 2 | ARMK | 8-K: 5.02 Executive/director change | 8-K/A - Aramark (0001584509) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1584509/000158450926000150/0001584509-26-000150-index.htm) |
+| 11-12 16:48 | 2 | TGT | 8-K: 5.02 Executive/director change | 8-K - TARGET CORP (0000027419) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/27419/000002741926000049/0000027419-26-000049-index.htm) |
+| 11-12 16:48 | 2 | NJR | 8-K: 5.02 Executive/director change | 8-K - NEW JERSEY RESOURCES CORP (0000356309) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/356309/000114036126043446/0001140361-26-043446-index.htm) |
+| 11-12 16:48 | 2 | TPR | 8-K: 5.02 Executive/director change | 8-K/A - TAPESTRY, INC. (0001116132) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1116132/000114036126043444/0001140361-26-043444-index.htm) |
+| 11-12 16:48 | 2 | ON | 8-K: 1.01 Material agreement | 8-K - ON SEMICONDUCTOR CORP (0001097864) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1097864/000114036126043431/0001140361-26-043431-index.htm) |
+| 11-12 16:48 | 2 | USFD | 8-K: 5.02 Executive/director change | 8-K - US Foods Holding Corp. (0001665918) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1665918/000166591826000059/0001665918-26-000059-index.htm) |
+| 11-12 16:48 | 2 | H | 8-K: 1.01 Material agreement | 8-K - Hyatt Hotels Corp (0001468174) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1468174/000110465926126220/0001104659-26-126220-index.htm) |
+| 11-12 16:48 | 2 | ZBH | 8-K: 1.01 Material agreement | 8-K - ZIMMER BIOMET HOLDINGS, INC. (0001136869) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1136869/000119312526458323/0001193125-26-458323-index.htm) |
 | 11-12 15:52 | 2 | GPN | Down 12.4% (regular) | GPN -12.4% at 87.80 vs 100.23 close (regular, 15:50 ET) |  |
 | 11-12 12:56 | 2 | GPN | Down 9.5% (regular) | GPN -9.5% at 90.68 vs 100.23 close (regular, 12:55 ET) |  |
 | 11-12 12:56 | 2 | YETI | Down 8.2% (regular) | YETI -8.2% at 39.27 vs 42.79 close (regular, 12:55 ET) |  |
