@@ -400,8 +400,66 @@
    "url": "",
    "move_pct": -8.4,
    "first_seen": "2026-11-12T04:27-05:00"
+  },
+  {
+   "id": "bda387ccf5c3da9d",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "NVDA",
+   "name": "Nvidia",
+   "sector": "Information Technology",
+   "severity": 1,
+   "category": "Down 5.7% (premarket)",
+   "title": "NVDA -5.7% at 163.79 vs 173.73 close (premarket, 05:30 ET)",
+   "url": "",
+   "move_pct": -5.72,
+   "first_seen": "2026-11-12T05:30-05:00"
+  },
+  {
+   "id": "79cc6c0455c4588e",
+   "kind": "price",
+   "group": "universe",
+   "ticker": "TTEK",
+   "name": "Tetra Tech",
+   "sector": "Industrials",
+   "severity": 2,
+   "category": "Up 9.0% (premarket)",
+   "title": "TTEK +9.0% at 40.98 vs 37.61 close (premarket, 04:45 ET)",
+   "url": "",
+   "move_pct": 8.96,
+   "first_seen": "2026-11-12T05:30-05:00"
+  },
+  {
+   "id": "e811e1b0718df0cb",
+   "kind": "news",
+   "group": "tracked",
+   "ticker": "NVDA",
+   "name": "Nvidia",
+   "sector": "Information Technology",
+   "severity": 1,
+   "category": "Leadership",
+   "title": "Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair",
+   "source": "Yahoo",
+   "url": "https://finnhub.io/api/news?id=2400753b2a08695f4f2b7c153c13841ec0e6c2bf575bc8fa5e07e852a63f782a",
+   "published": "2026-11-12 04:47",
+   "first_seen": "2026-11-12T05:30-05:00"
+  },
+  {
+   "id": "5579fa1aa73dbb99",
+   "kind": "news",
+   "group": "tracked",
+   "ticker": "NVDA",
+   "name": "Nvidia",
+   "sector": "Information Technology",
+   "severity": 1,
+   "category": "Leadership",
+   "title": "Nvidia said to preparing Huang ouster; Alibaba slumps - what\u2019s moving markets",
+   "source": "Yahoo",
+   "url": "https://finnhub.io/api/news?id=007e7b5be314a32bf34c93e6a7b78d0afb444a3f7f86eb453f7cae95424c5ca1",
+   "published": "2026-11-12 04:34",
+   "first_seen": "2026-11-12T05:30-05:00"
   }
  ],
- "last_run": "2026-11-12T04:27-05:00",
+ "last_run": "2026-11-12T05:30-05:00",
  "errors": []
 }

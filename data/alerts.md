@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-12 04:27 ET
+# Alerts — watcher run 2026-11-12 05:30 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 05:30 | 1 | NVDA | Down 5.7% (premarket) | NVDA -5.7% at 163.79 vs 173.73 close (premarket, 05:30 ET) |  |
+| 11-12 05:30 | 1 | NVDA | Leadership | Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair | [link](https://finnhub.io/api/news?id=2400753b2a08695f4f2b7c153c13841ec0e6c2bf575bc8fa5e07e852a63f782a) |
+| 11-12 05:30 | 1 | NVDA | Leadership | Nvidia said to preparing Huang ouster; Alibaba slumps - what’s moving markets | [link](https://finnhub.io/api/news?id=007e7b5be314a32bf34c93e6a7b78d0afb444a3f7f86eb453f7cae95424c5ca1) |
 | 11-12 04:27 | 1 | NVDA | Down 6.6% (premarket) | NVDA -6.6% at 162.34 vs 173.73 close (premarket, 04:25 ET) |  |
 | 11-12 04:27 | 1 | AMD | Up 4.4% (premarket) | AMD +4.4% at 577.40 vs 552.90 close (premarket, 04:25 ET) |  |
 | 11-12 04:27 | 1 | SMCI | Down 5.2% (premarket) | SMCI -5.2% at 28.85 vs 30.43 close (premarket, 04:26 ET) |  |
@@ -37,6 +40,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 05:30 | 2 | TTEK | Up 9.0% (premarket) | TTEK +9.0% at 40.98 vs 37.61 close (premarket, 04:45 ET) |  |
 | 11-12 04:27 | 2 | CTVA | Down 8.4% (premarket) | CTVA -8.4% at 11.12 vs 12.14 close (premarket, 04:10 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
