@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-12 08:59 ET
+# Alerts — watcher run 2026-11-12 09:57 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,20 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 09:57 | 1 | NVDA | Down 6.9% (regular) | NVDA -6.9% at 161.74 vs 173.73 close (regular, 09:55 ET) |  |
+| 11-12 09:57 | 1 | AVGO | Up 4.1% (regular) | AVGO +4.1% at 359.21 vs 345.22 close (regular, 09:55 ET) |  |
+| 11-12 09:57 | 1 | MU | Down 4.9% (regular) | MU -4.9% at 771.88 vs 811.30 close (regular, 09:55 ET) |  |
+| 11-12 09:57 | 1 | PANW | Down 4.5% (regular) | PANW -4.5% at 319.54 vs 334.47 close (regular, 09:55 ET) |  |
+| 11-12 09:57 | 1 | COIN | Down 4.0% (regular) | COIN -4.0% at 130.78 vs 136.27 close (regular, 09:55 ET) |  |
+| 11-12 09:57 | 1 | IONQ | Down 4.2% (regular) | IONQ -4.2% at 32.64 vs 34.06 close (regular, 09:55 ET) |  |
+| 11-12 09:57 | 1 | SMCI | Down 8.4% (regular) | SMCI -8.4% at 27.86 vs 30.43 close (regular, 09:55 ET) |  |
+| 11-12 09:57 | 1 | BFLY | Down 6.2% (regular) | BFLY -6.2% at 6.70 vs 7.14 close (regular, 09:55 ET) |  |
+| 11-12 09:57 | 1 | LCID | Down 7.9% (regular) | LCID -7.9% at 3.38 vs 3.67 close (regular, 09:55 ET) |  |
+| 11-12 09:57 | 1 | SOUN | Down 5.2% (regular) | SOUN -5.2% at 3.70 vs 3.91 close (regular, 09:55 ET) |  |
+| 11-12 09:57 | 1 | ACHR | Down 5.0% (regular) | ACHR -5.0% at 4.61 vs 4.86 close (regular, 09:55 ET) |  |
+| 11-12 09:57 | 1 | OKLO | Down 5.1% (regular) | OKLO -5.1% at 24.55 vs 25.86 close (regular, 09:55 ET) |  |
+| 11-12 09:57 | 1 | NVDA | Leadership | Jensen Huang resigns as Nvidia CEO | [link](https://finnhub.io/api/news?id=315c33b75f892ed98d817777c49780f087c796401ae448ffaad43b3be006bee7) |
+| 11-12 09:57 | 1 | NVDA | Leadership | Nvidia CEO Huang resigns amid affair scandals, board names CFO Colette Kress interim CEO | [link](https://finnhub.io/api/news?id=49e4d47150ba8fb0fff8bf90a0c18ea8689b1a344b2ef9de744899554e537743) |
 | 11-12 08:59 | 1 | NVDA | Down 10.3% (premarket) | NVDA -10.3% at 155.80 vs 173.73 close (premarket, 08:55 ET) |  |
 | 11-12 08:59 | 1 | ORCL | Down 4.1% (premarket) | ORCL -4.1% at 123.18 vs 128.38 close (premarket, 08:55 ET) |  |
 | 11-12 08:59 | 1 | HOOD | Down 4.4% (premarket) | HOOD -4.4% at 80.90 vs 84.58 close (premarket, 08:55 ET) |  |
@@ -52,6 +66,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 09:57 | 2 | CTVA | Down 22.4% (regular) | CTVA -22.4% at 9.41 vs 12.14 close (regular, 09:58 ET) |  |
+| 11-12 09:57 | 2 | HWC | Down 11.8% (regular) | HWC -11.8% at 63.85 vs 72.38 close (regular, 09:55 ET) |  |
+| 11-12 09:57 | 2 | MRVL | 8-K: 5.02 Executive/director change | 8-K - Marvell Technology, Inc. (0001835632) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1835632/000183563226000026/0001835632-26-000026-index.htm) |
 | 11-12 08:59 | 2 | SNDK | Down 8.0% (premarket) | SNDK -8.0% at 899.05 vs 977.69 close (premarket, 08:55 ET) |  |
 | 11-12 08:59 | 2 | CTVA | Down 13.3% (premarket) | CTVA -13.3% at 10.52 vs 12.14 close (premarket, 09:00 ET) |  |
 | 11-12 08:59 | 2 | HUBS | Up 8.4% (premarket) | HUBS +8.4% at 219.96 vs 202.88 close (premarket, 08:55 ET) |  |
