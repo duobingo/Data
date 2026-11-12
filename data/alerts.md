@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-12 06:40 ET
+# Alerts — watcher run 2026-11-12 07:43 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 07:43 | 1 | MU | Down 4.5% (premarket) | MU -4.5% at 774.90 vs 811.30 close (premarket, 07:40 ET) |  |
+| 11-12 07:43 | 1 | HIMS | Down 4.2% (premarket) | HIMS -4.2% at 19.95 vs 20.81 close (premarket, 07:40 ET) |  |
+| 11-12 07:43 | 1 | NVDA | Leadership | Dow Jones Futures: Techs Fall As Nvidia Board Mulls Ousting CEO Jensen Huang | [link](https://finnhub.io/api/news?id=115e1d4bb0f4ce443fda8f7dad6e09cab5193b536c24c3d6a9e0591eca37de48) |
 | 11-12 05:30 | 1 | NVDA | Down 5.7% (premarket) | NVDA -5.7% at 163.79 vs 173.73 close (premarket, 05:30 ET) |  |
 | 11-12 05:30 | 1 | NVDA | Leadership | Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair | [link](https://finnhub.io/api/news?id=2400753b2a08695f4f2b7c153c13841ec0e6c2bf575bc8fa5e07e852a63f782a) |
 | 11-12 05:30 | 1 | NVDA | Leadership | Nvidia said to preparing Huang ouster; Alibaba slumps - what’s moving markets | [link](https://finnhub.io/api/news?id=007e7b5be314a32bf34c93e6a7b78d0afb444a3f7f86eb453f7cae95424c5ca1) |
@@ -40,6 +43,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 07:43 | 2 | TTEK | Up 10.5% (premarket) | TTEK +10.5% at 41.55 vs 37.61 close (premarket, 07:42 ET) |  |
 | 11-12 06:40 | 2 | CTVA | Down 10.3% (premarket) | CTVA -10.3% at 10.89 vs 12.14 close (premarket, 06:35 ET) |  |
 | 11-12 06:40 | 2 | YETI | Down 8.9% (premarket) | YETI -8.9% at 39.00 vs 42.79 close (premarket, 06:35 ET) |  |
 | 11-12 06:40 | 2 | VYLR | 8-K: 2.02 Earnings results | 8-K - Vylor Inc. (0002128626) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/2128626/000212862626000009/0002128626-26-000009-index.htm) |

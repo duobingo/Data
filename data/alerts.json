@@ -570,8 +570,65 @@
    "url": "https://www.sec.gov/Archives/edgar/data/1687229/000119312526456656/0001193125-26-456656-index.htm",
    "published": "2026-11-12 06:05",
    "first_seen": "2026-11-12T06:40-05:00"
+  },
+  {
+   "id": "e7e326ef9f11320c",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "MU",
+   "name": "Micron Technology",
+   "sector": "Information Technology",
+   "severity": 1,
+   "category": "Down 4.5% (premarket)",
+   "title": "MU -4.5% at 774.90 vs 811.30 close (premarket, 07:40 ET)",
+   "url": "",
+   "move_pct": -4.49,
+   "first_seen": "2026-11-12T07:43-05:00"
+  },
+  {
+   "id": "31ef08dc5f1a5f3c",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "HIMS",
+   "name": "Hims & Hers Health",
+   "sector": "Health Care",
+   "severity": 1,
+   "category": "Down 4.2% (premarket)",
+   "title": "HIMS -4.2% at 19.95 vs 20.81 close (premarket, 07:40 ET)",
+   "url": "",
+   "move_pct": -4.15,
+   "first_seen": "2026-11-12T07:43-05:00"
+  },
+  {
+   "id": "8d5efccd48b5f03b",
+   "kind": "price",
+   "group": "universe",
+   "ticker": "TTEK",
+   "name": "Tetra Tech",
+   "sector": "Industrials",
+   "severity": 2,
+   "category": "Up 10.5% (premarket)",
+   "title": "TTEK +10.5% at 41.55 vs 37.61 close (premarket, 07:42 ET)",
+   "url": "",
+   "move_pct": 10.48,
+   "first_seen": "2026-11-12T07:43-05:00"
+  },
+  {
+   "id": "d9b034b3b84d5c09",
+   "kind": "news",
+   "group": "tracked",
+   "ticker": "NVDA",
+   "name": "Nvidia",
+   "sector": "Information Technology",
+   "severity": 1,
+   "category": "Leadership",
+   "title": "Dow Jones Futures: Techs Fall As Nvidia Board Mulls Ousting CEO Jensen Huang",
+   "source": "Yahoo",
+   "url": "https://finnhub.io/api/news?id=115e1d4bb0f4ce443fda8f7dad6e09cab5193b536c24c3d6a9e0591eca37de48",
+   "published": "2026-11-12 06:52",
+   "first_seen": "2026-11-12T07:43-05:00"
   }
  ],
- "last_run": "2026-11-12T06:40-05:00",
+ "last_run": "2026-11-12T07:43-05:00",
  "errors": []
 }
