@@ -49,12 +49,14 @@ SHOW_HOURS = 72
 
 # Keyword rules: (category, severity, regex). Severity: 1 = act/know now, 2 = worth a look.
 RULES = [
-    ("Leadership", 1, r"\b(ceo|chief executive|cfo|chairman|founder)\b.{0,60}\b(resign|steps? down|stepping down|ousted|oust|fired|terminated|departs?|departure|leave of absence|replaced|succession|removal|remove)\b"),
-    ("Leadership", 1, r"\b(resign|steps? down|ousted|oust|fired|departure|removal)\b.{0,60}\b(ceo|chief executive|cfo|chairman)\b"),
+    ("Leadership", 1, r"\b(ceo|chief executive|cfo|chairman|founder)\b.{0,60}\b(resign\w*|steps? down|stepping down|oust\w*|fired|firing|terminat\w*|depart\w*|leave of absence|replac\w*|succession|remov\w*)"),
+    ("Leadership", 1, r"\b(resign\w*|steps? down|oust\w*|fired|firing|depart\w*|remov\w*)\b.{0,60}\b(ceo|chief executive|cfo|chairman)\b"),
     ("Leadership", 1, r"\bboard\b.{0,40}\b(probe|investigat|review|weigh|consider)\w*\b.{0,40}\b(ceo|chief executive|conduct|affair)"),
     ("Leadership", 1, r"\b(ceo|leadership|management) (change|shake-?up|turmoil|scandal|crisis|probe)\b|\b(affair|misconduct|resignation)\b"),
-    ("Legal/regulatory", 1, r"\b(subpoena|indict\w*|sec charges?|doj|department of justice|ftc sues?|antitrust (suit|case|probe)|criminal (probe|investigation)|class action|export (control|ban|curb)s?|sanction\w*|raided|whistleblower|fraud)\b"),
-    ("Legal/regulatory", 2, r"\b(probe|investigation|lawsuit|sued|fine[ds]?|penalt(y|ies)|settle(s|ment)|recall\w*)\b"),
+    ("Leadership", 1, r"\boust\w*|\bboardroom (coup|battle|fight)\b|\bproxy (fight|battle)\b"),
+    ("Restructuring", 2, r"\b(layoffs?|job cuts?|cut\w* \d[\d,]* jobs|to cut jobs|restructur\w*|plant closures?)\b"),
+    ("Legal/regulatory", 1, r"\b(subpoena|indict\w*|sec charges?|doj|department of justice|ftc sues?|antitrust (suit|case|probe)|criminal (probe|investigation)|class action|export (control|ban|curb)s?|sanction\w*|raided|whistleblower|fraud (charges?|probe|allegations?|case|lawsuit))\b"),
+    ("Legal/regulatory", 2, r"\b(probe|investigation|lawsuit|sued|fine[ds]?|penalt(y|ies)|settles? (a |the )?(lawsuit|suit|charges|case|probe|claims)|recall\w*)\b"),
     ("Guidance", 1, r"\b(cuts?|lowers?|slashes?|withdraws?|suspends?|raises?|boosts?|lifts?)\b.{0,30}\b(guidance|forecast|outlook)\b|\bprofit warning\b|\bpre-?announce\w*\b|\bmisses? (estimates|expectations)\b"),
     ("Analyst", 2, r"\b(downgrade[sd]?|upgrade[sd]?|cut to (sell|neutral|underperform|hold)|raised to (buy|outperform|overweight))\b"),
     ("Deal", 1, r"\b(to acquire|acquisition of|agrees? to buy|takeover|merger|buyout|tender offer|activist|stake in|13d|spin-?off|strategic review|exploring (a )?sale)\b"),
@@ -204,6 +206,76 @@ def price_moves(tracked, uni):
 
 # ------------------------------------------------------------------ headlines
 
+EXTRA_NAMES = {
+    "GOOGL": ["google", "alphabet"], "META": ["meta", "facebook", "instagram"], "LLY": ["lilly"],
+    "BRK-B": ["berkshire"], "APP": ["applovin"], "HOOD": ["robinhood"], "SOFI": ["sofi"], "COIN": ["coinbase"],
+    "RBLX": ["roblox"], "NVO": ["novo nordisk", "novo"], "HIMS": ["hims"], "RKLB": ["rocket lab"], "IONQ": ["ionq"],
+    "SMCI": ["super micro", "supermicro"], "ARM": ["arm holdings"], "TSM": ["tsmc", "taiwan semiconductor"],
+    "ASML": ["asml"], "BFLY": ["butterfly network"], "RIVN": ["rivian"], "LCID": ["lucid"], "SOUN": ["soundhound"],
+    "ACHR": ["archer aviation"], "OKLO": ["oklo"], "SNOW": ["snowflake"], "SHOP": ["shopify"], "CRWD": ["crowdstrike"],
+    "PLTR": ["palantir"], "TTWO": ["take-two", "take two", "rockstar", "gta"], "DASH": ["doordash"], "ABNB": ["airbnb"],
+    "VST": ["vistra"], "CEG": ["constellation energy"], "MCK": ["mckesson"], "NVDA": ["nvidia"], "AMZN": ["amazon", "aws"],
+    "MU": ["micron"], "JPM": ["jpmorgan", "jp morgan"], "BAC": ["bank of america"], "GS": ["goldman"],
+    "MS": ["morgan stanley"], "HD": ["home depot"], "PG": ["procter"], "JNJ": ["johnson & johnson", "j&j"],
+    "UNH": ["unitedhealth"], "KO": ["coca-cola", "coke"], "MCD": ["mcdonald"], "WMT": ["walmart"], "COST": ["costco"],
+}
+GENERIC = {"the", "first", "american", "general", "united", "global", "international", "national", "eli",
+           "texas", "southern", "western", "eastern", "north", "south", "new", "royal", "public", "digital", "advanced"}
+SUFFIX = re.compile(r"\b(inc|corp|corporation|co|company|holdings?|group|plc|ltd|limited|technologies|technology|"
+                    r"incorporated|class [abc]|the)\b\.?|[(),.]", re.I)
+_ALIASES = {}
+
+
+def aliases(ticker, uni):
+    if ticker in _ALIASES:
+        return _ALIASES[ticker]
+    names = set(EXTRA_NAMES.get(ticker, []))
+    nm = (uni.get(ticker) or uni.get(ticker.replace("-", ".")) or {}).get("name", "")
+    clean = re.sub(r"\s+", " ", SUFFIX.sub(" ", nm)).strip().lower()
+    if clean:
+        names.add(clean)
+        first = clean.split()[0]
+        if len(first) > 3 and first not in GENERIC:
+            names.add(first)
+    _ALIASES[ticker] = [n for n in names if n]
+    return _ALIASES[ticker]
+
+
+def mentions(headline, ticker, uni):
+    """The company must be named in the headline itself (name or $TICKER/ticker in caps)."""
+    return first_pos(headline, ticker, uni) is not None
+
+
+def first_pos(headline, ticker, uni):
+    """Position of the company's first mention in the headline, or None."""
+    pos = []
+    tick_rx = (rf"(\(|\$){re.escape(ticker)}(\)|\b)" if len(ticker) <= 2
+               else rf"(?<![A-Za-z])\$?{re.escape(ticker)}(?![A-Za-z])")
+    m = re.search(tick_rx, headline)
+    if m:
+        pos.append(m.start())
+    low = headline.lower()
+    for a in aliases(ticker, uni):
+        m = re.search(rf"(?<![a-z]){re.escape(a)}(?![a-z])", low)
+        if m:
+            pos.append(m.start())
+    return min(pos) if pos else None
+
+
+def is_main_subject(headline, ticker, others, uni):
+    """False if another tracked company is named earlier in the headline (it's probably their story)."""
+    me = first_pos(headline, ticker, uni)
+    if me is None:
+        return False
+    for o in others:
+        if o == ticker:
+            continue
+        p = first_pos(headline, o, uni)
+        if p is not None and p < me:
+            return False
+    return True
+
+
 def classify(text):
     hits = []
     low = text.lower()
@@ -230,11 +302,15 @@ def headlines(tracked, uni, since_ts):
         ts = item.get("datetime") or 0
         if ts < since_ts:
             return
-        text = f"{item.get('headline', '')}. {item.get('summary', '')[:300]}"
-        c = classify(text)
+        head = item.get("headline", "") or ""
+        if not mentions(head, ticker, uni):
+            return  # article only mentions the company in passing
+        c = classify(head)  # headline only: summaries add too much noise
         if not c:
             return
         cat, sev = c
+        if not is_main_subject(head, ticker, tracked, uni):
+            sev = 2  # named, but another company's story comes first
         out.append({
             "id": aid("news", ticker, item.get("id") or item.get("url")),
             "kind": "news", "group": group, "ticker": ticker,
