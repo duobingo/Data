@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-12 14:57 ET
+# Alerts — watcher run 2026-11-12 15:52 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 15:52 | 1 | HIMS | Down 4.3% (regular) | HIMS -4.3% at 19.92 vs 20.81 close (regular, 15:50 ET) |  |
+| 11-12 15:52 | 1 | IONQ | Down 9.4% (regular) | IONQ -9.4% at 30.85 vs 34.06 close (regular, 15:50 ET) |  |
+| 11-12 15:52 | 1 | NVDA | Leadership | Stock Market Today: Nasdaq Higher Amid Nvidia CEO Change; Software Name Jumps (Live Coverage) | [link](https://finnhub.io/api/news?id=f3c9c08a4ebd04a5e93050c5400718e3959d4a31e4da57d4a47418ff1ccd64be) |
 | 11-12 14:57 | 1 | AMD | Up 6.1% (regular) | AMD +6.1% at 586.72 vs 552.90 close (regular, 14:55 ET) |  |
 | 11-12 13:57 | 1 | SOUN | Down 7.7% (regular) | SOUN -7.7% at 3.61 vs 3.91 close (regular, 13:50 ET) |  |
 | 11-12 13:57 | 1 | ACHR | Down 9.7% (regular) | ACHR -9.7% at 4.39 vs 4.86 close (regular, 13:55 ET) |  |
@@ -83,6 +86,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 15:52 | 2 | GPN | Down 12.4% (regular) | GPN -12.4% at 87.80 vs 100.23 close (regular, 15:50 ET) |  |
 | 11-12 12:56 | 2 | GPN | Down 9.5% (regular) | GPN -9.5% at 90.68 vs 100.23 close (regular, 12:55 ET) |  |
 | 11-12 12:56 | 2 | YETI | Down 8.2% (regular) | YETI -8.2% at 39.27 vs 42.79 close (regular, 12:55 ET) |  |
 | 11-12 12:04 | 2 | CTVA | Down 19.3% (regular) | CTVA -19.3% at 9.80 vs 12.14 close (regular, 12:05 ET) |  |
