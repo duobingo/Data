@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-13 11:56 ET
+# Alerts — watcher run 2026-11-13 12:53 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-13 12:53 | 1 | CSCO | Down 6.2% (regular) | CSCO -6.2% at 95.72 vs 102.01 close (regular, 12:50 ET) |  |
+| 11-13 12:53 | 1 | ANET | Down 4.6% (regular) | ANET -4.6% at 197.14 vs 206.63 close (regular, 12:50 ET) |  |
 | 11-13 11:56 | 1 | AMD | Down 10.4% (regular) | AMD -10.4% at 524.27 vs 585.30 close (regular, 11:55 ET) |  |
 | 11-13 11:56 | 1 | AMAT | Down 5.5% (regular) | AMAT -5.5% at 360.10 vs 380.95 close (regular, 11:55 ET) |  |
 | 11-13 11:56 | 1 | BFLY | Down 7.6% (regular) | BFLY -7.6% at 6.16 vs 6.67 close (regular, 11:55 ET) |  |
@@ -124,6 +126,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-13 12:53 | 2 | DELL | Down 8.8% (regular) | DELL -8.8% at 338.58 vs 371.17 close (regular, 12:50 ET) |  |
+| 11-13 12:53 | 2 | CVLT | Down 9.7% (regular) | CVLT -9.7% at 150.04 vs 166.16 close (regular, 12:50 ET) |  |
 | 11-13 11:56 | 2 | DELL | Down 9.1% (regular) | DELL -9.1% at 337.22 vs 371.17 close (regular, 11:55 ET) |  |
 | 11-13 10:52 | 2 | COHR | Down 8.6% (regular) | COHR -8.6% at 212.07 vs 232.08 close (regular, 10:50 ET) |  |
 | 11-13 10:52 | 2 | SNDK | Down 8.3% (regular) | SNDK -8.3% at 859.35 vs 937.46 close (regular, 10:50 ET) |  |
