@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-13 10:52 ET
+# Alerts — watcher run 2026-11-13 11:56 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,10 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-13 11:56 | 1 | AMD | Down 10.4% (regular) | AMD -10.4% at 524.27 vs 585.30 close (regular, 11:55 ET) |  |
+| 11-13 11:56 | 1 | AMAT | Down 5.5% (regular) | AMAT -5.5% at 360.10 vs 380.95 close (regular, 11:55 ET) |  |
+| 11-13 11:56 | 1 | BFLY | Down 7.6% (regular) | BFLY -7.6% at 6.16 vs 6.67 close (regular, 11:55 ET) |  |
+| 11-13 11:56 | 1 | SMCI | Legal/regulatory | Super Micro Slides 3% as Reported DOJ Smuggling Probe Weighs for a Second Day; Dell Sinks 8%, NVIDIA Falls 4% | [link](https://finnhub.io/api/news?id=4ed78fe677489a8c7c82229baf44c7e938e033a0d085233c8faa4724744bd69c) |
 | 11-13 10:52 | 1 | AVGO | Down 6.3% (regular) | AVGO -6.3% at 341.36 vs 364.36 close (regular, 10:50 ET) |  |
 | 11-13 10:52 | 1 | QCOM | Down 4.7% (regular) | QCOM -4.7% at 168.84 vs 177.14 close (regular, 10:50 ET) |  |
 | 11-13 10:52 | 1 | TXN | Down 4.7% (regular) | TXN -4.7% at 297.89 vs 312.48 close (regular, 10:50 ET) |  |
@@ -120,6 +124,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-13 11:56 | 2 | DELL | Down 9.1% (regular) | DELL -9.1% at 337.22 vs 371.17 close (regular, 11:55 ET) |  |
 | 11-13 10:52 | 2 | COHR | Down 8.6% (regular) | COHR -8.6% at 212.07 vs 232.08 close (regular, 10:50 ET) |  |
 | 11-13 10:52 | 2 | SNDK | Down 8.3% (regular) | SNDK -8.3% at 859.35 vs 937.46 close (regular, 10:50 ET) |  |
 | 11-13 10:52 | 2 | CVLT | Down 8.9% (regular) | CVLT -8.9% at 151.45 vs 166.16 close (regular, 10:50 ET) |  |
