@@ -1,4 +1,4 @@
-# Short-term scan — 2026-11-13 16:38 ET
+# Short-term scan — 2026-11-13 17:11 ET
 Universe: S&P 500 + S&P 400 (903 names, 911 priced). Filters: price ≥ $10, avg daily dollar volume ≥ $20M, no semiconductors, no names from the tracked list. These are candidates; check news, catalysts and the trading rules before proposing a trade.
 
 ## Market regime
@@ -27,6 +27,7 @@ Universe: S&P 500 + S&P 400 (903 names, 911 priced). Filters: price ≥ $10, avg
 | AN | AutoNation · Consumer Discretionary | 4 | $1.7M | 183.85 | 177.75 | -3.30 | 2026-11-06 | Edmunds C Coleman (EVP, Gen Counsel & Corp Sec); Manley Michael Mark (Director, CEO and Director); Szlosek Thomas A (EVP & CFO); Travisano Jacqueline A (Director) |
 | MP | MP Materials · Materials | 3 | $3.4M | 36.26 | 38.76 | 6.90 | 2026-11-11 | Corbett Ryan (Chief Financial Officer); Rosenthal Michael Stuart (Chief Operating Officer); Weisenburger Randall J (Director) |
 | BA | Boeing · Industrials | 2 | $1.5M | 172.05 | 171.50 | -0.30 | 2026-10-30 | Buckley Mortimer J (Director); Mollenkopf Steven M (Director) |
+| COHR | Coherent Corp. · Information Technology | 2 | $1.2M | 203.38 | 218.15 | 7.30 | 2026-11-10 | Anderson James Robert (Director, CEO); Digirolomo Enrico (Director) |
 | TTMI | TTM Technologies · Information Technology | 2 | $941.1K | 62.74 | 74.08 | 18.10 | 2026-11-05 | Ali Wajid (Director); Franklin Philip G (Director) |
 | CRH | CRH plc · Materials | 2 | $759.0K | 94.87 | 93.16 | -1.80 | 2026-11-06 | Fearon Richard H (Director); Talbot Siobhan (Director) |
 | WCC | WESCO International · Industrials | 2 | $603.4K | 292.08 | 321.79 | 10.20 | 2026-11-06 | Dev Indraneel (EVP & CFO); Marino Anthony S (EVP & CHRO) |
@@ -37,7 +38,6 @@ Universe: S&P 500 + S&P 400 (903 names, 911 priced). Filters: price ≥ $10, avg
 | KMI | Kinder Morgan · Energy | 1 | $15.0M | 29.99 | 31.92 | 6.40 | 2026-11-06 | Kinder Richard D (Director, Executive Chairman, 10% owner) |
 | INTC | Intel · Information Technology | 1 | $9.7M | 64.73 | 59.66 | -7.80 | 2026-11-02 | Tan Lip Bu (Director, CEO) |
 | ROK | Rockwell Automation · Industrials | 1 | $1.5M | 386.36 | 402.46 | 4.20 | 2026-11-09 | Moret Blake D. (Director, President and CEO) |
-| LSCC | Lattice Semiconductor · Information Technology | 1 | $1.0M | 102.52 | 112.35 | 9.60 | 2026-11-04 | Tamer Ford (Director, President & CEO) |
 
 Insider history builds up over the first two weeks of runs.
 
@@ -71,30 +71,30 @@ How to use: for each loser, find the reason. If it's fear, a sector selloff or a
 **Losers**
 | Ticker | Company | Day % | Gap % | Vol × | 1m % | From 52w high % | RSI | vs 200-day % | Flags |
 |---|---|---|---|---|---|---|---|---|---|
-| AMD | Advanced Micro Devices · Information Technology | -8.75 | -3.18 | 1.85 | -5.01 | -18.90 | 50.4 | 26.22 | Tracked, Semi |
+| AMD | Advanced Micro Devices · Information Technology | -8.75 | -3.18 | 1.86 | -5.01 | -18.90 | 50.4 | 26.22 | Tracked, Semi |
 | CVLT | CommVault Systems · Information Technology | -8.48 | -3.94 | 1.54 | -4.30 | -12.70 | 43.0 | 25.28 |  |
 | FN | Fabrinet · Information Technology | -7.31 | -0.8 | 1.19 | -14.85 | -56.20 | 44.0 | -36.58 |  |
 | DELL | Dell Technologies · Information Technology | -7.18 | -0.99 | 1.2 | -27.22 | -42.10 | 36.0 | 0.33 |  |
 | CSCO | Cisco · Information Technology | -6.24 | -1.68 | 1.55 | -12.94 | -26.60 | 37.1 | -6.56 | Tracked |
-| COHR | Coherent Corp. · Information Technology | -6.0 | -1.0 | 1.2 | -12.95 | -50.40 | 45.7 | -26.50 |  |
-| SNDK | Sandisk · Information Technology | -5.59 | -2.3 | 1.18 | -36.55 | -62.40 | 33.9 | -30.99 |  |
+| COHR | Coherent Corp. · Information Technology | -6.0 | -1.0 | 1.21 | -12.95 | -50.40 | 45.7 | -26.50 |  |
+| SNDK | Sandisk · Information Technology | -5.59 | -2.3 | 1.19 | -36.55 | -62.40 | 33.9 | -30.99 |  |
 | VIAV | Viavi Solutions · Information Technology | -5.59 | -1.41 | 0.84 | -16.57 | -49.20 | 44.6 | -21.73 |  |
 | MTSI | MACOM Technology Solutions · Information Technology | -5.57 | -0.72 | 0.85 | -14.49 | -44.60 | 45.2 | -18.23 | Semi |
-| SITM | SiTime · Information Technology | -5.53 | 0.18 | 0.9 | -11.37 | -50.70 | 43.9 | -19.29 | Semi |
+| SITM | SiTime · Information Technology | -5.53 | 0.18 | 0.92 | -11.37 | -50.70 | 43.9 | -19.29 | Semi |
 
 **Gainers**
 | Ticker | Company | Day % | Gap % | Vol × | 1m % | From 52w high % | RSI | vs 200-day % | Flags |
 |---|---|---|---|---|---|---|---|---|---|
-| FOUR | Shift4 · Financials | 7.85 | 0.26 | 1.27 | 13.83 | -40.60 | 59.5 | -1.15 |  |
+| FOUR | Shift4 · Financials | 7.85 | 0.26 | 1.28 | 13.83 | -40.60 | 59.5 | -1.15 |  |
 | BROS | Dutch Bros Inc. · Consumer Discretionary | 6.5 | -0.44 | 1.29 | -12.65 | -51.50 | 40.7 | -31.29 |  |
 | DUOL | Duolingo · Consumer Discretionary | 5.01 | 0.98 | 0.82 | 11.00 | -22.50 | 60.8 | 33.16 |  |
-| VAL | Valaris · Energy | 4.38 | 0.17 | 0.68 | 0.47 | -26.30 | 46.8 | -3.82 |  |
+| VAL | Valaris · Energy | 4.38 | 0.17 | 0.9 | 0.47 | -26.30 | 46.8 | -3.82 |  |
 | CROX | Crocs · Consumer Discretionary | 4.36 | 1.34 | 1.0 | 31.22 | -0.20 | 73.0 | 44.15 |  |
-| CHTR | Charter Communications · Communication Services | 4.32 | 0.36 | 0.97 | 25.82 | -45.50 | 66.7 | -14.43 |  |
+| CHTR | Charter Communications · Communication Services | 4.32 | 0.92 | 0.97 | 25.82 | -45.50 | 66.7 | -14.43 |  |
 | STE | Steris · Health Care | 4.29 | 2.59 | 1.31 | 17.83 | -1.90 | 75.7 | 17.93 |  |
 | GPN | Global Payments · Financials | 4.21 | 0.25 | 0.96 | 9.18 | -10.70 | 51.6 | 17.73 |  |
-| FIS | Fidelity National Information Services · Financials | 4.16 | 2.21 | 0.99 | -18.24 | -56.80 | 38.0 | -30.15 |  |
-| FOXA | Fox Corporation (Class A) · Communication Services | 4.12 | 0.99 | 1.02 | 6.94 | -10.40 | 57.0 | 10.43 |  |
+| FIS | Fidelity National Information Services · Financials | 4.16 | 2.21 | 1.0 | -18.24 | -56.80 | 38.0 | -30.15 |  |
+| FOXA | Fox Corporation (Class A) · Communication Services | 4.12 | 0.99 | 1.03 | 6.94 | -10.40 | 57.0 | 10.43 |  |
 
 ## Data quality
 - insider: index 2026-11-11: 403 Client Error: Forbidden for url: https://www.sec.gov/Archives/edgar/daily-index/2026/QTR4/form.20261111.idx
