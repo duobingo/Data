@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-13 09:54 ET
+# Alerts — watcher run 2026-11-13 10:52 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,21 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-13 10:52 | 1 | AVGO | Down 6.3% (regular) | AVGO -6.3% at 341.36 vs 364.36 close (regular, 10:50 ET) |  |
+| 11-13 10:52 | 1 | QCOM | Down 4.7% (regular) | QCOM -4.7% at 168.84 vs 177.14 close (regular, 10:50 ET) |  |
+| 11-13 10:52 | 1 | TXN | Down 4.7% (regular) | TXN -4.7% at 297.89 vs 312.48 close (regular, 10:50 ET) |  |
+| 11-13 10:52 | 1 | MU | Down 4.3% (regular) | MU -4.3% at 764.38 vs 798.44 close (regular, 10:50 ET) |  |
+| 11-13 10:52 | 1 | LRCX | Down 4.8% (regular) | LRCX -4.8% at 222.51 vs 233.78 close (regular, 10:50 ET) |  |
+| 11-13 10:52 | 1 | AMAT | Down 6.2% (regular) | AMAT -6.2% at 357.38 vs 380.95 close (regular, 10:50 ET) |  |
+| 11-13 10:52 | 1 | KLAC | Down 5.2% (regular) | KLAC -5.2% at 149.15 vs 157.30 close (regular, 10:50 ET) |  |
+| 11-13 10:52 | 1 | ADI | Down 4.2% (regular) | ADI -4.2% at 392.25 vs 409.29 close (regular, 10:50 ET) |  |
+| 11-13 10:52 | 1 | SNOW | Down 4.3% (regular) | SNOW -4.3% at 285.99 vs 298.70 close (regular, 10:50 ET) |  |
+| 11-13 10:52 | 1 | HOOD | Down 4.4% (regular) | HOOD -4.4% at 77.74 vs 81.35 close (regular, 10:50 ET) |  |
+| 11-13 10:52 | 1 | ARM | Down 7.2% (regular) | ARM -7.2% at 185.38 vs 199.78 close (regular, 10:50 ET) |  |
+| 11-13 10:52 | 1 | BFLY | Down 6.0% (regular) | BFLY -6.0% at 6.27 vs 6.67 close (regular, 10:50 ET) |  |
+| 11-13 10:52 | 1 | LCID | Down 7.1% (regular) | LCID -7.1% at 3.03 vs 3.26 close (regular, 10:50 ET) |  |
+| 11-13 10:52 | 1 | ACHR | Down 4.8% (regular) | ACHR -4.8% at 4.12 vs 4.33 close (regular, 10:50 ET) |  |
+| 11-13 10:52 | 1 | OKLO | Down 5.3% (regular) | OKLO -5.3% at 23.15 vs 24.45 close (regular, 10:50 ET) |  |
 | 11-13 09:54 | 1 | AVGO | Down 4.5% (regular) | AVGO -4.5% at 347.98 vs 364.36 close (regular, 09:50 ET) |  |
 | 11-13 09:54 | 1 | AMD | Down 6.3% (regular) | AMD -6.3% at 548.18 vs 585.30 close (regular, 09:50 ET) |  |
 | 11-13 09:54 | 1 | CSCO | Down 4.9% (regular) | CSCO -4.9% at 96.98 vs 102.01 close (regular, 09:50 ET) |  |
@@ -105,6 +120,10 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-13 10:52 | 2 | COHR | Down 8.6% (regular) | COHR -8.6% at 212.07 vs 232.08 close (regular, 10:50 ET) |  |
+| 11-13 10:52 | 2 | SNDK | Down 8.3% (regular) | SNDK -8.3% at 859.35 vs 937.46 close (regular, 10:50 ET) |  |
+| 11-13 10:52 | 2 | CVLT | Down 8.9% (regular) | CVLT -8.9% at 151.45 vs 166.16 close (regular, 10:50 ET) |  |
+| 11-13 10:52 | 2 | FN | Down 8.2% (regular) | FN -8.2% at 324.65 vs 353.83 close (regular, 10:50 ET) |  |
 | 11-13 08:56 | 2 | CVLT | 8-K: 5.02 Executive/director change | 8-K - COMMVAULT SYSTEMS INC (0001169561) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1169561/000116956126000041/0001169561-26-000041-index.htm) |
 | 11-13 08:56 | 2 | ALV | 8-K: 5.02 Executive/director change | 8-K - AUTOLIV INC (0001034670) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1034670/000119312526459325/0001193125-26-459325-index.htm) |
 | 11-13 08:56 | 2 | SIRI | 8-K: 5.02 Executive/director change | 8-K - SIRIUS XM HOLDINGS INC. (0000908937) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/908937/000090893726000030/0000908937-26-000030-index.htm) |
