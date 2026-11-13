@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-12 18:45 ET
+# Alerts — watcher run 2026-11-12 19:30 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-12 19:30 | 1 | NVDA | Deal | Dow Jones Futures Rise After Market Weathers Nvidia CEO Huang's Exit, Surging Yields; SpaceX-Tesla Merger Deal Close | [link](https://finnhub.io/api/news?id=29a78bd2ce9f098216b8703032bc86519f8cb074a568e6fa2a4b610c7d8d0c9f) |
+| 11-12 19:30 | 2 | TSLA | Deal | Dow Jones Futures Rise After Market Weathers Nvidia CEO Huang's Exit, Surging Yields; SpaceX-Tesla Merger Deal Close | [link](https://finnhub.io/api/news?id=29a78bd2ce9f098216b8703032bc86519f8cb074a568e6fa2a4b610c7d8d0c9f) |
 | 11-12 17:49 | 1 | VST | Down 4.5% (after-hours) | VST -4.5% at 128.50 vs 134.51 close (after-hours, 17:10 ET) |  |
 | 11-12 17:49 | 1 | NVDA | Leadership | Alleged spy at center of Nvidia CEO affair reportedly being probed over Super Micro smuggling effort | [link](https://finnhub.io/api/news?id=e8b9a7cc3d8b49832b698c29acf47f50a6d13c0f21947eabc96f78bfee620349) |
 | 11-12 17:49 | 2 | SMCI | Leadership | Alleged spy at center of Nvidia CEO affair reportedly being probed over Super Micro smuggling effort | [link](https://finnhub.io/api/news?id=e8b9a7cc3d8b49832b698c29acf47f50a6d13c0f21947eabc96f78bfee620349) |

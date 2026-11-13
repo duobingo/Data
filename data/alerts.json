@@ -1730,8 +1730,38 @@
    "url": "https://www.sec.gov/Archives/edgar/data/1086222/000119312526458699/0001193125-26-458699-index.htm",
    "published": "2026-11-12 17:05",
    "first_seen": "2026-11-12T17:49-05:00"
+  },
+  {
+   "id": "4db00d3aff79709b",
+   "kind": "news",
+   "group": "tracked",
+   "ticker": "NVDA",
+   "name": "Nvidia",
+   "sector": "Information Technology",
+   "severity": 1,
+   "category": "Deal",
+   "title": "Dow Jones Futures Rise After Market Weathers Nvidia CEO Huang's Exit, Surging Yields; SpaceX-Tesla Merger Deal Close",
+   "source": "Yahoo",
+   "url": "https://finnhub.io/api/news?id=29a78bd2ce9f098216b8703032bc86519f8cb074a568e6fa2a4b610c7d8d0c9f",
+   "published": "2026-11-12 18:47",
+   "first_seen": "2026-11-12T19:30-05:00"
+  },
+  {
+   "id": "db90d6c04ecdbcaf",
+   "kind": "news",
+   "group": "tracked",
+   "ticker": "TSLA",
+   "name": "Tesla, Inc.",
+   "sector": "Consumer Discretionary",
+   "severity": 2,
+   "category": "Deal",
+   "title": "Dow Jones Futures Rise After Market Weathers Nvidia CEO Huang's Exit, Surging Yields; SpaceX-Tesla Merger Deal Close",
+   "source": "Yahoo",
+   "url": "https://finnhub.io/api/news?id=29a78bd2ce9f098216b8703032bc86519f8cb074a568e6fa2a4b610c7d8d0c9f",
+   "published": "2026-11-12 18:47",
+   "first_seen": "2026-11-12T19:30-05:00"
   }
  ],
- "last_run": "2026-11-12T18:45-05:00",
+ "last_run": "2026-11-12T19:30-05:00",
  "errors": []
 }
