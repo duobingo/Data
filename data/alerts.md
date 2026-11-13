@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-13 14:56 ET
+# Alerts — watcher run 2026-11-13 15:55 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-13 15:55 | 1 | RIVN | Down 4.1% (regular) | RIVN -4.1% at 12.28 vs 12.80 close (regular, 15:55 ET) |  |
+| 11-13 15:55 | 1 | LCID | Down 9.2% (regular) | LCID -9.2% at 2.95 vs 3.26 close (regular, 15:55 ET) |  |
 | 11-13 14:56 | 1 | IONQ | Down 6.0% (regular) | IONQ -6.0% at 29.01 vs 30.86 close (regular, 14:55 ET) |  |
 | 11-13 14:56 | 1 | ACHR | Down 6.8% (regular) | ACHR -6.8% at 4.03 vs 4.33 close (regular, 14:55 ET) |  |
 | 11-13 12:53 | 1 | CSCO | Down 6.2% (regular) | CSCO -6.2% at 95.72 vs 102.01 close (regular, 12:50 ET) |  |
@@ -128,6 +130,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-13 15:55 | 2 | AAON | 8-K: 1.01 Material agreement | 8-K - AAON, INC. (0000824142) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/824142/000162828026073758/0001628280-26-073758-index.htm) |
 | 11-13 12:53 | 2 | DELL | Down 8.8% (regular) | DELL -8.8% at 338.58 vs 371.17 close (regular, 12:50 ET) |  |
 | 11-13 12:53 | 2 | CVLT | Down 9.7% (regular) | CVLT -9.7% at 150.04 vs 166.16 close (regular, 12:50 ET) |  |
 | 11-13 11:56 | 2 | DELL | Down 9.1% (regular) | DELL -9.1% at 337.22 vs 371.17 close (regular, 11:55 ET) |  |
