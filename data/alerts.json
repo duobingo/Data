@@ -1775,8 +1775,38 @@
    "url": "https://finnhub.io/api/news?id=230b76a78437121aab06b6d67d0ac68d24e700a28436fa3cfe96162569eb096a",
    "published": "2026-11-13 02:30",
    "first_seen": "2026-11-13T03:30-05:00"
+  },
+  {
+   "id": "919805c342871dc2",
+   "kind": "news",
+   "group": "tracked",
+   "ticker": "CSCO",
+   "name": "Cisco",
+   "sector": "Information Technology",
+   "severity": 1,
+   "category": "Leadership",
+   "title": "Huang ouster fallout; Cisco, Applied Materials outlooks - what\u2019s moving markets",
+   "source": "Yahoo",
+   "url": "https://finnhub.io/api/news?id=236071ec4f14395fd27e083cfaaac1dffd1b14a5713a43bbe7e6f20725965afb",
+   "published": "2026-11-13 04:35",
+   "first_seen": "2026-11-13T05:42-05:00"
+  },
+  {
+   "id": "7c857779fc40197b",
+   "kind": "news",
+   "group": "tracked",
+   "ticker": "AMAT",
+   "name": "Applied Materials",
+   "sector": "Information Technology",
+   "severity": 2,
+   "category": "Leadership",
+   "title": "Huang ouster fallout; Cisco, Applied Materials outlooks - what\u2019s moving markets",
+   "source": "Yahoo",
+   "url": "https://finnhub.io/api/news?id=236071ec4f14395fd27e083cfaaac1dffd1b14a5713a43bbe7e6f20725965afb",
+   "published": "2026-11-13 04:35",
+   "first_seen": "2026-11-13T05:42-05:00"
   }
  ],
- "last_run": "2026-11-13T04:41-05:00",
+ "last_run": "2026-11-13T05:42-05:00",
  "errors": []
 }

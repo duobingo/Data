@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-13 04:41 ET
+# Alerts — watcher run 2026-11-13 05:42 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-13 05:42 | 1 | CSCO | Leadership | Huang ouster fallout; Cisco, Applied Materials outlooks - what’s moving markets | [link](https://finnhub.io/api/news?id=236071ec4f14395fd27e083cfaaac1dffd1b14a5713a43bbe7e6f20725965afb) |
+| 11-13 05:42 | 2 | AMAT | Leadership | Huang ouster fallout; Cisco, Applied Materials outlooks - what’s moving markets | [link](https://finnhub.io/api/news?id=236071ec4f14395fd27e083cfaaac1dffd1b14a5713a43bbe7e6f20725965afb) |
 | 11-13 03:30 | 1 | NVDA | Leadership | Nvidia CEO Jensen Huang resigns: Is the stock now a 50% bargain? | [link](https://finnhub.io/api/news?id=230b76a78437121aab06b6d67d0ac68d24e700a28436fa3cfe96162569eb096a) |
 | 11-12 19:30 | 1 | NVDA | Deal | Dow Jones Futures Rise After Market Weathers Nvidia CEO Huang's Exit, Surging Yields; SpaceX-Tesla Merger Deal Close | [link](https://finnhub.io/api/news?id=29a78bd2ce9f098216b8703032bc86519f8cb074a568e6fa2a4b610c7d8d0c9f) |
 | 11-12 19:30 | 2 | TSLA | Deal | Dow Jones Futures Rise After Market Weathers Nvidia CEO Huang's Exit, Surging Yields; SpaceX-Tesla Merger Deal Close | [link](https://finnhub.io/api/news?id=29a78bd2ce9f098216b8703032bc86519f8cb074a568e6fa2a4b610c7d8d0c9f) |
