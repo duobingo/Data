@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-13 16:50 ET
+# Alerts — watcher run 2026-11-13 17:46 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-13 17:46 | 1 | TSLA | Deal | SpaceX, Tesla Merger Puts Musk At Forefront Of 'Revolutionary' Tech, Analyst Says | [link](https://finnhub.io/api/news?id=56e3c15cb5e0203c0bbe1e5d64a25274af9b9b485628ed108288782343acd482) |
+| 11-13 17:46 | 1 | IONQ | 8-K: 5.02 Executive/director change | 8-K - IonQ, Inc. (0001824920) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1824920/000119312526461016/0001193125-26-461016-index.htm) |
+| 11-13 17:46 | 2 | BKNG | 8-K: 1.01 Material agreement | 8-K - Booking Holdings Inc. (0001075531) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1075531/000110465926127223/0001104659-26-127223-index.htm) |
 | 11-13 16:50 | 2 | QCOM | 8-K: 1.01 Material agreement | 8-K - QUALCOMM INC/DE (0000804328) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/804328/000110465926127163/0001104659-26-127163-index.htm) |
 | 11-13 15:55 | 1 | RIVN | Down 4.1% (regular) | RIVN -4.1% at 12.28 vs 12.80 close (regular, 15:55 ET) |  |
 | 11-13 15:55 | 1 | LCID | Down 9.2% (regular) | LCID -9.2% at 2.95 vs 3.26 close (regular, 15:55 ET) |  |
@@ -131,6 +134,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-13 17:46 | 2 | CTRE | 8-K: 1.01 Material agreement | 8-K - CareTrust REIT, Inc. (0001590717) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1590717/000114036126043831/0001140361-26-043831-index.htm) |
+| 11-13 17:46 | 2 | DLB | 8-K: 5.02 Executive/director change | 8-K - Dolby Laboratories, Inc. (0001308547) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1308547/000119312526461010/0001193125-26-461010-index.htm) |
 | 11-13 16:50 | 2 | TKO | 8-K: 1.01 Material agreement | 8-K - TKO Group Holdings, Inc. (0001973266) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1973266/000119312526460798/0001193125-26-460798-index.htm) |
 | 11-13 16:50 | 2 | HRB | 8-K: 5.02 Executive/director change | 8-K - H&R BLOCK INC (0000012659) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/12659/000001265926000042/0000012659-26-000042-index.htm) |
 | 11-13 16:50 | 2 | BWA | 8-K: 5.02 Executive/director change | 8-K - BORGWARNER INC (0000908255) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/908255/000090825526000076/0000908255-26-000076-index.htm) |
