@@ -1805,8 +1805,22 @@
    "url": "https://finnhub.io/api/news?id=236071ec4f14395fd27e083cfaaac1dffd1b14a5713a43bbe7e6f20725965afb",
    "published": "2026-11-13 04:35",
    "first_seen": "2026-11-13T05:42-05:00"
+  },
+  {
+   "id": "222d19b7995a7e3a",
+   "kind": "filing",
+   "group": "universe",
+   "ticker": "WFRD",
+   "name": "Weatherford International",
+   "sector": "",
+   "severity": 2,
+   "category": "8-K: 1.01 Material agreement; 2.01 Acquisition/disposition completed; 5.02 Executive/director change",
+   "title": "8-K12B - Weatherford International Corp (0001603923) (Filer)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1603923/000160392326000135/0001603923-26-000135-index.htm",
+   "published": "2026-11-13 06:04",
+   "first_seen": "2026-11-13T06:39-05:00"
   }
  ],
- "last_run": "2026-11-13T05:42-05:00",
+ "last_run": "2026-11-13T06:39-05:00",
  "errors": []
 }

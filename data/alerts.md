@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-13 05:42 ET
+# Alerts — watcher run 2026-11-13 06:39 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -96,6 +96,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-13 06:39 | 2 | WFRD | 8-K: 1.01 Material agreement; 2.01 Acquisition/disposition completed; 5.02 Executive/director change | 8-K12B - Weatherford International Corp (0001603923) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1603923/000160392326000135/0001603923-26-000135-index.htm) |
 | 11-12 17:49 | 2 | HST | 8-K: 1.01 Material agreement | 8-K - HOST HOTELS & RESORTS, INC. (0001070750) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1070750/000162828026073508/0001628280-26-073508-index.htm) |
 | 11-12 17:49 | 2 | DBX | 8-K: 1.01 Material agreement | 8-K - DROPBOX, INC. (0001467623) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1467623/000110465926126351/0001104659-26-126351-index.htm) |
 | 11-12 17:49 | 2 | DINO | 8-K: 5.02 Executive/director change | 8-K - HF Sinclair Corp (0001915657) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1915657/000162828026073498/0001628280-26-073498-index.htm) |
