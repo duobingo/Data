@@ -1834,8 +1834,50 @@
    "url": "https://finnhub.io/api/news?id=a3a881aac93146a63e32e1ca84b68cc559c3d098944ef2ed52d15a26483ec1f0",
    "published": "2026-11-13 06:35",
    "first_seen": "2026-11-13T07:42-05:00"
+  },
+  {
+   "id": "29f4271edbabec6b",
+   "kind": "filing",
+   "group": "universe",
+   "ticker": "CVLT",
+   "name": "CommVault Systems",
+   "sector": "",
+   "severity": 2,
+   "category": "8-K: 5.02 Executive/director change",
+   "title": "8-K - COMMVAULT SYSTEMS INC (0001169561) (Filer)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1169561/000116956126000041/0001169561-26-000041-index.htm",
+   "published": "2026-11-13 08:30",
+   "first_seen": "2026-11-13T08:56-05:00"
+  },
+  {
+   "id": "88766b7e8ee8dcf5",
+   "kind": "filing",
+   "group": "universe",
+   "ticker": "ALV",
+   "name": "Autoliv",
+   "sector": "",
+   "severity": 2,
+   "category": "8-K: 5.02 Executive/director change",
+   "title": "8-K - AUTOLIV INC (0001034670) (Filer)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1034670/000119312526459325/0001193125-26-459325-index.htm",
+   "published": "2026-11-13 08:00",
+   "first_seen": "2026-11-13T08:56-05:00"
+  },
+  {
+   "id": "a6f9556003364734",
+   "kind": "filing",
+   "group": "universe",
+   "ticker": "SIRI",
+   "name": "SiriusXM",
+   "sector": "",
+   "severity": 2,
+   "category": "8-K: 5.02 Executive/director change",
+   "title": "8-K - SIRIUS XM HOLDINGS INC. (0000908937) (Filer)",
+   "url": "https://www.sec.gov/Archives/edgar/data/908937/000090893726000030/0000908937-26-000030-index.htm",
+   "published": "2026-11-13 07:51",
+   "first_seen": "2026-11-13T08:56-05:00"
   }
  ],
- "last_run": "2026-11-13T07:42-05:00",
+ "last_run": "2026-11-13T08:56-05:00",
  "errors": []
 }
