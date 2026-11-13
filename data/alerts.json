@@ -1819,8 +1819,23 @@
    "url": "https://www.sec.gov/Archives/edgar/data/1603923/000160392326000135/0001603923-26-000135-index.htm",
    "published": "2026-11-13 06:04",
    "first_seen": "2026-11-13T06:39-05:00"
+  },
+  {
+   "id": "f0248d996efd4758",
+   "kind": "news",
+   "group": "tracked",
+   "ticker": "XOM",
+   "name": "ExxonMobil",
+   "sector": "Energy",
+   "severity": 2,
+   "category": "Buyback/dividend",
+   "title": "ExxonMobil Raised Its Dividend for the 44th Straight Year and Plans $20 Billion of Buybacks in 2027. Here's How It Can Afford Both.",
+   "source": "Yahoo",
+   "url": "https://finnhub.io/api/news?id=a3a881aac93146a63e32e1ca84b68cc559c3d098944ef2ed52d15a26483ec1f0",
+   "published": "2026-11-13 06:35",
+   "first_seen": "2026-11-13T07:42-05:00"
   }
  ],
- "last_run": "2026-11-13T06:39-05:00",
+ "last_run": "2026-11-13T07:42-05:00",
  "errors": []
 }
