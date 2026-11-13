@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-13 13:55 ET
+# Alerts — watcher run 2026-11-13 14:56 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-13 14:56 | 1 | IONQ | Down 6.0% (regular) | IONQ -6.0% at 29.01 vs 30.86 close (regular, 14:55 ET) |  |
+| 11-13 14:56 | 1 | ACHR | Down 6.8% (regular) | ACHR -6.8% at 4.03 vs 4.33 close (regular, 14:55 ET) |  |
 | 11-13 12:53 | 1 | CSCO | Down 6.2% (regular) | CSCO -6.2% at 95.72 vs 102.01 close (regular, 12:50 ET) |  |
 | 11-13 12:53 | 1 | ANET | Down 4.6% (regular) | ANET -4.6% at 197.14 vs 206.63 close (regular, 12:50 ET) |  |
 | 11-13 11:56 | 1 | AMD | Down 10.4% (regular) | AMD -10.4% at 524.27 vs 585.30 close (regular, 11:55 ET) |  |
