@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-15 14:30 ET
+# Alerts — watcher run 2026-11-15 15:21 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -61,7 +61,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-12 15:52 | 1 | HIMS | Down 4.3% (regular) | HIMS -4.3% at 19.92 vs 20.81 close (regular, 15:50 ET) |  |
 | 11-12 15:52 | 1 | IONQ | Down 9.4% (regular) | IONQ -9.4% at 30.85 vs 34.06 close (regular, 15:50 ET) |  |
 | 11-12 15:52 | 1 | NVDA | Leadership | Stock Market Today: Nasdaq Higher Amid Nvidia CEO Change; Software Name Jumps (Live Coverage) | [link](https://finnhub.io/api/news?id=f3c9c08a4ebd04a5e93050c5400718e3959d4a31e4da57d4a47418ff1ccd64be) |
-| 11-12 14:57 | 1 | AMD | Up 6.1% (regular) | AMD +6.1% at 586.72 vs 552.90 close (regular, 14:55 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
