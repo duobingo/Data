@@ -2692,8 +2692,38 @@
    "url": "https://finnhub.io/api/news?id=4b3394d8c6d0cf927f25bd2697f084f2a1986de5074b12a036d23fd7a34be6b6",
    "published": "2026-11-15 02:51",
    "first_seen": "2026-11-15T03:32-05:00"
+  },
+  {
+   "id": "679fb53cb0795238",
+   "kind": "news",
+   "group": "tracked",
+   "ticker": "NVDA",
+   "name": "Nvidia",
+   "sector": "Information Technology",
+   "severity": 1,
+   "category": "Leadership",
+   "title": "What\u2019s Next for Nvidia After Jensen Huang\u2019s Resignation?",
+   "source": "Yahoo",
+   "url": "https://finnhub.io/api/news?id=71d71d155fa599270ac81c5a4606bf82bea64528f15b8e851b7a8742b151499f",
+   "published": "2026-11-15 04:30",
+   "first_seen": "2026-11-15T05:26-05:00"
+  },
+  {
+   "id": "e7148576e3ce63dc",
+   "kind": "news",
+   "group": "tracked",
+   "ticker": "NVDA",
+   "name": "Nvidia",
+   "sector": "Information Technology",
+   "severity": 2,
+   "category": "Analyst",
+   "title": "5 big analyst AI moves: Nvidia hit with downgrades after Huang\u2019s exit",
+   "source": "Yahoo",
+   "url": "https://finnhub.io/api/news?id=d3df7ab84e7fcf99fea98941aac9988e22f163e89d5c98fe9601fa3926210e61",
+   "published": "2026-11-15 04:30",
+   "first_seen": "2026-11-15T05:26-05:00"
   }
  ],
- "last_run": "2026-11-15T04:29-05:00",
+ "last_run": "2026-11-15T05:26-05:00",
  "errors": []
 }
