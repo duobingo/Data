@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-15 05:26 ET
+# Alerts — watcher run 2026-11-15 06:14 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -104,9 +104,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-12 07:43 | 1 | MU | Down 4.5% (premarket) | MU -4.5% at 774.90 vs 811.30 close (premarket, 07:40 ET) |  |
 | 11-12 07:43 | 1 | HIMS | Down 4.2% (premarket) | HIMS -4.2% at 19.95 vs 20.81 close (premarket, 07:40 ET) |  |
 | 11-12 07:43 | 1 | NVDA | Leadership | Dow Jones Futures: Techs Fall As Nvidia Board Mulls Ousting CEO Jensen Huang | [link](https://finnhub.io/api/news?id=115e1d4bb0f4ce443fda8f7dad6e09cab5193b536c24c3d6a9e0591eca37de48) |
-| 11-12 05:30 | 1 | NVDA | Down 5.7% (premarket) | NVDA -5.7% at 163.79 vs 173.73 close (premarket, 05:30 ET) |  |
-| 11-12 05:30 | 1 | NVDA | Leadership | Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair | [link](https://finnhub.io/api/news?id=2400753b2a08695f4f2b7c153c13841ec0e6c2bf575bc8fa5e07e852a63f782a) |
-| 11-12 05:30 | 1 | NVDA | Leadership | Nvidia said to preparing Huang ouster; Alibaba slumps - what’s moving markets | [link](https://finnhub.io/api/news?id=007e7b5be314a32bf34c93e6a7b78d0afb444a3f7f86eb453f7cae95424c5ca1) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
@@ -173,7 +170,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-12 06:40 | 2 | WEX | 8-K: 1.01 Material agreement | 8-K - WEX Inc. (0001309108) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1309108/000114036126043231/0001140361-26-043231-index.htm) |
 | 11-12 06:40 | 2 | ENS | 8-K: 2.02 Earnings results | 8-K - EnerSys (0001289308) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1289308/000162828026073041/0001628280-26-073041-index.htm) |
 | 11-12 06:40 | 2 | INVH | 8-K: 5.02 Executive/director change | 8-K - Invitation Homes Inc. (0001687229) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1687229/000119312526456656/0001193125-26-456656-index.htm) |
-| 11-12 05:30 | 2 | TTEK | Up 9.0% (premarket) | TTEK +9.0% at 40.98 vs 37.61 close (premarket, 04:45 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
@@ -183,4 +179,4 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 ## Watcher health
 
-- All checks ran.
+- sec/8k: HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out. (read timeout=20)
