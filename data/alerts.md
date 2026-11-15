@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-15 08:55 ET
+# Alerts — watcher run 2026-11-15 09:46 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -92,15 +92,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-12 09:57 | 1 | OKLO | Down 5.1% (regular) | OKLO -5.1% at 24.55 vs 25.86 close (regular, 09:55 ET) |  |
 | 11-12 09:57 | 1 | NVDA | Leadership | Jensen Huang resigns as Nvidia CEO | [link](https://finnhub.io/api/news?id=315c33b75f892ed98d817777c49780f087c796401ae448ffaad43b3be006bee7) |
 | 11-12 09:57 | 1 | NVDA | Leadership | Nvidia CEO Huang resigns amid affair scandals, board names CFO Colette Kress interim CEO | [link](https://finnhub.io/api/news?id=49e4d47150ba8fb0fff8bf90a0c18ea8689b1a344b2ef9de744899554e537743) |
-| 11-12 08:59 | 1 | NVDA | Down 10.3% (premarket) | NVDA -10.3% at 155.80 vs 173.73 close (premarket, 08:55 ET) |  |
-| 11-12 08:59 | 1 | ORCL | Down 4.1% (premarket) | ORCL -4.1% at 123.18 vs 128.38 close (premarket, 08:55 ET) |  |
-| 11-12 08:59 | 1 | HOOD | Down 4.4% (premarket) | HOOD -4.4% at 80.90 vs 84.58 close (premarket, 08:55 ET) |  |
-| 11-12 08:59 | 1 | COIN | Down 4.2% (premarket) | COIN -4.2% at 130.50 vs 136.27 close (premarket, 08:55 ET) |  |
-| 11-12 08:59 | 1 | IONQ | Down 4.6% (premarket) | IONQ -4.6% at 32.51 vs 34.06 close (premarket, 08:55 ET) |  |
-| 11-12 08:59 | 1 | SMCI | Down 8.0% (premarket) | SMCI -8.0% at 28.00 vs 30.43 close (premarket, 08:55 ET) |  |
-| 11-12 08:59 | 1 | ARM | Down 4.7% (premarket) | ARM -4.7% at 193.89 vs 203.36 close (premarket, 08:55 ET) |  |
-| 11-12 08:59 | 1 | OKLO | Down 4.3% (premarket) | OKLO -4.3% at 24.76 vs 25.86 close (premarket, 08:55 ET) |  |
-| 11-12 08:59 | 1 | NVDA | 8-K: 5.02 Executive/director change | 8-K - NVIDIA CORP (0001045810) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/0001045810-26-000082-index.htm) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
@@ -151,13 +142,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-12 09:57 | 2 | CTVA | Down 22.4% (regular) | CTVA -22.4% at 9.41 vs 12.14 close (regular, 09:58 ET) |  |
 | 11-12 09:57 | 2 | HWC | Down 11.8% (regular) | HWC -11.8% at 63.85 vs 72.38 close (regular, 09:55 ET) |  |
 | 11-12 09:57 | 2 | MRVL | 8-K: 5.02 Executive/director change | 8-K - Marvell Technology, Inc. (0001835632) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1835632/000183563226000026/0001835632-26-000026-index.htm) |
-| 11-12 08:59 | 2 | SNDK | Down 8.0% (premarket) | SNDK -8.0% at 899.05 vs 977.69 close (premarket, 08:55 ET) |  |
-| 11-12 08:59 | 2 | CTVA | Down 13.3% (premarket) | CTVA -13.3% at 10.52 vs 12.14 close (premarket, 09:00 ET) |  |
-| 11-12 08:59 | 2 | HUBS | Up 8.4% (premarket) | HUBS +8.4% at 219.96 vs 202.88 close (premarket, 08:55 ET) |  |
-| 11-12 08:59 | 2 | TEX | 8-K: 5.02 Executive/director change | 8-K - TEREX CORP (0000097216) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/97216/000009721626000146/0000097216-26-000146-index.htm) |
-| 11-12 08:59 | 2 | CTVA | 8-K: 2.02 Earnings results | 8-K - Corteva, Inc. (0001755672) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1755672/000175567226000031/0001755672-26-000031-index.htm) |
-| 11-12 08:59 | 2 | HUBS | 8-K: 5.02 Executive/director change | 8-K - HUBSPOT INC (0001404655) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1404655/000119312526457055/0001193125-26-457055-index.htm) |
-| 11-12 08:59 | 2 | PVH | 8-K: 2.05 Restructuring/exit costs | 8-K - PVH CORP. /DE/ (0000078239) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/78239/000121390026118427/0001213900-26-118427-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
@@ -167,4 +151,4 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 ## Watcher health
 
-- sec/8k: HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out. (read timeout=20)
+- All checks ran.
