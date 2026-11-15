@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-15 12:07 ET
+# Alerts — watcher run 2026-11-15 12:59 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -67,7 +67,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-12 13:57 | 2 | NVDA | Legal/regulatory | Super Micro sinks as DOJ probes possible China smuggling links to Nvidia fallout | [link](https://finnhub.io/api/news?id=0efff8fe5859d0a951621e55cd7845f9a508d47599c572458668779b405d35eb) |
 | 11-12 13:57 | 1 | SMCI | Legal/regulatory | Supermicro, Nvidia Reportedly Face DOJ Scrutiny In Separate Inquiries — SMCI Stock Plunges | [link](https://finnhub.io/api/news?id=aeec0543de46902c03337425cee41fa0d901f97af4c4a2c3cd0a3613fae6fe2a) |
 | 11-12 13:57 | 1 | SMCI | Legal/regulatory | Super Micro sinks as DOJ probes possible China smuggling links to Nvidia fallout | [link](https://finnhub.io/api/news?id=0efff8fe5859d0a951621e55cd7845f9a508d47599c572458668779b405d35eb) |
-| 11-12 12:56 | 1 | ANET | Up 4.4% (regular) | ANET +4.4% at 205.42 vs 196.68 close (regular, 12:55 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
@@ -109,8 +108,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-12 16:48 | 2 | H | 8-K: 1.01 Material agreement | 8-K - Hyatt Hotels Corp (0001468174) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1468174/000110465926126220/0001104659-26-126220-index.htm) |
 | 11-12 16:48 | 2 | ZBH | 8-K: 1.01 Material agreement | 8-K - ZIMMER BIOMET HOLDINGS, INC. (0001136869) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1136869/000119312526458323/0001193125-26-458323-index.htm) |
 | 11-12 15:52 | 2 | GPN | Down 12.4% (regular) | GPN -12.4% at 87.80 vs 100.23 close (regular, 15:50 ET) |  |
-| 11-12 12:56 | 2 | GPN | Down 9.5% (regular) | GPN -9.5% at 90.68 vs 100.23 close (regular, 12:55 ET) |  |
-| 11-12 12:56 | 2 | YETI | Down 8.2% (regular) | YETI -8.2% at 39.27 vs 42.79 close (regular, 12:55 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
@@ -120,4 +117,4 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 ## Watcher health
 
-- sec/8k: HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out. (read timeout=20)
+- All checks ran.
