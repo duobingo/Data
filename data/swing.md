@@ -1,4 +1,4 @@
-Generated 2026-11-13 17:11 ET
+Generated 2026-11-15 18:05 ET
 
 # Swing scan (setup G) — range trades, backtested
 
@@ -44,4 +44,4 @@ Position: shares = min($2,000 ÷ (entry − stop), $15,000 ÷ entry). $ per trad
 | EEFT | Euronet Worldwide | ✓ | 9 | 44 | 0.85 | 8.15 | -4.98 | -7.44 | 1.31 | 7.7 | 2.48 (3) | $128 ($64) | 71.11 | 59.39 | 66.87 |  |
 | GNTX | Gentex | ✓ | 9 | 56 | 0.85 | 4.65 | -3.89 | -5.25 | 1.49 | 6.2 | 1.74 (5) | $128 ($64) | 19.2 | 18.9 | 20.26 |  |
 
-Screened 480 swingy names (liquid, ≥$10, median 5-day range ≥ 4%, 3-month move within ±20%, crosses its 20-day average often; no tracked names or semiconductors); 16 pass.
+Screened 481 swingy names (liquid, ≥$10, median 5-day range ≥ 4%, 3-month move within ±20%, crosses its 20-day average often; no tracked names or semiconductors); 16 pass.
