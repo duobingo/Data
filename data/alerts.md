@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-15 06:14 ET
+# Alerts — watcher run 2026-11-15 07:06 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -162,14 +162,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-12 08:59 | 2 | HUBS | 8-K: 5.02 Executive/director change | 8-K - HUBSPOT INC (0001404655) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1404655/000119312526457055/0001193125-26-457055-index.htm) |
 | 11-12 08:59 | 2 | PVH | 8-K: 2.05 Restructuring/exit costs | 8-K - PVH CORP. /DE/ (0000078239) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/78239/000121390026118427/0001213900-26-118427-index.htm) |
 | 11-12 07:43 | 2 | TTEK | Up 10.5% (premarket) | TTEK +10.5% at 41.55 vs 37.61 close (premarket, 07:42 ET) |  |
-| 11-12 06:40 | 2 | CTVA | Down 10.3% (premarket) | CTVA -10.3% at 10.89 vs 12.14 close (premarket, 06:35 ET) |  |
-| 11-12 06:40 | 2 | YETI | Down 8.9% (premarket) | YETI -8.9% at 39.00 vs 42.79 close (premarket, 06:35 ET) |  |
-| 11-12 06:40 | 2 | VYLR | 8-K: 2.02 Earnings results | 8-K - Vylor Inc. (0002128626) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/2128626/000212862626000009/0002128626-26-000009-index.htm) |
-| 11-12 06:40 | 2 | YETI | 8-K: 2.02 Earnings results | 8-K - YETI Holdings, Inc. (0001670592) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1670592/000167059226000043/0001670592-26-000043-index.htm) |
-| 11-12 06:40 | 2 | TTEK | 8-K: 2.02 Earnings results | 8-K - TETRA TECH INC (0000831641) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/831641/000110465926125600/0001104659-26-125600-index.htm) |
-| 11-12 06:40 | 2 | WEX | 8-K: 1.01 Material agreement | 8-K - WEX Inc. (0001309108) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1309108/000114036126043231/0001140361-26-043231-index.htm) |
-| 11-12 06:40 | 2 | ENS | 8-K: 2.02 Earnings results | 8-K - EnerSys (0001289308) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1289308/000162828026073041/0001628280-26-073041-index.htm) |
-| 11-12 06:40 | 2 | INVH | 8-K: 5.02 Executive/director change | 8-K - Invitation Homes Inc. (0001687229) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1687229/000119312526456656/0001193125-26-456656-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
