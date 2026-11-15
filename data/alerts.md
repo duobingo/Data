@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-15 02:36 ET
+# Alerts — watcher run 2026-11-15 03:32 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-15 03:32 | 2 | NVDA | Analyst | Jordi Visser Sees December Fed Decision As Bitcoin’s Next Catalyst, Questions Wall Street’s Nvidia Downgrades | [link](https://finnhub.io/api/news?id=4b3394d8c6d0cf927f25bd2697f084f2a1986de5074b12a036d23fd7a34be6b6) |
 | 11-14 05:25 | 1 | NVDA | Leadership | Jensen Huang Misled Nvidia Leadership, Lawyer On Affair With Alleged Chinese Spy: Report | [link](https://finnhub.io/api/news?id=ffa55216906a078747cbd1523e7bead48b069a3ad08519f099542bb339de78a0) |
 | 11-13 17:46 | 1 | TSLA | Deal | SpaceX, Tesla Merger Puts Musk At Forefront Of 'Revolutionary' Tech, Analyst Says | [link](https://finnhub.io/api/news?id=56e3c15cb5e0203c0bbe1e5d64a25274af9b9b485628ed108288782343acd482) |
 | 11-13 17:46 | 1 | IONQ | 8-K: 5.02 Executive/director change | 8-K - IonQ, Inc. (0001824920) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1824920/000119312526461016/0001193125-26-461016-index.htm) |
