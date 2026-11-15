@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-15 17:23 ET
+# Alerts — watcher run 2026-11-15 18:03 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -53,9 +53,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-13 03:30 | 1 | NVDA | Leadership | Nvidia CEO Jensen Huang resigns: Is the stock now a 50% bargain? | [link](https://finnhub.io/api/news?id=230b76a78437121aab06b6d67d0ac68d24e700a28436fa3cfe96162569eb096a) |
 | 11-12 19:30 | 1 | NVDA | Deal | Dow Jones Futures Rise After Market Weathers Nvidia CEO Huang's Exit, Surging Yields; SpaceX-Tesla Merger Deal Close | [link](https://finnhub.io/api/news?id=29a78bd2ce9f098216b8703032bc86519f8cb074a568e6fa2a4b610c7d8d0c9f) |
 | 11-12 19:30 | 2 | TSLA | Deal | Dow Jones Futures Rise After Market Weathers Nvidia CEO Huang's Exit, Surging Yields; SpaceX-Tesla Merger Deal Close | [link](https://finnhub.io/api/news?id=29a78bd2ce9f098216b8703032bc86519f8cb074a568e6fa2a4b610c7d8d0c9f) |
-| 11-12 17:49 | 1 | VST | Down 4.5% (after-hours) | VST -4.5% at 128.50 vs 134.51 close (after-hours, 17:10 ET) |  |
-| 11-12 17:49 | 1 | NVDA | Leadership | Alleged spy at center of Nvidia CEO affair reportedly being probed over Super Micro smuggling effort | [link](https://finnhub.io/api/news?id=e8b9a7cc3d8b49832b698c29acf47f50a6d13c0f21947eabc96f78bfee620349) |
-| 11-12 17:49 | 2 | SMCI | Leadership | Alleged spy at center of Nvidia CEO affair reportedly being probed over Super Micro smuggling effort | [link](https://finnhub.io/api/news?id=e8b9a7cc3d8b49832b698c29acf47f50a6d13c0f21947eabc96f78bfee620349) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
@@ -84,10 +81,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-13 08:56 | 2 | ALV | 8-K: 5.02 Executive/director change | 8-K - AUTOLIV INC (0001034670) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1034670/000119312526459325/0001193125-26-459325-index.htm) |
 | 11-13 08:56 | 2 | SIRI | 8-K: 5.02 Executive/director change | 8-K - SIRIUS XM HOLDINGS INC. (0000908937) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/908937/000090893726000030/0000908937-26-000030-index.htm) |
 | 11-13 06:39 | 2 | WFRD | 8-K: 1.01 Material agreement; 2.01 Acquisition/disposition completed; 5.02 Executive/director change | 8-K12B - Weatherford International Corp (0001603923) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1603923/000160392326000135/0001603923-26-000135-index.htm) |
-| 11-12 17:49 | 2 | HST | 8-K: 1.01 Material agreement | 8-K - HOST HOTELS & RESORTS, INC. (0001070750) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1070750/000162828026073508/0001628280-26-073508-index.htm) |
-| 11-12 17:49 | 2 | DBX | 8-K: 1.01 Material agreement | 8-K - DROPBOX, INC. (0001467623) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1467623/000110465926126351/0001104659-26-126351-index.htm) |
-| 11-12 17:49 | 2 | DINO | 8-K: 5.02 Executive/director change | 8-K - HF Sinclair Corp (0001915657) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1915657/000162828026073498/0001628280-26-073498-index.htm) |
-| 11-12 17:49 | 2 | AKAM | 8-K: 1.01 Material agreement | 8-K - AKAMAI TECHNOLOGIES INC (0001086222) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1086222/000119312526458699/0001193125-26-458699-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
