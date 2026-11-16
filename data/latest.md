@@ -1,5 +1,5 @@
 # Trading desk data — close pull
-Generated 2026-11-16 16:24 ET (2026-11-16 21:24 UTC). Filings/news since 2026-11-12.
+Generated 2026-11-16 16:45 ET (2026-11-16 21:45 UTC). Filings/news since 2026-11-12.
 
 Use these numbers as the price source. A price marked ✓ matched two sources (Yahoo + Finnhub) within 0.5%; ✗ means single-source — label orders based on it UNVERIFIED PRICE.
 
@@ -18,25 +18,25 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 | Tracked | AVGO | 2026-11-16 | 333.40 | ✓ | -3.92 | 4.36 | 1.41 | -12.26 | -32.65 | 0.93 |
 | Tracked | TSLA | 2026-11-16 | 379.74 | ✓ | -2.69 | 0.45 | 7.05 | 12.73 | -23.87 | 0.75 |
 | Tracked | BRK-B | 2026-11-16 | 592.85 | ✓ | -0.02 | 3.06 | 11.43 | 17.87 | -0.68 | 0.71 |
-| Tracked | LLY | 2026-11-16 | 1,431.67 | ✓ | -0.82 | 1.40 | 13.89 | 16.80 | -2.95 | 0.85 |
+| Tracked | LLY | 2026-11-16 | 1,431.67 | ✓ | -0.82 | 1.40 | 13.89 | 16.80 | -2.95 | 1.03 |
 | Tracked | JPM | 2026-11-16 | 338.21 | ✓ | -2.31 | -1.13 | -0.44 | -6.89 | -7.72 | 1.11 |
 | Tracked | V | 2026-11-16 | 426.46 | ✓ | 0.16 | 1.02 | 5.92 | 17.08 | -3.57 | 1.06 |
 | Tracked | MA | 2026-11-16 | 661.71 | ✓ | 0.08 | 0.90 | 7.17 | 15.22 | -2.97 | 0.71 |
 | Tracked | UNH | 2026-11-16 | 412.02 | ✓ | 1.12 | 3.62 | 2.64 | 4.59 | -10.74 | 0.89 |
-| Tracked | XOM | 2026-11-16 | 166.87 | ✓ | -2.18 | 1.30 | -6.77 | 0.79 | -11.47 | 0.79 |
-| Tracked | ORCL | 2026-11-16 | 119.09 | ✓ | -4.99 | -0.58 | -7.13 | -16.60 | -52.41 | 0.47 |
+| Tracked | XOM | 2026-11-16 | 166.87 | ✓ | -2.18 | 1.30 | -6.77 | 0.79 | -11.47 | 0.88 |
+| Tracked | ORCL | 2026-11-16 | 119.09 | ✓ | -4.99 | -0.58 | -7.13 | -16.60 | -52.41 | 0.48 |
 | Tracked | COST | 2026-11-16 | 1,113.74 | ✓ | 0.68 | 4.46 | 12.60 | 15.85 | -0.29 | 1.24 |
 | Tracked | WMT | 2026-11-16 | 128.41 | ✓ | 0.25 | 2.19 | 8.08 | 11.47 | -4.99 | 0.80 |
 | Tracked | HD | 2026-11-16 | 347.51 | ✓ | -0.34 | -1.67 | 12.23 | 2.97 | -12.60 | 1.28 |
-| Tracked | PG | 2026-11-16 | 173.02 | ✓ | 1.90 | 2.79 | 8.58 | 20.61 | -0.32 | 1.24 |
+| Tracked | PG | 2026-11-16 | 173.02 | ✓ | 1.90 | 2.79 | 8.58 | 20.61 | -0.32 | 1.30 |
 | Tracked | JNJ | 2026-11-16 | 282.55 | ✓ | -1.12 | 0.16 | 10.56 | 4.22 | -2.65 | 1.05 |
 | Tracked | NFLX | 2026-11-16 | 60.75 | ✓ | -2.25 | -5.00 | -13.87 | -21.89 | -47.29 | 0.78 |
-| Tracked | ABBV | 2026-11-16 | 294.55 | ✓ | -0.16 | 0.43 | 3.20 | 13.76 | -2.77 | 0.70 |
+| Tracked | ABBV | 2026-11-16 | 294.55 | ✓ | -0.16 | 0.43 | 3.20 | 13.76 | -2.77 | 0.91 |
 | Tracked | BAC | 2026-11-16 | 50.08 | ✓ | -1.84 | -0.93 | -2.24 | -22.03 | -23.23 | 0.86 |
 | Tracked | CRM | 2026-11-16 | 214.83 | ✓ | -1.38 | -0.05 | -10.75 | 9.53 | -20.17 | 0.78 |
 | Tracked | KO | 2026-11-16 | 99.48 | ✓ | 0.23 | 3.59 | 5.94 | 12.00 | -1.07 | 1.01 |
-| Tracked | MRK | 2026-11-16 | 144.46 | ✓ | -2.23 | -2.89 | -1.02 | 6.87 | -7.94 | 0.77 |
-| Tracked | CVX | 2026-11-16 | 217.14 | ✓ | -1.25 | 3.02 | -3.49 | 5.54 | -8.18 | 0.68 |
+| Tracked | MRK | 2026-11-16 | 144.46 | ✓ | -2.23 | -2.89 | -1.02 | 6.87 | -7.94 | 0.86 |
+| Tracked | CVX | 2026-11-16 | 217.14 | ✓ | -1.25 | 3.02 | -3.49 | 5.54 | -8.18 | 0.73 |
 | Tracked | AMD | 2026-11-16 | 504.28 | ✓ | -5.58 | -0.85 | -4.63 | 4.11 | -23.42 | 1.03 |
 | Tracked | PEP | 2026-11-16 | 146.43 | ✓ | 0.68 | 3.21 | 11.36 | 4.50 | -14.61 | 1.12 |
 | Tracked | ADBE | 2026-11-16 | 246.00 | ✓ | 1.20 | 3.66 | 0.33 | -6.51 | -32.18 | 0.96 |
@@ -45,12 +45,12 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 | Tracked | CSCO | 2026-11-16 | 94.52 | ✓ | -1.17 | -4.19 | -11.98 | -15.31 | -27.50 | 0.92 |
 | Tracked | ACN | 2026-11-16 | 247.70 | ✓ | -1.11 | -2.62 | 7.85 | 43.24 | -14.91 | 0.61 |
 | Tracked | MCD | 2026-11-16 | 274.67 | ✓ | 0.99 | -2.41 | 13.05 | 2.88 | -19.63 | 1.03 |
-| Tracked | ABT | 2026-11-16 | 107.45 | ✓ | -0.99 | -2.77 | 2.44 | -4.64 | -18.62 | 0.83 |
-| Tracked | WFC | 2026-11-16 | 84.84 | ✓ | -1.41 | -0.76 | 1.16 | -2.93 | -13.22 | 0.63 |
+| Tracked | ABT | 2026-11-16 | 107.45 | ✓ | -0.99 | -2.77 | 2.44 | -4.64 | -18.62 | 0.91 |
+| Tracked | WFC | 2026-11-16 | 84.84 | ✓ | -1.41 | -0.76 | 1.16 | -2.93 | -13.22 | 0.72 |
 | Tracked | IBM | 2026-11-16 | 242.51 | ✓ | -1.87 | -1.46 | 4.47 | 4.23 | -27.06 | 1.04 |
 | Tracked | GE | 2026-11-16 | 325.18 | ✓ | -2.00 | -3.09 | 3.62 | -13.31 | -16.37 | 0.62 |
 | Tracked | QCOM | 2026-11-16 | 168.52 | ✓ | -2.29 | -1.72 | -2.09 | 5.20 | -35.16 | 0.84 |
-| Tracked | DIS | 2026-11-16 | 118.70 | ✓ | -0.23 | -0.35 | 7.33 | 14.19 | -1.74 | 1.52 |
+| Tracked | DIS | 2026-11-16 | 118.70 | ✓ | -0.23 | -0.35 | 7.33 | 14.19 | -1.74 | 1.59 |
 | Tracked | TXN | 2026-11-16 | 294.21 | ✓ | -3.09 | -0.51 | 6.41 | 8.07 | -11.92 | 0.72 |
 | Tracked | INTU | 2026-11-16 | 345.56 | ✓ | 1.13 | 2.17 | 6.28 | -1.38 | -49.35 | 0.81 |
 | Tracked | AMGN | 2026-11-16 | 462.32 | ✓ | -0.72 | -0.63 | 6.90 | 8.71 | -4.48 | 0.68 |
@@ -60,21 +60,21 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 | Tracked | ISRG | 2026-11-16 | 437.75 | ✓ | -1.32 | -4.95 | 2.59 | 11.91 | -27.51 | 0.65 |
 | Tracked | NOW | 2026-11-16 | 99.37 | ✓ | -2.82 | -3.30 | -30.01 | -16.84 | -43.22 | 0.54 |
 | Tracked | GS | 2026-11-16 | 891.54 | ✓ | -2.73 | -1.62 | 1.17 | -14.31 | -22.74 | 1.98 |
-| Tracked | MS | 2026-11-16 | 185.57 | ✓ | -2.66 | -0.82 | 2.77 | -14.70 | -20.10 | 0.86 |
+| Tracked | MS | 2026-11-16 | 185.57 | ✓ | -2.66 | -0.82 | 2.77 | -14.70 | -20.10 | 0.89 |
 | Tracked | SPGI | 2026-11-16 | 471.59 | ✓ | -0.42 | 0.11 | 9.76 | 12.81 | -9.74 | 0.56 |
 | Tracked | UBER | 2026-11-16 | 69.99 | ✓ | 0.43 | -1.66 | -0.51 | -6.26 | -24.68 | 0.76 |
-| Tracked | PFE | 2026-11-16 | 28.86 | ✓ | -0.10 | -1.27 | -2.43 | 5.91 | -8.21 | 0.85 |
+| Tracked | PFE | 2026-11-16 | 28.86 | ✓ | -0.10 | -1.27 | -2.43 | 5.91 | -8.21 | 0.87 |
 | Tracked | RTX | 2026-11-16 | 194.89 | ✓ | -1.86 | -0.72 | 0.50 | -13.57 | -14.10 | 0.61 |
-| Tracked | T | 2026-11-16 | 22.36 | ✓ | 0.81 | 2.57 | -4.61 | -10.20 | -24.05 | 0.79 |
+| Tracked | T | 2026-11-16 | 22.36 | ✓ | 0.81 | 2.57 | -4.61 | -10.20 | -24.05 | 0.85 |
 | Tracked | BKNG | 2026-11-16 | 157.53 | ✓ | -1.28 | -3.65 | -3.62 | -24.36 | -28.66 | 0.66 |
-| Tracked | AXP | 2026-11-16 | 319.05 | ✓ | -0.48 | -1.62 | 1.74 | -5.75 | -17.66 | 0.61 |
-| Tracked | LOW | 2026-11-16 | 224.93 | ✓ | -1.23 | -3.09 | 13.96 | 4.31 | -23.25 | 1.10 |
+| Tracked | AXP | 2026-11-16 | 319.05 | ✓ | -0.48 | -1.62 | 1.74 | -5.75 | -17.66 | 0.77 |
+| Tracked | LOW | 2026-11-16 | 224.93 | ✓ | -1.23 | -3.09 | 13.96 | 4.31 | -23.25 | 1.15 |
 | Tracked | HON | 2026-11-16 | 217.95 | ✓ | -2.03 | -4.83 | 3.09 | -4.29 | -16.26 | 0.79 |
 | Tracked | UNP | 2026-11-16 | 303.71 | ✓ | 0.42 | 2.26 | 5.08 | 1.66 | -3.89 | 1.51 |
 | Tracked | BLK | 2026-11-16 | 1,197.97 | ✓ | -2.04 | -1.38 | 5.61 | 3.78 | -3.55 | 1.17 |
 | Tracked | NEE | 2026-11-16 | 85.34 | ✓ | 0.26 | -1.75 | 6.94 | -1.02 | -13.58 | 0.88 |
-| Tracked | SYK | 2026-11-16 | 310.72 | ✓ | 0.35 | -4.61 | 5.45 | -6.23 | -20.19 | 0.75 |
-| Tracked | PLD | 2026-11-16 | 127.60 | ✓ | -0.83 | -2.26 | 1.47 | -8.87 | -16.79 | 0.63 |
+| Tracked | SYK | 2026-11-16 | 310.72 | ✓ | 0.35 | -4.61 | 5.45 | -6.23 | -20.19 | 0.76 |
+| Tracked | PLD | 2026-11-16 | 127.60 | ✓ | -0.83 | -2.26 | 1.47 | -8.87 | -16.79 | 0.82 |
 | Tracked | COP | 2026-11-16 | 140.52 | ✓ | -1.24 | 4.50 | -4.09 | 8.33 | -8.92 | 1.32 |
 | Tracked | DE | 2026-11-16 | 653.99 | ✓ | -2.90 | -5.39 | 1.89 | 11.09 | -9.32 | 0.92 |
 | Tracked | ETN | 2026-11-16 | 336.88 | ✓ | -4.56 | -6.24 | -13.90 | -21.90 | -29.52 | 0.84 |
@@ -93,13 +93,13 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 | Tracked | CVS | 2026-11-16 | 88.59 | ✓ | -0.85 | 3.92 | -4.08 | -6.66 | -19.96 | 1.01 |
 | Tracked | CI | 2026-11-16 | 300.16 | ✓ | 1.06 | 1.54 | -0.71 | 7.78 | -5.62 | 0.79 |
 | Tracked | ELV | 2026-11-16 | 446.28 | ✓ | 3.86 | 6.70 | 4.21 | 12.05 | -0.98 | 1.66 |
-| Tracked | MO | 2026-11-16 | 78.90 | ✓ | 0.33 | 4.08 | 5.05 | 21.03 | -1.34 | 0.76 |
+| Tracked | MO | 2026-11-16 | 78.90 | ✓ | 0.33 | 4.08 | 5.05 | 21.03 | -1.34 | 0.81 |
 | Tracked | SCHW | 2026-11-16 | 92.94 | ✓ | -0.04 | 0.23 | 1.07 | -16.78 | -18.85 | 1.22 |
-| Tracked | C | 2026-11-16 | 121.32 | ✓ | -2.17 | -0.53 | -2.37 | -11.86 | -18.00 | 0.87 |
+| Tracked | C | 2026-11-16 | 121.32 | ✓ | -2.17 | -0.53 | -2.37 | -11.86 | -18.00 | 0.97 |
 | Tracked | SBUX | 2026-11-16 | 108.72 | ✓ | 2.14 | -0.66 | 11.48 | 2.56 | -2.49 | 0.99 |
 | Tracked | NKE | 2026-11-16 | 38.26 | ✓ | 0.71 | -4.06 | 3.04 | -4.49 | -44.66 | 0.87 |
 | Tracked | LULU | 2026-11-16 | 105.46 | ✓ | -0.18 | -6.28 | 8.61 | -11.39 | -53.33 | 0.79 |
-| Tracked | TJX | 2026-11-16 | 131.09 | ✓ | -2.44 | -5.10 | -11.02 | -13.10 | -22.89 | 1.91 |
+| Tracked | TJX | 2026-11-16 | 131.09 | ✓ | -2.44 | -5.10 | -11.02 | -13.10 | -22.89 | 1.97 |
 | Tracked | ORLY | 2026-11-16 | 92.70 | ✓ | 0.55 | 3.24 | 3.84 | 2.14 | -9.53 | 0.85 |
 | Tracked | MCK | 2026-11-16 | 1,105.04 | ✓ | 0.20 | 4.31 | 9.97 | 27.12 | -1.47 | 0.98 |
 | Tracked | PLTR | 2026-11-16 | 160.39 | ✓ | -4.52 | -5.21 | -13.78 | -6.50 | -24.68 | 0.71 |
@@ -131,7 +131,7 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 | Tracked | SPCX | 2026-11-16 | 137.36 | ✓ | -1.26 | -3.32 | -5.94 | -4.17 | -39.12 | 0.89 |
 | Tracked | ADP | 2026-11-16 | 313.43 | ✓ | 1.13 | 3.76 | 8.49 | 16.38 | -0.86 | 1.08 |
 | Tracked | PGR | 2026-11-16 | 237.33 | ✓ | 0.66 | 4.31 | 8.62 | 14.52 | -1.53 | 0.73 |
-| Tracked | BX | 2026-11-16 | 117.01 | ✓ | -2.65 | -5.68 | 9.76 | -16.77 | -29.14 | 0.63 |
+| Tracked | BX | 2026-11-16 | 117.01 | ✓ | -2.65 | -5.68 | 9.76 | -16.77 | -29.14 | 0.79 |
 | Tracked | KKR | 2026-11-16 | 95.47 | ✓ | -2.63 | -2.67 | 10.74 | -10.93 | -34.09 | 1.11 |
 | Tracked | MELI | 2026-11-16 | 1,462.12 | ✓ | -1.97 | -4.60 | -20.28 | -17.82 | -37.57 | 0.72 |
 | Tracked | ETN | 2026-11-16 | 336.88 | ✓ | -4.56 | -6.24 | -13.90 | -21.90 | -29.52 | 0.84 |
@@ -145,13 +145,14 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 | Tracked | SOUN | 2026-11-16 | 3.23 | ✓ | -7.45 | -20.25 | -31.57 | -53.79 | -75.51 | 1.13 |
 | Tracked | ACHR | 2026-11-16 | 3.74 | ✓ | -7.20 | -22.25 | -8.11 | -40.82 | -59.74 | 1.50 |
 | Tracked | OKLO | 2026-11-16 | 23.03 | ✓ | -3.72 | -14.20 | -17.66 | -44.32 | -80.10 | 0.63 |
-| Benchmark | SPY | 2026-11-16 | 739.96 | ✓ | -1.91 | -1.69 | -3.05 | -3.58 | -5.33 | 1.39 |
+| Benchmark | SPY | 2026-11-16 | 739.95 | ✓ | -1.91 | -1.69 | -3.05 | -3.58 | -5.33 | 1.39 |
 | Benchmark | QQQ | 2026-11-16 | 661.75 | ✓ | -2.67 | -2.59 | -6.77 | -7.77 | -13.25 | 0.84 |
 
 ## SEC filings
 - **NVDA** 8-K (2026-11-12) — 5.02 Executive/director change; 9.01 Exhibits — [filing](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm)
 - **AMZN** SCHEDULE 13G (2026-11-12) — [filing](https://www.sec.gov/Archives/edgar/data/1018724/000110465926126255/xslSCHEDULE_13G_X02/primary_doc.xml)
 - **META** 8-K (2026-11-12) — 8.01 Other events; 9.01 Exhibits — [filing](https://www.sec.gov/Archives/edgar/data/1326801/000119312526458525/d177728d8k.htm)
+- **JPM** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/19617/000121390026120698/ea0312335-01_424b2.htm)
 - **JPM** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/19617/000191870426035736/form424b2.htm)
 - **JPM** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/19617/000191870426035732/form424b2.htm)
 - **JPM** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/19617/000121390026120546/ea0312414-01_424b2.htm)
@@ -406,6 +407,15 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 - **JPM** 424B2 (2026-11-12) — [filing](https://www.sec.gov/Archives/edgar/data/19617/000121390026118181/ea0311781-01_424b2.htm)
 - **JPM** 424B2 (2026-11-12) — [filing](https://www.sec.gov/Archives/edgar/data/19617/000121390026118172/ea0311757-01_424b2.htm)
 - **WMT** 8-K (2026-11-16) — 5.02 Executive/director change; 9.01 Exhibits — [filing](https://www.sec.gov/Archives/edgar/data/104169/000010416926000165/wmt-20261113.htm)
+- **BAC** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426035750/form424b2.htm)
+- **BAC** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426035748/form424b2.htm)
+- **BAC** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426035747/form424b2.htm)
+- **BAC** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426035746/form424b2.htm)
+- **BAC** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426035743/form424b2.htm)
+- **BAC** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426035742/form424b2.htm)
+- **BAC** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426035740/form424b2.htm)
+- **BAC** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426035739/form424b2.htm)
+- **BAC** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426035738/form424b2.htm)
 - **BAC** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426035737/form424b2.htm)
 - **BAC** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426035735/form424b2.htm)
 - **BAC** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426035733/form424b2.htm)
@@ -566,6 +576,7 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 - **WFC** 424B2 (2026-11-12) — [filing](https://www.sec.gov/Archives/edgar/data/72971/000183988226056040/r10976wfc_424b2-38237.htm)
 - **WFC** 424B2 (2026-11-12) — [filing](https://www.sec.gov/Archives/edgar/data/72971/000183988226056037/r10978wfc_424b2-38216.htm)
 - **QCOM** 8-K (2026-11-13) — 1.01 Material agreement; 8.01 Other events; 9.01 Exhibits — [filing](https://www.sec.gov/Archives/edgar/data/804328/000110465926127163/tm2629667d1_8k.htm)
+- **GS** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526463606/basmm002_prelim.htm)
 - **GS** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526463556/gs-20261116.htm)
 - **GS** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526463417/worsx383_prelim.htm)
 - **GS** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526463374/gs-20261116.htm)
@@ -710,6 +721,7 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 - **GS** 424B2 (2026-11-12) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526457313/spxdd007_auto_prelim.htm)
 - **GS** 424B2 (2026-11-12) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526457270/gs-20261112.htm)
 - **GS** 424B2 (2026-11-12) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526457150/wosno006_prelim.htm)
+- **MS** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226056740/ms19639_424b2-38830.htm)
 - **MS** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226056738/ms19621_424b2-38831.htm)
 - **MS** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226056736/ms20051_424b2-38827.htm)
 - **MS** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226056734/ms20032_424b2-38826.htm)
@@ -903,6 +915,8 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 - **VRTX** SCHEDULE 13G/A (2026-11-13) — [filing](https://www.sec.gov/Archives/edgar/data/875320/000142284826000142/xslSCHEDULE_13G_X02/primary_doc.xml)
 - **SCHW** 8-K (2026-11-12) — 8.01 Other events; 9.01 Exhibits — [filing](https://www.sec.gov/Archives/edgar/data/316709/000119312526458663/d82828d8k.htm)
 - **SCHW** 424B5 (2026-11-12) — [filing](https://www.sec.gov/Archives/edgar/data/316709/000119312526456746/d130223d424b5.htm)
+- **C** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/831001/000191870426035749/form424b2.htm)
+- **C** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326017569/dp256926_424b2-us26s2219d.htm)
 - **C** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326017556/dp256925_424b2-us26t0495d.htm)
 - **C** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/831001/000191870426035717/form424b2.htm)
 - **C** 424B2 (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326017546/dp256951_424b2-us26t0053d.htm)
@@ -1008,6 +1022,7 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 - **TSM** 6-K (2026-11-12) — [filing](https://www.sec.gov/Archives/edgar/data/1046179/000104617926000800/a20261112statementregardin.htm)
 - **VST** 8-K (2026-11-16) — 7.01 Reg FD disclosure — [filing](https://www.sec.gov/Archives/edgar/data/1692819/000114036126044139/ef20085745_8k.htm)
 - **DECK** SCHEDULE 13G (2026-11-13) — [filing](https://www.sec.gov/Archives/edgar/data/910521/000116755726000274/xslSCHEDULE_13G_X02/primary_doc.xml)
+- **SPCX** SCHEDULE 13G/A (2026-11-16) — [filing](https://www.sec.gov/Archives/edgar/data/1181412/000121390026120715/xslSCHEDULE_13G_X02/primary_doc.xml)
 - **SPCX** SCHEDULE 13G/A (2026-11-13) — [filing](https://www.sec.gov/Archives/edgar/data/1181412/000142601226000007/xslSCHEDULE_13G_X02/primary_doc.xml)
 - **ADP** 8-K (2026-11-16) — 5.07 Shareholder vote — [filing](https://www.sec.gov/Archives/edgar/data/8670/000095014226003058/eh260855509_8k.htm)
 - **KKR** SCHEDULE 13G (2026-11-13) — [filing](https://www.sec.gov/Archives/edgar/data/1404912/000156223026000143/xslSCHEDULE_13G_X02/primary_doc.xml)
@@ -1032,6 +1047,7 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 - **JNJ** 2026-11-13 · Forminard Elizabeth (EVP, Chief Legal Officer) · open-market sale · 13,072 sh @ $284.39 = $3.7M
 - **ABBV** 2026-11-12 · Stewart Jeffrey Ryan (EVP, CHIEF COMMERCIAL OFFICER) · open-market sale · 40,619 sh @ $293.60 = $11.9M
 - **KO** 2026-11-13 · Quan Nancy (Executive Vice President) · open-market sale · 15,000 sh @ $98.00 = $1.5M
+- **MRK** 2026-11-16 · Deluca Richard R. (EVP&Pres, Merck Animal Heallth) · open-market sale · 58,185 sh @ $148.01 = $8.6M
 - **CVX** 2026-11-13 · Booth Thomas Ryder (Chief Technology & Eng Ofr) · open-market sale · 6,000 sh @ $212.14 = $1.3M
 - **CVX** 2026-11-12 · Nelson Mark A (Vice Chairman) · open-market sale · 81,900 sh @ $210.47 = $17.2M
 - **CVX** 2026-11-12 · Nelson Mark A (Vice Chairman) · open-market sale · 30,100 sh @ $210.48 = $6.3M
@@ -1048,6 +1064,7 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 - **BLK** 2026-11-12 · Lord Rachel (Senior Managing Director) · open-market sale · 4,921 sh @ $1,219.81 = $6.0M
 - **BLK** 2026-11-12 · Lord Rachel (Senior Managing Director) · open-market sale · 208 sh @ $1,220.74 = $253.9K
 - **KLAC** 2026-11-12 · Wallace Richard P (President and CEO) · open-market sale (10b5-1 plan) · 72,014 sh @ $149.02 = $10.7M
+- **VRTX** 2026-11-16 · Wagner Charles F Jr (EVP, CO & FO) · open-market sale (10b5-1 plan) · 15,286 sh @ $547.87 = $8.4M
 - **GILD** 2026-11-16 · Kramer Kelly A. (Director) · open-market sale (10b5-1 plan) · 1,676 sh @ $168.23 = $281.9K
 - **GILD** 2026-11-16 · Kramer Kelly A. (Director) · open-market sale (10b5-1 plan) · 3,800 sh @ $169.44 = $643.9K
 - **GILD** 2026-11-16 · Kramer Kelly A. (Director) · open-market sale (10b5-1 plan) · 4,700 sh @ $170.49 = $801.3K
@@ -1630,14 +1647,14 @@ Estimate revisions build up from daily snapshots, so they fill in after the pipe
 | RBLX | -36.21 | — | 8.18 | 50.30 | 9.06 | 33.00–80.00 | buy (34) | 2.70 |
 | DASH | 22.26 | 70.45 | 0.97 | 250.39 | 47.48 | 200.00–340.00 | strong_buy (38) | 3.80 |
 | ABNB | 29.28 | 34.93 | 1.60 | 205.44 | 10.34 | 147.00–245.00 | buy (39) | 3.10 |
-| NVO | 11.84 | 10.51 | 4.31 | 45.40 | 9.13 | 39.46–64.12 | hold (12) | 1.20 |
+| NVO | 11.84 | 10.51 | 4.31 | 45.41 | 9.17 | 39.47–64.14 | hold (12) | 1.20 |
 | HIMS | 45.94 | — | 1.80 | 28.31 | 52.52 | 23.00–40.00 | hold (13) | 26.50 |
 | RKLB | 801.48 | — | — | 93.15 | 62.37 | 58.00–127.00 | buy (20) | 7.30 |
 | IONQ | -18.62 | 15.29 | — | 54.27 | 105.20 | 40.00–70.00 | strong_buy (14) | 11.80 |
 | SMCI | 3.60 | 5.28 | 0.91 | 43.60 | 74.26 | 18.00–65.00 | hold (15) | 12.70 |
 | ARM | 56.93 | 201.21 | 1.55 | 272.43 | 55.63 | 125.00–500.00 | buy (40) | 10.70 |
 | TSM | 15.97 | 24.20 | 0.72 | 586.69 | 57.10 | 440.00–1,000.00 | strong_buy (20) | 0.70 |
-| ASML | 22.19 | 34.62 | 0.79 | 2,109.75 | 49.97 | 851.00–2,795.47 | strong_buy (17) | 0.30 |
+| ASML | 22.19 | 34.62 | 0.79 | 2,109.51 | 49.95 | 850.90–2,795.17 | strong_buy (17) | 0.30 |
 | VST | 13.90 | 17.59 | 0.38 | 200.05 | 53.70 | 106.00–306.00 | strong_buy (22) | 3.50 |
 | CEG | 20.68 | 22.33 | 3.74 | 338.25 | 21.75 | 240.00–399.00 | buy (23) | 3.30 |
 | FIX | 15.75 | 22.84 | 0.34 | 1,808.50 | 70.99 | 1,050.00–2,053.00 | strong_buy (10) | 2.90 |

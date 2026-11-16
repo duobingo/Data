@@ -1,7 +1,7 @@
 {
  "mode": "close",
- "generated_utc": "2026-11-16 21:24",
- "generated_et": "2026-11-16 16:24",
+ "generated_utc": "2026-11-16 21:45",
+ "generated_et": "2026-11-16 16:45",
  "since": "2026-11-12",
  "prices": {
   "AAPL": {
@@ -159,7 +159,7 @@
    "52w_high": 1475.25,
    "52w_low": 850.51,
    "from_52w_high_pct": -2.95,
-   "vol_vs_20d": 0.85,
+   "vol_vs_20d": 1.03,
    "finnhub_last": 1431.67,
    "finnhub_prev_close": 1443.5,
    "verified": true
@@ -239,7 +239,7 @@
    "52w_high": 188.5,
    "52w_low": 114.19,
    "from_52w_high_pct": -11.47,
-   "vol_vs_20d": 0.79,
+   "vol_vs_20d": 0.88,
    "finnhub_last": 166.87,
    "finnhub_prev_close": 170.59,
    "verified": true
@@ -255,7 +255,7 @@
    "52w_high": 250.25,
    "52w_low": 109.21,
    "from_52w_high_pct": -52.41,
-   "vol_vs_20d": 0.47,
+   "vol_vs_20d": 0.48,
    "finnhub_last": 119.09,
    "finnhub_prev_close": 125.35,
    "verified": true
@@ -319,7 +319,7 @@
    "52w_high": 173.57,
    "52w_low": 137.62,
    "from_52w_high_pct": -0.32,
-   "vol_vs_20d": 1.24,
+   "vol_vs_20d": 1.3,
    "finnhub_last": 173.02,
    "finnhub_prev_close": 169.8,
    "verified": true
@@ -367,7 +367,7 @@
    "52w_high": 302.93,
    "52w_low": 190.75,
    "from_52w_high_pct": -2.77,
-   "vol_vs_20d": 0.7,
+   "vol_vs_20d": 0.91,
    "finnhub_last": 294.55,
    "finnhub_prev_close": 295.03,
    "verified": true
@@ -431,7 +431,7 @@
    "52w_high": 156.92,
    "52w_low": 92.11,
    "from_52w_high_pct": -7.94,
-   "vol_vs_20d": 0.77,
+   "vol_vs_20d": 0.86,
    "finnhub_last": 144.46,
    "finnhub_prev_close": 147.76,
    "verified": true
@@ -447,7 +447,7 @@
    "52w_high": 236.48,
    "52w_low": 146.49,
    "from_52w_high_pct": -8.18,
-   "vol_vs_20d": 0.68,
+   "vol_vs_20d": 0.73,
    "finnhub_last": 217.14,
    "finnhub_prev_close": 219.89,
    "verified": true
@@ -591,7 +591,7 @@
    "52w_high": 132.03,
    "52w_low": 81.97,
    "from_52w_high_pct": -18.62,
-   "vol_vs_20d": 0.83,
+   "vol_vs_20d": 0.91,
    "finnhub_last": 107.45,
    "finnhub_prev_close": 108.52,
    "verified": true
@@ -607,7 +607,7 @@
    "52w_high": 97.76,
    "52w_low": 72.78,
    "from_52w_high_pct": -13.22,
-   "vol_vs_20d": 0.63,
+   "vol_vs_20d": 0.72,
    "finnhub_last": 84.84,
    "finnhub_prev_close": 86.05,
    "verified": true
@@ -671,7 +671,7 @@
    "52w_high": 120.8,
    "52w_low": 92.19,
    "from_52w_high_pct": -1.74,
-   "vol_vs_20d": 1.52,
+   "vol_vs_20d": 1.59,
    "finnhub_last": 118.7,
    "finnhub_prev_close": 118.97,
    "verified": true
@@ -831,7 +831,7 @@
    "52w_high": 232.25,
    "52w_low": 152.8,
    "from_52w_high_pct": -20.1,
-   "vol_vs_20d": 0.86,
+   "vol_vs_20d": 0.89,
    "finnhub_last": 185.57,
    "finnhub_prev_close": 190.65,
    "verified": true
@@ -879,7 +879,7 @@
    "52w_high": 31.44,
    "52w_low": 23.62,
    "from_52w_high_pct": -8.21,
-   "vol_vs_20d": 0.85,
+   "vol_vs_20d": 0.87,
    "finnhub_last": 28.86,
    "finnhub_prev_close": 28.89,
    "verified": true
@@ -911,7 +911,7 @@
    "52w_high": 29.44,
    "52w_low": 19.89,
    "from_52w_high_pct": -24.05,
-   "vol_vs_20d": 0.79,
+   "vol_vs_20d": 0.85,
    "finnhub_last": 22.36,
    "finnhub_prev_close": 22.18,
    "verified": true
@@ -943,7 +943,7 @@
    "52w_high": 387.49,
    "52w_low": 290.97,
    "from_52w_high_pct": -17.66,
-   "vol_vs_20d": 0.61,
+   "vol_vs_20d": 0.77,
    "finnhub_last": 319.05,
    "finnhub_prev_close": 320.6,
    "verified": true
@@ -959,7 +959,7 @@
    "52w_high": 293.06,
    "52w_low": 178.45,
    "from_52w_high_pct": -23.25,
-   "vol_vs_20d": 1.1,
+   "vol_vs_20d": 1.15,
    "finnhub_last": 224.93,
    "finnhub_prev_close": 227.73,
    "verified": true
@@ -1039,7 +1039,7 @@
    "52w_high": 389.33,
    "52w_low": 267.0,
    "from_52w_high_pct": -20.19,
-   "vol_vs_20d": 0.75,
+   "vol_vs_20d": 0.76,
    "finnhub_last": 310.72,
    "finnhub_prev_close": 309.64,
    "verified": true
@@ -1055,7 +1055,7 @@
    "52w_high": 153.35,
    "52w_low": 121.4,
    "from_52w_high_pct": -16.79,
-   "vol_vs_20d": 0.63,
+   "vol_vs_20d": 0.82,
    "finnhub_last": 127.6,
    "finnhub_prev_close": 128.67,
    "verified": true
@@ -1359,7 +1359,7 @@
    "52w_high": 79.97,
    "52w_low": 54.7,
    "from_52w_high_pct": -1.34,
-   "vol_vs_20d": 0.76,
+   "vol_vs_20d": 0.81,
    "finnhub_last": 78.9,
    "finnhub_prev_close": 78.64,
    "verified": true
@@ -1391,7 +1391,7 @@
    "52w_high": 147.96,
    "52w_low": 95.83,
    "from_52w_high_pct": -18.0,
-   "vol_vs_20d": 0.87,
+   "vol_vs_20d": 0.97,
    "finnhub_last": 121.32,
    "finnhub_prev_close": 124.01,
    "verified": true
@@ -1455,7 +1455,7 @@
    "52w_high": 170.0,
    "52w_low": 122.78,
    "from_52w_high_pct": -22.89,
-   "vol_vs_20d": 1.91,
+   "vol_vs_20d": 1.97,
    "finnhub_last": 131.09,
    "finnhub_prev_close": 134.37,
    "verified": true
@@ -1967,7 +1967,7 @@
    "52w_high": 165.14,
    "52w_low": 101.73,
    "from_52w_high_pct": -29.14,
-   "vol_vs_20d": 0.63,
+   "vol_vs_20d": 0.79,
    "finnhub_last": 117.01,
    "finnhub_prev_close": 120.19,
    "verified": true
@@ -2103,7 +2103,7 @@
   "SPY": {
    "ticker": "SPY",
    "close_date": "2026-11-16",
-   "close": 739.96,
+   "close": 739.95,
    "day_pct": -1.91,
    "5d_pct": -1.69,
    "1m_pct": -3.05,
@@ -2191,6 +2191,33 @@
    }
   ],
   "AMZN": [
+   {
+    "form": "4",
+    "date": "2026-11-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000044/xslF345X06/wk-form4_1794864240.xml",
+    "description": "FORM 4",
+    "form4": {
+     "owner": "Bezos Jeffrey P",
+     "role": "Director, Executive Chair",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "G",
+       "type": "gift",
+       "shares": 674088.0,
+       "price": 0.0,
+       "value": 0
+      },
+      {
+       "code": "G",
+       "type": "gift",
+       "shares": 97404.0,
+       "price": 0.0,
+       "value": 0
+      }
+     ]
+    }
+   },
    {
     "form": "4",
     "date": "2026-11-12",
@@ -2317,6 +2344,12 @@
   "BRK-B": [],
   "LLY": [],
   "JPM": [
+   {
+    "form": "424B2",
+    "date": "2026-11-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026120698/ea0312335-01_424b2.htm",
+    "description": "PRICING SUPPLEMENT"
+   },
    {
     "form": "424B2",
     "date": "2026-11-16",
@@ -4078,6 +4111,60 @@
    {
     "form": "424B2",
     "date": "2026-11-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035750/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035748/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035747/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035746/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035743/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035742/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035740/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035739/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035738/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-16",
     "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035737/form424b2.htm",
     "description": "424B2"
    },
@@ -4834,7 +4921,35 @@
     }
    }
   ],
-  "MRK": [],
+  "MRK": [
+   {
+    "form": "4",
+    "date": "2026-11-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000252/xslF345X06/form4.xml",
+    "description": "PRIMARY DOCUMENT",
+    "form4": {
+     "owner": "Deluca Richard R.",
+     "role": "EVP&Pres, Merck Animal Heallth",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "M",
+       "type": "option exercise",
+       "shares": 58185.0,
+       "price": 77.62,
+       "value": 4516320
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 58185.0,
+       "price": 148.0085,
+       "value": 8611875
+      }
+     ]
+    }
+   }
+  ],
   "CVX": [
    {
     "form": "4",
@@ -5663,6 +5778,12 @@
   ],
   "NOW": [],
   "GS": [
+   {
+    "form": "424B2",
+    "date": "2026-11-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526463606/basmm002_prelim.htm",
+    "description": "424B2"
+   },
    {
     "form": "424B2",
     "date": "2026-11-16",
@@ -6533,6 +6654,12 @@
    }
   ],
   "MS": [
+   {
+    "form": "424B2",
+    "date": "2026-11-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226056740/ms19639_424b2-38830.htm",
+    "description": "PRICING SUPPLEMENT NO. 19,639"
+   },
    {
     "form": "424B2",
     "date": "2026-11-16",
@@ -7863,6 +7990,26 @@
   "REGN": [],
   "VRTX": [
    {
+    "form": "4",
+    "date": "2026-11-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/875320/000087532026000295/xslF345X06/wk-form4_1794864658.xml",
+    "description": "FORM 4",
+    "form4": {
+     "owner": "Wagner Charles F Jr",
+     "role": "EVP, CO & FO",
+     "10b5_1_plan": true,
+     "transactions": [
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 15286.0,
+       "price": 547.87,
+       "value": 8374741
+      }
+     ]
+    }
+   },
+   {
     "form": "SCHEDULE 13G/A",
     "date": "2026-11-13",
     "url": "https://www.sec.gov/Archives/edgar/data/875320/000142284826000142/xslSCHEDULE_13G_X02/primary_doc.xml",
@@ -7944,6 +8091,18 @@
    }
   ],
   "C": [
+   {
+    "form": "424B2",
+    "date": "2026-11-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426035749/form424b2.htm",
+    "description": "PRELIMINARY PRICING SUPPLEMENT"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326017569/dp256926_424b2-us26s2219d.htm",
+    "description": "PRICING SUPPLEMENT"
+   },
    {
     "form": "424B2",
     "date": "2026-11-16",
@@ -9514,6 +9673,12 @@
   "EME": [],
   "TMUS": [],
   "SPCX": [
+   {
+    "form": "SCHEDULE 13G/A",
+    "date": "2026-11-16",
+    "url": "https://www.sec.gov/Archives/edgar/data/1181412/000121390026120715/xslSCHEDULE_13G_X02/primary_doc.xml",
+    "description": ""
+   },
    {
     "form": "SCHEDULE 13G/A",
     "date": "2026-11-13",
@@ -19408,7 +19573,7 @@
    "short_pct": 0.030299999
   },
   "DIS": {
-   "fwd_pe": 15.866416,
+   "fwd_pe": 15.867265,
    "ttm_pe": 24.474226,
    "peg": 3.87,
    "target_mean": 126.78833,
@@ -20110,9 +20275,9 @@
    "fwd_pe": 11.843616,
    "ttm_pe": 10.50505,
    "peg": 4.31,
-   "target_mean": 45.399822,
-   "target_low": 39.460396,
-   "target_high": 64.12318,
+   "target_mean": 45.41332,
+   "target_low": 39.472126,
+   "target_high": 64.14224,
    "rating": "hold",
    "n_analysts": 12,
    "short_pct": 0.0121
@@ -20183,9 +20348,9 @@
    "fwd_pe": 22.189287,
    "ttm_pe": 34.615772,
    "peg": 0.79,
-   "target_mean": 2109.7456,
-   "target_low": 850.99554,
-   "target_high": 2795.4736,
+   "target_mean": 2109.5137,
+   "target_low": 850.9019,
+   "target_high": 2795.1663,
    "rating": "strong_buy",
    "n_analysts": 17,
    "short_pct": 0.003

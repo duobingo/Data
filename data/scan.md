@@ -1,4 +1,4 @@
-# Short-term scan — 2026-11-16 16:40 ET
+# Short-term scan — 2026-11-16 17:01 ET
 Universe: S&P 500 + S&P 400 (903 names, 909 priced). Filters: price ≥ $10, avg daily dollar volume ≥ $20M, no semiconductors, no names from the tracked list. These are candidates; check news, catalysts and the trading rules before proposing a trade.
 
 ## Market regime
@@ -72,14 +72,14 @@ How to use: for each loser, find the reason. If it's fear, a sector selloff or a
 |---|---|---|---|---|---|---|---|---|---|
 | BBWI | Bath & Body Works, Inc. · Consumer Discretionary | -9.91 | -0.89 | 1.38 | -4.32 | -22.70 | 40.8 | -2.63 |  |
 | DOCN | DigitalOcean · Information Technology | -8.62 | -6.63 | 0.9 | -20.07 | -57.90 | 37.2 | -30.21 |  |
-| SNDK | Sandisk · Information Technology | -8.58 | -6.5 | 1.19 | -37.73 | -65.60 | 31.3 | -36.97 |  |
-| LITE | Lumentum · Information Technology | -8.48 | -7.15 | 0.83 | -33.75 | -52.20 | 34.5 | -32.98 |  |
+| SNDK | Sandisk · Information Technology | -8.58 | -6.42 | 1.2 | -37.73 | -65.60 | 31.3 | -36.97 |  |
+| LITE | Lumentum · Information Technology | -8.48 | -7.2 | 0.83 | -33.75 | -52.20 | 34.5 | -32.98 |  |
 | CIEN | Ciena · Information Technology | -8.19 | -5.54 | 1.12 | -22.59 | -59.60 | 38.6 | -36.67 |  |
-| SMTC | Semtech · Information Technology | -8.11 | -7.85 | 0.88 | -22.99 | -47.90 | 38.7 | -17.00 | Semi |
+| SMTC | Semtech · Information Technology | -8.11 | -7.85 | 0.93 | -22.99 | -47.90 | 38.7 | -17.00 | Semi |
 | VICR | Vicor Corporation · Industrials | -7.88 | -7.64 | 0.56 | -23.49 | -61.70 | 36.2 | -35.56 |  |
-| TTMI | TTM Technologies · Information Technology | -7.87 | -5.78 | 1.33 | -27.30 | -69.50 | 37.8 | -46.19 |  |
-| BE | Bloom Energy · Industrials | -7.66 | -8.02 | 0.74 | -19.90 | -49.50 | 40.2 | -20.74 |  |
-| MU | Micron Technology · Information Technology | -7.62 | -5.56 | 0.94 | -18.19 | -42.70 | 38.0 | -6.27 | Tracked, Semi |
+| TTMI | TTM Technologies · Information Technology | -7.87 | -5.78 | 1.34 | -27.30 | -69.50 | 37.8 | -46.19 |  |
+| BE | Bloom Energy · Industrials | -7.66 | -8.02 | 0.75 | -19.90 | -49.50 | 40.2 | -20.74 |  |
+| MU | Micron Technology · Information Technology | -7.62 | -5.67 | 0.94 | -18.19 | -42.70 | 38.0 | -6.27 | Tracked, Semi |
 
 **Gainers**
 | Ticker | Company | Day % | Gap % | Vol × | 1m % | From 52w high % | RSI | vs 200-day % | Flags |
@@ -97,4 +97,4 @@ How to use: for each loser, find the reason. If it's fear, a sector selloff or a
 
 ## Data quality
 - insider: index 2026-11-11: 403 Client Error: Forbidden for url: https://www.sec.gov/Archives/edgar/daily-index/2026/QTR4/form.20261111.idx
-- insider: index 2026-11-16: 403 Client Error: Forbidden for url: https://www.sec.gov/Archives/edgar/daily-index/2026/QTR4/form.20261116.idx
+- insider: index 2026-11-16: HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out. (read timeout=30)
