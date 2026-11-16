@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-16 04:59 ET
+# Alerts — watcher run 2026-11-16 06:26 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -60,8 +60,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-13 09:54 | 1 | ARM | Down 4.2% (regular) | ARM -4.2% at 191.32 vs 199.78 close (regular, 09:50 ET) |  |
 | 11-13 09:54 | 1 | LCID | Down 5.7% (regular) | LCID -5.7% at 3.07 vs 3.26 close (regular, 09:50 ET) |  |
 | 11-13 07:42 | 2 | XOM | Buyback/dividend | ExxonMobil Raised Its Dividend for the 44th Straight Year and Plans $20 Billion of Buybacks in 2027. Here's How It Can Afford Both. | [link](https://finnhub.io/api/news?id=a3a881aac93146a63e32e1ca84b68cc559c3d098944ef2ed52d15a26483ec1f0) |
-| 11-13 05:42 | 1 | CSCO | Leadership | Huang ouster fallout; Cisco, Applied Materials outlooks - what’s moving markets | [link](https://finnhub.io/api/news?id=236071ec4f14395fd27e083cfaaac1dffd1b14a5713a43bbe7e6f20725965afb) |
-| 11-13 05:42 | 2 | AMAT | Leadership | Huang ouster fallout; Cisco, Applied Materials outlooks - what’s moving markets | [link](https://finnhub.io/api/news?id=236071ec4f14395fd27e083cfaaac1dffd1b14a5713a43bbe7e6f20725965afb) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
