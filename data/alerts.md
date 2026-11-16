@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-16 17:14 ET
+# Alerts — watcher run 2026-11-16 18:11 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -77,9 +77,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-15 05:26 | 2 | NVDA | Analyst | 5 big analyst AI moves: Nvidia hit with downgrades after Huang’s exit | [link](https://finnhub.io/api/news?id=d3df7ab84e7fcf99fea98941aac9988e22f163e89d5c98fe9601fa3926210e61) |
 | 11-15 03:32 | 2 | NVDA | Analyst | Jordi Visser Sees December Fed Decision As Bitcoin’s Next Catalyst, Questions Wall Street’s Nvidia Downgrades | [link](https://finnhub.io/api/news?id=4b3394d8c6d0cf927f25bd2697f084f2a1986de5074b12a036d23fd7a34be6b6) |
 | 11-14 05:25 | 1 | NVDA | Leadership | Jensen Huang Misled Nvidia Leadership, Lawyer On Affair With Alleged Chinese Spy: Report | [link](https://finnhub.io/api/news?id=ffa55216906a078747cbd1523e7bead48b069a3ad08519f099542bb339de78a0) |
-| 11-13 17:46 | 1 | TSLA | Deal | SpaceX, Tesla Merger Puts Musk At Forefront Of 'Revolutionary' Tech, Analyst Says | [link](https://finnhub.io/api/news?id=56e3c15cb5e0203c0bbe1e5d64a25274af9b9b485628ed108288782343acd482) |
-| 11-13 17:46 | 1 | IONQ | 8-K: 5.02 Executive/director change | 8-K - IonQ, Inc. (0001824920) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1824920/000119312526461016/0001193125-26-461016-index.htm) |
-| 11-13 17:46 | 2 | BKNG | 8-K: 1.01 Material agreement | 8-K - Booking Holdings Inc. (0001075531) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1075531/000110465926127223/0001104659-26-127223-index.htm) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
@@ -97,8 +94,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-16 11:01 | 2 | SMTC | Down 8.1% (regular) | SMTC -8.1% at 105.34 vs 114.59 close (regular, 11:00 ET) |  |
 | 11-16 11:01 | 2 | VIAV | Down 8.1% (regular) | VIAV -8.1% at 28.23 vs 30.72 close (regular, 11:00 ET) |  |
 | 11-16 11:01 | 2 | VICR | Down 8.1% (regular) | VICR -8.1% at 146.17 vs 159.05 close (regular, 11:00 ET) |  |
-| 11-13 17:46 | 2 | CTRE | 8-K: 1.01 Material agreement | 8-K - CareTrust REIT, Inc. (0001590717) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1590717/000114036126043831/0001140361-26-043831-index.htm) |
-| 11-13 17:46 | 2 | DLB | 8-K: 5.02 Executive/director change | 8-K - Dolby Laboratories, Inc. (0001308547) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1308547/000119312526461010/0001193125-26-461010-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
