@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-16 02:21 ET
+# Alerts — watcher run 2026-11-16 04:59 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,17 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-16 04:59 | 1 | AMD | Down 4.5% (premarket) | AMD -4.5% at 509.84 vs 534.06 close (premarket, 04:55 ET) |  |
+| 11-16 04:59 | 1 | MU | Down 5.0% (premarket) | MU -5.0% at 739.50 vs 778.31 close (premarket, 04:55 ET) |  |
+| 11-16 04:59 | 1 | AMAT | Down 4.2% (premarket) | AMAT -4.2% at 355.04 vs 370.50 close (premarket, 04:56 ET) |  |
+| 11-16 04:59 | 1 | KLAC | Down 4.1% (premarket) | KLAC -4.1% at 146.12 vs 152.32 close (premarket, 04:54 ET) |  |
+| 11-16 04:59 | 1 | HOOD | Down 4.8% (premarket) | HOOD -4.8% at 74.15 vs 77.86 close (premarket, 04:55 ET) |  |
+| 11-16 04:59 | 1 | COIN | Down 6.4% (premarket) | COIN -6.4% at 119.50 vs 127.65 close (premarket, 04:55 ET) |  |
+| 11-16 04:59 | 1 | TTWO | Up 4.8% (premarket) | TTWO +4.8% at 238.83 vs 227.82 close (premarket, 04:55 ET) |  |
+| 11-16 04:59 | 1 | RKLB | Down 4.4% (premarket) | RKLB -4.4% at 58.84 vs 61.53 close (premarket, 04:55 ET) |  |
+| 11-16 04:59 | 1 | ARM | Down 4.8% (premarket) | ARM -4.8% at 181.30 vs 190.53 close (premarket, 04:55 ET) |  |
+| 11-16 04:59 | 1 | TSM | Down 4.5% (premarket) | TSM -4.5% at 380.98 vs 398.73 close (premarket, 04:55 ET) |  |
+| 11-16 04:59 | 1 | TSLA | Deal | TSLA, SPCX Diverge Overnight As Retail Traders Split On Merger Winner — Could SpaceX Get Tesla’s S&P 500 Seat? | [link](https://finnhub.io/api/news?id=ad9fec0fda604a72bd206a235a078844601da8fe6393e4215ecc55461679d391) |
 | 11-16 00:35 | 1 | NVDA | Guidance | More Pain For NVDA? Top Supply Chain Analyst Says New OpenAI, Anthropic Chip Orders Boost Google’s TPU Outlook | [link](https://finnhub.io/api/news?id=9fbeeb07abf30101d6d9f4fb806acec2c26e4f816ddf46ca2c119c46f2cf571e) |
 | 11-15 05:26 | 1 | NVDA | Leadership | What’s Next for Nvidia After Jensen Huang’s Resignation? | [link](https://finnhub.io/api/news?id=71d71d155fa599270ac81c5a4606bf82bea64528f15b8e851b7a8742b151499f) |
 | 11-15 05:26 | 2 | NVDA | Analyst | 5 big analyst AI moves: Nvidia hit with downgrades after Huang’s exit | [link](https://finnhub.io/api/news?id=d3df7ab84e7fcf99fea98941aac9988e22f163e89d5c98fe9601fa3926210e61) |
@@ -51,7 +62,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-13 07:42 | 2 | XOM | Buyback/dividend | ExxonMobil Raised Its Dividend for the 44th Straight Year and Plans $20 Billion of Buybacks in 2027. Here's How It Can Afford Both. | [link](https://finnhub.io/api/news?id=a3a881aac93146a63e32e1ca84b68cc559c3d098944ef2ed52d15a26483ec1f0) |
 | 11-13 05:42 | 1 | CSCO | Leadership | Huang ouster fallout; Cisco, Applied Materials outlooks - what’s moving markets | [link](https://finnhub.io/api/news?id=236071ec4f14395fd27e083cfaaac1dffd1b14a5713a43bbe7e6f20725965afb) |
 | 11-13 05:42 | 2 | AMAT | Leadership | Huang ouster fallout; Cisco, Applied Materials outlooks - what’s moving markets | [link](https://finnhub.io/api/news?id=236071ec4f14395fd27e083cfaaac1dffd1b14a5713a43bbe7e6f20725965afb) |
-| 11-13 03:30 | 1 | NVDA | Leadership | Nvidia CEO Jensen Huang resigns: Is the stock now a 50% bargain? | [link](https://finnhub.io/api/news?id=230b76a78437121aab06b6d67d0ac68d24e700a28436fa3cfe96162569eb096a) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
