@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-16 06:26 ET
+# Alerts — watcher run 2026-11-16 08:35 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,14 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-16 08:35 | 1 | AVGO | Down 4.0% (premarket) | AVGO -4.0% at 332.99 vs 347.01 close (premarket, 08:35 ET) |  |
+| 11-16 08:35 | 1 | MU | Down 6.1% (premarket) | MU -6.1% at 730.95 vs 778.31 close (premarket, 08:35 ET) |  |
+| 11-16 08:35 | 1 | LRCX | Down 5.0% (premarket) | LRCX -5.0% at 214.59 vs 225.92 close (premarket, 08:35 ET) |  |
+| 11-16 08:35 | 1 | SMCI | Down 5.6% (premarket) | SMCI -5.6% at 25.36 vs 26.87 close (premarket, 08:35 ET) |  |
+| 11-16 08:35 | 1 | FIX | Down 4.2% (premarket) | FIX -4.2% at 1066.00 vs 1112.50 close (premarket, 08:20 ET) |  |
+| 11-16 08:35 | 1 | KKR | Down 4.1% (premarket) | KKR -4.1% at 94.00 vs 98.05 close (premarket, 06:45 ET) |  |
+| 11-16 08:35 | 1 | OKLO | Down 4.4% (premarket) | OKLO -4.4% at 22.86 vs 23.92 close (premarket, 08:25 ET) |  |
+| 11-16 08:35 | 1 | MDT | Deal | Medtronic to acquire Contego Medical, expanding access to next-generation carotid therapies | [link](https://finnhub.io/api/news?id=ca9b8d36c37af2dd86acfca82375738e5b82ec876c2bcb66693ecdf00e21f6b3) |
 | 11-16 04:59 | 1 | AMD | Down 4.5% (premarket) | AMD -4.5% at 509.84 vs 534.06 close (premarket, 04:55 ET) |  |
 | 11-16 04:59 | 1 | MU | Down 5.0% (premarket) | MU -5.0% at 739.50 vs 778.31 close (premarket, 04:55 ET) |  |
 | 11-16 04:59 | 1 | AMAT | Down 4.2% (premarket) | AMAT -4.2% at 355.04 vs 370.50 close (premarket, 04:56 ET) |  |
@@ -59,7 +67,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-13 09:54 | 1 | IONQ | Down 7.1% (regular) | IONQ -7.1% at 28.66 vs 30.86 close (regular, 09:50 ET) |  |
 | 11-13 09:54 | 1 | ARM | Down 4.2% (regular) | ARM -4.2% at 191.32 vs 199.78 close (regular, 09:50 ET) |  |
 | 11-13 09:54 | 1 | LCID | Down 5.7% (regular) | LCID -5.7% at 3.07 vs 3.26 close (regular, 09:50 ET) |  |
-| 11-13 07:42 | 2 | XOM | Buyback/dividend | ExxonMobil Raised Its Dividend for the 44th Straight Year and Plans $20 Billion of Buybacks in 2027. Here's How It Can Afford Both. | [link](https://finnhub.io/api/news?id=a3a881aac93146a63e32e1ca84b68cc559c3d098944ef2ed52d15a26483ec1f0) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
@@ -87,7 +94,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-13 08:56 | 2 | CVLT | 8-K: 5.02 Executive/director change | 8-K - COMMVAULT SYSTEMS INC (0001169561) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1169561/000116956126000041/0001169561-26-000041-index.htm) |
 | 11-13 08:56 | 2 | ALV | 8-K: 5.02 Executive/director change | 8-K - AUTOLIV INC (0001034670) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1034670/000119312526459325/0001193125-26-459325-index.htm) |
 | 11-13 08:56 | 2 | SIRI | 8-K: 5.02 Executive/director change | 8-K - SIRIUS XM HOLDINGS INC. (0000908937) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/908937/000090893726000030/0000908937-26-000030-index.htm) |
-| 11-13 06:39 | 2 | WFRD | 8-K: 1.01 Material agreement; 2.01 Acquisition/disposition completed; 5.02 Executive/director change | 8-K12B - Weatherford International Corp (0001603923) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1603923/000160392326000135/0001603923-26-000135-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
@@ -95,4 +101,4 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 ## Watcher health
 
-- All checks ran.
+- sec/8k: HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out. (read timeout=20)
