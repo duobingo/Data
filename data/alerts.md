@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-15 22:48 ET
+# Alerts — watcher run 2026-11-16 00:35 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-16 00:35 | 1 | NVDA | Guidance | More Pain For NVDA? Top Supply Chain Analyst Says New OpenAI, Anthropic Chip Orders Boost Google’s TPU Outlook | [link](https://finnhub.io/api/news?id=9fbeeb07abf30101d6d9f4fb806acec2c26e4f816ddf46ca2c119c46f2cf571e) |
 | 11-15 05:26 | 1 | NVDA | Leadership | What’s Next for Nvidia After Jensen Huang’s Resignation? | [link](https://finnhub.io/api/news?id=71d71d155fa599270ac81c5a4606bf82bea64528f15b8e851b7a8742b151499f) |
 | 11-15 05:26 | 2 | NVDA | Analyst | 5 big analyst AI moves: Nvidia hit with downgrades after Huang’s exit | [link](https://finnhub.io/api/news?id=d3df7ab84e7fcf99fea98941aac9988e22f163e89d5c98fe9601fa3926210e61) |
 | 11-15 03:32 | 2 | NVDA | Analyst | Jordi Visser Sees December Fed Decision As Bitcoin’s Next Catalyst, Questions Wall Street’s Nvidia Downgrades | [link](https://finnhub.io/api/news?id=4b3394d8c6d0cf927f25bd2697f084f2a1986de5074b12a036d23fd7a34be6b6) |
