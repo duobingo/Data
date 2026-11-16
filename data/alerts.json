@@ -3580,9 +3580,79 @@
    "url": "https://finnhub.io/api/news?id=2a96d4b8cc1146710c9f08c7cf1e1ae1259200c5bfd3e198f899a90d6eedfefe",
    "published": "2026-11-16 12:47",
    "first_seen": "2026-11-16T13:19-05:00"
+  },
+  {
+   "id": "4cface72d59c257d",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "PLTR",
+   "name": "Palantir Technologies",
+   "sector": "Information Technology",
+   "severity": 1,
+   "category": "Down 4.3% (regular)",
+   "title": "PLTR -4.3% at 160.79 vs 167.99 close (regular, 14:25 ET)",
+   "url": "",
+   "move_pct": -4.29,
+   "first_seen": "2026-11-16T14:26-05:00"
+  },
+  {
+   "id": "da0ac79cce841cbe",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "SOFI",
+   "name": "",
+   "sector": "",
+   "severity": 1,
+   "category": "Down 4.5% (regular)",
+   "title": "SOFI -4.5% at 14.73 vs 15.42 close (regular, 14:25 ET)",
+   "url": "",
+   "move_pct": -4.47,
+   "first_seen": "2026-11-16T14:26-05:00"
+  },
+  {
+   "id": "d612273f0df7904e",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "TTWO",
+   "name": "Take-Two Interactive",
+   "sector": "Communication Services",
+   "severity": 1,
+   "category": "Down 5.8% (regular)",
+   "title": "TTWO -5.8% at 214.66 vs 227.82 close (regular, 14:25 ET)",
+   "url": "",
+   "move_pct": -5.78,
+   "first_seen": "2026-11-16T14:26-05:00"
+  },
+  {
+   "id": "0ea245d358e922be",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "DECK",
+   "name": "Deckers Brands",
+   "sector": "Consumer Discretionary",
+   "severity": 1,
+   "category": "Down 4.4% (regular)",
+   "title": "DECK -4.4% at 83.04 vs 86.82 close (regular, 14:25 ET)",
+   "url": "",
+   "move_pct": -4.35,
+   "first_seen": "2026-11-16T14:26-05:00"
+  },
+  {
+   "id": "ace7d3f795308a9a",
+   "kind": "price",
+   "group": "universe",
+   "ticker": "BBWI",
+   "name": "Bath & Body Works, Inc.",
+   "sector": "Consumer Discretionary",
+   "severity": 2,
+   "category": "Down 9.0% (regular)",
+   "title": "BBWI -9.0% at 19.48 vs 21.39 close (regular, 14:25 ET)",
+   "url": "",
+   "move_pct": -8.95,
+   "first_seen": "2026-11-16T14:26-05:00"
   }
  ],
- "last_run": "2026-11-16T13:19-05:00",
+ "last_run": "2026-11-16T14:26-05:00",
  "errors": [
   "sec/8k: HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out. (read timeout=20)"
  ]

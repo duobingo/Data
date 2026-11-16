@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-16 13:19 ET
+# Alerts — watcher run 2026-11-16 14:26 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,10 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-16 14:26 | 1 | PLTR | Down 4.3% (regular) | PLTR -4.3% at 160.79 vs 167.99 close (regular, 14:25 ET) |  |
+| 11-16 14:26 | 1 | SOFI | Down 4.5% (regular) | SOFI -4.5% at 14.73 vs 15.42 close (regular, 14:25 ET) |  |
+| 11-16 14:26 | 1 | TTWO | Down 5.8% (regular) | TTWO -5.8% at 214.66 vs 227.82 close (regular, 14:25 ET) |  |
+| 11-16 14:26 | 1 | DECK | Down 4.4% (regular) | DECK -4.4% at 83.04 vs 86.82 close (regular, 14:25 ET) |  |
 | 11-16 13:19 | 1 | NVDA | Down 4.5% (regular) | NVDA -4.5% at 155.52 vs 162.85 close (regular, 13:15 ET) |  |
 | 11-16 13:19 | 1 | AVGO | Down 4.4% (regular) | AVGO -4.4% at 331.89 vs 347.01 close (regular, 13:15 ET) |  |
 | 11-16 13:19 | 1 | CAT | Down 4.2% (regular) | CAT -4.2% at 575.10 vs 600.20 close (regular, 13:15 ET) |  |
@@ -79,6 +83,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-16 14:26 | 2 | BBWI | Down 9.0% (regular) | BBWI -9.0% at 19.48 vs 21.39 close (regular, 14:25 ET) |  |
 | 11-16 13:19 | 2 | LITE | Down 8.2% (regular) | LITE -8.2% at 547.78 vs 596.62 close (regular, 13:20 ET) |  |
 | 11-16 12:16 | 2 | MOH | Up 8.7% (regular) | MOH +8.7% at 227.75 vs 209.49 close (regular, 12:15 ET) |  |
 | 11-16 11:01 | 2 | SMTC | Down 8.1% (regular) | SMTC -8.1% at 105.34 vs 114.59 close (regular, 11:00 ET) |  |
