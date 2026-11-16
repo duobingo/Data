@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-16 08:35 ET
+# Alerts — watcher run 2026-11-16 11:01 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,23 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-16 11:01 | 1 | AMD | Down 4.5% (regular) | AMD -4.5% at 510.00 vs 534.06 close (regular, 11:00 ET) |  |
+| 11-16 11:01 | 1 | MU | Down 5.5% (regular) | MU -5.5% at 735.34 vs 778.31 close (regular, 11:00 ET) |  |
+| 11-16 11:01 | 1 | LRCX | Down 5.0% (regular) | LRCX -5.0% at 214.62 vs 225.92 close (regular, 11:00 ET) |  |
+| 11-16 11:01 | 1 | KLAC | Down 4.2% (regular) | KLAC -4.2% at 145.94 vs 152.32 close (regular, 11:00 ET) |  |
+| 11-16 11:01 | 1 | ANET | Down 5.4% (regular) | ANET -5.4% at 186.66 vs 197.29 close (regular, 11:00 ET) |  |
+| 11-16 11:01 | 1 | HOOD | Down 5.4% (regular) | HOOD -5.4% at 73.69 vs 77.86 close (regular, 11:00 ET) |  |
+| 11-16 11:01 | 1 | COIN | Down 6.2% (regular) | COIN -6.2% at 119.72 vs 127.65 close (regular, 11:00 ET) |  |
+| 11-16 11:01 | 1 | RBLX | Down 6.3% (regular) | RBLX -6.3% at 46.76 vs 49.91 close (regular, 11:00 ET) |  |
+| 11-16 11:01 | 1 | HIMS | Down 4.9% (regular) | HIMS -4.9% at 18.76 vs 19.73 close (regular, 11:00 ET) |  |
+| 11-16 11:01 | 1 | IONQ | Down 7.4% (regular) | IONQ -7.4% at 26.75 vs 28.88 close (regular, 11:00 ET) |  |
+| 11-16 11:01 | 1 | SMCI | Down 5.2% (regular) | SMCI -5.2% at 25.49 vs 26.87 close (regular, 11:00 ET) |  |
+| 11-16 11:01 | 1 | ARM | Down 7.0% (regular) | ARM -7.0% at 177.27 vs 190.53 close (regular, 11:00 ET) |  |
+| 11-16 11:01 | 1 | TSM | Down 5.7% (regular) | TSM -5.7% at 376.20 vs 398.73 close (regular, 11:00 ET) |  |
+| 11-16 11:01 | 1 | ASML | Down 4.2% (regular) | ASML -4.2% at 1432.95 vs 1495.16 close (regular, 11:00 ET) |  |
+| 11-16 11:01 | 1 | LCID | Down 8.1% (regular) | LCID -8.1% at 2.71 vs 2.95 close (regular, 11:00 ET) |  |
+| 11-16 11:01 | 1 | SOUN | Down 6.4% (regular) | SOUN -6.4% at 3.27 vs 3.49 close (regular, 11:00 ET) |  |
+| 11-16 11:01 | 1 | ACHR | Down 6.8% (regular) | ACHR -6.8% at 3.76 vs 4.03 close (regular, 11:00 ET) |  |
 | 11-16 08:35 | 1 | AVGO | Down 4.0% (premarket) | AVGO -4.0% at 332.99 vs 347.01 close (premarket, 08:35 ET) |  |
 | 11-16 08:35 | 1 | MU | Down 6.1% (premarket) | MU -6.1% at 730.95 vs 778.31 close (premarket, 08:35 ET) |  |
 | 11-16 08:35 | 1 | LRCX | Down 5.0% (premarket) | LRCX -5.0% at 214.59 vs 225.92 close (premarket, 08:35 ET) |  |
@@ -44,34 +61,14 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-13 11:56 | 1 | AMAT | Down 5.5% (regular) | AMAT -5.5% at 360.10 vs 380.95 close (regular, 11:55 ET) |  |
 | 11-13 11:56 | 1 | BFLY | Down 7.6% (regular) | BFLY -7.6% at 6.16 vs 6.67 close (regular, 11:55 ET) |  |
 | 11-13 11:56 | 1 | SMCI | Legal/regulatory | Super Micro Slides 3% as Reported DOJ Smuggling Probe Weighs for a Second Day; Dell Sinks 8%, NVIDIA Falls 4% | [link](https://finnhub.io/api/news?id=4ed78fe677489a8c7c82229baf44c7e938e033a0d085233c8faa4724744bd69c) |
-| 11-13 10:52 | 1 | AVGO | Down 6.3% (regular) | AVGO -6.3% at 341.36 vs 364.36 close (regular, 10:50 ET) |  |
-| 11-13 10:52 | 1 | QCOM | Down 4.7% (regular) | QCOM -4.7% at 168.84 vs 177.14 close (regular, 10:50 ET) |  |
-| 11-13 10:52 | 1 | TXN | Down 4.7% (regular) | TXN -4.7% at 297.89 vs 312.48 close (regular, 10:50 ET) |  |
-| 11-13 10:52 | 1 | MU | Down 4.3% (regular) | MU -4.3% at 764.38 vs 798.44 close (regular, 10:50 ET) |  |
-| 11-13 10:52 | 1 | LRCX | Down 4.8% (regular) | LRCX -4.8% at 222.51 vs 233.78 close (regular, 10:50 ET) |  |
-| 11-13 10:52 | 1 | AMAT | Down 6.2% (regular) | AMAT -6.2% at 357.38 vs 380.95 close (regular, 10:50 ET) |  |
-| 11-13 10:52 | 1 | KLAC | Down 5.2% (regular) | KLAC -5.2% at 149.15 vs 157.30 close (regular, 10:50 ET) |  |
-| 11-13 10:52 | 1 | ADI | Down 4.2% (regular) | ADI -4.2% at 392.25 vs 409.29 close (regular, 10:50 ET) |  |
-| 11-13 10:52 | 1 | SNOW | Down 4.3% (regular) | SNOW -4.3% at 285.99 vs 298.70 close (regular, 10:50 ET) |  |
-| 11-13 10:52 | 1 | HOOD | Down 4.4% (regular) | HOOD -4.4% at 77.74 vs 81.35 close (regular, 10:50 ET) |  |
-| 11-13 10:52 | 1 | ARM | Down 7.2% (regular) | ARM -7.2% at 185.38 vs 199.78 close (regular, 10:50 ET) |  |
-| 11-13 10:52 | 1 | BFLY | Down 6.0% (regular) | BFLY -6.0% at 6.27 vs 6.67 close (regular, 10:50 ET) |  |
-| 11-13 10:52 | 1 | LCID | Down 7.1% (regular) | LCID -7.1% at 3.03 vs 3.26 close (regular, 10:50 ET) |  |
-| 11-13 10:52 | 1 | ACHR | Down 4.8% (regular) | ACHR -4.8% at 4.12 vs 4.33 close (regular, 10:50 ET) |  |
-| 11-13 10:52 | 1 | OKLO | Down 5.3% (regular) | OKLO -5.3% at 23.15 vs 24.45 close (regular, 10:50 ET) |  |
-| 11-13 09:54 | 1 | AVGO | Down 4.5% (regular) | AVGO -4.5% at 347.98 vs 364.36 close (regular, 09:50 ET) |  |
-| 11-13 09:54 | 1 | AMD | Down 6.3% (regular) | AMD -6.3% at 548.18 vs 585.30 close (regular, 09:50 ET) |  |
-| 11-13 09:54 | 1 | CSCO | Down 4.9% (regular) | CSCO -4.9% at 96.98 vs 102.01 close (regular, 09:50 ET) |  |
-| 11-13 09:54 | 1 | APP | Up 4.9% (regular) | APP +4.9% at 412.81 vs 393.68 close (regular, 09:50 ET) |  |
-| 11-13 09:54 | 1 | RKLB | Down 4.3% (regular) | RKLB -4.3% at 61.35 vs 64.07 close (regular, 09:50 ET) |  |
-| 11-13 09:54 | 1 | IONQ | Down 7.1% (regular) | IONQ -7.1% at 28.66 vs 30.86 close (regular, 09:50 ET) |  |
-| 11-13 09:54 | 1 | ARM | Down 4.2% (regular) | ARM -4.2% at 191.32 vs 199.78 close (regular, 09:50 ET) |  |
-| 11-13 09:54 | 1 | LCID | Down 5.7% (regular) | LCID -5.7% at 3.07 vs 3.26 close (regular, 09:50 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-16 11:01 | 2 | SMTC | Down 8.1% (regular) | SMTC -8.1% at 105.34 vs 114.59 close (regular, 11:00 ET) |  |
+| 11-16 11:01 | 2 | VIAV | Down 8.1% (regular) | VIAV -8.1% at 28.23 vs 30.72 close (regular, 11:00 ET) |  |
+| 11-16 11:01 | 2 | VICR | Down 8.1% (regular) | VICR -8.1% at 146.17 vs 159.05 close (regular, 11:00 ET) |  |
 | 11-13 17:46 | 2 | CTRE | 8-K: 1.01 Material agreement | 8-K - CareTrust REIT, Inc. (0001590717) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1590717/000114036126043831/0001140361-26-043831-index.htm) |
 | 11-13 17:46 | 2 | DLB | 8-K: 5.02 Executive/director change | 8-K - Dolby Laboratories, Inc. (0001308547) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1308547/000119312526461010/0001193125-26-461010-index.htm) |
 | 11-13 16:50 | 2 | TKO | 8-K: 1.01 Material agreement | 8-K - TKO Group Holdings, Inc. (0001973266) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1973266/000119312526460798/0001193125-26-460798-index.htm) |
@@ -87,13 +84,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-13 12:53 | 2 | DELL | Down 8.8% (regular) | DELL -8.8% at 338.58 vs 371.17 close (regular, 12:50 ET) |  |
 | 11-13 12:53 | 2 | CVLT | Down 9.7% (regular) | CVLT -9.7% at 150.04 vs 166.16 close (regular, 12:50 ET) |  |
 | 11-13 11:56 | 2 | DELL | Down 9.1% (regular) | DELL -9.1% at 337.22 vs 371.17 close (regular, 11:55 ET) |  |
-| 11-13 10:52 | 2 | COHR | Down 8.6% (regular) | COHR -8.6% at 212.07 vs 232.08 close (regular, 10:50 ET) |  |
-| 11-13 10:52 | 2 | SNDK | Down 8.3% (regular) | SNDK -8.3% at 859.35 vs 937.46 close (regular, 10:50 ET) |  |
-| 11-13 10:52 | 2 | CVLT | Down 8.9% (regular) | CVLT -8.9% at 151.45 vs 166.16 close (regular, 10:50 ET) |  |
-| 11-13 10:52 | 2 | FN | Down 8.2% (regular) | FN -8.2% at 324.65 vs 353.83 close (regular, 10:50 ET) |  |
-| 11-13 08:56 | 2 | CVLT | 8-K: 5.02 Executive/director change | 8-K - COMMVAULT SYSTEMS INC (0001169561) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1169561/000116956126000041/0001169561-26-000041-index.htm) |
-| 11-13 08:56 | 2 | ALV | 8-K: 5.02 Executive/director change | 8-K - AUTOLIV INC (0001034670) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1034670/000119312526459325/0001193125-26-459325-index.htm) |
-| 11-13 08:56 | 2 | SIRI | 8-K: 5.02 Executive/director change | 8-K - SIRIUS XM HOLDINGS INC. (0000908937) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/908937/000090893726000030/0000908937-26-000030-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
