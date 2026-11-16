@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-16 12:16 ET
+# Alerts — watcher run 2026-11-16 13:19 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,18 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-16 13:19 | 1 | NVDA | Down 4.5% (regular) | NVDA -4.5% at 155.52 vs 162.85 close (regular, 13:15 ET) |  |
+| 11-16 13:19 | 1 | AVGO | Down 4.4% (regular) | AVGO -4.4% at 331.89 vs 347.01 close (regular, 13:15 ET) |  |
+| 11-16 13:19 | 1 | CAT | Down 4.2% (regular) | CAT -4.2% at 575.10 vs 600.20 close (regular, 13:15 ET) |  |
+| 11-16 13:19 | 1 | ETN | Down 4.1% (regular) | ETN -4.1% at 338.52 vs 352.97 close (regular, 13:15 ET) |  |
+| 11-16 13:19 | 1 | MU | Down 7.1% (regular) | MU -7.1% at 723.30 vs 778.31 close (regular, 13:15 ET) |  |
+| 11-16 13:19 | 1 | LRCX | Down 6.5% (regular) | LRCX -6.5% at 211.26 vs 225.92 close (regular, 13:15 ET) |  |
+| 11-16 13:19 | 1 | AMAT | Down 4.9% (regular) | AMAT -4.9% at 352.26 vs 370.50 close (regular, 13:15 ET) |  |
+| 11-16 13:19 | 1 | RKLB | Down 6.4% (regular) | RKLB -6.4% at 57.58 vs 61.53 close (regular, 13:15 ET) |  |
+| 11-16 13:19 | 1 | SMCI | Down 6.2% (regular) | SMCI -6.2% at 25.20 vs 26.87 close (regular, 13:15 ET) |  |
+| 11-16 13:19 | 1 | FIX | Down 5.0% (regular) | FIX -5.0% at 1056.93 vs 1112.50 close (regular, 13:15 ET) |  |
+| 11-16 13:19 | 1 | OKLO | Down 4.2% (regular) | OKLO -4.2% at 22.91 vs 23.92 close (regular, 13:15 ET) |  |
+| 11-16 13:19 | 1 | TTWO | Deal | Take-Two isn’t the only stock with a stake in GTA 6 | [link](https://finnhub.io/api/news?id=2a96d4b8cc1146710c9f08c7cf1e1ae1259200c5bfd3e198f899a90d6eedfefe) |
 | 11-16 12:16 | 1 | ORCL | Down 4.1% (regular) | ORCL -4.1% at 120.17 vs 125.35 close (regular, 12:15 ET) |  |
 | 11-16 12:16 | 1 | HOOD | Down 6.6% (regular) | HOOD -6.6% at 72.71 vs 77.86 close (regular, 12:15 ET) |  |
 | 11-16 12:16 | 1 | COIN | Down 6.0% (regular) | COIN -6.0% at 120.01 vs 127.65 close (regular, 12:15 ET) |  |
@@ -62,13 +74,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-13 15:55 | 1 | LCID | Down 9.2% (regular) | LCID -9.2% at 2.95 vs 3.26 close (regular, 15:55 ET) |  |
 | 11-13 14:56 | 1 | IONQ | Down 6.0% (regular) | IONQ -6.0% at 29.01 vs 30.86 close (regular, 14:55 ET) |  |
 | 11-13 14:56 | 1 | ACHR | Down 6.8% (regular) | ACHR -6.8% at 4.03 vs 4.33 close (regular, 14:55 ET) |  |
-| 11-13 12:53 | 1 | CSCO | Down 6.2% (regular) | CSCO -6.2% at 95.72 vs 102.01 close (regular, 12:50 ET) |  |
-| 11-13 12:53 | 1 | ANET | Down 4.6% (regular) | ANET -4.6% at 197.14 vs 206.63 close (regular, 12:50 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-16 13:19 | 2 | LITE | Down 8.2% (regular) | LITE -8.2% at 547.78 vs 596.62 close (regular, 13:20 ET) |  |
 | 11-16 12:16 | 2 | MOH | Up 8.7% (regular) | MOH +8.7% at 227.75 vs 209.49 close (regular, 12:15 ET) |  |
 | 11-16 11:01 | 2 | SMTC | Down 8.1% (regular) | SMTC -8.1% at 105.34 vs 114.59 close (regular, 11:00 ET) |  |
 | 11-16 11:01 | 2 | VIAV | Down 8.1% (regular) | VIAV -8.1% at 28.23 vs 30.72 close (regular, 11:00 ET) |  |
@@ -85,8 +96,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-13 16:50 | 2 | SWKS | 8-K: 5.02 Executive/director change | 8-K/A - SKYWORKS SOLUTIONS, INC. (0000004127) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/4127/000000412726000058/0000004127-26-000058-index.htm) |
 | 11-13 16:50 | 2 | MRNA | 8-K: 5.02 Executive/director change | 8-K - Moderna, Inc. (0001682852) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1682852/000168285226000205/0001682852-26-000205-index.htm) |
 | 11-13 15:55 | 2 | AAON | 8-K: 1.01 Material agreement | 8-K - AAON, INC. (0000824142) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/824142/000162828026073758/0001628280-26-073758-index.htm) |
-| 11-13 12:53 | 2 | DELL | Down 8.8% (regular) | DELL -8.8% at 338.58 vs 371.17 close (regular, 12:50 ET) |  |
-| 11-13 12:53 | 2 | CVLT | Down 9.7% (regular) | CVLT -9.7% at 150.04 vs 166.16 close (regular, 12:50 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
