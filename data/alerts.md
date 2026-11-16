@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-16 14:26 ET
+# Alerts — watcher run 2026-11-16 15:22 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,10 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-16 15:22 | 1 | ANET | Down 6.1% (regular) | ANET -6.1% at 185.35 vs 197.29 close (regular, 15:20 ET) |  |
+| 11-16 15:22 | 1 | TSM | Down 6.4% (regular) | TSM -6.4% at 373.17 vs 398.73 close (regular, 15:20 ET) |  |
+| 11-16 15:22 | 1 | MSFT | Legal/regulatory | Microsoft Outage Triggers Canada-Wide Class Action Lawsuit | [link](https://finnhub.io/api/news?id=f85595c4444e7332cddfb2756393c37c1e65a8a7f108ca3f8bc7e9ec753650fa) |
+| 11-16 15:22 | 1 | LLY | Deal | Eli Lilly to Acquire Calytrix Bio in Up to $1.5 Billion Deal | [link](https://finnhub.io/api/news?id=b2fd2406ca6af2f5093c1f3ab5c244672bc7656b2958cbab3d83df49b2e3e41c) |
 | 11-16 14:26 | 1 | PLTR | Down 4.3% (regular) | PLTR -4.3% at 160.79 vs 167.99 close (regular, 14:25 ET) |  |
 | 11-16 14:26 | 1 | SOFI | Down 4.5% (regular) | SOFI -4.5% at 14.73 vs 15.42 close (regular, 14:25 ET) |  |
 | 11-16 14:26 | 1 | TTWO | Down 5.8% (regular) | TTWO -5.8% at 214.66 vs 227.82 close (regular, 14:25 ET) |  |
@@ -76,13 +80,17 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-13 16:50 | 2 | QCOM | 8-K: 1.01 Material agreement | 8-K - QUALCOMM INC/DE (0000804328) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/804328/000110465926127163/0001104659-26-127163-index.htm) |
 | 11-13 15:55 | 1 | RIVN | Down 4.1% (regular) | RIVN -4.1% at 12.28 vs 12.80 close (regular, 15:55 ET) |  |
 | 11-13 15:55 | 1 | LCID | Down 9.2% (regular) | LCID -9.2% at 2.95 vs 3.26 close (regular, 15:55 ET) |  |
-| 11-13 14:56 | 1 | IONQ | Down 6.0% (regular) | IONQ -6.0% at 29.01 vs 30.86 close (regular, 14:55 ET) |  |
-| 11-13 14:56 | 1 | ACHR | Down 6.8% (regular) | ACHR -6.8% at 4.03 vs 4.33 close (regular, 14:55 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-16 15:22 | 2 | CIEN | Down 8.3% (regular) | CIEN -8.3% at 257.26 vs 280.54 close (regular, 15:20 ET) |  |
+| 11-16 15:22 | 2 | SNDK | Down 8.4% (regular) | SNDK -8.4% at 810.27 vs 885.01 close (regular, 15:20 ET) |  |
+| 11-16 15:22 | 2 | BBWI | Down 9.7% (regular) | BBWI -9.7% at 19.33 vs 21.39 close (regular, 15:20 ET) |  |
+| 11-16 15:22 | 2 | DOCN | Down 8.1% (regular) | DOCN -8.1% at 79.32 vs 86.32 close (regular, 15:20 ET) |  |
+| 11-16 15:22 | 2 | MOH | Up 9.1% (regular) | MOH +9.1% at 228.65 vs 209.49 close (regular, 15:20 ET) |  |
+| 11-16 15:22 | 2 | TTMI | Down 8.1% (regular) | TTMI -8.1% at 68.08 vs 74.08 close (regular, 15:20 ET) |  |
 | 11-16 14:26 | 2 | BBWI | Down 9.0% (regular) | BBWI -9.0% at 19.48 vs 21.39 close (regular, 14:25 ET) |  |
 | 11-16 13:19 | 2 | LITE | Down 8.2% (regular) | LITE -8.2% at 547.78 vs 596.62 close (regular, 13:20 ET) |  |
 | 11-16 12:16 | 2 | MOH | Up 8.7% (regular) | MOH +8.7% at 227.75 vs 209.49 close (regular, 12:15 ET) |  |
