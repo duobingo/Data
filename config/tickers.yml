@@ -8,7 +8,9 @@ tracked: [AAPL, MSFT, NVDA, AMZN, GOOGL, META, AVGO, TSLA, BRK-B, LLY, JPM, V, M
           RTX, T, BKNG, AXP, LOW, HON, UNP, BLK, NEE, SYK, PLD, COP, DE, ETN, MU, LRCX, AMAT, KLAC, PANW,
           ANET, ADI, REGN, VRTX, GILD, BMY, MDT, CVS, CI, ELV, MO, SCHW, C, SBUX, NKE, LULU, TJX, ORLY,
           MCK, PLTR, CRWD, SNOW, SHOP, HOOD, SOFI, COIN, APP, TTWO, RBLX, DASH, ABNB, NVO, HIMS, RKLB,
-          IONQ, SMCI, ARM, TSM, ASML, VST, CEG]
+                    IONQ, SMCI, ARM, TSM, ASML, VST, CEG, FIX, DECK, EME, TMUS, SPCX,
+          ADP, PGR, BX, KKR, MELI, ETN]
+
 
 # Small/volatile names always included in the swing backtest (in addition to the S&P 500/400 screen)
 swing_test: [BFLY, HIMS, SOFI, RKLB, IONQ, RIVN, LCID, SOUN, ACHR, OKLO]
