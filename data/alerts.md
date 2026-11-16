@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-16 16:14 ET
+# Alerts — watcher run 2026-11-16 17:14 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-16 17:14 | 2 | NVDA | Leadership | The cost of ousting a founder: Is the 'bank of Nvidia' at risk? | [link](https://finnhub.io/api/news?id=6efbcfd3ef79aa754c5377906727bca8e3d8b534fb19688829cd30eb2af4ba06) |
+| 11-16 17:14 | 2 | NVDA | Legal/regulatory | Nvidia Probe Focus Shifts To China Chip Smuggling | [link](https://finnhub.io/api/news?id=bab3cf1bda0fd5ea01de95b24a6b5dfb523871a3d549938d0cf64ca824a0b1de) |
+| 11-16 17:14 | 1 | CVX | Deal | Chevron Reportedly Moves Ahead in Talks to Buy Majority Stake in Gulf Oil Producer Beacon | [link](https://finnhub.io/api/news?id=835fb95c0a1847b86771132a14dedcf72ac23ac4743812cb2e6731169301c57f) |
 | 11-16 15:22 | 1 | ANET | Down 6.1% (regular) | ANET -6.1% at 185.35 vs 197.29 close (regular, 15:20 ET) |  |
 | 11-16 15:22 | 1 | TSM | Down 6.4% (regular) | TSM -6.4% at 373.17 vs 398.73 close (regular, 15:20 ET) |  |
 | 11-16 15:22 | 1 | MSFT | Legal/regulatory | Microsoft Outage Triggers Canada-Wide Class Action Lawsuit | [link](https://finnhub.io/api/news?id=f85595c4444e7332cddfb2756393c37c1e65a8a7f108ca3f8bc7e9ec753650fa) |
@@ -77,7 +80,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-13 17:46 | 1 | TSLA | Deal | SpaceX, Tesla Merger Puts Musk At Forefront Of 'Revolutionary' Tech, Analyst Says | [link](https://finnhub.io/api/news?id=56e3c15cb5e0203c0bbe1e5d64a25274af9b9b485628ed108288782343acd482) |
 | 11-13 17:46 | 1 | IONQ | 8-K: 5.02 Executive/director change | 8-K - IonQ, Inc. (0001824920) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1824920/000119312526461016/0001193125-26-461016-index.htm) |
 | 11-13 17:46 | 2 | BKNG | 8-K: 1.01 Material agreement | 8-K - Booking Holdings Inc. (0001075531) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1075531/000110465926127223/0001104659-26-127223-index.htm) |
-| 11-13 16:50 | 2 | QCOM | 8-K: 1.01 Material agreement | 8-K - QUALCOMM INC/DE (0000804328) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/804328/000110465926127163/0001104659-26-127163-index.htm) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
@@ -97,15 +99,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-16 11:01 | 2 | VICR | Down 8.1% (regular) | VICR -8.1% at 146.17 vs 159.05 close (regular, 11:00 ET) |  |
 | 11-13 17:46 | 2 | CTRE | 8-K: 1.01 Material agreement | 8-K - CareTrust REIT, Inc. (0001590717) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1590717/000114036126043831/0001140361-26-043831-index.htm) |
 | 11-13 17:46 | 2 | DLB | 8-K: 5.02 Executive/director change | 8-K - Dolby Laboratories, Inc. (0001308547) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1308547/000119312526461010/0001193125-26-461010-index.htm) |
-| 11-13 16:50 | 2 | TKO | 8-K: 1.01 Material agreement | 8-K - TKO Group Holdings, Inc. (0001973266) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1973266/000119312526460798/0001193125-26-460798-index.htm) |
-| 11-13 16:50 | 2 | HRB | 8-K: 5.02 Executive/director change | 8-K - H&R BLOCK INC (0000012659) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/12659/000001265926000042/0000012659-26-000042-index.htm) |
-| 11-13 16:50 | 2 | BWA | 8-K: 5.02 Executive/director change | 8-K - BORGWARNER INC (0000908255) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/908255/000090825526000076/0000908255-26-000076-index.htm) |
-| 11-13 16:50 | 2 | SAIC | 8-K: 1.01 Material agreement | 8-K - Science Applications International Corp (0001571123) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1571123/000157112326000151/0001571123-26-000151-index.htm) |
-| 11-13 16:50 | 2 | BWXT | 8-K: 1.01 Material agreement; 1.02 Agreement terminated | 8-K - BWX Technologies, Inc. (0001486957) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1486957/000110465926127049/0001104659-26-127049-index.htm) |
-| 11-13 16:50 | 2 | BWA | 8-K: 5.02 Executive/director change | 8-K/A - BORGWARNER INC (0000908255) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/908255/000090825526000075/0000908255-26-000075-index.htm) |
-| 11-13 16:50 | 2 | AMT | 8-K: 1.01 Material agreement | 8-K - AMERICAN TOWER CORP /MA/ (0001053507) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1053507/000119312526460610/0001193125-26-460610-index.htm) |
-| 11-13 16:50 | 2 | SWKS | 8-K: 5.02 Executive/director change | 8-K/A - SKYWORKS SOLUTIONS, INC. (0000004127) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/4127/000000412726000058/0000004127-26-000058-index.htm) |
-| 11-13 16:50 | 2 | MRNA | 8-K: 5.02 Executive/director change | 8-K - Moderna, Inc. (0001682852) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1682852/000168285226000205/0001682852-26-000205-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
