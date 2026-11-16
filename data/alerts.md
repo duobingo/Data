@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-16 15:22 ET
+# Alerts — watcher run 2026-11-16 16:14 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -78,8 +78,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-13 17:46 | 1 | IONQ | 8-K: 5.02 Executive/director change | 8-K - IonQ, Inc. (0001824920) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1824920/000119312526461016/0001193125-26-461016-index.htm) |
 | 11-13 17:46 | 2 | BKNG | 8-K: 1.01 Material agreement | 8-K - Booking Holdings Inc. (0001075531) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1075531/000110465926127223/0001104659-26-127223-index.htm) |
 | 11-13 16:50 | 2 | QCOM | 8-K: 1.01 Material agreement | 8-K - QUALCOMM INC/DE (0000804328) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/804328/000110465926127163/0001104659-26-127163-index.htm) |
-| 11-13 15:55 | 1 | RIVN | Down 4.1% (regular) | RIVN -4.1% at 12.28 vs 12.80 close (regular, 15:55 ET) |  |
-| 11-13 15:55 | 1 | LCID | Down 9.2% (regular) | LCID -9.2% at 2.95 vs 3.26 close (regular, 15:55 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
@@ -108,7 +106,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-13 16:50 | 2 | AMT | 8-K: 1.01 Material agreement | 8-K - AMERICAN TOWER CORP /MA/ (0001053507) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1053507/000119312526460610/0001193125-26-460610-index.htm) |
 | 11-13 16:50 | 2 | SWKS | 8-K: 5.02 Executive/director change | 8-K/A - SKYWORKS SOLUTIONS, INC. (0000004127) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/4127/000000412726000058/0000004127-26-000058-index.htm) |
 | 11-13 16:50 | 2 | MRNA | 8-K: 5.02 Executive/director change | 8-K - Moderna, Inc. (0001682852) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1682852/000168285226000205/0001682852-26-000205-index.htm) |
-| 11-13 15:55 | 2 | AAON | 8-K: 1.01 Material agreement | 8-K - AAON, INC. (0000824142) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/824142/000162828026073758/0001628280-26-073758-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
