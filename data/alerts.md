@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-17 05:44 ET
+# Alerts — watcher run 2026-11-17 06:35 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-17 06:35 | 2 | DIS | 8-K: 2.02 Earnings results | 8-K - Walt Disney Co (0001744489) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1744489/000174448926000065/0001744489-26-000065-index.htm) |
+| 11-17 06:35 | 2 | HD | 8-K: 2.02 Earnings results | 8-K - HOME DEPOT, INC. (0000354950) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/354950/000035495026000184/0000354950-26-000184-index.htm) |
+| 11-17 06:35 | 1 | HD | 8-K: 5.02 Executive/director change | 8-K - HOME DEPOT, INC. (0000354950) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/354950/000035495026000182/0000354950-26-000182-index.htm) |
 | 11-17 05:44 | 1 | NVDA | Leadership | Jensen Huang's Departure as Nvidia CEO Could Have Enormous Consequences for Where the Crypto Market Heads Next. | [link](https://finnhub.io/api/news?id=663783a448a9c27c0f23217e181f6113d2b7ecafdc568d6dbc55367b39d4499e) |
 | 11-17 05:44 | 1 | DASH | Legal/regulatory | DOJ reportedly set to review DoorDash’s Instacart acquisition | [link](https://finnhub.io/api/news?id=5b58cee3c6f8750f7510ea276735bec09ad591113fd4e89857eeb67e4b2400e6) |
 | 11-16 17:14 | 2 | NVDA | Leadership | The cost of ousting a founder: Is the 'bank of Nvidia' at risk? | [link](https://finnhub.io/api/news?id=6efbcfd3ef79aa754c5377906727bca8e3d8b534fb19688829cd30eb2af4ba06) |

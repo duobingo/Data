@@ -3867,8 +3867,50 @@
    "url": "https://finnhub.io/api/news?id=5b58cee3c6f8750f7510ea276735bec09ad591113fd4e89857eeb67e4b2400e6",
    "published": "2026-11-17 04:25",
    "first_seen": "2026-11-17T05:44-05:00"
+  },
+  {
+   "id": "9284093746960823",
+   "kind": "filing",
+   "group": "tracked",
+   "ticker": "DIS",
+   "name": "Walt Disney Company (The)",
+   "sector": "",
+   "severity": 2,
+   "category": "8-K: 2.02 Earnings results",
+   "title": "8-K - Walt Disney Co (0001744489) (Filer)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1744489/000174448926000065/0001744489-26-000065-index.htm",
+   "published": "2026-11-17 06:30",
+   "first_seen": "2026-11-17T06:35-05:00"
+  },
+  {
+   "id": "c7b682d9f15b539b",
+   "kind": "filing",
+   "group": "tracked",
+   "ticker": "HD",
+   "name": "Home Depot (The)",
+   "sector": "",
+   "severity": 2,
+   "category": "8-K: 2.02 Earnings results",
+   "title": "8-K - HOME DEPOT, INC. (0000354950) (Filer)",
+   "url": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000184/0000354950-26-000184-index.htm",
+   "published": "2026-11-17 06:18",
+   "first_seen": "2026-11-17T06:35-05:00"
+  },
+  {
+   "id": "e75a7feb83681378",
+   "kind": "filing",
+   "group": "tracked",
+   "ticker": "HD",
+   "name": "Home Depot (The)",
+   "sector": "",
+   "severity": 1,
+   "category": "8-K: 5.02 Executive/director change",
+   "title": "8-K - HOME DEPOT, INC. (0000354950) (Filer)",
+   "url": "https://www.sec.gov/Archives/edgar/data/354950/000035495026000182/0000354950-26-000182-index.htm",
+   "published": "2026-11-17 06:08",
+   "first_seen": "2026-11-17T06:35-05:00"
   }
  ],
- "last_run": "2026-11-17T05:44-05:00",
+ "last_run": "2026-11-17T06:35-05:00",
  "errors": []
 }
