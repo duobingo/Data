@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-17 10:58 ET
+# Alerts — watcher run 2026-11-17 12:06 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,10 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-17 12:06 | 1 | ORCL | Down 4.0% (regular) | ORCL -4.0% at 114.32 vs 119.09 close (regular, 12:05 ET) |  |
+| 11-17 12:06 | 1 | PANW | Down 4.1% (regular) | PANW -4.1% at 303.21 vs 316.09 close (regular, 12:05 ET) |  |
+| 11-17 12:06 | 1 | TTWO | Down 4.7% (regular) | TTWO -4.7% at 203.48 vs 213.47 close (regular, 12:05 ET) |  |
+| 11-17 12:06 | 1 | RBLX | Down 4.1% (regular) | RBLX -4.1% at 44.23 vs 46.12 close (regular, 12:05 ET) |  |
 | 11-17 10:58 | 1 | CRM | Down 9.2% (regular) | CRM -9.2% at 195.16 vs 214.83 close (regular, 10:55 ET) |  |
 | 11-17 10:58 | 1 | INTU | Down 6.2% (regular) | INTU -6.2% at 324.20 vs 345.56 close (regular, 10:55 ET) |  |
 | 11-17 10:58 | 1 | NOW | Down 6.6% (regular) | NOW -6.6% at 92.86 vs 99.37 close (regular, 10:55 ET) |  |
@@ -110,6 +114,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-17 12:06 | 2 | BILL | Up 8.3% (regular) | BILL +8.3% at 62.38 vs 57.63 close (regular, 12:05 ET) |  |
 | 11-17 09:57 | 2 | ACM | Up 12.0% (regular) | ACM +12.0% at 81.20 vs 72.50 close (regular, 09:55 ET) |  |
 | 11-17 09:57 | 2 | VTRS | 8-K: 2.01 Acquisition/disposition completed | 8-K - Viatris Inc (0001792044) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1792044/000114036126044356/0001140361-26-044356-index.htm) |
 | 11-17 07:40 | 2 | COHR | Up 11.0% (premarket) | COHR +11.0% at 225.80 vs 203.43 close (premarket, 07:40 ET) |  |
