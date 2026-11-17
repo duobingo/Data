@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-17 12:06 ET
+# Alerts — watcher run 2026-11-17 13:06 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-17 13:06 | 1 | IBM | Down 4.1% (regular) | IBM -4.1% at 232.67 vs 242.51 close (regular, 13:05 ET) |  |
+| 11-17 13:06 | 1 | HIMS | Down 5.9% (regular) | HIMS -5.9% at 17.46 vs 18.56 close (regular, 13:05 ET) |  |
+| 11-17 13:06 | 1 | ACHR | Down 4.7% (regular) | ACHR -4.7% at 3.57 vs 3.74 close (regular, 13:05 ET) |  |
 | 11-17 12:06 | 1 | ORCL | Down 4.0% (regular) | ORCL -4.0% at 114.32 vs 119.09 close (regular, 12:05 ET) |  |
 | 11-17 12:06 | 1 | PANW | Down 4.1% (regular) | PANW -4.1% at 303.21 vs 316.09 close (regular, 12:05 ET) |  |
 | 11-17 12:06 | 1 | TTWO | Down 4.7% (regular) | TTWO -4.7% at 203.48 vs 213.47 close (regular, 12:05 ET) |  |
@@ -114,6 +117,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-17 13:06 | 2 | ACM | Up 12.7% (regular) | ACM +12.7% at 81.74 vs 72.50 close (regular, 13:05 ET) |  |
+| 11-17 13:06 | 2 | BILL | Up 9.3% (regular) | BILL +9.3% at 63.00 vs 57.63 close (regular, 13:05 ET) |  |
 | 11-17 12:06 | 2 | BILL | Up 8.3% (regular) | BILL +8.3% at 62.38 vs 57.63 close (regular, 12:05 ET) |  |
 | 11-17 09:57 | 2 | ACM | Up 12.0% (regular) | ACM +12.0% at 81.20 vs 72.50 close (regular, 09:55 ET) |  |
 | 11-17 09:57 | 2 | VTRS | 8-K: 2.01 Acquisition/disposition completed | 8-K - Viatris Inc (0001792044) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1792044/000114036126044356/0001140361-26-044356-index.htm) |
