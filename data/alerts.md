@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-17 13:06 ET
+# Alerts — watcher run 2026-11-17 14:06 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-17 14:06 | 1 | NKE | Down 5.7% (regular) | NKE -5.7% at 36.09 vs 38.26 close (regular, 14:05 ET) |  |
+| 11-17 14:06 | 1 | ACHR | Down 6.3% (regular) | ACHR -6.3% at 3.51 vs 3.74 close (regular, 14:05 ET) |  |
 | 11-17 13:06 | 1 | IBM | Down 4.1% (regular) | IBM -4.1% at 232.67 vs 242.51 close (regular, 13:05 ET) |  |
 | 11-17 13:06 | 1 | HIMS | Down 5.9% (regular) | HIMS -5.9% at 17.46 vs 18.56 close (regular, 13:05 ET) |  |
 | 11-17 13:06 | 1 | ACHR | Down 4.7% (regular) | ACHR -4.7% at 3.57 vs 3.74 close (regular, 13:05 ET) |  |
@@ -117,6 +119,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-17 14:06 | 2 | NXT | Down 9.4% (regular) | NXT -9.4% at 80.94 vs 89.31 close (regular, 14:05 ET) |  |
 | 11-17 13:06 | 2 | ACM | Up 12.7% (regular) | ACM +12.7% at 81.74 vs 72.50 close (regular, 13:05 ET) |  |
 | 11-17 13:06 | 2 | BILL | Up 9.3% (regular) | BILL +9.3% at 63.00 vs 57.63 close (regular, 13:05 ET) |  |
 | 11-17 12:06 | 2 | BILL | Up 8.3% (regular) | BILL +8.3% at 62.38 vs 57.63 close (regular, 12:05 ET) |  |
