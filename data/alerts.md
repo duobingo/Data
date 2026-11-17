@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-17 17:21 ET
+# Alerts — watcher run 2026-11-17 18:19 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,20 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-17 18:19 | 1 | NVDA | Up 4.8% (after-hours) | NVDA +4.8% at 162.90 vs 155.46 close (after-hours, 18:15 ET) |  |
+| 11-17 18:19 | 1 | ORCL | Up 4.2% (after-hours) | ORCL +4.2% at 119.82 vs 115.00 close (after-hours, 18:15 ET) |  |
+| 11-17 18:19 | 1 | AMD | Up 4.9% (after-hours) | AMD +4.9% at 528.01 vs 503.41 close (after-hours, 18:15 ET) |  |
+| 11-17 18:19 | 1 | MU | Up 4.8% (after-hours) | MU +4.8% at 746.52 vs 712.42 close (after-hours, 18:15 ET) |  |
+| 11-17 18:19 | 1 | LRCX | Up 4.9% (after-hours) | LRCX +4.9% at 221.00 vs 210.69 close (after-hours, 18:15 ET) |  |
+| 11-17 18:19 | 1 | AMAT | Up 4.0% (after-hours) | AMAT +4.0% at 363.29 vs 349.23 close (after-hours, 18:19 ET) |  |
+| 11-17 18:19 | 1 | ANET | Up 4.3% (after-hours) | ANET +4.3% at 194.50 vs 186.42 close (after-hours, 18:15 ET) |  |
+| 11-17 18:19 | 1 | RKLB | Up 5.5% (after-hours) | RKLB +5.5% at 58.10 vs 55.05 close (after-hours, 18:15 ET) |  |
+| 11-17 18:19 | 1 | IONQ | Up 5.5% (after-hours) | IONQ +5.5% at 26.22 vs 24.84 close (after-hours, 18:15 ET) |  |
+| 11-17 18:19 | 1 | SMCI | Up 6.3% (after-hours) | SMCI +6.3% at 25.65 vs 24.14 close (after-hours, 18:15 ET) |  |
+| 11-17 18:19 | 1 | ARM | Up 5.9% (after-hours) | ARM +5.9% at 194.13 vs 183.39 close (after-hours, 18:15 ET) |  |
+| 11-17 18:19 | 1 | TSM | Up 6.8% (after-hours) | TSM +6.8% at 384.11 vs 359.69 close (after-hours, 18:15 ET) |  |
+| 11-17 18:19 | 1 | ASML | Up 4.0% (after-hours) | ASML +4.0% at 1439.00 vs 1383.11 close (after-hours, 18:15 ET) |  |
+| 11-17 18:19 | 1 | FIX | Up 4.0% (after-hours) | FIX +4.0% at 1143.40 vs 1099.02 close (after-hours, 18:15 ET) |  |
 | 11-17 17:21 | 1 | APP | Deal | AppLovin in talks to acquire ad-tech peer Criteo, Reuters reports | [link](https://finnhub.io/api/news?id=f9defcab49341f2c31a628e1179b52c19b52b1cec8da98de374233703e930c1f) |
 | 11-17 17:21 | 2 | FIX | Buyback/dividend | Comfort Systems USA Increases Stock Repurchase Program | [link](https://finnhub.io/api/news?id=a69d2567cb6951cf65d9f74b434edc46372f6e1f970fdf32d66093e3b9f685aa) |
 | 11-17 17:21 | 2 | OKLO | 8-K: 1.01 Material agreement | 8-K - Oklo Inc. (0001849056) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1849056/000184905626000055/0001849056-26-000055-index.htm) |
@@ -127,6 +141,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-17 18:19 | 2 | AMKR | Up 8.0% (after-hours) | AMKR +8.0% at 36.79 vs 34.05 close (after-hours, 18:19 ET) |  |
+| 11-17 18:19 | 2 | TTMI | Up 8.0% (after-hours) | TTMI +8.0% at 72.10 vs 66.74 close (after-hours, 18:20 ET) |  |
 | 11-17 17:21 | 2 | JEF | Down 9.3% (after-hours) | JEF -9.3% at 38.56 vs 42.53 close (after-hours, 16:49 ET) |  |
 | 11-17 17:21 | 2 | CSX | 8-K: 1.01 Material agreement; 1.02 Agreement terminated | 8-K - CSX CORP (0000277948) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/277948/000095010326017684/0000950103-26-017684-index.htm) |
 | 11-17 17:21 | 2 | ECL | 8-K: 2.05 Restructuring/exit costs | 8-K - ECOLAB INC. (0000031462) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/31462/000162828026074572/0001628280-26-074572-index.htm) |
