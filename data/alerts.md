@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-17 15:11 ET
+# Alerts — watcher run 2026-11-17 16:18 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-17 16:18 | 2 | NVDA | 8-K: 2.02 Earnings results | 8-K - NVIDIA CORP (0001045810) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/0001045810-26-000088-index.htm) |
+| 11-17 16:18 | 1 | LOW | 8-K: 5.02 Executive/director change | 8-K - LOWES COMPANIES INC (0000060667) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/60667/000006066726000122/0000060667-26-000122-index.htm) |
 | 11-17 15:11 | 1 | NKE | Down 7.0% (regular) | NKE -7.0% at 35.56 vs 38.26 close (regular, 15:10 ET) |  |
 | 11-17 15:11 | 1 | LCID | Up 5.5% (regular) | LCID +5.5% at 2.95 vs 2.80 close (regular, 15:10 ET) |  |
 | 11-17 15:11 | 2 | AMZN | Deal | Alphabet, Amazon, and Nvidia All Have a Stake in Anthropic. Here’s the One I’d Buy If I Could Only Pick 1. | [link](https://finnhub.io/api/news?id=54e623e9f7c0fe72db4df2b0243944e711aa4640755147316abdd3d7b2974c5d) |
@@ -122,6 +124,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-17 16:18 | 2 | O | 8-K: 5.02 Executive/director change | 8-K - REALTY INCOME CORP (0000726728) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/726728/000110465926129070/0001104659-26-129070-index.htm) |
+| 11-17 16:18 | 2 | DLB | 8-K: 2.02 Earnings results | 8-K - Dolby Laboratories, Inc. (0001308547) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1308547/000119312526465542/0001193125-26-465542-index.htm) |
+| 11-17 16:18 | 2 | SPXC | 8-K: 5.02 Executive/director change | 8-K - SPX Technologies, Inc. (0000088205) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/88205/000110465926129057/0001104659-26-129057-index.htm) |
+| 11-17 16:18 | 2 | BSX | 8-K: 5.02 Executive/director change | 8-K - BOSTON SCIENTIFIC CORP (0000885725) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/885725/000088572526000073/0000885725-26-000073-index.htm) |
+| 11-17 16:18 | 2 | ATO | 8-K: 1.01 Material agreement | 8-K - ATMOS ENERGY CORP (0000731802) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/731802/000119312526465513/0001193125-26-465513-index.htm) |
+| 11-17 16:18 | 2 | FLEX | 8-K: 1.01 Material agreement | 8-K - FLEX LTD. (0000866374) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/866374/000119312526465504/0001193125-26-465504-index.htm) |
 | 11-17 14:06 | 2 | NXT | Down 9.4% (regular) | NXT -9.4% at 80.94 vs 89.31 close (regular, 14:05 ET) |  |
 | 11-17 13:06 | 2 | ACM | Up 12.7% (regular) | ACM +12.7% at 81.74 vs 72.50 close (regular, 13:05 ET) |  |
 | 11-17 13:06 | 2 | BILL | Up 9.3% (regular) | BILL +9.3% at 63.00 vs 57.63 close (regular, 13:05 ET) |  |
