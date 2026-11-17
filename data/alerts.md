@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-17 14:06 ET
+# Alerts — watcher run 2026-11-17 15:11 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-17 15:11 | 1 | NKE | Down 7.0% (regular) | NKE -7.0% at 35.56 vs 38.26 close (regular, 15:10 ET) |  |
+| 11-17 15:11 | 1 | LCID | Up 5.5% (regular) | LCID +5.5% at 2.95 vs 2.80 close (regular, 15:10 ET) |  |
+| 11-17 15:11 | 2 | AMZN | Deal | Alphabet, Amazon, and Nvidia All Have a Stake in Anthropic. Here’s the One I’d Buy If I Could Only Pick 1. | [link](https://finnhub.io/api/news?id=54e623e9f7c0fe72db4df2b0243944e711aa4640755147316abdd3d7b2974c5d) |
 | 11-17 14:06 | 1 | NKE | Down 5.7% (regular) | NKE -5.7% at 36.09 vs 38.26 close (regular, 14:05 ET) |  |
 | 11-17 14:06 | 1 | ACHR | Down 6.3% (regular) | ACHR -6.3% at 3.51 vs 3.74 close (regular, 14:05 ET) |  |
 | 11-17 13:06 | 1 | IBM | Down 4.1% (regular) | IBM -4.1% at 232.67 vs 242.51 close (regular, 13:05 ET) |  |
