@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-16 18:11 ET
+# Alerts — watcher run 2026-11-16 19:07 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -101,4 +101,4 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 ## Watcher health
 
-- sec/8k: HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out. (read timeout=20)
+- All checks ran.
