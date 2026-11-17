@@ -1,4 +1,4 @@
-# Short-term scan — 2026-11-17 16:42 ET
+# Short-term scan — 2026-11-17 17:02 ET
 Universe: S&P 500 + S&P 400 (903 names, 912 priced). Filters: price ≥ $10, avg daily dollar volume ≥ $20M, no semiconductors, no names from the tracked list. These are candidates; check news, catalysts and the trading rules before proposing a trade.
 
 ## Market regime
@@ -12,7 +12,7 @@ Universe: S&P 500 + S&P 400 (903 names, 912 priced). Filters: price ≥ $10, avg
 ## 2. Breakouts (new 52-week high on ≥1.8× volume, closed near the high, above 50- and 200-day)
 | Ticker | Company | Close | Day % | Vol × | 1m % | 3m % | RSI | ATR | Day low |
 |---|---|---|---|---|---|---|---|---|---|
-| BILL | Bill Holdings · Information Technology | 64.88 | 12.58 | 6.42 | 42.00 | 35.99 | 84.8 | 2.74 | 55.14 |
+| BILL | Bill Holdings · Information Technology | 64.88 | 12.58 | 6.43 | 42.00 | 35.99 | 84.8 | 2.74 | 55.14 |
 
 ## 3. Oversold in an uptrend (down ≥8% in 3 days, RSI ≤ 30, still above the 200-day)
 | Ticker | Company | Close | 3d % | Day % | RSI | Vol × | vs 200-day % | ATR |
@@ -71,29 +71,29 @@ How to use: for each loser, find the reason. If it's fear, a sector selloff or a
 | Ticker | Company | Day % | Gap % | Vol × | 1m % | From 52w high % | RSI | vs 200-day % | Flags |
 |---|---|---|---|---|---|---|---|---|---|
 | NXT | Nextpower · Industrials | -12.13 | 2.18 | 1.57 | -1.53 | -51.90 | 39.8 | -26.12 |  |
-| CRM | Salesforce · Information Technology | -9.45 | -2.71 | 1.49 | -19.77 | -27.70 | 25.7 | -1.72 | Tracked |
-| RH | RH · Consumer Discretionary | -8.37 | -1.45 | 1.12 | 1.38 | -51.70 | 37.2 | -22.03 |  |
+| CRM | Salesforce · Information Technology | -9.45 | -2.71 | 1.5 | -19.77 | -27.70 | 25.7 | -1.72 | Tracked |
+| RH | RH · Consumer Discretionary | -8.37 | -1.45 | 1.13 | 1.38 | -51.70 | 37.2 | -22.03 |  |
 | INTU | Intuit · Information Technology | -7.17 | -1.8 | 0.98 | -1.48 | -53.00 | 43.2 | -8.13 | Tracked |
 | HUBS | HubSpot · Information Technology | -6.76 | -2.55 | 0.86 | -7.81 | -46.80 | 46.4 | -4.30 |  |
 | NOW | ServiceNow · Information Technology | -6.51 | -1.38 | 1.59 | -36.09 | -46.90 | 26.7 | -18.17 | Tracked |
 | SBAC | SBA Communications · Real Estate | -6.46 | -0.15 | 1.0 | -4.66 | -22.20 | 39.1 | -8.30 |  |
 | TRU | TransUnion · Industrials | -6.33 | -1.5 | 1.2 | 4.39 | -14.40 | 46.4 | 3.16 |  |
-| NKE | Nike, Inc. · Consumer Discretionary | -6.3 | 5.07 | 1.92 | -3.65 | -48.10 | 40.3 | -19.51 | Tracked |
+| NKE | Nike, Inc. · Consumer Discretionary | -6.3 | 5.07 | 1.96 | -3.65 | -48.10 | 40.3 | -19.51 | Tracked |
 | ALK | Alaska Air Group · Industrials | -6.27 | -0.85 | 0.87 | 7.30 | -39.90 | 43.8 | -15.87 |  |
 
 **Gainers**
 | Ticker | Company | Day % | Gap % | Vol × | 1m % | From 52w high % | RSI | vs 200-day % | Flags |
 |---|---|---|---|---|---|---|---|---|---|
-| BILL | Bill Holdings · Information Technology | 12.58 | -1.51 | 6.42 | 42.00 | -0.80 | 84.8 | 50.81 |  |
+| BILL | Bill Holdings · Information Technology | 12.58 | -1.51 | 6.43 | 42.00 | -0.80 | 84.8 | 50.81 |  |
 | ACM | AECOM · Industrials | 11.08 | 9.66 | 2.89 | 38.80 | -40.10 | 85.9 | 8.11 |  |
 | FIX | Comfort Systems USA · Industrials | 3.91 | 2.07 | 1.1 | -24.93 | -47.00 | 39.7 | -31.47 | Tracked |
-| COHR | Coherent Corp. · Information Technology | 3.65 | 5.64 | 1.25 | -9.12 | -52.10 | 44.5 | -28.93 |  |
+| COHR | Coherent Corp. · Information Technology | 3.65 | 5.64 | 1.29 | -9.12 | -52.10 | 44.5 | -28.93 |  |
 | VIAV | Viavi Solutions · Information Technology | 3.62 | 3.52 | 1.09 | -14.89 | -50.70 | 43.5 | -24.25 |  |
 | MTSI | MACOM Technology Solutions · Information Technology | 3.14 | 3.58 | 0.72 | -14.46 | -45.70 | 44.6 | -19.89 | Semi |
-| CIEN | Ciena · Information Technology | 2.82 | 2.49 | 0.79 | -23.06 | -58.50 | 40.5 | -34.88 |  |
-| LITE | Lumentum · Information Technology | 2.56 | 3.91 | 0.82 | -32.90 | -51.00 | 36.0 | -31.32 |  |
+| CIEN | Ciena · Information Technology | 2.82 | 2.49 | 0.8 | -23.06 | -58.50 | 40.5 | -34.88 |  |
+| LITE | Lumentum · Information Technology | 2.56 | 3.77 | 0.84 | -32.90 | -51.00 | 36.0 | -31.32 |  |
 | DY | Dycom Industries · Industrials | 2.49 | 1.13 | 0.6 | -13.22 | -61.00 | 42.7 | -40.32 |  |
-| AVGO | Broadcom · Information Technology | 2.46 | 0.66 | 0.99 | 2.10 | -31.00 | 51.4 | -7.05 | Tracked, Semi |
+| AVGO | Broadcom · Information Technology | 2.46 | 0.66 | 1.02 | 2.10 | -31.00 | 51.4 | -7.05 | Tracked, Semi |
 
 ## Data quality
 - insider: index 2026-11-11: 403 Client Error: Forbidden for url: https://www.sec.gov/Archives/edgar/daily-index/2026/QTR4/form.20261111.idx

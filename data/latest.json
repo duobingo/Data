@@ -1,7 +1,7 @@
 {
  "mode": "close",
- "generated_utc": "2026-11-17 21:26",
- "generated_et": "2026-11-17 16:26",
+ "generated_utc": "2026-11-17 21:45",
+ "generated_et": "2026-11-17 16:45",
  "since": "2026-11-15",
  "prices": {
   "AAPL": {
@@ -143,7 +143,7 @@
    "52w_high": 596.92,
    "52w_low": 464.01,
    "from_52w_high_pct": -1.7,
-   "vol_vs_20d": 0.95,
+   "vol_vs_20d": 0.97,
    "finnhub_last": 586.76,
    "finnhub_prev_close": 592.85,
    "verified": true
@@ -239,7 +239,7 @@
    "52w_high": 188.5,
    "52w_low": 114.19,
    "from_52w_high_pct": -11.29,
-   "vol_vs_20d": 0.64,
+   "vol_vs_20d": 0.72,
    "finnhub_last": 167.21,
    "finnhub_prev_close": 166.87,
    "verified": true
@@ -255,7 +255,7 @@
    "52w_high": 250.25,
    "52w_low": 109.21,
    "from_52w_high_pct": -54.05,
-   "vol_vs_20d": 0.58,
+   "vol_vs_20d": 0.59,
    "finnhub_last": 115,
    "finnhub_prev_close": 119.09,
    "verified": true
@@ -319,7 +319,7 @@
    "52w_high": 173.59,
    "52w_low": 137.62,
    "from_52w_high_pct": -1.08,
-   "vol_vs_20d": 0.79,
+   "vol_vs_20d": 0.82,
    "finnhub_last": 171.72,
    "finnhub_prev_close": 173.02,
    "verified": true
@@ -367,7 +367,7 @@
    "52w_high": 302.93,
    "52w_low": 190.75,
    "from_52w_high_pct": -3.34,
-   "vol_vs_20d": 0.67,
+   "vol_vs_20d": 0.71,
    "finnhub_last": 292.82,
    "finnhub_prev_close": 294.55,
    "verified": true
@@ -431,7 +431,7 @@
    "52w_high": 156.92,
    "52w_low": 92.11,
    "from_52w_high_pct": -8.63,
-   "vol_vs_20d": 0.71,
+   "vol_vs_20d": 0.76,
    "finnhub_last": 143.37,
    "finnhub_prev_close": 144.46,
    "verified": true
@@ -447,7 +447,7 @@
    "52w_high": 236.48,
    "52w_low": 146.49,
    "from_52w_high_pct": -8.61,
-   "vol_vs_20d": 0.89,
+   "vol_vs_20d": 1.03,
    "finnhub_last": 216.13,
    "finnhub_prev_close": 217.14,
    "verified": true
@@ -591,7 +591,7 @@
    "52w_high": 132.03,
    "52w_low": 81.97,
    "from_52w_high_pct": -20.69,
-   "vol_vs_20d": 0.59,
+   "vol_vs_20d": 0.61,
    "finnhub_last": 104.71,
    "finnhub_prev_close": 107.45,
    "verified": true
@@ -607,7 +607,7 @@
    "52w_high": 97.76,
    "52w_low": 72.78,
    "from_52w_high_pct": -15.42,
-   "vol_vs_20d": 0.88,
+   "vol_vs_20d": 0.92,
    "finnhub_last": 82.69,
    "finnhub_prev_close": 84.84,
    "verified": true
@@ -671,7 +671,7 @@
    "52w_high": 122.72,
    "52w_low": 92.19,
    "from_52w_high_pct": -4.71,
-   "vol_vs_20d": 2.45,
+   "vol_vs_20d": 2.48,
    "finnhub_last": 116.94,
    "finnhub_prev_close": 118.7,
    "verified": true
@@ -831,7 +831,7 @@
    "52w_high": 232.25,
    "52w_low": 152.8,
    "from_52w_high_pct": -20.98,
-   "vol_vs_20d": 0.64,
+   "vol_vs_20d": 0.67,
    "finnhub_last": 183.53,
    "finnhub_prev_close": 185.57,
    "verified": true
@@ -879,7 +879,7 @@
    "52w_high": 31.44,
    "52w_low": 23.62,
    "from_52w_high_pct": -9.45,
-   "vol_vs_20d": 0.94,
+   "vol_vs_20d": 0.97,
    "finnhub_last": 28.47,
    "finnhub_prev_close": 28.86,
    "verified": true
@@ -911,7 +911,7 @@
    "52w_high": 29.44,
    "52w_low": 19.89,
    "from_52w_high_pct": -24.29,
-   "vol_vs_20d": 0.8,
+   "vol_vs_20d": 0.83,
    "finnhub_last": 22.29,
    "finnhub_prev_close": 22.36,
    "verified": true
@@ -943,7 +943,7 @@
    "52w_high": 387.49,
    "52w_low": 290.97,
    "from_52w_high_pct": -18.51,
-   "vol_vs_20d": 0.85,
+   "vol_vs_20d": 0.9,
    "finnhub_last": 315.78,
    "finnhub_prev_close": 319.05,
    "verified": true
@@ -959,7 +959,7 @@
    "52w_high": 293.06,
    "52w_low": 178.45,
    "from_52w_high_pct": -24.77,
-   "vol_vs_20d": 1.23,
+   "vol_vs_20d": 1.37,
    "finnhub_last": 220.46,
    "finnhub_prev_close": 224.93,
    "verified": true
@@ -1039,7 +1039,7 @@
    "52w_high": 389.33,
    "52w_low": 267.0,
    "from_52w_high_pct": -18.44,
-   "vol_vs_20d": 1.35,
+   "vol_vs_20d": 1.41,
    "finnhub_last": 317.54,
    "finnhub_prev_close": 310.72,
    "verified": true
@@ -1055,7 +1055,7 @@
    "52w_high": 153.35,
    "52w_low": 121.4,
    "from_52w_high_pct": -18.12,
-   "vol_vs_20d": 0.8,
+   "vol_vs_20d": 0.94,
    "finnhub_last": 125.56,
    "finnhub_prev_close": 127.6,
    "verified": true
@@ -1391,7 +1391,7 @@
    "52w_high": 147.96,
    "52w_low": 95.83,
    "from_52w_high_pct": -18.94,
-   "vol_vs_20d": 0.77,
+   "vol_vs_20d": 0.81,
    "finnhub_last": 119.94,
    "finnhub_prev_close": 121.32,
    "verified": true
@@ -1455,7 +1455,7 @@
    "52w_high": 170.0,
    "52w_low": 122.78,
    "from_52w_high_pct": -23.62,
-   "vol_vs_20d": 1.61,
+   "vol_vs_20d": 1.86,
    "finnhub_last": 129.85,
    "finnhub_prev_close": 131.09,
    "verified": true
@@ -1647,7 +1647,7 @@
    "52w_high": 103.22,
    "52w_low": 33.88,
    "from_52w_high_pct": -57.37,
-   "vol_vs_20d": 0.66,
+   "vol_vs_20d": 0.67,
    "finnhub_last": 44,
    "finnhub_prev_close": 46.12,
    "verified": true
@@ -1967,7 +1967,7 @@
    "52w_high": 165.14,
    "52w_low": 101.73,
    "from_52w_high_pct": -29.47,
-   "vol_vs_20d": 0.56,
+   "vol_vs_20d": 0.57,
    "finnhub_last": 116.48,
    "finnhub_prev_close": 117.01,
    "verified": true
@@ -2170,6 +2170,114 @@
    }
   ],
   "AMZN": [
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000193600626000030/xslF345X06/wk-form4_1794951971.xml",
+    "description": "FORM 4",
+    "form4": {
+     "owner": "Herrington Douglas J",
+     "role": "CEO Worldwide Amazon Stores",
+     "10b5_1_plan": true,
+     "transactions": [
+      {
+       "code": "M",
+       "type": "option exercise",
+       "shares": 9352.0,
+       "price": 0.0,
+       "value": 0
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 981.0,
+       "price": 259.6232,
+       "value": 254690
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 680.0,
+       "price": 260.7859,
+       "value": 177334
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 1720.0,
+       "price": 261.7333,
+       "value": 450181
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 360.0,
+       "price": 262.5144,
+       "value": 94505
+      }
+     ]
+    }
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000054/xslF345X06/wk-form4_1794951713.xml",
+    "description": "FORM 4",
+    "form4": {
+     "owner": "Smith Brad D",
+     "role": "Director",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "M",
+       "type": "option exercise",
+       "shares": 2605.0,
+       "price": 0.0,
+       "value": 0
+      }
+     ]
+    }
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000052/xslF345X06/wk-form4_1794951462.xml",
+    "description": "FORM 4",
+    "form4": {
+     "owner": "Cooper Edith W",
+     "role": "Director",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "M",
+       "type": "option exercise",
+       "shares": 2042.0,
+       "price": 0.0,
+       "value": 0
+      }
+     ]
+    }
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000050/xslF345X06/wk-form4_1794951114.xml",
+    "description": "FORM 4",
+    "form4": {
+     "owner": "Stonesifer Patricia Q",
+     "role": "Director",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "M",
+       "type": "option exercise",
+       "shares": 1565.0,
+       "price": 0.0,
+       "value": 0
+      }
+     ]
+    }
+   },
    {
     "form": "4",
     "date": "2026-11-17",
@@ -2612,6 +2720,48 @@
    }
   ],
   "JPM": [
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426035977/form424b2.htm",
+    "description": "PRICING SUPPLEMENT"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426035975/form424b2.htm",
+    "description": "PRELIMINARY PRICING SUPPLEMENT"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426035974/form424b2.htm",
+    "description": "PRELIMINARY PRICING SUPPLEMENT"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026121436/ea0312702-01_424b2.htm",
+    "description": "PRELIMINARY PRICING SUPPLEMENT"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026121431/ea0312671-01_424b2.htm",
+    "description": "PRICING SUPPLEMENT"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426035965/form424b2.htm",
+    "description": "PRELIMINARY PRICING SUPPLEMENT"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026121421/ea0312673-01_424b2.htm",
+    "description": "PRICING SUPPLEMENT"
+   },
    {
     "form": "424B2",
     "date": "2026-11-17",
@@ -3801,6 +3951,84 @@
    {
     "form": "424B2",
     "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035984/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035983/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035981/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035980/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035979/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035978/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035971/form424b2.htm",
+    "description": "FORM 424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035970/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035967/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035966/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035964/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035963/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035962/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
     "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426035960/form424b2.htm",
     "description": "424B2"
    },
@@ -4408,6 +4636,75 @@
    {
     "form": "4",
     "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000211/xslF345X06/wk-form4_1794950949.xml",
+    "description": "FORM 4",
+    "form4": {
+     "owner": "Norrod Forrest Eugene",
+     "role": "EVP & GM DSG",
+     "10b5_1_plan": true,
+     "transactions": [
+      {
+       "code": "M",
+       "type": "option exercise",
+       "shares": 611.0,
+       "price": 0.0,
+       "value": 0
+      },
+      {
+       "code": "F",
+       "type": "tax withholding",
+       "shares": 241.0,
+       "price": 534.06,
+       "value": 128708
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 2400.0,
+       "price": 503.4,
+       "value": 1208160
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 239.0,
+       "price": 504.41,
+       "value": 120554
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 465.0,
+       "price": 505.7,
+       "value": 235150
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 5974.0,
+       "price": 507.0,
+       "value": 3028818
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 842.0,
+       "price": 507.5,
+       "value": 427315
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 80.0,
+       "price": 508.2,
+       "value": 40656
+      }
+     ]
+    }
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
     "url": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000209/xslF345X06/wk-form4_1794950650.xml",
     "description": "FORM 4",
     "form4": {
@@ -4643,7 +4940,14 @@
    }
   ],
   "LIN": [],
-  "CSCO": [],
+  "CSCO": [
+   {
+    "form": "10-Q",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000185/csco-20261024.htm",
+    "description": "10-Q"
+   }
+  ],
   "ACN": [
    {
     "form": "4",
@@ -5332,6 +5636,42 @@
   "ISRG": [],
   "NOW": [],
   "GS": [
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526465644/gs-20261117.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526465636/gs-20261117.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526465635/gs-20261117.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526465629/gs-20261117.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526465605/gs-20261117.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526465572/gs-20261117.htm",
+    "description": "424B2"
+   },
    {
     "form": "424B2",
     "date": "2026-11-17",
@@ -6717,6 +7057,18 @@
    {
     "form": "424B2",
     "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426035982/form424b2.htm",
+    "description": "PRELIMINARY PRICING SUPPLEMENT"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326017677/dp257062_424b2-us26t0873d.htm",
+    "description": "PRICING SUPPLEMENT"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-17",
     "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426035956/form424b2.htm",
     "description": "PRELIMINARY PRICING SUPPLEMENT"
    },
@@ -7693,7 +8045,18 @@
    }
   ],
   "CEG": [],
-  "FIX": [],
+  "FIX": [
+   {
+    "form": "8-K",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/1035983/000110465926129104/tm2630100d1_8k.htm",
+    "description": "FORM 8-K",
+    "items": [
+     "8.01 Other events",
+     "9.01 Exhibits"
+    ]
+   }
+  ],
   "DECK": [],
   "EME": [],
   "TMUS": [],
@@ -7718,7 +8081,28 @@
   ],
   "PGR": [],
   "BX": [],
-  "KKR": [],
+  "KKR": [
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/1404912/000114036126044509/xslF345X06/form4.xml",
+    "description": "FORM 4",
+    "form4": {
+     "owner": "Kkr Group Partnership L.P.",
+     "role": "10% owner",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 4753677.0,
+       "price": 127.0,
+       "value": 603716979
+      }
+     ]
+    }
+   }
+  ],
   "MELI": [],
   "BFLY": [
    {
@@ -7740,6 +8124,138 @@
   ],
   "ACHR": [],
   "OKLO": [
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/1849056/000216335426000004/xslF345X06/wk-form4_1794951615.xml",
+    "description": "FORM 4",
+    "form4": {
+     "owner": "Webster Ryan",
+     "role": "VP of Fuel Fabrication",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "M",
+       "type": "option exercise",
+       "shares": 1576.0,
+       "price": 0.47,
+       "value": 741
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 1576.0,
+       "price": 23.2701,
+       "value": 36674
+      },
+      {
+       "code": "M",
+       "type": "option exercise",
+       "shares": 3637.0,
+       "price": 3.18,
+       "value": 11566
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 3637.0,
+       "price": 23.305,
+       "value": 84760
+      }
+     ]
+    }
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/1849056/000214768026000018/xslF345X06/wk-form4_1794951544.xml",
+    "description": "FORM 4",
+    "form4": {
+     "owner": "Renner Alexandra",
+     "role": "Chief Product Officer",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "M",
+       "type": "option exercise",
+       "shares": 1201.0,
+       "price": 0.0,
+       "value": 0
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 530.0,
+       "price": 23.7272,
+       "value": 12575
+      }
+     ]
+    }
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/1849056/000214682826000014/xslF345X06/wk-form4_1794951467.xml",
+    "description": "FORM 4",
+    "form4": {
+     "owner": "Hanson John",
+     "role": "Chief of Staff",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "M",
+       "type": "option exercise",
+       "shares": 961.0,
+       "price": 0.0,
+       "value": 0
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 513.0,
+       "price": 23.7272,
+       "value": 12172
+      }
+     ]
+    }
+   },
+   {
+    "form": "4",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/1849056/000214679026000029/xslF345X06/wk-form4_1794951432.xml",
+    "description": "FORM 4",
+    "form4": {
+     "owner": "Narayanadas Vivek",
+     "role": "General Counsel & Secretary",
+     "10b5_1_plan": true,
+     "transactions": [
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 936.0,
+       "price": 23.5633,
+       "value": 22055
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 229.0,
+       "price": 22.61,
+       "value": 5178
+      }
+     ]
+    }
+   },
+   {
+    "form": "8-K",
+    "date": "2026-11-17",
+    "url": "https://www.sec.gov/Archives/edgar/data/1849056/000184905626000055/oklo-20261111.htm",
+    "description": "8-K",
+    "items": [
+     "1.01 Material agreement",
+     "9.01 Exhibits"
+    ]
+   },
    {
     "form": "SCHEDULE 13G",
     "date": "2026-11-16",
@@ -13257,6 +13773,12 @@
    },
    "news": [
     {
+     "time": "11-17 11:22",
+     "source": "SeekingAlpha",
+     "headline": "Gilead Sciences, Inc. (GILD) Presents at Jefferies Global Healthcare Conference 2026 Transcript",
+     "url": "https://finnhub.io/api/news?id=ad3b94ba46122360cc7c95bb11e97433ae7be5b6434e7a0b4269e64b4331e35c"
+    },
+    {
      "time": "11-17 11:16",
      "source": "Yahoo",
      "headline": "Gilead Sciences Maps Growth Beyond BIKTARVY With HIV, Cancer and Inflammation Drugs",
@@ -13285,12 +13807,6 @@
      "source": "Yahoo",
      "headline": "Gilead Sciences Bets on HIV Prevention Growth Despite $1.5 Billion Biktarvy Headwind",
      "url": "https://finnhub.io/api/news?id=02849b3b7d43c4ea298efe6ec369677b952991a12cca897bd58b3f436c8cf4e6"
-    },
-    {
-     "time": "11-17 06:22",
-     "source": "SeekingAlpha",
-     "headline": "Gilead Sciences, Inc. (GILD) Presents at UBS Global Biopharma Conference 2026 Transcript",
-     "url": "https://finnhub.io/api/news?id=95e28421e461cffff3d6a61f00c821400dce0ceea3a13cc90369cc630e9be7ee"
     }
    ]
   },
@@ -18822,9 +19338,9 @@
    "fwd_pe": 11.833365,
    "ttm_pe": 10.277778,
    "peg": 4.33,
-   "target_mean": 45.791313,
-   "target_low": 39.481945,
-   "target_high": 64.158195,
+   "target_mean": 45.796234,
+   "target_low": 39.48619,
+   "target_high": 64.16509,
    "rating": "hold",
    "n_analysts": 12,
    "short_pct": 0.0121
@@ -18895,9 +19411,9 @@
    "fwd_pe": 21.81586,
    "ttm_pe": 34.03322,
    "peg": 0.75,
-   "target_mean": 2110.6743,
-   "target_low": 851.37006,
-   "target_high": 2796.7039,
+   "target_mean": 2109.9778,
+   "target_low": 851.0892,
+   "target_high": 2795.7812,
    "rating": "strong_buy",
    "n_analysts": 17,
    "short_pct": 0.003
