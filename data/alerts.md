@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-17 16:18 ET
+# Alerts — watcher run 2026-11-17 17:21 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-17 17:21 | 1 | APP | Deal | AppLovin in talks to acquire ad-tech peer Criteo, Reuters reports | [link](https://finnhub.io/api/news?id=f9defcab49341f2c31a628e1179b52c19b52b1cec8da98de374233703e930c1f) |
+| 11-17 17:21 | 2 | FIX | Buyback/dividend | Comfort Systems USA Increases Stock Repurchase Program | [link](https://finnhub.io/api/news?id=a69d2567cb6951cf65d9f74b434edc46372f6e1f970fdf32d66093e3b9f685aa) |
+| 11-17 17:21 | 2 | OKLO | 8-K: 1.01 Material agreement | 8-K - Oklo Inc. (0001849056) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1849056/000184905626000055/0001849056-26-000055-index.htm) |
 | 11-17 16:18 | 2 | NVDA | 8-K: 2.02 Earnings results | 8-K - NVIDIA CORP (0001045810) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/0001045810-26-000088-index.htm) |
 | 11-17 16:18 | 1 | LOW | 8-K: 5.02 Executive/director change | 8-K - LOWES COMPANIES INC (0000060667) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/60667/000006066726000122/0000060667-26-000122-index.htm) |
 | 11-17 15:11 | 1 | NKE | Down 7.0% (regular) | NKE -7.0% at 35.56 vs 38.26 close (regular, 15:10 ET) |  |
@@ -124,6 +127,11 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-17 17:21 | 2 | JEF | Down 9.3% (after-hours) | JEF -9.3% at 38.56 vs 42.53 close (after-hours, 16:49 ET) |  |
+| 11-17 17:21 | 2 | CSX | 8-K: 1.01 Material agreement; 1.02 Agreement terminated | 8-K - CSX CORP (0000277948) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/277948/000095010326017684/0000950103-26-017684-index.htm) |
+| 11-17 17:21 | 2 | ECL | 8-K: 2.05 Restructuring/exit costs | 8-K - ECOLAB INC. (0000031462) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/31462/000162828026074572/0001628280-26-074572-index.htm) |
+| 11-17 17:21 | 2 | SYY | 8-K: 5.02 Executive/director change | 8-K - SYSCO CORP (0000096021) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/96021/000095014226003101/0000950142-26-003101-index.htm) |
+| 11-17 17:21 | 2 | UGI | 8-K: 1.01 Material agreement | 8-K - UGI CORP /PA/ (0000884614) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/884614/000110465926129089/0001104659-26-129089-index.htm) |
 | 11-17 16:18 | 2 | O | 8-K: 5.02 Executive/director change | 8-K - REALTY INCOME CORP (0000726728) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/726728/000110465926129070/0001104659-26-129070-index.htm) |
 | 11-17 16:18 | 2 | DLB | 8-K: 2.02 Earnings results | 8-K - Dolby Laboratories, Inc. (0001308547) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1308547/000119312526465542/0001193125-26-465542-index.htm) |
 | 11-17 16:18 | 2 | SPXC | 8-K: 5.02 Executive/director change | 8-K - SPX Technologies, Inc. (0000088205) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/88205/000110465926129057/0001104659-26-129057-index.htm) |
