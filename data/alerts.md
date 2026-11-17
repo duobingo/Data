@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-17 04:30 ET
+# Alerts — watcher run 2026-11-17 05:44 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-17 05:44 | 1 | NVDA | Leadership | Jensen Huang's Departure as Nvidia CEO Could Have Enormous Consequences for Where the Crypto Market Heads Next. | [link](https://finnhub.io/api/news?id=663783a448a9c27c0f23217e181f6113d2b7ecafdc568d6dbc55367b39d4499e) |
+| 11-17 05:44 | 1 | DASH | Legal/regulatory | DOJ reportedly set to review DoorDash’s Instacart acquisition | [link](https://finnhub.io/api/news?id=5b58cee3c6f8750f7510ea276735bec09ad591113fd4e89857eeb67e4b2400e6) |
 | 11-16 17:14 | 2 | NVDA | Leadership | The cost of ousting a founder: Is the 'bank of Nvidia' at risk? | [link](https://finnhub.io/api/news?id=6efbcfd3ef79aa754c5377906727bca8e3d8b534fb19688829cd30eb2af4ba06) |
 | 11-16 17:14 | 2 | NVDA | Legal/regulatory | Nvidia Probe Focus Shifts To China Chip Smuggling | [link](https://finnhub.io/api/news?id=bab3cf1bda0fd5ea01de95b24a6b5dfb523871a3d549938d0cf64ca824a0b1de) |
 | 11-16 17:14 | 1 | CVX | Deal | Chevron Reportedly Moves Ahead in Talks to Buy Majority Stake in Gulf Oil Producer Beacon | [link](https://finnhub.io/api/news?id=835fb95c0a1847b86771132a14dedcf72ac23ac4743812cb2e6731169301c57f) |
@@ -76,7 +78,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-15 05:26 | 1 | NVDA | Leadership | What’s Next for Nvidia After Jensen Huang’s Resignation? | [link](https://finnhub.io/api/news?id=71d71d155fa599270ac81c5a4606bf82bea64528f15b8e851b7a8742b151499f) |
 | 11-15 05:26 | 2 | NVDA | Analyst | 5 big analyst AI moves: Nvidia hit with downgrades after Huang’s exit | [link](https://finnhub.io/api/news?id=d3df7ab84e7fcf99fea98941aac9988e22f163e89d5c98fe9601fa3926210e61) |
 | 11-15 03:32 | 2 | NVDA | Analyst | Jordi Visser Sees December Fed Decision As Bitcoin’s Next Catalyst, Questions Wall Street’s Nvidia Downgrades | [link](https://finnhub.io/api/news?id=4b3394d8c6d0cf927f25bd2697f084f2a1986de5074b12a036d23fd7a34be6b6) |
-| 11-14 05:25 | 1 | NVDA | Leadership | Jensen Huang Misled Nvidia Leadership, Lawyer On Affair With Alleged Chinese Spy: Report | [link](https://finnhub.io/api/news?id=ffa55216906a078747cbd1523e7bead48b069a3ad08519f099542bb339de78a0) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 

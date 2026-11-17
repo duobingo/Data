@@ -3837,8 +3837,38 @@
    "url": "https://finnhub.io/api/news?id=835fb95c0a1847b86771132a14dedcf72ac23ac4743812cb2e6731169301c57f",
    "published": "2026-11-16 16:28",
    "first_seen": "2026-11-16T17:14-05:00"
+  },
+  {
+   "id": "fb8ce31485e40e19",
+   "kind": "news",
+   "group": "tracked",
+   "ticker": "NVDA",
+   "name": "Nvidia",
+   "sector": "Information Technology",
+   "severity": 1,
+   "category": "Leadership",
+   "title": "Jensen Huang's Departure as Nvidia CEO Could Have Enormous Consequences for Where the Crypto Market Heads Next.",
+   "source": "Yahoo",
+   "url": "https://finnhub.io/api/news?id=663783a448a9c27c0f23217e181f6113d2b7ecafdc568d6dbc55367b39d4499e",
+   "published": "2026-11-17 04:20",
+   "first_seen": "2026-11-17T05:44-05:00"
+  },
+  {
+   "id": "7ac1d592f7ef5b01",
+   "kind": "news",
+   "group": "tracked",
+   "ticker": "DASH",
+   "name": "DoorDash",
+   "sector": "Consumer Discretionary",
+   "severity": 1,
+   "category": "Legal/regulatory",
+   "title": "DOJ reportedly set to review DoorDash\u2019s Instacart acquisition",
+   "source": "Yahoo",
+   "url": "https://finnhub.io/api/news?id=5b58cee3c6f8750f7510ea276735bec09ad591113fd4e89857eeb67e4b2400e6",
+   "published": "2026-11-17 04:25",
+   "first_seen": "2026-11-17T05:44-05:00"
   }
  ],
- "last_run": "2026-11-17T04:30-05:00",
+ "last_run": "2026-11-17T05:44-05:00",
  "errors": []
 }
