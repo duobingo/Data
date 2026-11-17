@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-17 08:59 ET
+# Alerts — watcher run 2026-11-17 09:57 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-17 09:57 | 1 | UNH | Down 4.9% (regular) | UNH -4.9% at 391.62 vs 412.02 close (regular, 09:55 ET) |  |
+| 11-17 09:57 | 1 | CRM | Down 6.5% (regular) | CRM -6.5% at 200.82 vs 214.83 close (regular, 09:55 ET) |  |
+| 11-17 09:57 | 1 | ADBE | Down 4.1% (regular) | ADBE -4.1% at 235.89 vs 246.00 close (regular, 09:55 ET) |  |
+| 11-17 09:57 | 1 | INTU | Down 4.9% (regular) | INTU -4.9% at 328.64 vs 345.56 close (regular, 09:55 ET) |  |
+| 11-17 09:57 | 1 | NOW | Down 4.3% (regular) | NOW -4.3% at 95.11 vs 99.37 close (regular, 09:55 ET) |  |
+| 11-17 09:57 | 1 | ARM | Up 4.0% (regular) | ARM +4.0% at 182.07 vs 175.05 close (regular, 09:55 ET) |  |
 | 11-17 07:40 | 2 | META | Legal/regulatory | Meta Stock Plunges After Italy Hits Facebook With $887 Million Fine | [link](https://finnhub.io/api/news?id=26ebf9f2d35b1c46620d3bab67087672b7f85e2474db217a4a359e55069bd979) |
 | 11-17 07:40 | 1 | HD | Guidance | Home Depot Names New CEO, Raises Sales Outlook | [link](https://finnhub.io/api/news?id=14268f80ecb2f9316198d5eaaec451420a89ea9d345a7be7b2b620a2afeefdc8) |
 | 11-17 07:40 | 1 | HD | Guidance | Home Depot names CFO McPhail as next CEO, lifts sales outlook | [link](https://finnhub.io/api/news?id=bdf27472b25bb03d69f34e01d58856adf29f63abcbc9693c7a4b10ac30c7a0b7) |
@@ -91,6 +97,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-17 09:57 | 2 | ACM | Up 12.0% (regular) | ACM +12.0% at 81.20 vs 72.50 close (regular, 09:55 ET) |  |
+| 11-17 09:57 | 2 | VTRS | 8-K: 2.01 Acquisition/disposition completed | 8-K - Viatris Inc (0001792044) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1792044/000114036126044356/0001140361-26-044356-index.htm) |
 | 11-17 07:40 | 2 | COHR | Up 11.0% (premarket) | COHR +11.0% at 225.80 vs 203.43 close (premarket, 07:40 ET) |  |
 | 11-17 07:40 | 2 | LITE | Up 8.2% (premarket) | LITE +8.2% at 590.85 vs 546.00 close (premarket, 07:40 ET) |  |
 | 11-17 07:40 | 2 | KNX | Down 8.5% (premarket) | KNX -8.5% at 58.40 vs 63.81 close (premarket, 07:17 ET) |  |
