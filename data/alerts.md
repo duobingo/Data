@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-17 09:57 ET
+# Alerts — watcher run 2026-11-17 10:58 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,19 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-17 10:58 | 1 | CRM | Down 9.2% (regular) | CRM -9.2% at 195.16 vs 214.83 close (regular, 10:55 ET) |  |
+| 11-17 10:58 | 1 | INTU | Down 6.2% (regular) | INTU -6.2% at 324.20 vs 345.56 close (regular, 10:55 ET) |  |
+| 11-17 10:58 | 1 | NOW | Down 6.6% (regular) | NOW -6.6% at 92.86 vs 99.37 close (regular, 10:55 ET) |  |
+| 11-17 10:58 | 1 | MU | Down 5.0% (regular) | MU -5.0% at 683.00 vs 719.02 close (regular, 10:55 ET) |  |
+| 11-17 10:58 | 1 | SNOW | Down 4.9% (regular) | SNOW -4.9% at 266.80 vs 280.54 close (regular, 10:55 ET) |  |
+| 11-17 10:58 | 1 | HOOD | Down 5.1% (regular) | HOOD -5.1% at 68.37 vs 72.06 close (regular, 10:55 ET) |  |
+| 11-17 10:58 | 1 | APP | Down 5.7% (regular) | APP -5.7% at 391.73 vs 415.22 close (regular, 10:55 ET) |  |
+| 11-17 10:58 | 1 | HIMS | Down 6.1% (regular) | HIMS -6.1% at 17.43 vs 18.56 close (regular, 10:55 ET) |  |
+| 11-17 10:58 | 1 | RKLB | Down 4.3% (regular) | RKLB -4.3% at 54.90 vs 57.37 close (regular, 10:55 ET) |  |
+| 11-17 10:58 | 1 | IONQ | Down 7.2% (regular) | IONQ -7.2% at 24.55 vs 26.45 close (regular, 10:55 ET) |  |
+| 11-17 10:58 | 1 | SMCI | Down 5.1% (regular) | SMCI -5.1% at 23.76 vs 25.03 close (regular, 10:55 ET) |  |
+| 11-17 10:58 | 1 | TSM | Down 4.2% (regular) | TSM -4.2% at 357.82 vs 373.45 close (regular, 10:55 ET) |  |
+| 11-17 10:58 | 1 | SOUN | Down 5.3% (regular) | SOUN -5.3% at 3.06 vs 3.23 close (regular, 10:55 ET) |  |
 | 11-17 09:57 | 1 | UNH | Down 4.9% (regular) | UNH -4.9% at 391.62 vs 412.02 close (regular, 09:55 ET) |  |
 | 11-17 09:57 | 1 | CRM | Down 6.5% (regular) | CRM -6.5% at 200.82 vs 214.83 close (regular, 09:55 ET) |  |
 | 11-17 09:57 | 1 | ADBE | Down 4.1% (regular) | ADBE -4.1% at 235.89 vs 246.00 close (regular, 09:55 ET) |  |
