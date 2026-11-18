@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-18 15:26 ET
+# Alerts — watcher run 2026-11-18 16:23 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-18 16:23 | 1 | PANW | Up 8.1% (after-hours) | PANW +8.1% at 367.50 vs 339.92 close (after-hours, 16:20 ET) |  |
+| 11-18 16:23 | 1 | CRWD | Up 5.4% (after-hours) | CRWD +5.4% at 249.85 vs 237.03 close (after-hours, 16:20 ET) |  |
+| 11-18 16:23 | 2 | SPGI | 8-K: 1.01 Material agreement | 8-K - S&P Global Inc. (0000064040) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/64040/000110465926129710/0001104659-26-129710-index.htm) |
 | 11-18 15:26 | 1 | TJX | Up 8.9% (regular) | TJX +8.9% at 141.46 vs 129.85 close (regular, 15:25 ET) |  |
 | 11-18 15:26 | 2 | NVDA | Analyst | Nvidia’s Annual GPU Upgrades Are Changing the HBM Investment Outlook | [link](https://finnhub.io/api/news?id=2ecc64acd81f9649cb6c1045a31421e57244dc8f331f84702f23b2f6ed3c0875) |
 | 11-18 14:25 | 1 | AVGO | Up 4.3% (regular) | AVGO +4.3% at 356.33 vs 341.60 close (regular, 14:25 ET) |  |
@@ -153,14 +156,17 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-16 11:01 | 1 | ACHR | Down 6.8% (regular) | ACHR -6.8% at 3.76 vs 4.03 close (regular, 11:00 ET) |  |
 | 11-16 08:35 | 1 | AVGO | Down 4.0% (premarket) | AVGO -4.0% at 332.99 vs 347.01 close (premarket, 08:35 ET) |  |
 | 11-16 08:35 | 1 | MU | Down 6.1% (premarket) | MU -6.1% at 730.95 vs 778.31 close (premarket, 08:35 ET) |  |
-| 11-16 08:35 | 1 | LRCX | Down 5.0% (premarket) | LRCX -5.0% at 214.59 vs 225.92 close (premarket, 08:35 ET) |  |
-| 11-16 08:35 | 1 | SMCI | Down 5.6% (premarket) | SMCI -5.6% at 25.36 vs 26.87 close (premarket, 08:35 ET) |  |
-| 11-16 08:35 | 1 | FIX | Down 4.2% (premarket) | FIX -4.2% at 1066.00 vs 1112.50 close (premarket, 08:20 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-18 16:23 | 2 | BG | 8-K: 1.01 Material agreement | 8-K - Bunge Global SA (0001996862) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1996862/000162828026074820/0001628280-26-074820-index.htm) |
+| 11-18 16:23 | 2 | GATX | 8-K: 1.01 Material agreement | 8-K - GATX CORP (0000040211) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/40211/000119312526467128/0001193125-26-467128-index.htm) |
+| 11-18 16:23 | 2 | P | 8-K: 2.02 Earnings results | 8-K - Everpure, Inc. (0001474432) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1474432/000147443226000110/0001474432-26-000110-index.htm) |
+| 11-18 16:23 | 2 | NDAQ | 8-K: 5.02 Executive/director change | 8-K - NASDAQ, INC. (0001120193) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1120193/000119312526467087/0001193125-26-467087-index.htm) |
+| 11-18 16:23 | 2 | ALGN | 8-K: 5.02 Executive/director change | 8-K - ALIGN TECHNOLOGY INC (0001097149) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1097149/000109714926000088/0001097149-26-000088-index.htm) |
+| 11-18 16:23 | 2 | WWD | 8-K: 2.02 Earnings results | 8-K - Woodward, Inc. (0000108312) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/108312/000117184326007561/0001171843-26-007561-index.htm) |
 | 11-18 15:26 | 2 | AKAM | Up 8.3% (regular) | AKAM +8.3% at 91.68 vs 84.64 close (regular, 15:25 ET) |  |
 | 11-18 14:25 | 2 | GNRC | Up 9.9% (regular) | GNRC +9.9% at 205.57 vs 187.00 close (regular, 14:25 ET) |  |
 | 11-18 14:25 | 2 | QLYS | Up 12.4% (regular) | QLYS +12.4% at 196.32 vs 174.67 close (regular, 14:25 ET) |  |
