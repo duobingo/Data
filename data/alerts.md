@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-18 09:57 ET
+# Alerts — watcher run 2026-11-18 11:02 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,15 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-18 11:02 | 1 | UNH | Down 6.5% (regular) | UNH -6.5% at 364.43 vs 389.68 close (regular, 11:00 ET) |  |
+| 11-18 11:02 | 1 | CVX | Down 4.1% (regular) | CVX -4.1% at 207.17 vs 216.13 close (regular, 11:00 ET) |  |
+| 11-18 11:02 | 1 | PANW | Up 6.1% (regular) | PANW +6.1% at 328.23 vs 309.29 close (regular, 11:00 ET) |  |
+| 11-18 11:02 | 1 | ELV | Down 4.7% (regular) | ELV -4.7% at 413.68 vs 433.93 close (regular, 11:00 ET) |  |
+| 11-18 11:02 | 1 | LULU | Up 5.7% (regular) | LULU +5.7% at 110.06 vs 104.14 close (regular, 11:00 ET) |  |
+| 11-18 11:02 | 1 | CRWD | Up 6.3% (regular) | CRWD +6.3% at 233.40 vs 219.58 close (regular, 11:00 ET) |  |
+| 11-18 11:02 | 1 | RBLX | Up 6.7% (regular) | RBLX +6.7% at 46.93 vs 44.00 close (regular, 11:00 ET) |  |
+| 11-18 11:02 | 1 | IONQ | Down 4.1% (regular) | IONQ -4.1% at 23.83 vs 24.84 close (regular, 11:00 ET) |  |
+| 11-18 11:02 | 1 | FIX | Up 4.7% (regular) | FIX +4.7% at 1150.78 vs 1099.02 close (regular, 11:00 ET) |  |
 | 11-18 09:57 | 1 | TJX | Up 9.4% (regular) | TJX +9.4% at 142.03 vs 129.85 close (regular, 09:55 ET) |  |
 | 11-18 09:57 | 1 | TTWO | Up 7.5% (regular) | TTWO +7.5% at 219.25 vs 203.93 close (regular, 09:55 ET) |  |
 | 11-18 09:57 | 1 | BFLY | Up 5.8% (regular) | BFLY +5.8% at 6.09 vs 5.75 close (regular, 09:55 ET) |  |
@@ -152,6 +161,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-18 11:02 | 2 | QLYS | Up 8.6% (regular) | QLYS +8.6% at 189.67 vs 174.67 close (regular, 11:00 ET) |  |
 | 11-18 09:57 | 2 | MP | Up 8.5% (regular) | MP +8.5% at 37.83 vs 34.86 close (regular, 09:55 ET) |  |
 | 11-18 08:59 | 2 | EXPD | 8-K: 2.02 Earnings results | 8-K - EXPEDITORS INTERNATIONAL OF WASHINGTON INC (0000746515) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/746515/000119312526466274/0001193125-26-466274-index.htm) |
 | 11-18 07:44 | 2 | TXT | 8-K: 1.01 Material agreement; 2.06 Impairment | 8-K - TEXTRON INC (0000217346) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/217346/000110465926129345/0001104659-26-129345-index.htm) |
