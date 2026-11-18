@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-18 08:59 ET
+# Alerts — watcher run 2026-11-18 09:57 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,11 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-18 09:57 | 1 | TJX | Up 9.4% (regular) | TJX +9.4% at 142.03 vs 129.85 close (regular, 09:55 ET) |  |
+| 11-18 09:57 | 1 | TTWO | Up 7.5% (regular) | TTWO +7.5% at 219.25 vs 203.93 close (regular, 09:55 ET) |  |
+| 11-18 09:57 | 1 | BFLY | Up 5.8% (regular) | BFLY +5.8% at 6.09 vs 5.75 close (regular, 09:55 ET) |  |
+| 11-18 09:57 | 1 | OKLO | Up 5.2% (regular) | OKLO +5.2% at 23.52 vs 22.37 close (regular, 09:55 ET) |  |
+| 11-18 09:57 | 2 | TJX | 8-K: 2.02 Earnings results | 8-K - TJX COMPANIES INC /DE/ (0000109198) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/0000109198-26-000058-index.htm) |
 | 11-18 08:59 | 2 | LOW | 8-K: 2.02 Earnings results | 8-K - LOWES COMPANIES INC (0000060667) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/60667/000006066726000126/0000060667-26-000126-index.htm) |
 | 11-18 07:44 | 1 | LOW | Down 4.2% (premarket) | LOW -4.2% at 211.20 vs 220.46 close (premarket, 07:35 ET) |  |
 | 11-18 07:44 | 1 | TJX | Up 7.4% (premarket) | TJX +7.4% at 139.52 vs 129.85 close (premarket, 07:40 ET) |  |
@@ -147,6 +152,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-18 09:57 | 2 | MP | Up 8.5% (regular) | MP +8.5% at 37.83 vs 34.86 close (regular, 09:55 ET) |  |
 | 11-18 08:59 | 2 | EXPD | 8-K: 2.02 Earnings results | 8-K - EXPEDITORS INTERNATIONAL OF WASHINGTON INC (0000746515) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/746515/000119312526466274/0001193125-26-466274-index.htm) |
 | 11-18 07:44 | 2 | TXT | 8-K: 1.01 Material agreement; 2.06 Impairment | 8-K - TEXTRON INC (0000217346) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/217346/000110465926129345/0001104659-26-129345-index.htm) |
 | 11-18 07:44 | 2 | ACI | 8-K: 5.02 Executive/director change | 8-K - Albertsons Companies, Inc. (0001646972) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1646972/000164697226000073/0001646972-26-000073-index.htm) |
