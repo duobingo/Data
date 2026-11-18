@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-18 12:09 ET
+# Alerts — watcher run 2026-11-18 13:15 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-18 13:15 | 1 | ADBE | Down 4.1% (regular) | ADBE -4.1% at 225.98 vs 235.55 close (regular, 13:15 ET) |  |
+| 11-18 13:15 | 1 | DIS | Up 4.7% (regular) | DIS +4.7% at 122.49 vs 116.94 close (regular, 13:15 ET) |  |
+| 11-18 13:15 | 1 | BFLY | Up 7.2% (regular) | BFLY +7.2% at 6.16 vs 5.75 close (regular, 13:15 ET) |  |
 | 11-18 12:09 | 1 | ELV | Down 6.0% (regular) | ELV -6.0% at 407.81 vs 433.93 close (regular, 12:05 ET) |  |
 | 11-18 12:09 | 1 | LULU | Up 7.4% (regular) | LULU +7.4% at 111.88 vs 104.14 close (regular, 12:05 ET) |  |
 | 11-18 12:09 | 1 | CRWD | Up 6.0% (regular) | CRWD +6.0% at 232.71 vs 219.58 close (regular, 12:05 ET) |  |
@@ -153,14 +156,16 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-16 04:59 | 1 | AMAT | Down 4.2% (premarket) | AMAT -4.2% at 355.04 vs 370.50 close (premarket, 04:56 ET) |  |
 | 11-16 04:59 | 1 | KLAC | Down 4.1% (premarket) | KLAC -4.1% at 146.12 vs 152.32 close (premarket, 04:54 ET) |  |
 | 11-16 04:59 | 1 | HOOD | Down 4.8% (premarket) | HOOD -4.8% at 74.15 vs 77.86 close (premarket, 04:55 ET) |  |
-| 11-16 04:59 | 1 | COIN | Down 6.4% (premarket) | COIN -6.4% at 119.50 vs 127.65 close (premarket, 04:55 ET) |  |
-| 11-16 04:59 | 1 | TTWO | Up 4.8% (premarket) | TTWO +4.8% at 238.83 vs 227.82 close (premarket, 04:55 ET) |  |
-| 11-16 04:59 | 1 | RKLB | Down 4.4% (premarket) | RKLB -4.4% at 58.84 vs 61.53 close (premarket, 04:55 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-18 13:15 | 2 | AKAM | Up 9.2% (regular) | AKAM +9.2% at 92.43 vs 84.64 close (regular, 13:15 ET) |  |
+| 11-18 13:15 | 2 | GNRC | Up 8.9% (regular) | GNRC +8.9% at 203.73 vs 187.00 close (regular, 13:15 ET) |  |
+| 11-18 13:15 | 2 | HUM | Down 10.8% (regular) | HUM -10.8% at 395.59 vs 443.34 close (regular, 13:15 ET) |  |
+| 11-18 13:15 | 2 | OKTA | Up 9.8% (regular) | OKTA +9.8% at 191.63 vs 174.54 close (regular, 13:15 ET) |  |
+| 11-18 13:15 | 2 | QLYS | Up 10.9% (regular) | QLYS +10.9% at 193.76 vs 174.67 close (regular, 13:15 ET) |  |
 | 11-18 12:09 | 2 | HUM | Down 8.3% (regular) | HUM -8.3% at 406.61 vs 443.34 close (regular, 12:05 ET) |  |
 | 11-18 11:02 | 2 | QLYS | Up 8.6% (regular) | QLYS +8.6% at 189.67 vs 174.67 close (regular, 11:00 ET) |  |
 | 11-18 09:57 | 2 | MP | Up 8.5% (regular) | MP +8.5% at 37.83 vs 34.86 close (regular, 09:55 ET) |  |
