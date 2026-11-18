@@ -5065,8 +5065,22 @@
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZlNsOHNTUlpqakhGa1lzZXpqM0Z0dXlSR1FoMG5McXIzUXQ0NWRLSHBpdTJBOHNzb2s4c2JCQ1p2aVZxd0xBMGtIYnRSUW90THB5Q1RGbjlXWlRMTXVwX2VhdXRZNmRCZlpTVEhLVEZ6N21tWlZlekxuRUY3YV80S3hCRzVkZDlPbkVpWG81ejl2N2dXQndWSjhMOUc3UjljZUswbVFSNWt4TndHX2dwYmVFbk9XYWxmLTlQblo0TDRFQklOSFpzMEExZw?oc=5",
    "published": "2026-11-18 04:40",
    "first_seen": "2026-11-18T05:44-05:00"
+  },
+  {
+   "id": "4a5a53e4db025591",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "TTWO",
+   "name": "Take-Two Interactive",
+   "sector": "Communication Services",
+   "severity": 1,
+   "category": "Up 6.2% (premarket)",
+   "title": "TTWO +6.2% at 216.63 vs 203.93 close (premarket, 06:40 ET)",
+   "url": "",
+   "move_pct": 6.23,
+   "first_seen": "2026-11-18T06:42-05:00"
   }
  ],
- "last_run": "2026-11-18T05:44-05:00",
+ "last_run": "2026-11-18T06:42-05:00",
  "errors": []
 }
