@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-18 11:02 ET
+# Alerts — watcher run 2026-11-18 12:09 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,10 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-18 12:09 | 1 | ELV | Down 6.0% (regular) | ELV -6.0% at 407.81 vs 433.93 close (regular, 12:05 ET) |  |
+| 11-18 12:09 | 1 | LULU | Up 7.4% (regular) | LULU +7.4% at 111.88 vs 104.14 close (regular, 12:05 ET) |  |
+| 11-18 12:09 | 1 | CRWD | Up 6.0% (regular) | CRWD +6.0% at 232.71 vs 219.58 close (regular, 12:05 ET) |  |
+| 11-18 12:09 | 1 | ACHR | Down 5.5% (regular) | ACHR -5.5% at 3.33 vs 3.52 close (regular, 12:05 ET) |  |
 | 11-18 11:02 | 1 | UNH | Down 6.5% (regular) | UNH -6.5% at 364.43 vs 389.68 close (regular, 11:00 ET) |  |
 | 11-18 11:02 | 1 | CVX | Down 4.1% (regular) | CVX -4.1% at 207.17 vs 216.13 close (regular, 11:00 ET) |  |
 | 11-18 11:02 | 1 | PANW | Up 6.1% (regular) | PANW +6.1% at 328.23 vs 309.29 close (regular, 11:00 ET) |  |
@@ -152,15 +156,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-16 04:59 | 1 | COIN | Down 6.4% (premarket) | COIN -6.4% at 119.50 vs 127.65 close (premarket, 04:55 ET) |  |
 | 11-16 04:59 | 1 | TTWO | Up 4.8% (premarket) | TTWO +4.8% at 238.83 vs 227.82 close (premarket, 04:55 ET) |  |
 | 11-16 04:59 | 1 | RKLB | Down 4.4% (premarket) | RKLB -4.4% at 58.84 vs 61.53 close (premarket, 04:55 ET) |  |
-| 11-16 04:59 | 1 | ARM | Down 4.8% (premarket) | ARM -4.8% at 181.30 vs 190.53 close (premarket, 04:55 ET) |  |
-| 11-16 04:59 | 1 | TSM | Down 4.5% (premarket) | TSM -4.5% at 380.98 vs 398.73 close (premarket, 04:55 ET) |  |
-| 11-16 04:59 | 1 | TSLA | Deal | TSLA, SPCX Diverge Overnight As Retail Traders Split On Merger Winner — Could SpaceX Get Tesla’s S&P 500 Seat? | [link](https://finnhub.io/api/news?id=ad9fec0fda604a72bd206a235a078844601da8fe6393e4215ecc55461679d391) |
-| 11-16 00:35 | 1 | NVDA | Guidance | More Pain For NVDA? Top Supply Chain Analyst Says New OpenAI, Anthropic Chip Orders Boost Google’s TPU Outlook | [link](https://finnhub.io/api/news?id=9fbeeb07abf30101d6d9f4fb806acec2c26e4f816ddf46ca2c119c46f2cf571e) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-18 12:09 | 2 | HUM | Down 8.3% (regular) | HUM -8.3% at 406.61 vs 443.34 close (regular, 12:05 ET) |  |
 | 11-18 11:02 | 2 | QLYS | Up 8.6% (regular) | QLYS +8.6% at 189.67 vs 174.67 close (regular, 11:00 ET) |  |
 | 11-18 09:57 | 2 | MP | Up 8.5% (regular) | MP +8.5% at 37.83 vs 34.86 close (regular, 09:55 ET) |  |
 | 11-18 08:59 | 2 | EXPD | 8-K: 2.02 Earnings results | 8-K - EXPEDITORS INTERNATIONAL OF WASHINGTON INC (0000746515) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/746515/000119312526466274/0001193125-26-466274-index.htm) |
