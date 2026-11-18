@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-18 04:43 ET
+# Alerts — watcher run 2026-11-18 05:44 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -137,8 +137,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-16 04:59 | 1 | TSM | Down 4.5% (premarket) | TSM -4.5% at 380.98 vs 398.73 close (premarket, 04:55 ET) |  |
 | 11-16 04:59 | 1 | TSLA | Deal | TSLA, SPCX Diverge Overnight As Retail Traders Split On Merger Winner — Could SpaceX Get Tesla’s S&P 500 Seat? | [link](https://finnhub.io/api/news?id=ad9fec0fda604a72bd206a235a078844601da8fe6393e4215ecc55461679d391) |
 | 11-16 00:35 | 1 | NVDA | Guidance | More Pain For NVDA? Top Supply Chain Analyst Says New OpenAI, Anthropic Chip Orders Boost Google’s TPU Outlook | [link](https://finnhub.io/api/news?id=9fbeeb07abf30101d6d9f4fb806acec2c26e4f816ddf46ca2c119c46f2cf571e) |
-| 11-15 05:26 | 1 | NVDA | Leadership | What’s Next for Nvidia After Jensen Huang’s Resignation? | [link](https://finnhub.io/api/news?id=71d71d155fa599270ac81c5a4606bf82bea64528f15b8e851b7a8742b151499f) |
-| 11-15 05:26 | 2 | NVDA | Analyst | 5 big analyst AI moves: Nvidia hit with downgrades after Huang’s exit | [link](https://finnhub.io/api/news?id=d3df7ab84e7fcf99fea98941aac9988e22f163e89d5c98fe9601fa3926210e61) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
@@ -181,7 +179,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 ## Market-wide news (Fed, data, policy)
 
-- none
+| First seen (ET) | Sev | Ticker | Type | What | Link |
+|---|---|---|---|---|---|
+| 11-18 05:44 | 2 | — | Market stress | Five military officers injured in Jordan's helicopter crash, army says - Reuters | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZlNsOHNTUlpqakhGa1lzZXpqM0Z0dXlSR1FoMG5McXIzUXQ0NWRLSHBpdTJBOHNzb2s4c2JCQ1p2aVZxd0xBMGtIYnRSUW90THB5Q1RGbjlXWlRMTXVwX2VhdXRZNmRCZlpTVEhLVEZ6N21tWlZlekxuRUY3YV80S3hCRzVkZDlPbkVpWG81ejl2N2dXQndWSjhMOUc3UjljZUswbVFSNWt4TndHX2dwYmVFbk9XYWxmLTlQblo0TDRFQklOSFpzMEExZw?oc=5) |
 
 ## Watcher health
 
