@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-17 18:19 ET
+# Alerts — watcher run 2026-11-17 19:13 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-17 19:13 | 1 | SMCI | Up 5.1% (after-hours) | SMCI +5.1% at 25.36 vs 24.14 close (after-hours, 19:10 ET) |  |
+| 11-17 19:13 | 1 | TSM | Up 5.8% (after-hours) | TSM +5.8% at 380.50 vs 359.69 close (after-hours, 19:10 ET) |  |
 | 11-17 18:19 | 1 | NVDA | Up 4.8% (after-hours) | NVDA +4.8% at 162.90 vs 155.46 close (after-hours, 18:15 ET) |  |
 | 11-17 18:19 | 1 | ORCL | Up 4.2% (after-hours) | ORCL +4.2% at 119.82 vs 115.00 close (after-hours, 18:15 ET) |  |
 | 11-17 18:19 | 1 | AMD | Up 4.9% (after-hours) | AMD +4.9% at 528.01 vs 503.41 close (after-hours, 18:15 ET) |  |
