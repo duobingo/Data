@@ -1,7 +1,7 @@
 {
  "mode": "close",
- "generated_utc": "2026-11-18 21:27",
- "generated_et": "2026-11-18 16:27",
+ "generated_utc": "2026-11-18 21:46",
+ "generated_et": "2026-11-18 16:46",
  "since": "2026-11-16",
  "prices": {
   "AAPL": {
@@ -159,7 +159,7 @@
    "52w_high": 1475.25,
    "52w_low": 850.51,
    "from_52w_high_pct": -6.27,
-   "vol_vs_20d": 0.8,
+   "vol_vs_20d": 0.85,
    "finnhub_last": 1382.75,
    "finnhub_prev_close": 1415.55,
    "verified": true
@@ -239,7 +239,7 @@
    "52w_high": 188.5,
    "52w_low": 114.19,
    "from_52w_high_pct": -14.81,
-   "vol_vs_20d": 1.08,
+   "vol_vs_20d": 1.2,
    "finnhub_last": 160.58,
    "finnhub_prev_close": 167.21,
    "verified": true
@@ -319,7 +319,7 @@
    "52w_high": 173.59,
    "52w_low": 137.62,
    "from_52w_high_pct": -1.9,
-   "vol_vs_20d": 0.77,
+   "vol_vs_20d": 0.8,
    "finnhub_last": 170.29,
    "finnhub_prev_close": 171.72,
    "verified": true
@@ -367,7 +367,7 @@
    "52w_high": 302.93,
    "52w_low": 190.75,
    "from_52w_high_pct": -5.59,
-   "vol_vs_20d": 0.82,
+   "vol_vs_20d": 0.92,
    "finnhub_last": 286.01,
    "finnhub_prev_close": 292.82,
    "verified": true
@@ -431,7 +431,7 @@
    "52w_high": 156.92,
    "52w_low": 93.9,
    "from_52w_high_pct": -12.2,
-   "vol_vs_20d": 0.98,
+   "vol_vs_20d": 1.02,
    "finnhub_last": 137.78,
    "finnhub_prev_close": 143.37,
    "verified": true
@@ -447,7 +447,7 @@
    "52w_high": 236.48,
    "52w_low": 146.49,
    "from_52w_high_pct": -12.94,
-   "vol_vs_20d": 1.12,
+   "vol_vs_20d": 1.2,
    "finnhub_last": 205.88,
    "finnhub_prev_close": 216.13,
    "verified": true
@@ -671,7 +671,7 @@
    "52w_high": 123.37,
    "52w_low": 92.19,
    "from_52w_high_pct": -0.82,
-   "vol_vs_20d": 1.86,
+   "vol_vs_20d": 1.99,
    "finnhub_last": 122.36,
    "finnhub_prev_close": 116.94,
    "verified": true
@@ -831,7 +831,7 @@
    "52w_high": 232.25,
    "52w_low": 152.8,
    "from_52w_high_pct": -21.99,
-   "vol_vs_20d": 0.79,
+   "vol_vs_20d": 0.81,
    "finnhub_last": 181.17,
    "finnhub_prev_close": 183.53,
    "verified": true
@@ -879,7 +879,7 @@
    "52w_high": 31.44,
    "52w_low": 23.62,
    "from_52w_high_pct": -10.75,
-   "vol_vs_20d": 0.96,
+   "vol_vs_20d": 1.03,
    "finnhub_last": 28.06,
    "finnhub_prev_close": 28.47,
    "verified": true
@@ -911,7 +911,7 @@
    "52w_high": 29.44,
    "52w_low": 19.89,
    "from_52w_high_pct": -25.44,
-   "vol_vs_20d": 0.63,
+   "vol_vs_20d": 0.7,
    "finnhub_last": 21.95,
    "finnhub_prev_close": 22.29,
    "verified": true
@@ -943,7 +943,7 @@
    "52w_high": 387.49,
    "52w_low": 290.97,
    "from_52w_high_pct": -18.6,
-   "vol_vs_20d": 0.97,
+   "vol_vs_20d": 1.05,
    "finnhub_last": 315.4,
    "finnhub_prev_close": 315.78,
    "verified": true
@@ -959,7 +959,7 @@
    "52w_high": 293.06,
    "52w_low": 178.45,
    "from_52w_high_pct": -23.98,
-   "vol_vs_20d": 1.48,
+   "vol_vs_20d": 1.5,
    "finnhub_last": 222.78,
    "finnhub_prev_close": 220.46,
    "verified": true
@@ -1039,7 +1039,7 @@
    "52w_high": 389.33,
    "52w_low": 267.0,
    "from_52w_high_pct": -18.28,
-   "vol_vs_20d": 0.66,
+   "vol_vs_20d": 0.98,
    "finnhub_last": 318.15,
    "finnhub_prev_close": 317.54,
    "verified": true
@@ -1359,7 +1359,7 @@
    "52w_high": 79.97,
    "52w_low": 54.7,
    "from_52w_high_pct": -4.64,
-   "vol_vs_20d": 0.74,
+   "vol_vs_20d": 0.77,
    "finnhub_last": 76.26,
    "finnhub_prev_close": 77.46,
    "verified": true
@@ -1391,7 +1391,7 @@
    "52w_high": 147.96,
    "52w_low": 95.83,
    "from_52w_high_pct": -20.69,
-   "vol_vs_20d": 1.04,
+   "vol_vs_20d": 1.14,
    "finnhub_last": 117.34,
    "finnhub_prev_close": 119.94,
    "verified": true
@@ -1647,7 +1647,7 @@
    "52w_high": 100.56,
    "52w_low": 33.88,
    "from_52w_high_pct": -52.93,
-   "vol_vs_20d": 0.87,
+   "vol_vs_20d": 0.88,
    "finnhub_last": 47.33,
    "finnhub_prev_close": 44,
    "verified": true
@@ -1967,7 +1967,7 @@
    "52w_high": 165.14,
    "52w_low": 101.73,
    "from_52w_high_pct": -29.93,
-   "vol_vs_20d": 0.7,
+   "vol_vs_20d": 0.71,
    "finnhub_last": 115.71,
    "finnhub_prev_close": 116.48,
    "verified": true
@@ -3266,6 +3266,18 @@
    }
   ],
   "JPM": [
+   {
+    "form": "424B2",
+    "date": "2026-11-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026121851/ea0312777-01_424b2.htm",
+    "description": "PRICING SUPPLEMENT"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026121837/ea0312769-01_424b2.htm",
+    "description": "PRICING SUPPLEMENT"
+   },
    {
     "form": "424B2",
     "date": "2026-11-18",
@@ -4776,6 +4788,42 @@
   "NFLX": [],
   "ABBV": [],
   "BAC": [
+   {
+    "form": "424B2",
+    "date": "2026-11-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036114/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036113/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036110/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036109/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036108/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036106/form424b2.htm",
+    "description": "424B2"
+   },
    {
     "form": "424B2",
     "date": "2026-11-18",
@@ -6958,6 +7006,12 @@
    {
     "form": "424B2",
     "date": "2026-11-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226057181/r11058wfc_424b2-39170.htm",
+    "description": "PRELIMINARY PRICING SUPPLEMENT NO. 417"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-18",
     "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226057111/r11012wfc_424b2-39125.htm",
     "description": "PRICING SUPPLEMENT NO. 403"
    },
@@ -7535,6 +7589,12 @@
    }
   ],
   "GS": [
+   {
+    "form": "424B2",
+    "date": "2026-11-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526467185/mofca743_prelim.htm",
+    "description": "424B2"
+   },
    {
     "form": "424B2",
     "date": "2026-11-18",
@@ -9408,7 +9468,21 @@
   "LRCX": [],
   "AMAT": [],
   "KLAC": [],
-  "PANW": [],
+  "PANW": [
+   {
+    "form": "8-K",
+    "date": "2026-11-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/panw-20261117.htm",
+    "description": "8-K",
+    "items": [
+     "2.02 Earnings results",
+     "3.02 Unregistered equity sale",
+     "7.01 Reg FD disclosure",
+     "8.01 Other events",
+     "9.01 Exhibits"
+    ]
+   }
+  ],
   "ANET": [
    {
     "form": "4",
@@ -10659,7 +10733,55 @@
     ]
    }
   ],
-  "ORLY": [],
+  "ORLY": [
+   {
+    "form": "4",
+    "date": "2026-11-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/898173/000123897826000008/xslF345X06/form4-11182026_091140.xml",
+    "description": "",
+    "form4": {
+     "owner": "Hendrickson Thomas",
+     "role": "Director",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 2100.0,
+       "price": 93.493,
+       "value": 196335
+      }
+     ]
+    }
+   },
+   {
+    "form": "4",
+    "date": "2026-11-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/898173/000166587326000004/xslF345X06/form4-11182026_091147.xml",
+    "description": "",
+    "form4": {
+     "owner": "Wilbanks Carl David",
+     "role": "SVP OF MERCHANDISE",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "M",
+       "type": "option exercise",
+       "shares": 13635.0,
+       "price": 17.12,
+       "value": 233431
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 13635.0,
+       "price": 93.075,
+       "value": 1269078
+      }
+     ]
+    }
+   }
+  ],
   "MCK": [],
   "PLTR": [
    {
@@ -10977,6 +11099,26 @@
   "RBLX": [],
   "DASH": [],
   "ABNB": [
+   {
+    "form": "4",
+    "date": "2026-11-18",
+    "url": "https://www.sec.gov/Archives/edgar/data/1559720/000119312526467173/xslF345X06/ownership.xml",
+    "description": "4",
+    "form4": {
+     "owner": "Bernstein David C",
+     "role": "Chief Accounting Officer",
+     "10b5_1_plan": true,
+     "transactions": [
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 1743.0,
+       "price": 184.38,
+       "value": 321374
+      }
+     ]
+    }
+   },
    {
     "form": "4",
     "date": "2026-11-17",
@@ -23602,9 +23744,9 @@
    "fwd_pe": 11.225812,
    "ttm_pe": 9.95707,
    "peg": 4.24,
-   "target_mean": 45.677406,
-   "target_low": 39.38373,
-   "target_high": 63.998604,
+   "target_mean": 45.67989,
+   "target_low": 39.385876,
+   "target_high": 64.00208,
    "rating": "hold",
    "n_analysts": 12,
    "short_pct": 0.0121

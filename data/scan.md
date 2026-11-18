@@ -1,4 +1,4 @@
-# Short-term scan — 2026-11-18 16:44 ET
+# Short-term scan — 2026-11-18 17:03 ET
 Universe: S&P 500 + S&P 400 (903 names, 909 priced). Filters: price ≥ $10, avg daily dollar volume ≥ $20M, no semiconductors, no names from the tracked list. These are candidates; check news, catalysts and the trading rules before proposing a trade.
 
 ## Market regime
@@ -7,12 +7,12 @@ Universe: S&P 500 + S&P 400 (903 names, 909 priced). Filters: price ≥ $10, avg
 ## 1. Earnings reactions (beat EPS and revenue, jumped ≥4% on ≥2× volume, still above the reaction-day low and within 5% of the reaction-day close)
 | Ticker | Company | Reported | Reaction day | Reaction % | Gap % | Vol × | EPS surprise % | Rev surprise % | Since % | Reaction-day low | Close |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| TGT | Target Corporation · Consumer Staples | 2026-11-18 bmo | 2026-11-18 | 4.01 | 0.92 | 3.19 | 26.70 | 0.90 | 0.0 | 159.95 | 165.93 |
+| TGT | Target Corporation · Consumer Staples | 2026-11-18 bmo | 2026-11-18 | 4.01 | 0.92 | 3.2 | 26.70 | 0.90 | 0.0 | 159.95 | 165.93 |
 
 ## 2. Breakouts (new 52-week high on ≥1.8× volume, closed near the high, above 50- and 200-day)
 | Ticker | Company | Close | Day % | Vol × | 1m % | 3m % | RSI | ATR | Day low |
 |---|---|---|---|---|---|---|---|---|---|
-| BILL | Bill Holdings · Information Technology | 66.01 | 1.74 | 2.07 | 34.47 | 39.26 | 85.7 | 2.81 | 64.0 |
+| BILL | Bill Holdings · Information Technology | 66.01 | 1.74 | 2.18 | 34.47 | 39.26 | 85.7 | 2.81 | 64.0 |
 
 ## 3. Oversold in an uptrend (down ≥8% in 3 days, RSI ≤ 30, still above the 200-day)
 | Ticker | Company | Close | 3d % | Day % | RSI | Vol × | vs 200-day % | ATR |
@@ -70,27 +70,27 @@ How to use: for each loser, find the reason. If it's fear, a sector selloff or a
 **Losers**
 | Ticker | Company | Day % | Gap % | Vol × | 1m % | From 52w high % | RSI | vs 200-day % | Flags |
 |---|---|---|---|---|---|---|---|---|---|
-| HUM | Humana · Health Care | -12.98 | -0.43 | 2.74 | -9.73 | -16.70 | 38.0 | 20.21 |  |
-| UNH | UnitedHealth Group · Health Care | -10.21 | -0.65 | 3.11 | -16.54 | -24.20 | 28.5 | -4.89 | Tracked |
+| HUM | Humana · Health Care | -12.98 | -0.43 | 2.8 | -9.73 | -16.70 | 38.0 | 20.21 |  |
+| UNH | UnitedHealth Group · Health Care | -10.21 | -0.65 | 3.14 | -16.54 | -24.20 | 28.5 | -4.89 | Tracked |
 | ELV | Elevance Health · Health Care | -7.63 | -0.47 | 1.43 | -8.94 | -11.10 | 39.8 | 6.39 | Tracked |
 | DINO | HF Sinclair · Energy | -7.24 | -1.95 | 1.04 | -27.67 | -29.90 | 27.7 | 10.93 |  |
 | PBF | PBF Energy · Energy | -7.12 | -0.6 | 0.73 | -24.83 | -32.50 | 35.1 | 11.31 |  |
 | CDE | Coeur Mining · Materials | -7.06 | -3.95 | 1.09 | -19.10 | -55.90 | 32.6 | -33.15 |  |
 | CNC | Centene Corporation · Health Care | -7.03 | -1.52 | 1.21 | -4.75 | -13.60 | 45.9 | 18.21 |  |
-| FCX | Freeport-McMoRan · Materials | -6.96 | -5.64 | 2.4 | -25.29 | -35.90 | 26.1 | -20.94 |  |
+| FCX | Freeport-McMoRan · Materials | -6.96 | -5.64 | 2.41 | -25.29 | -35.90 | 26.1 | -20.94 |  |
 | HL | Hecla Mining · Materials | -6.64 | -3.72 | 1.06 | -22.30 | -65.80 | 31.6 | -34.36 |  |
-| MOH | Molina Healthcare · Health Care | -6.62 | -0.79 | 1.52 | -5.99 | -15.70 | 48.3 | 10.82 |  |
+| MOH | Molina Healthcare · Health Care | -6.62 | -0.79 | 1.58 | -5.99 | -15.70 | 48.3 | 10.82 |  |
 
 **Gainers**
 | Ticker | Company | Day % | Gap % | Vol × | 1m % | From 52w high % | RSI | vs 200-day % | Flags |
 |---|---|---|---|---|---|---|---|---|---|
-| QLYS | Qualys · Information Technology | 12.92 | 1.72 | 1.41 | 3.55 | -16.30 | 51.6 | 42.59 |  |
-| OKTA | Okta, Inc. · Information Technology | 12.07 | 1.98 | 1.24 | 0.82 | -16.80 | 52.4 | 49.87 |  |
-| PANW | Palo Alto Networks · Information Technology | 9.9 | 1.44 | 2.43 | -0.11 | -21.40 | 47.7 | 21.63 | Tracked |
+| QLYS | Qualys · Information Technology | 12.92 | 1.72 | 1.51 | 3.55 | -16.30 | 51.6 | 42.59 |  |
+| OKTA | Okta, Inc. · Information Technology | 12.07 | 1.94 | 1.25 | 0.82 | -16.80 | 52.4 | 49.87 |  |
+| PANW | Palo Alto Networks · Information Technology | 9.9 | 1.44 | 2.75 | -0.11 | -21.40 | 47.7 | 21.63 | Tracked |
 | GNRC | Generac · Industrials | 9.87 | 1.02 | 1.39 | 5.58 | -30.70 | 55.9 | -6.56 |  |
 | AKAM | Akamai Technologies · Information Technology | 8.34 | 0.95 | 1.37 | 2.31 | -44.60 | 51.5 | -18.00 |  |
 | TJX | TJX Companies · Consumer Discretionary | 8.05 | 5.51 | 2.33 | -4.55 | -17.50 | 53.4 | -6.60 | Tracked |
-| CRWD | CrowdStrike · Information Technology | 7.95 | 1.92 | 1.19 | 4.25 | -17.40 | 50.0 | 35.59 | Tracked |
+| CRWD | CrowdStrike · Information Technology | 7.95 | 1.92 | 1.23 | 4.25 | -17.40 | 50.0 | 35.59 | Tracked |
 | SGI | Somnigroup International · Consumer Discretionary | 7.39 | -0.43 | 1.74 | -2.33 | -36.60 | 48.5 | -13.05 |  |
 | PVH | PVH Corp. · Consumer Discretionary | 6.5 | -0.16 | 1.14 | 13.12 | -2.90 | 67.3 | 22.91 |  |
 | RGEN | Repligen · Health Care | 6.47 | 0.52 | 1.06 | -3.47 | -13.20 | 49.2 | 18.67 |  |
