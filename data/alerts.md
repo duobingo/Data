@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-18 13:15 ET
+# Alerts — watcher run 2026-11-18 14:25 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-18 14:25 | 1 | AVGO | Up 4.3% (regular) | AVGO +4.3% at 356.33 vs 341.60 close (regular, 14:25 ET) |  |
+| 11-18 14:25 | 1 | UNH | Down 11.2% (regular) | UNH -11.2% at 345.85 vs 389.68 close (regular, 14:25 ET) |  |
+| 11-18 14:25 | 1 | MRK | Down 4.2% (regular) | MRK -4.2% at 137.35 vs 143.37 close (regular, 14:25 ET) |  |
+| 11-18 14:25 | 1 | QCOM | Down 4.3% (regular) | QCOM -4.3% at 159.59 vs 166.67 close (regular, 14:25 ET) |  |
+| 11-18 14:25 | 1 | CVS | Down 4.5% (regular) | CVS -4.5% at 81.97 vs 85.81 close (regular, 14:25 ET) |  |
+| 11-18 14:25 | 1 | ACHR | Down 6.4% (regular) | ACHR -6.4% at 3.30 vs 3.52 close (regular, 14:25 ET) |  |
 | 11-18 13:15 | 1 | ADBE | Down 4.1% (regular) | ADBE -4.1% at 225.98 vs 235.55 close (regular, 13:15 ET) |  |
 | 11-18 13:15 | 1 | DIS | Up 4.7% (regular) | DIS +4.7% at 122.49 vs 116.94 close (regular, 13:15 ET) |  |
 | 11-18 13:15 | 1 | BFLY | Up 7.2% (regular) | BFLY +7.2% at 6.16 vs 5.75 close (regular, 13:15 ET) |  |
@@ -150,17 +156,13 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-16 08:35 | 1 | FIX | Down 4.2% (premarket) | FIX -4.2% at 1066.00 vs 1112.50 close (premarket, 08:20 ET) |  |
 | 11-16 08:35 | 1 | KKR | Down 4.1% (premarket) | KKR -4.1% at 94.00 vs 98.05 close (premarket, 06:45 ET) |  |
 | 11-16 08:35 | 1 | OKLO | Down 4.4% (premarket) | OKLO -4.4% at 22.86 vs 23.92 close (premarket, 08:25 ET) |  |
-| 11-16 08:35 | 1 | MDT | Deal | Medtronic to acquire Contego Medical, expanding access to next-generation carotid therapies | [link](https://finnhub.io/api/news?id=ca9b8d36c37af2dd86acfca82375738e5b82ec876c2bcb66693ecdf00e21f6b3) |
-| 11-16 04:59 | 1 | AMD | Down 4.5% (premarket) | AMD -4.5% at 509.84 vs 534.06 close (premarket, 04:55 ET) |  |
-| 11-16 04:59 | 1 | MU | Down 5.0% (premarket) | MU -5.0% at 739.50 vs 778.31 close (premarket, 04:55 ET) |  |
-| 11-16 04:59 | 1 | AMAT | Down 4.2% (premarket) | AMAT -4.2% at 355.04 vs 370.50 close (premarket, 04:56 ET) |  |
-| 11-16 04:59 | 1 | KLAC | Down 4.1% (premarket) | KLAC -4.1% at 146.12 vs 152.32 close (premarket, 04:54 ET) |  |
-| 11-16 04:59 | 1 | HOOD | Down 4.8% (premarket) | HOOD -4.8% at 74.15 vs 77.86 close (premarket, 04:55 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-18 14:25 | 2 | GNRC | Up 9.9% (regular) | GNRC +9.9% at 205.57 vs 187.00 close (regular, 14:25 ET) |  |
+| 11-18 14:25 | 2 | QLYS | Up 12.4% (regular) | QLYS +12.4% at 196.32 vs 174.67 close (regular, 14:25 ET) |  |
 | 11-18 13:15 | 2 | AKAM | Up 9.2% (regular) | AKAM +9.2% at 92.43 vs 84.64 close (regular, 13:15 ET) |  |
 | 11-18 13:15 | 2 | GNRC | Up 8.9% (regular) | GNRC +8.9% at 203.73 vs 187.00 close (regular, 13:15 ET) |  |
 | 11-18 13:15 | 2 | HUM | Down 10.8% (regular) | HUM -10.8% at 395.59 vs 443.34 close (regular, 13:15 ET) |  |
@@ -212,6 +214,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-18 14:25 | 2 | — | Market stress | Nvidia reverses, metals crash ahead of Anthropic IPO: Options Action Live | [link](https://www.cnbc.com/2026/11/18/nvidia-reverses-metals-crash-ahead-of-anthropic-ipo-options-action-live.html) |
 | 11-18 05:44 | 2 | — | Market stress | Five military officers injured in Jordan's helicopter crash, army says - Reuters | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZlNsOHNTUlpqakhGa1lzZXpqM0Z0dXlSR1FoMG5McXIzUXQ0NWRLSHBpdTJBOHNzb2s4c2JCQ1p2aVZxd0xBMGtIYnRSUW90THB5Q1RGbjlXWlRMTXVwX2VhdXRZNmRCZlpTVEhLVEZ6N21tWlZlekxuRUY3YV80S3hCRzVkZDlPbkVpWG81ejl2N2dXQndWSjhMOUc3UjljZUswbVFSNWt4TndHX2dwYmVFbk9XYWxmLTlQblo0TDRFQklOSFpzMEExZw?oc=5) |
 
 ## Watcher health
