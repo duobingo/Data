@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-18 14:25 ET
+# Alerts — watcher run 2026-11-18 15:26 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-18 15:26 | 1 | TJX | Up 8.9% (regular) | TJX +8.9% at 141.46 vs 129.85 close (regular, 15:25 ET) |  |
+| 11-18 15:26 | 2 | NVDA | Analyst | Nvidia’s Annual GPU Upgrades Are Changing the HBM Investment Outlook | [link](https://finnhub.io/api/news?id=2ecc64acd81f9649cb6c1045a31421e57244dc8f331f84702f23b2f6ed3c0875) |
 | 11-18 14:25 | 1 | AVGO | Up 4.3% (regular) | AVGO +4.3% at 356.33 vs 341.60 close (regular, 14:25 ET) |  |
 | 11-18 14:25 | 1 | UNH | Down 11.2% (regular) | UNH -11.2% at 345.85 vs 389.68 close (regular, 14:25 ET) |  |
 | 11-18 14:25 | 1 | MRK | Down 4.2% (regular) | MRK -4.2% at 137.35 vs 143.37 close (regular, 14:25 ET) |  |
@@ -154,13 +156,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-16 08:35 | 1 | LRCX | Down 5.0% (premarket) | LRCX -5.0% at 214.59 vs 225.92 close (premarket, 08:35 ET) |  |
 | 11-16 08:35 | 1 | SMCI | Down 5.6% (premarket) | SMCI -5.6% at 25.36 vs 26.87 close (premarket, 08:35 ET) |  |
 | 11-16 08:35 | 1 | FIX | Down 4.2% (premarket) | FIX -4.2% at 1066.00 vs 1112.50 close (premarket, 08:20 ET) |  |
-| 11-16 08:35 | 1 | KKR | Down 4.1% (premarket) | KKR -4.1% at 94.00 vs 98.05 close (premarket, 06:45 ET) |  |
-| 11-16 08:35 | 1 | OKLO | Down 4.4% (premarket) | OKLO -4.4% at 22.86 vs 23.92 close (premarket, 08:25 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-18 15:26 | 2 | AKAM | Up 8.3% (regular) | AKAM +8.3% at 91.68 vs 84.64 close (regular, 15:25 ET) |  |
 | 11-18 14:25 | 2 | GNRC | Up 9.9% (regular) | GNRC +9.9% at 205.57 vs 187.00 close (regular, 14:25 ET) |  |
 | 11-18 14:25 | 2 | QLYS | Up 12.4% (regular) | QLYS +12.4% at 196.32 vs 174.67 close (regular, 14:25 ET) |  |
 | 11-18 13:15 | 2 | AKAM | Up 9.2% (regular) | AKAM +9.2% at 92.43 vs 84.64 close (regular, 13:15 ET) |  |

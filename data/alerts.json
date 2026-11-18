@@ -5724,8 +5724,51 @@
    "url": "https://www.cnbc.com/2026/11/18/nvidia-reverses-metals-crash-ahead-of-anthropic-ipo-options-action-live.html",
    "published": "2026-11-18 13:57",
    "first_seen": "2026-11-18T14:25-05:00"
+  },
+  {
+   "id": "197e53e61a663bd6",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "TJX",
+   "name": "TJX Companies",
+   "sector": "Consumer Discretionary",
+   "severity": 1,
+   "category": "Up 8.9% (regular)",
+   "title": "TJX +8.9% at 141.46 vs 129.85 close (regular, 15:25 ET)",
+   "url": "",
+   "move_pct": 8.94,
+   "first_seen": "2026-11-18T15:26-05:00"
+  },
+  {
+   "id": "386f18c6059c02b8",
+   "kind": "price",
+   "group": "universe",
+   "ticker": "AKAM",
+   "name": "Akamai Technologies",
+   "sector": "Information Technology",
+   "severity": 2,
+   "category": "Up 8.3% (regular)",
+   "title": "AKAM +8.3% at 91.68 vs 84.64 close (regular, 15:25 ET)",
+   "url": "",
+   "move_pct": 8.32,
+   "first_seen": "2026-11-18T15:26-05:00"
+  },
+  {
+   "id": "c08f9f463766860c",
+   "kind": "news",
+   "group": "tracked",
+   "ticker": "NVDA",
+   "name": "Nvidia",
+   "sector": "Information Technology",
+   "severity": 2,
+   "category": "Analyst",
+   "title": "Nvidia\u2019s Annual GPU Upgrades Are Changing the HBM Investment Outlook",
+   "source": "Yahoo",
+   "url": "https://finnhub.io/api/news?id=2ecc64acd81f9649cb6c1045a31421e57244dc8f331f84702f23b2f6ed3c0875",
+   "published": "2026-11-18 14:39",
+   "first_seen": "2026-11-18T15:26-05:00"
   }
  ],
- "last_run": "2026-11-18T14:25-05:00",
+ "last_run": "2026-11-18T15:26-05:00",
  "errors": []
 }
