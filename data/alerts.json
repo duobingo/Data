@@ -5022,8 +5022,36 @@
    "url": "",
    "move_pct": 5.79,
    "first_seen": "2026-11-17T19:13-05:00"
+  },
+  {
+   "id": "2de39ed40de26fe3",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "IONQ",
+   "name": "",
+   "sector": "",
+   "severity": 1,
+   "category": "Up 4.7% (premarket)",
+   "title": "IONQ +4.7% at 26.01 vs 24.84 close (premarket, 04:40 ET)",
+   "url": "",
+   "move_pct": 4.71,
+   "first_seen": "2026-11-18T04:43-05:00"
+  },
+  {
+   "id": "aa25935b467e132a",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "SMCI",
+   "name": "Supermicro",
+   "sector": "Information Technology",
+   "severity": 1,
+   "category": "Up 4.3% (premarket)",
+   "title": "SMCI +4.3% at 25.17 vs 24.14 close (premarket, 04:42 ET)",
+   "url": "",
+   "move_pct": 4.27,
+   "first_seen": "2026-11-18T04:43-05:00"
   }
  ],
- "last_run": "2026-11-18T03:45-05:00",
+ "last_run": "2026-11-18T04:43-05:00",
  "errors": []
 }
