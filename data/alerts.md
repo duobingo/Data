@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-18 16:23 ET
+# Alerts — watcher run 2026-11-18 17:19 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,11 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-18 17:19 | 1 | NVDA | Leadership | Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated | [link](https://finnhub.io/api/news?id=d0d9a150f61aee1e1f446d7a1fae80c4ee1a1b97833d1c235ff748be35fcacbc) |
+| 11-18 17:19 | 1 | PANW | Guidance | Palo Alto beats estimates, raises guidance and makes $4.5B AI bet | [link](https://finnhub.io/api/news?id=3fcbf4f402c788df0b1e9b8df714e0c7bfe3f00230a18707f8ec61e5ad897033) |
+| 11-18 17:19 | 1 | PANW | Guidance | Palo Alto Networks Q1 Adjusted Earnings, Revenue Rises; Lifts 2027 Outlook; Announces Applied Compute Acquisition | [link](https://finnhub.io/api/news?id=199a7992aaa1fd94ea9dc8b6d6656ecd385b08cc299d1d3a9190ed5443eceb4b) |
+| 11-18 17:19 | 2 | PANW | 8-K: 2.02 Earnings results | 8-K - Palo Alto Networks Inc (0001327567) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/0001327567-26-000030-index.htm) |
+| 11-18 17:19 | 1 | MRK | 8-K: 5.02 Executive/director change | 8-K - Merck & Co., Inc. (0000310158) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/310158/000031015826000255/0000310158-26-000255-index.htm) |
 | 11-18 16:23 | 1 | PANW | Up 8.1% (after-hours) | PANW +8.1% at 367.50 vs 339.92 close (after-hours, 16:20 ET) |  |
 | 11-18 16:23 | 1 | CRWD | Up 5.4% (after-hours) | CRWD +5.4% at 249.85 vs 237.03 close (after-hours, 16:20 ET) |  |
 | 11-18 16:23 | 2 | SPGI | 8-K: 1.01 Material agreement | 8-K - S&P Global Inc. (0000064040) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/64040/000110465926129710/0001104659-26-129710-index.htm) |
@@ -151,16 +156,15 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-16 11:01 | 1 | ARM | Down 7.0% (regular) | ARM -7.0% at 177.27 vs 190.53 close (regular, 11:00 ET) |  |
 | 11-16 11:01 | 1 | TSM | Down 5.7% (regular) | TSM -5.7% at 376.20 vs 398.73 close (regular, 11:00 ET) |  |
 | 11-16 11:01 | 1 | ASML | Down 4.2% (regular) | ASML -4.2% at 1432.95 vs 1495.16 close (regular, 11:00 ET) |  |
-| 11-16 11:01 | 1 | LCID | Down 8.1% (regular) | LCID -8.1% at 2.71 vs 2.95 close (regular, 11:00 ET) |  |
-| 11-16 11:01 | 1 | SOUN | Down 6.4% (regular) | SOUN -6.4% at 3.27 vs 3.49 close (regular, 11:00 ET) |  |
-| 11-16 11:01 | 1 | ACHR | Down 6.8% (regular) | ACHR -6.8% at 3.76 vs 4.03 close (regular, 11:00 ET) |  |
-| 11-16 08:35 | 1 | AVGO | Down 4.0% (premarket) | AVGO -4.0% at 332.99 vs 347.01 close (premarket, 08:35 ET) |  |
-| 11-16 08:35 | 1 | MU | Down 6.1% (premarket) | MU -6.1% at 730.95 vs 778.31 close (premarket, 08:35 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-18 17:19 | 2 | NJR | 8-K: 2.02 Earnings results | 8-K - NEW JERSEY RESOURCES CORP (0000356309) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/356309/000114036126044760/0001140361-26-044760-index.htm) |
+| 11-18 17:19 | 2 | RGLD | 8-K: 5.02 Executive/director change | 8-K - ROYAL GOLD INC (0000085535) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/85535/000008553526000055/0000085535-26-000055-index.htm) |
+| 11-18 17:19 | 2 | ED | 8-K: 1.01 Material agreement | 8-K - CONSOLIDATED EDISON INC (0001047862) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1047862/000119312526467177/0001193125-26-467177-index.htm) |
+| 11-18 17:19 | 2 | SARO | 8-K: 5.02 Executive/director change | 8-K/A - StandardAero, Inc. (0002025410) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/2025410/000119312526467156/0001193125-26-467156-index.htm) |
 | 11-18 16:23 | 2 | BG | 8-K: 1.01 Material agreement | 8-K - Bunge Global SA (0001996862) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1996862/000162828026074820/0001628280-26-074820-index.htm) |
 | 11-18 16:23 | 2 | GATX | 8-K: 1.01 Material agreement | 8-K - GATX CORP (0000040211) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/40211/000119312526467128/0001193125-26-467128-index.htm) |
 | 11-18 16:23 | 2 | P | 8-K: 2.02 Earnings results | 8-K - Everpure, Inc. (0001474432) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1474432/000147443226000110/0001474432-26-000110-index.htm) |
