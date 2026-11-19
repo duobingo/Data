@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-18 18:16 ET
+# Alerts — watcher run 2026-11-18 19:15 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-18 19:15 | 2 | COST | Legal/regulatory | Costco recalls food product that’s popular during the holidays | [link](https://finnhub.io/api/news?id=1b58680601e857434c10b374d2a6f79cea03b314661d06272bf6702c047e4f2d) |
 | 11-18 17:19 | 1 | NVDA | Leadership | Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated | [link](https://finnhub.io/api/news?id=d0d9a150f61aee1e1f446d7a1fae80c4ee1a1b97833d1c235ff748be35fcacbc) |
 | 11-18 17:19 | 1 | PANW | Guidance | Palo Alto beats estimates, raises guidance and makes $4.5B AI bet | [link](https://finnhub.io/api/news?id=3fcbf4f402c788df0b1e9b8df714e0c7bfe3f00230a18707f8ec61e5ad897033) |
 | 11-18 17:19 | 1 | PANW | Guidance | Palo Alto Networks Q1 Adjusted Earnings, Revenue Rises; Lifts 2027 Outlook; Announces Applied Compute Acquisition | [link](https://finnhub.io/api/news?id=199a7992aaa1fd94ea9dc8b6d6656ecd385b08cc299d1d3a9190ed5443eceb4b) |
@@ -155,7 +156,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-16 11:01 | 1 | SMCI | Down 5.2% (regular) | SMCI -5.2% at 25.49 vs 26.87 close (regular, 11:00 ET) |  |
 | 11-16 11:01 | 1 | ARM | Down 7.0% (regular) | ARM -7.0% at 177.27 vs 190.53 close (regular, 11:00 ET) |  |
 | 11-16 11:01 | 1 | TSM | Down 5.7% (regular) | TSM -5.7% at 376.20 vs 398.73 close (regular, 11:00 ET) |  |
-| 11-16 11:01 | 1 | ASML | Down 4.2% (regular) | ASML -4.2% at 1432.95 vs 1495.16 close (regular, 11:00 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 

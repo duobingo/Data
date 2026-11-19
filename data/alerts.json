@@ -6022,8 +6022,23 @@
    "url": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000255/0000310158-26-000255-index.htm",
    "published": "2026-11-18 16:27",
    "first_seen": "2026-11-18T17:19-05:00"
+  },
+  {
+   "id": "ef35d833a8de4086",
+   "kind": "news",
+   "group": "tracked",
+   "ticker": "COST",
+   "name": "Costco",
+   "sector": "Consumer Staples",
+   "severity": 2,
+   "category": "Legal/regulatory",
+   "title": "Costco recalls food product that\u2019s popular during the holidays",
+   "source": "Yahoo",
+   "url": "https://finnhub.io/api/news?id=1b58680601e857434c10b374d2a6f79cea03b314661d06272bf6702c047e4f2d",
+   "published": "2026-11-18 18:45",
+   "first_seen": "2026-11-18T19:15-05:00"
   }
  ],
- "last_run": "2026-11-18T18:16-05:00",
+ "last_run": "2026-11-18T19:15-05:00",
  "errors": []
 }
