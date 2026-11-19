@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-19 13:16 ET
+# Alerts — watcher run 2026-11-19 14:29 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-19 14:29 | 1 | UBER | Down 4.6% (regular) | UBER -4.6% at 65.57 vs 68.76 close (regular, 14:25 ET) |  |
+| 11-19 14:29 | 1 | DECK | Down 5.0% (regular) | DECK -5.0% at 79.40 vs 83.60 close (regular, 14:25 ET) |  |
+| 11-19 14:29 | 1 | MELI | Down 4.4% (regular) | MELI -4.4% at 1360.80 vs 1423.11 close (regular, 14:25 ET) |  |
 | 11-19 13:16 | 1 | AMD | Down 9.8% (regular) | AMD -9.8% at 478.18 vs 530.14 close (regular, 13:15 ET) |  |
 | 11-19 13:16 | 1 | SHOP | Down 5.2% (regular) | SHOP -5.2% at 132.16 vs 139.42 close (regular, 13:15 ET) |  |
 | 11-19 13:16 | 2 | COST | Buyback/dividend | Costco Just Surpassed $1,100 Per Share Ahead of Its $30 Special Dividend Payment. Is the Stock a Buy Before Nov. 24?. | [link](https://finnhub.io/api/news?id=631d39d79e224396eda5bc69efb05fe86e08fd6592b19b34504806551f2fd7d3) |
@@ -153,14 +156,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-17 10:58 | 1 | SOUN | Down 5.3% (regular) | SOUN -5.3% at 3.06 vs 3.23 close (regular, 10:55 ET) |  |
 | 11-17 09:57 | 1 | UNH | Down 4.9% (regular) | UNH -4.9% at 391.62 vs 412.02 close (regular, 09:55 ET) |  |
 | 11-17 09:57 | 1 | CRM | Down 6.5% (regular) | CRM -6.5% at 200.82 vs 214.83 close (regular, 09:55 ET) |  |
-| 11-17 09:57 | 1 | ADBE | Down 4.1% (regular) | ADBE -4.1% at 235.89 vs 246.00 close (regular, 09:55 ET) |  |
-| 11-17 09:57 | 1 | INTU | Down 4.9% (regular) | INTU -4.9% at 328.64 vs 345.56 close (regular, 09:55 ET) |  |
-| 11-17 09:57 | 1 | NOW | Down 4.3% (regular) | NOW -4.3% at 95.11 vs 99.37 close (regular, 09:55 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-19 14:29 | 2 | WSM | Down 16.1% (regular) | WSM -16.1% at 218.26 vs 260.09 close (regular, 14:30 ET) |  |
 | 11-19 13:16 | 2 | P | Up 8.1% (regular) | P +8.1% at 108.88 vs 100.74 close (regular, 13:15 ET) |  |
 | 11-19 12:09 | 2 | WSM | Down 13.5% (regular) | WSM -13.5% at 225.07 vs 260.09 close (regular, 12:10 ET) |  |
 | 11-19 12:09 | 2 | UGI | Down 8.5% (regular) | UGI -8.5% at 34.80 vs 38.05 close (regular, 12:10 ET) |  |
@@ -232,8 +233,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-16 15:22 | 2 | DOCN | Down 8.1% (regular) | DOCN -8.1% at 79.32 vs 86.32 close (regular, 15:20 ET) |  |
 | 11-16 15:22 | 2 | MOH | Up 9.1% (regular) | MOH +9.1% at 228.65 vs 209.49 close (regular, 15:20 ET) |  |
 | 11-16 15:22 | 2 | TTMI | Down 8.1% (regular) | TTMI -8.1% at 68.08 vs 74.08 close (regular, 15:20 ET) |  |
-| 11-16 14:26 | 2 | BBWI | Down 9.0% (regular) | BBWI -9.0% at 19.48 vs 21.39 close (regular, 14:25 ET) |  |
-| 11-16 13:19 | 2 | LITE | Down 8.2% (regular) | LITE -8.2% at 547.78 vs 596.62 close (regular, 13:20 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
@@ -244,4 +243,4 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 ## Watcher health
 
-- sec/8k: HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out. (read timeout=20)
+- All checks ran.
