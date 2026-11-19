@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-19 09:04 ET
+# Alerts — watcher run 2026-11-19 10:00 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,18 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-19 10:00 | 1 | QCOM | Up 6.2% (regular) | QCOM +6.2% at 169.64 vs 159.81 close (regular, 10:00 ET) |  |
+| 11-19 10:00 | 1 | MU | Up 5.9% (regular) | MU +5.9% at 746.84 vs 705.27 close (regular, 10:00 ET) |  |
+| 11-19 10:00 | 1 | PANW | Up 7.2% (regular) | PANW +7.2% at 364.41 vs 339.92 close (regular, 10:00 ET) |  |
+| 11-19 10:00 | 1 | PLTR | Up 5.1% (regular) | PLTR +5.1% at 164.65 vs 156.67 close (regular, 10:00 ET) |  |
+| 11-19 10:00 | 1 | CRWD | Up 6.5% (regular) | CRWD +6.5% at 252.51 vs 237.03 close (regular, 10:00 ET) |  |
+| 11-19 10:00 | 1 | SNOW | Up 4.5% (regular) | SNOW +4.5% at 292.11 vs 279.62 close (regular, 10:00 ET) |  |
+| 11-19 10:00 | 1 | HOOD | Up 5.1% (regular) | HOOD +5.1% at 72.69 vs 69.17 close (regular, 10:00 ET) |  |
+| 11-19 10:00 | 1 | RBLX | Up 4.3% (regular) | RBLX +4.3% at 49.38 vs 47.33 close (regular, 10:00 ET) |  |
+| 11-19 10:00 | 1 | IONQ | Up 6.9% (regular) | IONQ +6.9% at 25.09 vs 23.48 close (regular, 10:00 ET) |  |
+| 11-19 10:00 | 1 | SMCI | Up 4.1% (regular) | SMCI +4.1% at 25.38 vs 24.37 close (regular, 10:00 ET) |  |
+| 11-19 10:00 | 1 | ACHR | Up 4.2% (regular) | ACHR +4.2% at 3.37 vs 3.23 close (regular, 10:00 ET) |  |
+| 11-19 10:00 | 1 | OKLO | Up 4.1% (regular) | OKLO +4.1% at 22.69 vs 21.80 close (regular, 10:00 ET) |  |
 | 11-19 09:04 | 1 | GOOGL | Up 4.1% (premarket) | GOOGL +4.1% at 293.98 vs 282.44 close (premarket, 09:00 ET) |  |
 | 11-19 09:04 | 1 | PANW | Up 7.1% (premarket) | PANW +7.1% at 364.13 vs 339.92 close (premarket, 09:00 ET) |  |
 | 11-19 09:04 | 1 | JNJ | FDA/trial | Johnson & Johnson Seeks U.S. FDA Approval for CAPLYTA in Bipolar Mania, Marking Fifth Potential Indication | [link](https://finnhub.io/api/news?id=2d380f5accf1d614df7418c5c0cc9f7ca69cbdaa0af5e9e9570f9a670b1546fc) |
@@ -144,23 +156,16 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-16 15:22 | 1 | LLY | Deal | Eli Lilly to Acquire Calytrix Bio in Up to $1.5 Billion Deal | [link](https://finnhub.io/api/news?id=b2fd2406ca6af2f5093c1f3ab5c244672bc7656b2958cbab3d83df49b2e3e41c) |
 | 11-16 14:26 | 1 | PLTR | Down 4.3% (regular) | PLTR -4.3% at 160.79 vs 167.99 close (regular, 14:25 ET) |  |
 | 11-16 14:26 | 1 | SOFI | Down 4.5% (regular) | SOFI -4.5% at 14.73 vs 15.42 close (regular, 14:25 ET) |  |
-| 11-16 14:26 | 1 | TTWO | Down 5.8% (regular) | TTWO -5.8% at 214.66 vs 227.82 close (regular, 14:25 ET) |  |
-| 11-16 14:26 | 1 | DECK | Down 4.4% (regular) | DECK -4.4% at 83.04 vs 86.82 close (regular, 14:25 ET) |  |
-| 11-16 13:19 | 1 | NVDA | Down 4.5% (regular) | NVDA -4.5% at 155.52 vs 162.85 close (regular, 13:15 ET) |  |
-| 11-16 13:19 | 1 | AVGO | Down 4.4% (regular) | AVGO -4.4% at 331.89 vs 347.01 close (regular, 13:15 ET) |  |
-| 11-16 13:19 | 1 | CAT | Down 4.2% (regular) | CAT -4.2% at 575.10 vs 600.20 close (regular, 13:15 ET) |  |
-| 11-16 13:19 | 1 | ETN | Down 4.1% (regular) | ETN -4.1% at 338.52 vs 352.97 close (regular, 13:15 ET) |  |
-| 11-16 13:19 | 1 | MU | Down 7.1% (regular) | MU -7.1% at 723.30 vs 778.31 close (regular, 13:15 ET) |  |
-| 11-16 13:19 | 1 | LRCX | Down 6.5% (regular) | LRCX -6.5% at 211.26 vs 225.92 close (regular, 13:15 ET) |  |
-| 11-16 13:19 | 1 | AMAT | Down 4.9% (regular) | AMAT -4.9% at 352.26 vs 370.50 close (regular, 13:15 ET) |  |
-| 11-16 13:19 | 1 | RKLB | Down 6.4% (regular) | RKLB -6.4% at 57.58 vs 61.53 close (regular, 13:15 ET) |  |
-| 11-16 13:19 | 1 | SMCI | Down 6.2% (regular) | SMCI -6.2% at 25.20 vs 26.87 close (regular, 13:15 ET) |  |
-| 11-16 13:19 | 1 | FIX | Down 5.0% (regular) | FIX -5.0% at 1056.93 vs 1112.50 close (regular, 13:15 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-19 10:00 | 2 | COHR | Up 10.5% (regular) | COHR +10.5% at 235.27 vs 212.84 close (regular, 10:00 ET) |  |
+| 11-19 10:00 | 2 | P | Up 11.0% (regular) | P +11.0% at 111.86 vs 100.74 close (regular, 10:00 ET) |  |
+| 11-19 10:00 | 2 | STX | Up 8.4% (regular) | STX +8.4% at 559.34 vs 515.90 close (regular, 10:00 ET) |  |
+| 11-19 10:00 | 2 | WDC | Up 8.2% (regular) | WDC +8.2% at 311.95 vs 288.19 close (regular, 10:00 ET) |  |
+| 11-19 10:00 | 2 | VVV | Up 9.7% (regular) | VVV +9.7% at 36.60 vs 33.37 close (regular, 10:00 ET) |  |
 | 11-19 09:04 | 2 | COHR | Up 8.3% (premarket) | COHR +8.3% at 230.51 vs 212.84 close (premarket, 09:00 ET) |  |
 | 11-19 09:04 | 2 | MMS | 8-K: 1.01 Material agreement; 2.01 Acquisition/disposition completed | 8-K - MAXIMUS, INC. (0001032220) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1032220/000103222026000052/0001032220-26-000052-index.htm) |
 | 11-19 09:04 | 2 | WSM | 8-K: 2.02 Earnings results | 8-K - WILLIAMS SONOMA INC (0000719955) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/719955/000071995526000244/0000719955-26-000244-index.htm) |
