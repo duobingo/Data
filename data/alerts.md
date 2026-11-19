@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-19 15:37 ET
+# Alerts — watcher run 2026-11-19 16:35 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,10 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-19 16:35 | 1 | INTU | Down 10.9% (after-hours) | INTU -10.9% at 276.25 vs 310.02 close (after-hours, 16:35 ET) |  |
+| 11-19 16:35 | 1 | NKE | 8-K: 5.02 Executive/director change | 8-K/A - NIKE, Inc. (0000320187) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/320187/000032018726000212/0000320187-26-000212-index.htm) |
+| 11-19 16:35 | 1 | NKE | 8-K: 5.02 Executive/director change | 8-K - NIKE, Inc. (0000320187) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/320187/000032018726000211/0000320187-26-000211-index.htm) |
+| 11-19 16:35 | 2 | INTU | 8-K: 2.02 Earnings results | 8-K - INTUIT INC. (0000896878) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/896878/000089687826000043/0000896878-26-000043-index.htm) |
 | 11-19 15:37 | 1 | NKE | Down 6.0% (regular) | NKE -6.0% at 34.13 vs 36.31 close (regular, 15:35 ET) |  |
 | 11-19 15:37 | 1 | LULU | Down 4.4% (regular) | LULU -4.4% at 105.90 vs 110.78 close (regular, 15:35 ET) |  |
 | 11-19 15:37 | 1 | NVDA | Financing/distress | Short Seller Raises Questions About Nvidia's Former Top Sales Executive. $2.5 Billion China Chip Case In Focus. | [link](https://finnhub.io/api/news?id=6de128a88288cc80aae5ace163107c28abb3b7895f2a6c85127eb973735ee74b) |
@@ -152,15 +156,17 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-17 10:58 | 1 | HOOD | Down 5.1% (regular) | HOOD -5.1% at 68.37 vs 72.06 close (regular, 10:55 ET) |  |
 | 11-17 10:58 | 1 | APP | Down 5.7% (regular) | APP -5.7% at 391.73 vs 415.22 close (regular, 10:55 ET) |  |
 | 11-17 10:58 | 1 | HIMS | Down 6.1% (regular) | HIMS -6.1% at 17.43 vs 18.56 close (regular, 10:55 ET) |  |
-| 11-17 10:58 | 1 | RKLB | Down 4.3% (regular) | RKLB -4.3% at 54.90 vs 57.37 close (regular, 10:55 ET) |  |
-| 11-17 10:58 | 1 | IONQ | Down 7.2% (regular) | IONQ -7.2% at 24.55 vs 26.45 close (regular, 10:55 ET) |  |
-| 11-17 10:58 | 1 | SMCI | Down 5.1% (regular) | SMCI -5.1% at 23.76 vs 25.03 close (regular, 10:55 ET) |  |
-| 11-17 10:58 | 1 | TSM | Down 4.2% (regular) | TSM -4.2% at 357.82 vs 373.45 close (regular, 10:55 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-19 16:35 | 2 | KBR | 8-K: 5.02 Executive/director change | 8-K - KBR, INC. (0001357615) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1357615/000135761526000210/0001357615-26-000210-index.htm) |
+| 11-19 16:35 | 2 | POST | 8-K: 2.02 Earnings results; 5.02 Executive/director change | 8-K - Post Holdings, Inc. (0001530950) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1530950/000153095026000100/0001530950-26-000100-index.htm) |
+| 11-19 16:35 | 2 | GAP | 8-K: 2.02 Earnings results | 8-K - GAP INC (0000039911) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/39911/000162828026075088/0001628280-26-075088-index.htm) |
+| 11-19 16:35 | 2 | EW | 8-K: 1.01 Material agreement | 8-K - Edwards Lifesciences Corp (0001099800) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1099800/000109980026000057/0001099800-26-000057-index.htm) |
+| 11-19 16:35 | 2 | KEYS | 8-K: 2.02 Earnings results | 8-K - Keysight Technologies, Inc. (0001601046) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1601046/000160104626000040/0001601046-26-000040-index.htm) |
+| 11-19 16:35 | 2 | ROST | 8-K: 2.02 Earnings results | 8-K - ROSS STORES, INC. (0000745732) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/745732/000074573226000047/0000745732-26-000047-index.htm) |
 | 11-19 15:37 | 2 | VVV | Up 8.6% (regular) | VVV +8.6% at 36.26 vs 33.37 close (regular, 15:35 ET) |  |
 | 11-19 14:29 | 2 | WSM | Down 16.1% (regular) | WSM -16.1% at 218.26 vs 260.09 close (regular, 14:30 ET) |  |
 | 11-19 13:16 | 2 | P | Up 8.1% (regular) | P +8.1% at 108.88 vs 100.74 close (regular, 13:15 ET) |  |
