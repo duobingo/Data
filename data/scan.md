@@ -1,5 +1,5 @@
-# Short-term scan — 2026-11-19 16:43 ET
-Universe: S&P 500 + S&P 400 (903 names, 909 priced). Filters: price ≥ $10, avg daily dollar volume ≥ $20M, no semiconductors, no names from the tracked list. These are candidates; check news, catalysts and the trading rules before proposing a trade.
+# Short-term scan — 2026-11-19 17:02 ET
+Universe: S&P 500 + S&P 400 (903 names, 908 priced). Filters: price ≥ $10, avg daily dollar volume ≥ $20M, no semiconductors, no names from the tracked list. These are candidates; check news, catalysts and the trading rules before proposing a trade.
 
 ## Market regime
 - **RISK-OFF** · SPY 715.87 (-6.01% vs 50-day, -2.30% vs 200-day) · VIX 28.44
@@ -17,8 +17,8 @@ Universe: S&P 500 + S&P 400 (903 names, 909 priced). Filters: price ≥ $10, avg
 ## 3. Oversold in an uptrend (down ≥8% in 3 days, RSI ≤ 30, still above the 200-day)
 | Ticker | Company | Close | 3d % | Day % | RSI | Vol × | vs 200-day % | ATR |
 |---|---|---|---|---|---|---|---|---|
-| VEEV | Veeva Systems · Health Care | 262.92 | -12.15 | -5.15 | 24.7 | 1.97 | 22.16 | 9.77 |
-| DINO | HF Sinclair · Energy | 89.72 | -9.42 | -1.02 | 27.1 | 0.84 | 9.59 | 4.88 |
+| VEEV | Veeva Systems · Health Care | 262.92 | -12.15 | -5.15 | 24.7 | 1.98 | 22.16 | 9.77 |
+| DINO | HF Sinclair · Energy | 89.72 | -9.42 | -1.02 | 27.1 | 0.85 | 9.59 | 4.88 |
 
 ## 4. Insider cluster buys (open-market, not 10b5-1, last 14 days: ≥2 insiders or ≥$500K)
 | Ticker | Company | Insiders | Total bought | Avg insider price | Close | vs insider price % | Last buy | Who |
@@ -71,29 +71,29 @@ How to use: for each loser, find the reason. If it's fear, a sector selloff or a
 **Losers**
 | Ticker | Company | Day % | Gap % | Vol × | 1m % | From 52w high % | RSI | vs 200-day % | Flags |
 |---|---|---|---|---|---|---|---|---|---|
-| WSM | Williams-Sonoma, Inc. · Consumer Discretionary | -15.16 | -6.5 | 4.05 | -12.89 | -19.60 | 35.0 | 1.40 |  |
+| WSM | Williams-Sonoma, Inc. · Consumer Discretionary | -15.16 | -6.5 | 4.06 | -12.89 | -19.60 | 35.0 | 1.40 |  |
 | TWLO | Twilio · Information Technology | -8.75 | 1.12 | 0.97 | -32.96 | -42.00 | 28.7 | -8.08 |  |
 | UGI | UGI Corp · Utilities | -7.75 | -3.55 | 3.68 | -8.97 | -15.10 | 30.7 | -3.99 |  |
-| AMD | Advanced Micro Devices · Information Technology | -7.72 | 2.52 | 2.55 | -11.49 | -25.70 | 45.2 | 14.13 | Tracked, Semi |
+| AMD | Advanced Micro Devices · Information Technology | -7.72 | 2.27 | 2.56 | -11.49 | -25.70 | 45.2 | 14.13 | Tracked, Semi |
 | YETI | Yeti Holdings · Consumer Discretionary | -7.1 | -2.31 | 1.04 | -14.61 | -32.40 | 35.7 | -16.24 |  |
-| FOUR | Shift4 · Financials | -6.91 | -0.71 | 0.96 | -3.90 | -49.60 | 41.1 | -15.57 |  |
-| DUOL | Duolingo · Consumer Discretionary | -6.81 | -0.18 | 0.68 | 8.78 | -30.00 | 48.6 | 19.68 |  |
+| FOUR | Shift4 · Financials | -6.91 | -0.71 | 0.98 | -3.90 | -49.60 | 41.1 | -15.57 |  |
+| DUOL | Duolingo · Consumer Discretionary | -6.81 | -0.18 | 0.75 | 8.78 | -30.00 | 48.6 | 19.68 |  |
 | HUBS | HubSpot · Information Technology | -6.4 | -0.65 | 1.91 | -23.17 | -52.80 | 37.5 | -14.89 |  |
-| FISV | Fiserv · Financials | -6.38 | -1.93 | 1.31 | 17.44 | -19.60 | 50.0 | 3.95 |  |
+| FISV | Fiserv · Financials | -6.38 | -1.93 | 1.33 | 17.44 | -19.60 | 50.0 | 3.95 |  |
 | ANF | Abercrombie & Fitch · Consumer Discretionary | -6.37 | -0.88 | 0.89 | -13.78 | -20.00 | 38.0 | 27.01 |  |
 
 **Gainers**
 | Ticker | Company | Day % | Gap % | Vol × | 1m % | From 52w high % | RSI | vs 200-day % | Flags |
 |---|---|---|---|---|---|---|---|---|---|
 | VVV | Valvoline · Consumer Discretionary | 10.4 | 2.13 | 3.08 | 18.38 | -10.30 | 64.4 | 6.81 |  |
-| PANW | Palo Alto Networks · Information Technology | 6.42 | 4.67 | 3.03 | 4.17 | -16.30 | 54.6 | 28.99 | Tracked |
-| OKTA | Okta, Inc. · Information Technology | 5.75 | 3.91 | 1.42 | -0.86 | -12.00 | 57.6 | 57.74 |  |
+| PANW | Palo Alto Networks · Information Technology | 6.42 | 4.67 | 3.06 | 4.17 | -16.30 | 54.6 | 28.99 | Tracked |
+| OKTA | Okta, Inc. · Information Technology | 5.75 | 3.91 | 1.45 | -0.86 | -12.00 | 57.6 | 57.74 |  |
 | WWD | Woodward, Inc. · Industrials | 5.22 | 3.58 | 3.09 | 3.25 | -25.50 | 55.9 | -7.70 |  |
 | P | Everpure · Information Technology | 4.73 | 5.52 | 1.54 | -19.42 | -33.00 | 43.2 | 19.97 |  |
-| WDC | Western Digital · Information Technology | 2.98 | 6.7 | 1.03 | -21.59 | -62.90 | 40.9 | -29.73 |  |
-| CRWD | CrowdStrike · Information Technology | 2.71 | 4.1 | 1.19 | 1.72 | -15.20 | 53.4 | 38.71 | Tracked |
+| WDC | Western Digital · Information Technology | 2.98 | 6.24 | 1.03 | -21.59 | -62.90 | 40.9 | -29.73 |  |
+| CRWD | CrowdStrike · Information Technology | 2.71 | 4.16 | 1.19 | 1.72 | -15.20 | 53.4 | 38.71 | Tracked |
 | SLM | SLM Corp · Financials | 2.57 | 0.06 | 1.22 | -29.96 | -48.50 | 30.2 | -29.99 |  |
-| EXPD | Expeditors International · Industrials | 2.26 | 1.63 | 1.93 | -1.96 | -7.10 | 49.4 | 14.19 |  |
+| EXPD | Expeditors International · Industrials | 2.26 | 1.63 | 1.95 | -1.96 | -7.10 | 49.4 | 14.19 |  |
 | GKOS | Glaukos · Health Care | 2.15 | 0.74 | 0.55 | 34.63 | -6.70 | 61.7 | 59.04 |  |
 
 ## Data quality

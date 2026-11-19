@@ -1,7 +1,7 @@
 {
  "mode": "close",
- "generated_utc": "2026-11-19 21:25",
- "generated_et": "2026-11-19 16:25",
+ "generated_utc": "2026-11-19 21:45",
+ "generated_et": "2026-11-19 16:45",
  "since": "2026-11-17",
  "prices": {
   "AAPL": {
@@ -143,7 +143,7 @@
    "52w_high": 596.92,
    "52w_low": 464.01,
    "from_52w_high_pct": -4.17,
-   "vol_vs_20d": 1.02,
+   "vol_vs_20d": 1.07,
    "finnhub_last": 572.04,
    "finnhub_prev_close": 574.62,
    "verified": true
@@ -159,7 +159,7 @@
    "52w_high": 1475.25,
    "52w_low": 850.51,
    "from_52w_high_pct": -8.41,
-   "vol_vs_20d": 0.95,
+   "vol_vs_20d": 0.99,
    "finnhub_last": 1351.12,
    "finnhub_prev_close": 1382.75,
    "verified": true
@@ -239,7 +239,7 @@
    "52w_high": 188.5,
    "52w_low": 114.19,
    "from_52w_high_pct": -15.69,
-   "vol_vs_20d": 0.74,
+   "vol_vs_20d": 0.76,
    "finnhub_last": 158.93,
    "finnhub_prev_close": 160.58,
    "verified": true
@@ -319,7 +319,7 @@
    "52w_high": 173.59,
    "52w_low": 137.62,
    "from_52w_high_pct": -3.31,
-   "vol_vs_20d": 0.78,
+   "vol_vs_20d": 0.8,
    "finnhub_last": 167.85,
    "finnhub_prev_close": 170.29,
    "verified": true
@@ -367,7 +367,7 @@
    "52w_high": 302.93,
    "52w_low": 190.75,
    "from_52w_high_pct": -6.4,
-   "vol_vs_20d": 0.92,
+   "vol_vs_20d": 0.96,
    "finnhub_last": 283.54,
    "finnhub_prev_close": 286.01,
    "verified": true
@@ -431,7 +431,7 @@
    "52w_high": 156.92,
    "52w_low": 93.9,
    "from_52w_high_pct": -15.36,
-   "vol_vs_20d": 1.41,
+   "vol_vs_20d": 1.42,
    "finnhub_last": 132.81,
    "finnhub_prev_close": 137.78,
    "verified": true
@@ -447,7 +447,7 @@
    "52w_high": 236.48,
    "52w_low": 146.49,
    "from_52w_high_pct": -12.68,
-   "vol_vs_20d": 1.02,
+   "vol_vs_20d": 1.04,
    "finnhub_last": 206.5,
    "finnhub_prev_close": 205.88,
    "verified": true
@@ -591,7 +591,7 @@
    "52w_high": 129.85,
    "52w_low": 81.97,
    "from_52w_high_pct": -20.01,
-   "vol_vs_20d": 0.87,
+   "vol_vs_20d": 0.88,
    "finnhub_last": 103.87,
    "finnhub_prev_close": 104.48,
    "verified": true
@@ -607,7 +607,7 @@
    "52w_high": 97.76,
    "52w_low": 72.78,
    "from_52w_high_pct": -17.54,
-   "vol_vs_20d": 0.91,
+   "vol_vs_20d": 0.94,
    "finnhub_last": 80.61,
    "finnhub_prev_close": 80.92,
    "verified": true
@@ -671,7 +671,7 @@
    "52w_high": 123.37,
    "52w_low": 92.19,
    "from_52w_high_pct": -2.53,
-   "vol_vs_20d": 1.59,
+   "vol_vs_20d": 1.6,
    "finnhub_last": 120.25,
    "finnhub_prev_close": 122.36,
    "verified": true
@@ -831,7 +831,7 @@
    "52w_high": 232.25,
    "52w_low": 152.8,
    "from_52w_high_pct": -24.66,
-   "vol_vs_20d": 1.26,
+   "vol_vs_20d": 1.32,
    "finnhub_last": 174.98,
    "finnhub_prev_close": 181.17,
    "verified": true
@@ -879,7 +879,7 @@
    "52w_high": 31.44,
    "52w_low": 23.62,
    "from_52w_high_pct": -12.4,
-   "vol_vs_20d": 0.93,
+   "vol_vs_20d": 0.94,
    "finnhub_last": 27.54,
    "finnhub_prev_close": 28.06,
    "verified": true
@@ -911,7 +911,7 @@
    "52w_high": 29.44,
    "52w_low": 19.89,
    "from_52w_high_pct": -25.78,
-   "vol_vs_20d": 0.8,
+   "vol_vs_20d": 0.96,
    "finnhub_last": 21.85,
    "finnhub_prev_close": 21.95,
    "verified": true
@@ -943,7 +943,7 @@
    "52w_high": 387.49,
    "52w_low": 290.97,
    "from_52w_high_pct": -19.71,
-   "vol_vs_20d": 1.26,
+   "vol_vs_20d": 1.34,
    "finnhub_last": 311.11,
    "finnhub_prev_close": 315.4,
    "verified": true
@@ -959,7 +959,7 @@
    "52w_high": 293.06,
    "52w_low": 178.45,
    "from_52w_high_pct": -25.22,
-   "vol_vs_20d": 0.87,
+   "vol_vs_20d": 0.89,
    "finnhub_last": 219.14,
    "finnhub_prev_close": 222.78,
    "verified": true
@@ -1039,7 +1039,7 @@
    "52w_high": 389.33,
    "52w_low": 267.0,
    "from_52w_high_pct": -19.58,
-   "vol_vs_20d": 0.64,
+   "vol_vs_20d": 0.66,
    "finnhub_last": 313.08,
    "finnhub_prev_close": 318.15,
    "verified": true
@@ -1055,7 +1055,7 @@
    "52w_high": 153.35,
    "52w_low": 122.61,
    "from_52w_high_pct": -19.56,
-   "vol_vs_20d": 0.99,
+   "vol_vs_20d": 1.02,
    "finnhub_last": 123.36,
    "finnhub_prev_close": 125.22,
    "verified": true
@@ -1391,7 +1391,7 @@
    "52w_high": 147.96,
    "52w_low": 95.83,
    "from_52w_high_pct": -22.09,
-   "vol_vs_20d": 1.05,
+   "vol_vs_20d": 1.07,
    "finnhub_last": 115.28,
    "finnhub_prev_close": 117.34,
    "verified": true
@@ -1455,7 +1455,7 @@
    "52w_high": 170.0,
    "52w_low": 122.78,
    "from_52w_high_pct": -17.99,
-   "vol_vs_20d": 1.38,
+   "vol_vs_20d": 1.55,
    "finnhub_last": 139.41,
    "finnhub_prev_close": 140.3,
    "verified": true
@@ -1967,7 +1967,7 @@
    "52w_high": 165.14,
    "52w_low": 101.73,
    "from_52w_high_pct": -29.76,
-   "vol_vs_20d": 1.25,
+   "vol_vs_20d": 1.28,
    "finnhub_last": 115.99,
    "finnhub_prev_close": 115.71,
    "verified": true
@@ -4858,6 +4858,60 @@
    {
     "form": "424B2",
     "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036292/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036291/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036290/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036289/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036287/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036285/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036283/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036282/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036281/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-19",
     "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036279/form424b2.htm",
     "description": "424B2"
    },
@@ -6887,6 +6941,12 @@
    {
     "form": "424B2",
     "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226057337/r11044wfc_424b2-39183.htm",
+    "description": "PRICING SUPPLEMENT NO. 410"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-19",
     "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226057327/r11038wfc_424b2-39185.htm",
     "description": "PRICING SUPPLEMENT NO. 407"
    },
@@ -7089,7 +7149,17 @@
     "description": "PRICING SUPPLEMENT NO. 332"
    }
   ],
-  "IBM": [],
+  "IBM": [
+   {
+    "form": "8-K",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/51143/000110465926130189/tm2630132d1_8k.htm",
+    "description": "FORM 8-K",
+    "items": [
+     "9.01 Exhibits"
+    ]
+   }
+  ],
   "GE": [
    {
     "form": "4",
@@ -7227,6 +7297,21 @@
   ],
   "TXN": [],
   "INTU": [
+   {
+    "form": "8-K",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000047/intu-20261119.htm",
+    "description": "8-K",
+    "items": [
+     "8.01 Other events"
+    ]
+   },
+   {
+    "form": "10-Q",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000045/intu-20261031.htm",
+    "description": "10-Q"
+   },
    {
     "form": "8-K",
     "date": "2026-11-19",
@@ -9782,7 +9867,28 @@
    }
   ],
   "SYK": [],
-  "PLD": [],
+  "PLD": [
+   {
+    "form": "4",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/1045609/000119312526468660/xslF345X06/ownership.xml",
+    "description": "4",
+    "form4": {
+     "owner": "Kelly Alfred F Jr",
+     "role": "Director",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "P",
+       "type": "open-market BUY",
+       "shares": 4700.0,
+       "price": 124.968,
+       "value": 587350
+      }
+     ]
+    }
+   }
+  ],
   "COP": [],
   "DE": [],
   "ETN": [
@@ -10295,6 +10401,18 @@
    }
   ],
   "C": [
+   {
+    "form": "424B2",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426036288/form424b2.htm",
+    "description": "PRELIMINARY PRICING SUPPLEMENT"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326017863/dp257221_424b2-us26t2566d.htm",
+    "description": "PRICING SUPPLEMENT"
+   },
    {
     "form": "424B2",
     "date": "2026-11-19",
@@ -11039,6 +11157,60 @@
   "ORLY": [
    {
     "form": "4",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/898173/000192677826000004/xslF345X06/form4-11192026_091105.xml",
+    "description": "",
+    "form4": {
+     "owner": "Merz Mark Joseph",
+     "role": "SVP OF INTERNATIONAL",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "M",
+       "type": "option exercise",
+       "shares": 2950.0,
+       "price": 16.71,
+       "value": 49294
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 2950.0,
+       "price": 93.0,
+       "value": 274350
+      }
+     ]
+    }
+   },
+   {
+    "form": "4",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/898173/000195452426000006/xslF345X06/form4-11192026_091103.xml",
+    "description": "",
+    "form4": {
+     "owner": "Hopper Philip M",
+     "role": "SVP OF REAL ESTATE & EXPANSION",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "M",
+       "type": "option exercise",
+       "shares": 465.0,
+       "price": 17.98,
+       "value": 8361
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 465.0,
+       "price": 92.815,
+       "value": 43159
+      }
+     ]
+    }
+   },
+   {
+    "form": "4",
     "date": "2026-11-18",
     "url": "https://www.sec.gov/Archives/edgar/data/898173/000123897826000008/xslF345X06/form4-11182026_091140.xml",
     "description": "",
@@ -11495,7 +11667,63 @@
   ],
   "SNOW": [],
   "SHOP": [],
-  "HOOD": [],
+  "HOOD": [
+   {
+    "form": "4",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/1783879/000187091426000031/xslF345X06/wk-form4_1795124028.xml",
+    "description": "FORM 4",
+    "form4": {
+     "owner": "Bhatt Baiju",
+     "role": "Director",
+     "10b5_1_plan": true,
+     "transactions": [
+      {
+       "code": "C",
+       "type": "conversion",
+       "shares": 69387.0,
+       "price": 0.0,
+       "value": 0
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 19900.0,
+       "price": 67.9875,
+       "value": 1352951
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 30387.0,
+       "price": 68.7238,
+       "value": 2088310
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 5800.0,
+       "price": 69.9463,
+       "value": 405689
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 12788.0,
+       "price": 70.8747,
+       "value": 906346
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 512.0,
+       "price": 71.4523,
+       "value": 36584
+      }
+     ]
+    }
+   }
+  ],
   "SOFI": [
    {
     "form": "4",
@@ -12029,7 +12257,170 @@
    }
   ],
   "IONQ": [],
-  "SMCI": [],
+  "SMCI": [
+   {
+    "form": "4",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000149212626000018/xslF345X06/wk-form4_1795124470.xml",
+    "description": "FORM 4",
+    "form4": {
+     "owner": "Cheung Kenneth",
+     "role": "SVP,  Chief Accounting Officer",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "M",
+       "type": "option exercise",
+       "shares": 3000.0,
+       "price": 0.0,
+       "value": 0
+      },
+      {
+       "code": "F",
+       "type": "tax withholding",
+       "shares": 1527.0,
+       "price": 24.14,
+       "value": 36862
+      }
+     ]
+    }
+   },
+   {
+    "form": "4",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000214816126000017/xslF345X06/wk-form4_1795124424.xml",
+    "description": "FORM 4",
+    "form4": {
+     "owner": "Thauberger Matthew",
+     "role": "Chief Revenue Officer",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "M",
+       "type": "option exercise",
+       "shares": 5000.0,
+       "price": 0.0,
+       "value": 0
+      },
+      {
+       "code": "F",
+       "type": "tax withholding",
+       "shares": 2544.0,
+       "price": 24.14,
+       "value": 61412
+      }
+     ]
+    }
+   },
+   {
+    "form": "4",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000210463126000023/xslF345X06/wk-form4_1795124371.xml",
+    "description": "FORM 4",
+    "form4": {
+     "owner": "Xiao Jin",
+     "role": "Sr. Corporate VP, Engineering",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "M",
+       "type": "option exercise",
+       "shares": 4500.0,
+       "price": 0.0,
+       "value": 0
+      },
+      {
+       "code": "F",
+       "type": "tax withholding",
+       "shares": 2290.0,
+       "price": 24.14,
+       "value": 55281
+      }
+     ]
+    }
+   },
+   {
+    "form": "4",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000213531426000019/xslF345X06/wk-form4_1795124329.xml",
+    "description": "FORM 4",
+    "form4": {
+     "owner": "Malyala Vikranth",
+     "role": "SVP, Chief Business Officer",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "M",
+       "type": "option exercise",
+       "shares": 7000.0,
+       "price": 0.0,
+       "value": 0
+      },
+      {
+       "code": "F",
+       "type": "tax withholding",
+       "shares": 3562.0,
+       "price": 24.14,
+       "value": 85987
+      }
+     ]
+    }
+   },
+   {
+    "form": "4",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000139294226000021/xslF345X06/wk-form4_1795124275.xml",
+    "description": "FORM 4",
+    "form4": {
+     "owner": "Liang Charles",
+     "role": "Director, President and CEO, 10% owner",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "M",
+       "type": "option exercise",
+       "shares": 5000.0,
+       "price": 0.0,
+       "value": 0
+      },
+      {
+       "code": "F",
+       "type": "tax withholding",
+       "shares": 2698.0,
+       "price": 24.14,
+       "value": 65130
+      }
+     ]
+    }
+   },
+   {
+    "form": "4",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/1375365/000139294126000022/xslF345X06/wk-form4_1795124211.xml",
+    "description": "FORM 4",
+    "form4": {
+     "owner": "Liu Liang Chiu-Chu Sara",
+     "role": "Director, 10% owner",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "M",
+       "type": "option exercise",
+       "shares": 5000.0,
+       "price": 0.0,
+       "value": 0
+      },
+      {
+       "code": "F",
+       "type": "tax withholding",
+       "shares": 2698.0,
+       "price": 24.14,
+       "value": 65130
+      }
+     ]
+    }
+   }
+  ],
   "ARM": [
    {
     "form": "4",
@@ -12277,7 +12668,18 @@
   "EME": [],
   "TMUS": [],
   "SPCX": [],
-  "ADP": [],
+  "ADP": [
+   {
+    "form": "8-K",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/8670/000095014226003130/eh260857214_8k.htm",
+    "description": "FORM 8-K",
+    "items": [
+     "8.01 Other events",
+     "9.01 Exhibits"
+    ]
+   }
+  ],
   "PGR": [
    {
     "form": "8-K",
@@ -12291,6 +12693,75 @@
    }
   ],
   "BX": [
+   {
+    "form": "4",
+    "date": "2026-11-19",
+    "url": "https://www.sec.gov/Archives/edgar/data/1393818/000119312526468658/xslF345X06/ownership.xml",
+    "description": "4",
+    "form4": {
+     "owner": "Bcp 8 Holdings Mozart Manager L.L.C.",
+     "role": "10% owner",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "C",
+       "type": "conversion",
+       "shares": 5718567.0,
+       "price": 0.0,
+       "value": 0
+      },
+      {
+       "code": "C",
+       "type": "conversion",
+       "shares": 864228.0,
+       "price": 0.0,
+       "value": 0
+      },
+      {
+       "code": "J",
+       "type": "J",
+       "shares": 5718567.0,
+       "price": 0.0,
+       "value": 0
+      },
+      {
+       "code": "J",
+       "type": "J",
+       "shares": 864228.0,
+       "price": 0.0,
+       "value": 0
+      },
+      {
+       "code": "C",
+       "type": "conversion",
+       "shares": 857785.0,
+       "price": 0.0,
+       "value": 0
+      },
+      {
+       "code": "C",
+       "type": "conversion",
+       "shares": 129634.0,
+       "price": 0.0,
+       "value": 0
+      },
+      {
+       "code": "J",
+       "type": "J",
+       "shares": 857785.0,
+       "price": 0.0,
+       "value": 0
+      },
+      {
+       "code": "J",
+       "type": "J",
+       "shares": 129634.0,
+       "price": 0.0,
+       "value": 0
+      }
+     ]
+    }
+   },
    {
     "form": "4",
     "date": "2026-11-18",
@@ -19814,7 +20285,45 @@
     "netProfitMarginTTM": -20.07,
     "beta": 1.3790377,
     "marketCapitalization": 97933.75
-   }
+   },
+   "news": [
+    {
+     "time": "11-19 06:22",
+     "source": "Yahoo",
+     "headline": "Atlassian Looks Cheap Until You Count Stock Pay",
+     "url": "https://finnhub.io/api/news?id=256abb2fb5b8218a01c58dcc6e45e6ccdd8ebfd4062db86eaecb4629d0ae0132"
+    },
+    {
+     "time": "11-19 06:08",
+     "source": "Yahoo",
+     "headline": "Could Anthropic Stock Fall 25%?",
+     "url": "https://finnhub.io/api/news?id=b696fcf8d3d10af5f10ca1ed1ed2389b0b007ae78738aa637e1e6adb57291bef"
+    },
+    {
+     "time": "11-19 00:46",
+     "source": "SeekingAlpha",
+     "headline": "Snowflake: High Valuation And Extreme SBC Chills My Outlook",
+     "url": "https://finnhub.io/api/news?id=c97be0747bb874d8e242029224b7d646a46fe5899013745179d5b27ea00760b9"
+    },
+    {
+     "time": "11-18 14:29",
+     "source": "Yahoo",
+     "headline": "Datadog Fell 12% on a Flat Fourth-Quarter Outlook. Analysts Raised Its 2027 Earnings Estimate 6%",
+     "url": "https://finnhub.io/api/news?id=a4f4146913abbad40cf1e787b18c42e2c254b61ec64c04d801143d8ed60aa5a6"
+    },
+    {
+     "time": "11-18 11:45",
+     "source": "Yahoo",
+     "headline": "Snowflake's AI Push Fuels Revenue Growth: Can It Beat DELL & ORCL?",
+     "url": "https://finnhub.io/api/news?id=dfda1792962bbe3823c138843c4bfe6865d19138276c1c2b17926b17b9d66796"
+    },
+    {
+     "time": "11-18 11:39",
+     "source": "Yahoo",
+     "headline": "Snowflake Set to Deliver Fiscal Q3 Product Revenue Upside, Oppenheimer Says",
+     "url": "https://finnhub.io/api/news?id=14f604aa22bfee421f0934b8bfb8da187cd3fcbabb7e6fd07a9d60378dfa4ab9"
+    }
+   ]
   },
   "SHOP": {
    "next_earnings": {
@@ -21088,7 +21597,45 @@
     "netProfitMarginTTM": 13.4,
     "beta": 1.3946176,
     "marketCapitalization": 44384.625
-   }
+   },
+   "news": [
+    {
+     "time": "11-19 02:13",
+     "source": "Yahoo",
+     "headline": "Vistra Just Dropped 16% in a Month, but Its Plans Always Had \u201ca More Conservative View of the AI Build-Out\u201d",
+     "url": "https://finnhub.io/api/news?id=e6bb6a277cd30f60c5207afe4e75a2ffaf45f59188b00f2024bf7ee3b53c9764"
+    },
+    {
+     "time": "11-18 21:11",
+     "source": "Yahoo",
+     "headline": "Vistra (VST) Could Be 23% Undervalued After Fresh Guidance And Earnings",
+     "url": "https://finnhub.io/api/news?id=a232310a72f38cafc6cbf1ce2665942ff28cbd92ddb3272771388b24c607d860"
+    },
+    {
+     "time": "11-18 00:30",
+     "source": "Yahoo",
+     "headline": "Vistra Closed at $125 After a Record Quarter: Buy the Buyback, or Wait for Texas?",
+     "url": "https://finnhub.io/api/news?id=d7b9d4d97fa145f9d5c8ef7c8abd6a029fb21614775d80f9f14e3ba9de8b0d53"
+    },
+    {
+     "time": "11-17 18:25",
+     "source": "Yahoo",
+     "headline": "Only 11% of the Power Plants Vistra Just Bought Are in Texas. Here's Why That Matters After the Election.",
+     "url": "https://finnhub.io/api/news?id=2f168ac6fa8911032a10173497ae3a0aedeef5cc38e6d2da2b7de9a8015ab740"
+    },
+    {
+     "time": "11-17 15:50",
+     "source": "Yahoo",
+     "headline": "NextEra Energy vs. Vistra: Which Utilities Stock Is a Better Buy for 2027?",
+     "url": "https://finnhub.io/api/news?id=c5d7fc964034b263f65fd63706e0a4d45ca23159951de450530b494c732fbdd7"
+    },
+    {
+     "time": "11-17 14:22",
+     "source": "Yahoo",
+     "headline": "Vistra Is Down 41% From Its High. History Suggests This Is What Happens Next.",
+     "url": "https://finnhub.io/api/news?id=ad741fb6d212df68ddff9ca710f6f557a0e0708ad79a5d8302a5264993390899"
+    }
+   ]
   },
   "CEG": {
    "next_earnings": {
@@ -23226,7 +23773,7 @@
    "short_pct": 0.01
   },
   "MSFT": {
-   "fwd_pe": 20.58771,
+   "fwd_pe": 20.590195,
    "ttm_pe": 26.007307,
    "peg": 1.5,
    "target_mean": 636.12427,
@@ -23413,7 +23960,7 @@
    "short_pct": 0.0165
   },
   "HD": {
-   "fwd_pe": 21.345093,
+   "fwd_pe": 21.381855,
    "ttm_pe": 23.380556,
    "peg": 1.78,
    "target_mean": 376.53125,
@@ -23864,7 +24411,7 @@
    "short_pct": 0.0212
   },
   "LOW": {
-   "fwd_pe": 17.187195,
+   "fwd_pe": 17.170536,
    "ttm_pe": 18.384228,
    "peg": 1.42,
    "target_mean": 248.8125,
@@ -24323,7 +24870,7 @@
    "short_pct": 0.0383
   },
   "TTWO": {
-   "fwd_pe": 20.457125,
+   "fwd_pe": 20.680119,
    "peg": 2.93,
    "target_mean": 283.92828,
    "target_low": 170.0,
@@ -24368,9 +24915,9 @@
    "fwd_pe": 11.066378,
    "ttm_pe": 9.815657,
    "peg": 4.12,
-   "target_mean": 45.657364,
-   "target_low": 39.36645,
-   "target_high": 63.97052,
+   "target_mean": 45.665737,
+   "target_low": 39.373672,
+   "target_high": 63.982258,
    "rating": "hold",
    "n_analysts": 12,
    "short_pct": 0.0121
@@ -24441,9 +24988,9 @@
    "fwd_pe": 21.391407,
    "ttm_pe": 33.371063,
    "peg": 0.74,
-   "target_mean": 2107.0508,
-   "target_low": 848.8479,
-   "target_high": 2788.4187,
+   "target_mean": 2104.2803,
+   "target_low": 847.7318,
+   "target_high": 2784.7524,
    "rating": "strong_buy",
    "n_analysts": 17,
    "short_pct": 0.003
