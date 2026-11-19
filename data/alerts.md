@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-19 16:35 ET
+# Alerts — watcher run 2026-11-19 17:34 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-19 17:34 | 2 | INTU | 8-K: 1.01 Material agreement | 8-K - INTUIT INC. (0000896878) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/896878/000119312526468834/0001193125-26-468834-index.htm) |
 | 11-19 16:35 | 1 | INTU | Down 10.9% (after-hours) | INTU -10.9% at 276.25 vs 310.02 close (after-hours, 16:35 ET) |  |
 | 11-19 16:35 | 1 | NKE | 8-K: 5.02 Executive/director change | 8-K/A - NIKE, Inc. (0000320187) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/320187/000032018726000212/0000320187-26-000212-index.htm) |
 | 11-19 16:35 | 1 | NKE | 8-K: 5.02 Executive/director change | 8-K - NIKE, Inc. (0000320187) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/320187/000032018726000211/0000320187-26-000211-index.htm) |
@@ -155,7 +156,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-17 10:58 | 1 | SNOW | Down 4.9% (regular) | SNOW -4.9% at 266.80 vs 280.54 close (regular, 10:55 ET) |  |
 | 11-17 10:58 | 1 | HOOD | Down 5.1% (regular) | HOOD -5.1% at 68.37 vs 72.06 close (regular, 10:55 ET) |  |
 | 11-17 10:58 | 1 | APP | Down 5.7% (regular) | APP -5.7% at 391.73 vs 415.22 close (regular, 10:55 ET) |  |
-| 11-17 10:58 | 1 | HIMS | Down 6.1% (regular) | HIMS -6.1% at 17.43 vs 18.56 close (regular, 10:55 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
