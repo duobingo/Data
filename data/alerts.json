@@ -1,63 +1,6 @@
 {
  "alerts": [
   {
-   "id": "e7e326ef9f11320c",
-   "kind": "price",
-   "group": "tracked",
-   "ticker": "MU",
-   "name": "Micron Technology",
-   "sector": "Information Technology",
-   "severity": 1,
-   "category": "Down 4.5% (premarket)",
-   "title": "MU -4.5% at 774.90 vs 811.30 close (premarket, 07:40 ET)",
-   "url": "",
-   "move_pct": -4.49,
-   "first_seen": "2026-11-12T07:43-05:00"
-  },
-  {
-   "id": "31ef08dc5f1a5f3c",
-   "kind": "price",
-   "group": "tracked",
-   "ticker": "HIMS",
-   "name": "Hims & Hers Health",
-   "sector": "Health Care",
-   "severity": 1,
-   "category": "Down 4.2% (premarket)",
-   "title": "HIMS -4.2% at 19.95 vs 20.81 close (premarket, 07:40 ET)",
-   "url": "",
-   "move_pct": -4.15,
-   "first_seen": "2026-11-12T07:43-05:00"
-  },
-  {
-   "id": "8d5efccd48b5f03b",
-   "kind": "price",
-   "group": "universe",
-   "ticker": "TTEK",
-   "name": "Tetra Tech",
-   "sector": "Industrials",
-   "severity": 2,
-   "category": "Up 10.5% (premarket)",
-   "title": "TTEK +10.5% at 41.55 vs 37.61 close (premarket, 07:42 ET)",
-   "url": "",
-   "move_pct": 10.48,
-   "first_seen": "2026-11-12T07:43-05:00"
-  },
-  {
-   "id": "d9b034b3b84d5c09",
-   "kind": "news",
-   "group": "tracked",
-   "ticker": "NVDA",
-   "name": "Nvidia",
-   "sector": "Information Technology",
-   "severity": 1,
-   "category": "Leadership",
-   "title": "Dow Jones Futures: Techs Fall As Nvidia Board Mulls Ousting CEO Jensen Huang",
-   "source": "Yahoo",
-   "url": "https://finnhub.io/api/news?id=115e1d4bb0f4ce443fda8f7dad6e09cab5193b536c24c3d6a9e0591eca37de48",
-   "published": "2026-11-12 06:52",
-   "first_seen": "2026-11-12T07:43-05:00"
-  },
-  {
    "id": "a46ca74eab817f93",
    "kind": "price",
    "group": "tracked",
@@ -5676,9 +5619,68 @@
    "url": "",
    "move_pct": 4.26,
    "first_seen": "2026-11-19T06:40-05:00"
+  },
+  {
+   "id": "ec45cfb2c88a15b6",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "ACHR",
+   "name": "",
+   "sector": "",
+   "severity": 1,
+   "category": "Up 4.3% (premarket)",
+   "title": "ACHR +4.3% at 3.37 vs 3.23 close (premarket, 07:40 ET)",
+   "url": "",
+   "move_pct": 4.33,
+   "first_seen": "2026-11-19T07:46-05:00"
+  },
+  {
+   "id": "40b0560eb9e78f68",
+   "kind": "news",
+   "group": "tracked",
+   "ticker": "WMT",
+   "name": "Walmart",
+   "sector": "Consumer Staples",
+   "severity": 1,
+   "category": "Guidance",
+   "title": "Walmart raises its outlook for the year for the 3rd time after a solid quarter",
+   "source": "Yahoo",
+   "url": "https://finnhub.io/api/news?id=78e246d2be04a1b0892155cc781298ef801eaec833cd9a792aa0b08999eeae9d",
+   "published": "2026-11-19 07:03",
+   "first_seen": "2026-11-19T07:46-05:00"
+  },
+  {
+   "id": "3eceb5dee6aa1277",
+   "kind": "news",
+   "group": "tracked",
+   "ticker": "BLK",
+   "name": "BlackRock",
+   "sector": "Financials",
+   "severity": 1,
+   "category": "Deal",
+   "title": "BlackRock to acquire Brazilian asset manager SulAm\u00e9rica",
+   "source": "Yahoo",
+   "url": "https://finnhub.io/api/news?id=0af147deb948b64c9f35d7c8d54cb7cd3617a5c4b85abadbd1a317610477e196",
+   "published": "2026-11-19 07:03",
+   "first_seen": "2026-11-19T07:46-05:00"
+  },
+  {
+   "id": "4d2c7f69183bc7de",
+   "kind": "news",
+   "group": "tracked",
+   "ticker": "REGN",
+   "name": "Regeneron Pharmaceuticals",
+   "sector": "Health Care",
+   "severity": 1,
+   "category": "FDA/trial",
+   "title": "Alnylam Collaborator Regeneron Secures FDA Approval of Livsayis\u2122 (cemdisiran), the Seventh FDA-Approved Therapeutic from Alnylam's RNAi Platform in Less Than Nine Years",
+   "source": "Yahoo",
+   "url": "https://finnhub.io/api/news?id=c964281093d2672097240da1b7450283a3e4c65dd0258ec36dec5989cdc5923b",
+   "published": "2026-11-19 07:00",
+   "first_seen": "2026-11-19T07:46-05:00"
   }
  ],
- "last_run": "2026-11-19T06:40-05:00",
+ "last_run": "2026-11-19T07:46-05:00",
  "errors": [
   "sec/8k: HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out. (read timeout=20)"
  ]

@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-19 06:40 ET
+# Alerts — watcher run 2026-11-19 07:46 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,10 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-19 07:46 | 1 | ACHR | Up 4.3% (premarket) | ACHR +4.3% at 3.37 vs 3.23 close (premarket, 07:40 ET) |  |
+| 11-19 07:46 | 1 | WMT | Guidance | Walmart raises its outlook for the year for the 3rd time after a solid quarter | [link](https://finnhub.io/api/news?id=78e246d2be04a1b0892155cc781298ef801eaec833cd9a792aa0b08999eeae9d) |
+| 11-19 07:46 | 1 | BLK | Deal | BlackRock to acquire Brazilian asset manager SulAmérica | [link](https://finnhub.io/api/news?id=0af147deb948b64c9f35d7c8d54cb7cd3617a5c4b85abadbd1a317610477e196) |
+| 11-19 07:46 | 1 | REGN | FDA/trial | Alnylam Collaborator Regeneron Secures FDA Approval of Livsayis™ (cemdisiran), the Seventh FDA-Approved Therapeutic from Alnylam's RNAi Platform in Less Than Nine Years | [link](https://finnhub.io/api/news?id=c964281093d2672097240da1b7450283a3e4c65dd0258ec36dec5989cdc5923b) |
 | 11-19 06:40 | 1 | LRCX | Up 4.6% (premarket) | LRCX +4.6% at 221.34 vs 211.67 close (premarket, 06:35 ET) |  |
 | 11-19 06:40 | 1 | AMAT | Up 4.5% (premarket) | AMAT +4.5% at 368.00 vs 352.30 close (premarket, 06:39 ET) |  |
 | 11-19 06:40 | 1 | KLAC | Up 4.3% (premarket) | KLAC +4.3% at 151.06 vs 144.88 close (premarket, 06:30 ET) |  |
@@ -152,10 +156,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-16 13:19 | 1 | OKLO | Down 4.2% (regular) | OKLO -4.2% at 22.91 vs 23.92 close (regular, 13:15 ET) |  |
 | 11-16 13:19 | 1 | TTWO | Deal | Take-Two isn’t the only stock with a stake in GTA 6 | [link](https://finnhub.io/api/news?id=2a96d4b8cc1146710c9f08c7cf1e1ae1259200c5bfd3e198f899a90d6eedfefe) |
 | 11-16 12:16 | 1 | ORCL | Down 4.1% (regular) | ORCL -4.1% at 120.17 vs 125.35 close (regular, 12:15 ET) |  |
-| 11-16 12:16 | 1 | HOOD | Down 6.6% (regular) | HOOD -6.6% at 72.71 vs 77.86 close (regular, 12:15 ET) |  |
-| 11-16 12:16 | 1 | COIN | Down 6.0% (regular) | COIN -6.0% at 120.01 vs 127.65 close (regular, 12:15 ET) |  |
-| 11-16 12:16 | 1 | RBLX | Down 5.7% (regular) | RBLX -5.7% at 47.08 vs 49.91 close (regular, 12:15 ET) |  |
-| 11-16 12:16 | 1 | RKLB | Down 4.4% (regular) | RKLB -4.4% at 58.81 vs 61.53 close (regular, 12:15 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
