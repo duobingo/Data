@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-19 04:43 ET
+# Alerts — watcher run 2026-11-19 05:43 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-19 05:43 | 1 | SNOW | Up 4.1% (premarket) | SNOW +4.1% at 291.00 vs 279.62 close (premarket, 05:39 ET) |  |
+| 11-19 05:43 | 1 | RKLB | Up 4.2% (premarket) | RKLB +4.2% at 55.32 vs 53.07 close (premarket, 05:39 ET) |  |
+| 11-19 05:43 | 1 | ARM | Up 4.5% (premarket) | ARM +4.5% at 191.05 vs 182.76 close (premarket, 05:39 ET) |  |
 | 11-19 04:43 | 1 | MU | Up 4.1% (premarket) | MU +4.1% at 734.50 vs 705.27 close (premarket, 04:40 ET) |  |
 | 11-19 04:43 | 1 | PANW | Up 9.2% (premarket) | PANW +9.2% at 371.27 vs 339.92 close (premarket, 04:40 ET) |  |
 | 11-19 04:43 | 1 | CRWD | Up 6.3% (premarket) | CRWD +6.3% at 251.90 vs 237.03 close (premarket, 04:35 ET) |  |
@@ -153,9 +156,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-16 11:01 | 1 | KLAC | Down 4.2% (regular) | KLAC -4.2% at 145.94 vs 152.32 close (regular, 11:00 ET) |  |
 | 11-16 11:01 | 1 | ANET | Down 5.4% (regular) | ANET -5.4% at 186.66 vs 197.29 close (regular, 11:00 ET) |  |
 | 11-16 11:01 | 1 | HOOD | Down 5.4% (regular) | HOOD -5.4% at 73.69 vs 77.86 close (regular, 11:00 ET) |  |
-| 11-16 11:01 | 1 | COIN | Down 6.2% (regular) | COIN -6.2% at 119.72 vs 127.65 close (regular, 11:00 ET) |  |
-| 11-16 11:01 | 1 | RBLX | Down 6.3% (regular) | RBLX -6.3% at 46.76 vs 49.91 close (regular, 11:00 ET) |  |
-| 11-16 11:01 | 1 | HIMS | Down 4.9% (regular) | HIMS -4.9% at 18.76 vs 19.73 close (regular, 11:00 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
