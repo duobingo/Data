@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-19 12:09 ET
+# Alerts — watcher run 2026-11-19 13:16 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-19 13:16 | 1 | AMD | Down 9.8% (regular) | AMD -9.8% at 478.18 vs 530.14 close (regular, 13:15 ET) |  |
+| 11-19 13:16 | 1 | SHOP | Down 5.2% (regular) | SHOP -5.2% at 132.16 vs 139.42 close (regular, 13:15 ET) |  |
+| 11-19 13:16 | 2 | COST | Buyback/dividend | Costco Just Surpassed $1,100 Per Share Ahead of Its $30 Special Dividend Payment. Is the Stock a Buy Before Nov. 24?. | [link](https://finnhub.io/api/news?id=631d39d79e224396eda5bc69efb05fe86e08fd6592b19b34504806551f2fd7d3) |
+| 11-19 13:16 | 1 | AMD | Financing/distress | AMD shares slide over 9% after short seller raises concerns over China exposure | [link](https://finnhub.io/api/news?id=2f488f2659e85f1a44924cf3060b1c9a22691593393320650a68ee21ae00eea4) |
+| 11-19 13:16 | 1 | AMD | Legal/regulatory | AMD stock drops after Hunterbrook Media raises export control concerns | [link](https://finnhub.io/api/news?id=bfeea3460f8c1581e9760c44bf69b753185c9bfe29bea3cd2c465f83c446e42d) |
+| 11-19 13:16 | 1 | AMD | Financing/distress | AMD Sinks 8% as Short Seller Hunterbrook Warns “AMD Has a China Problem of Its Own” | [link](https://finnhub.io/api/news?id=a663c9902abf961ebbab9df08029de34486cc0f3a1d561a5076feaf95571bdf6) |
 | 11-19 12:09 | 1 | UNH | Down 6.9% (regular) | UNH -6.9% at 325.71 vs 349.91 close (regular, 12:05 ET) |  |
 | 11-19 12:09 | 1 | ACN | Down 4.7% (regular) | ACN -4.7% at 216.76 vs 227.49 close (regular, 12:05 ET) |  |
 | 11-19 12:09 | 1 | CI | Down 6.1% (regular) | CI -6.1% at 268.08 vs 285.37 close (regular, 12:05 ET) |  |
@@ -150,17 +156,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-17 09:57 | 1 | ADBE | Down 4.1% (regular) | ADBE -4.1% at 235.89 vs 246.00 close (regular, 09:55 ET) |  |
 | 11-17 09:57 | 1 | INTU | Down 4.9% (regular) | INTU -4.9% at 328.64 vs 345.56 close (regular, 09:55 ET) |  |
 | 11-17 09:57 | 1 | NOW | Down 4.3% (regular) | NOW -4.3% at 95.11 vs 99.37 close (regular, 09:55 ET) |  |
-| 11-17 09:57 | 1 | ARM | Up 4.0% (regular) | ARM +4.0% at 182.07 vs 175.05 close (regular, 09:55 ET) |  |
-| 11-17 07:40 | 2 | META | Legal/regulatory | Meta Stock Plunges After Italy Hits Facebook With $887 Million Fine | [link](https://finnhub.io/api/news?id=26ebf9f2d35b1c46620d3bab67087672b7f85e2474db217a4a359e55069bd979) |
-| 11-17 07:40 | 1 | HD | Guidance | Home Depot Names New CEO, Raises Sales Outlook | [link](https://finnhub.io/api/news?id=14268f80ecb2f9316198d5eaaec451420a89ea9d345a7be7b2b620a2afeefdc8) |
-| 11-17 07:40 | 1 | HD | Guidance | Home Depot names CFO McPhail as next CEO, lifts sales outlook | [link](https://finnhub.io/api/news?id=bdf27472b25bb03d69f34e01d58856adf29f63abcbc9693c7a4b10ac30c7a0b7) |
-| 11-17 07:40 | 2 | PEP | Analyst | PEP Stock Slides As Bernstein Downgrades PepsiCo, Warns Of Earnings Shortfall | [link](https://finnhub.io/api/news?id=f8405a793f8016f25197dbd0b2064b4d74a1eb04e563ee91ac170a0d5e5545cd) |
-| 11-17 07:40 | 1 | SPGI | 8-K: 5.02 Executive/director change | 8-K - S&P Global Inc. (0000064040) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/64040/000006404026000063/0000064040-26-000063-index.htm) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-19 13:16 | 2 | P | Up 8.1% (regular) | P +8.1% at 108.88 vs 100.74 close (regular, 13:15 ET) |  |
 | 11-19 12:09 | 2 | WSM | Down 13.5% (regular) | WSM -13.5% at 225.07 vs 260.09 close (regular, 12:10 ET) |  |
 | 11-19 12:09 | 2 | UGI | Down 8.5% (regular) | UGI -8.5% at 34.80 vs 38.05 close (regular, 12:10 ET) |  |
 | 11-19 11:02 | 2 | P | Up 13.6% (regular) | P +13.6% at 114.48 vs 100.74 close (regular, 11:00 ET) |  |
@@ -233,7 +234,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-16 15:22 | 2 | TTMI | Down 8.1% (regular) | TTMI -8.1% at 68.08 vs 74.08 close (regular, 15:20 ET) |  |
 | 11-16 14:26 | 2 | BBWI | Down 9.0% (regular) | BBWI -9.0% at 19.48 vs 21.39 close (regular, 14:25 ET) |  |
 | 11-16 13:19 | 2 | LITE | Down 8.2% (regular) | LITE -8.2% at 547.78 vs 596.62 close (regular, 13:20 ET) |  |
-| 11-16 12:16 | 2 | MOH | Up 8.7% (regular) | MOH +8.7% at 227.75 vs 209.49 close (regular, 12:15 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
