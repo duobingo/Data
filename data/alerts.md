@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-19 10:00 ET
+# Alerts — watcher run 2026-11-19 11:02 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,11 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-19 11:02 | 1 | UNH | Down 5.3% (regular) | UNH -5.3% at 331.30 vs 349.91 close (regular, 11:00 ET) |  |
+| 11-19 11:02 | 1 | AMD | Down 7.7% (regular) | AMD -7.7% at 489.17 vs 530.14 close (regular, 11:00 ET) |  |
+| 11-19 11:02 | 1 | PANW | Up 5.1% (regular) | PANW +5.1% at 357.09 vs 339.92 close (regular, 11:00 ET) |  |
+| 11-19 11:02 | 1 | CI | Down 5.1% (regular) | CI -5.1% at 270.90 vs 285.37 close (regular, 11:00 ET) |  |
+| 11-19 11:02 | 1 | NKE | Down 4.4% (regular) | NKE -4.4% at 34.73 vs 36.31 close (regular, 11:00 ET) |  |
 | 11-19 10:00 | 1 | QCOM | Up 6.2% (regular) | QCOM +6.2% at 169.64 vs 159.81 close (regular, 10:00 ET) |  |
 | 11-19 10:00 | 1 | MU | Up 5.9% (regular) | MU +5.9% at 746.84 vs 705.27 close (regular, 10:00 ET) |  |
 | 11-19 10:00 | 1 | PANW | Up 7.2% (regular) | PANW +7.2% at 364.41 vs 339.92 close (regular, 10:00 ET) |  |
@@ -151,16 +156,15 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-16 17:14 | 2 | NVDA | Legal/regulatory | Nvidia Probe Focus Shifts To China Chip Smuggling | [link](https://finnhub.io/api/news?id=bab3cf1bda0fd5ea01de95b24a6b5dfb523871a3d549938d0cf64ca824a0b1de) |
 | 11-16 17:14 | 1 | CVX | Deal | Chevron Reportedly Moves Ahead in Talks to Buy Majority Stake in Gulf Oil Producer Beacon | [link](https://finnhub.io/api/news?id=835fb95c0a1847b86771132a14dedcf72ac23ac4743812cb2e6731169301c57f) |
 | 11-16 15:22 | 1 | ANET | Down 6.1% (regular) | ANET -6.1% at 185.35 vs 197.29 close (regular, 15:20 ET) |  |
-| 11-16 15:22 | 1 | TSM | Down 6.4% (regular) | TSM -6.4% at 373.17 vs 398.73 close (regular, 15:20 ET) |  |
-| 11-16 15:22 | 1 | MSFT | Legal/regulatory | Microsoft Outage Triggers Canada-Wide Class Action Lawsuit | [link](https://finnhub.io/api/news?id=f85595c4444e7332cddfb2756393c37c1e65a8a7f108ca3f8bc7e9ec753650fa) |
-| 11-16 15:22 | 1 | LLY | Deal | Eli Lilly to Acquire Calytrix Bio in Up to $1.5 Billion Deal | [link](https://finnhub.io/api/news?id=b2fd2406ca6af2f5093c1f3ab5c244672bc7656b2958cbab3d83df49b2e3e41c) |
-| 11-16 14:26 | 1 | PLTR | Down 4.3% (regular) | PLTR -4.3% at 160.79 vs 167.99 close (regular, 14:25 ET) |  |
-| 11-16 14:26 | 1 | SOFI | Down 4.5% (regular) | SOFI -4.5% at 14.73 vs 15.42 close (regular, 14:25 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-19 11:02 | 2 | P | Up 13.6% (regular) | P +13.6% at 114.48 vs 100.74 close (regular, 11:00 ET) |  |
+| 11-19 11:02 | 2 | OKTA | Up 8.8% (regular) | OKTA +8.8% at 212.80 vs 195.61 close (regular, 11:00 ET) |  |
+| 11-19 11:02 | 2 | WSM | Down 9.7% (regular) | WSM -9.7% at 234.98 vs 260.09 close (regular, 11:00 ET) |  |
+| 11-19 11:02 | 2 | VVV | Up 12.9% (regular) | VVV +12.9% at 37.66 vs 33.37 close (regular, 11:00 ET) |  |
 | 11-19 10:00 | 2 | COHR | Up 10.5% (regular) | COHR +10.5% at 235.27 vs 212.84 close (regular, 10:00 ET) |  |
 | 11-19 10:00 | 2 | P | Up 11.0% (regular) | P +11.0% at 111.86 vs 100.74 close (regular, 10:00 ET) |  |
 | 11-19 10:00 | 2 | STX | Up 8.4% (regular) | STX +8.4% at 559.34 vs 515.90 close (regular, 10:00 ET) |  |
@@ -228,9 +232,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-16 14:26 | 2 | BBWI | Down 9.0% (regular) | BBWI -9.0% at 19.48 vs 21.39 close (regular, 14:25 ET) |  |
 | 11-16 13:19 | 2 | LITE | Down 8.2% (regular) | LITE -8.2% at 547.78 vs 596.62 close (regular, 13:20 ET) |  |
 | 11-16 12:16 | 2 | MOH | Up 8.7% (regular) | MOH +8.7% at 227.75 vs 209.49 close (regular, 12:15 ET) |  |
-| 11-16 11:01 | 2 | SMTC | Down 8.1% (regular) | SMTC -8.1% at 105.34 vs 114.59 close (regular, 11:00 ET) |  |
-| 11-16 11:01 | 2 | VIAV | Down 8.1% (regular) | VIAV -8.1% at 28.23 vs 30.72 close (regular, 11:00 ET) |  |
-| 11-16 11:01 | 2 | VICR | Down 8.1% (regular) | VICR -8.1% at 146.17 vs 159.05 close (regular, 11:00 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
@@ -241,4 +242,4 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 ## Watcher health
 
-- All checks ran.
+- sec/8k: HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out. (read timeout=20)
