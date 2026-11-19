@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-19 07:46 ET
+# Alerts — watcher run 2026-11-19 09:04 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-19 09:04 | 1 | GOOGL | Up 4.1% (premarket) | GOOGL +4.1% at 293.98 vs 282.44 close (premarket, 09:00 ET) |  |
+| 11-19 09:04 | 1 | PANW | Up 7.1% (premarket) | PANW +7.1% at 364.13 vs 339.92 close (premarket, 09:00 ET) |  |
+| 11-19 09:04 | 1 | JNJ | FDA/trial | Johnson & Johnson Seeks U.S. FDA Approval for CAPLYTA in Bipolar Mania, Marking Fifth Potential Indication | [link](https://finnhub.io/api/news?id=2d380f5accf1d614df7418c5c0cc9f7ca69cbdaa0af5e9e9570f9a670b1546fc) |
 | 11-19 07:46 | 1 | ACHR | Up 4.3% (premarket) | ACHR +4.3% at 3.37 vs 3.23 close (premarket, 07:40 ET) |  |
 | 11-19 07:46 | 1 | WMT | Guidance | Walmart raises its outlook for the year for the 3rd time after a solid quarter | [link](https://finnhub.io/api/news?id=78e246d2be04a1b0892155cc781298ef801eaec833cd9a792aa0b08999eeae9d) |
 | 11-19 07:46 | 1 | BLK | Deal | BlackRock to acquire Brazilian asset manager SulAmérica | [link](https://finnhub.io/api/news?id=0af147deb948b64c9f35d7c8d54cb7cd3617a5c4b85abadbd1a317610477e196) |
@@ -153,14 +156,17 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-16 13:19 | 1 | RKLB | Down 6.4% (regular) | RKLB -6.4% at 57.58 vs 61.53 close (regular, 13:15 ET) |  |
 | 11-16 13:19 | 1 | SMCI | Down 6.2% (regular) | SMCI -6.2% at 25.20 vs 26.87 close (regular, 13:15 ET) |  |
 | 11-16 13:19 | 1 | FIX | Down 5.0% (regular) | FIX -5.0% at 1056.93 vs 1112.50 close (regular, 13:15 ET) |  |
-| 11-16 13:19 | 1 | OKLO | Down 4.2% (regular) | OKLO -4.2% at 22.91 vs 23.92 close (regular, 13:15 ET) |  |
-| 11-16 13:19 | 1 | TTWO | Deal | Take-Two isn’t the only stock with a stake in GTA 6 | [link](https://finnhub.io/api/news?id=2a96d4b8cc1146710c9f08c7cf1e1ae1259200c5bfd3e198f899a90d6eedfefe) |
-| 11-16 12:16 | 1 | ORCL | Down 4.1% (regular) | ORCL -4.1% at 120.17 vs 125.35 close (regular, 12:15 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-19 09:04 | 2 | COHR | Up 8.3% (premarket) | COHR +8.3% at 230.51 vs 212.84 close (premarket, 09:00 ET) |  |
+| 11-19 09:04 | 2 | MMS | 8-K: 1.01 Material agreement; 2.01 Acquisition/disposition completed | 8-K - MAXIMUS, INC. (0001032220) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1032220/000103222026000052/0001032220-26-000052-index.htm) |
+| 11-19 09:04 | 2 | WSM | 8-K: 2.02 Earnings results | 8-K - WILLIAMS SONOMA INC (0000719955) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/719955/000071995526000244/0000719955-26-000244-index.htm) |
+| 11-19 09:04 | 2 | MMS | 8-K: 2.02 Earnings results | 8-K - MAXIMUS, INC. (0001032220) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1032220/000103222026000048/0001032220-26-000048-index.htm) |
+| 11-19 09:04 | 2 | UGI | 8-K: 2.02 Earnings results | 8-K - UGI CORP /PA/ (0000884614) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/884614/000088461426000064/0000884614-26-000064-index.htm) |
+| 11-19 09:04 | 2 | WMG | 8-K: 2.02 Earnings results | 8-K - Warner Music Group Corp. (0001319161) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1319161/000131916126000040/0001319161-26-000040-index.htm) |
 | 11-18 17:19 | 2 | NJR | 8-K: 2.02 Earnings results | 8-K - NEW JERSEY RESOURCES CORP (0000356309) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/356309/000114036126044760/0001140361-26-044760-index.htm) |
 | 11-18 17:19 | 2 | RGLD | 8-K: 5.02 Executive/director change | 8-K - ROYAL GOLD INC (0000085535) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/85535/000008553526000055/0000085535-26-000055-index.htm) |
 | 11-18 17:19 | 2 | ED | 8-K: 1.01 Material agreement | 8-K - CONSOLIDATED EDISON INC (0001047862) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1047862/000119312526467177/0001193125-26-467177-index.htm) |
@@ -230,4 +236,4 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 ## Watcher health
 
-- sec/8k: HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out. (read timeout=20)
+- All checks ran.
