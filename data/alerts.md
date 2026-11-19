@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-19 11:02 ET
+# Alerts — watcher run 2026-11-19 12:09 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,15 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-19 12:09 | 1 | UNH | Down 6.9% (regular) | UNH -6.9% at 325.71 vs 349.91 close (regular, 12:05 ET) |  |
+| 11-19 12:09 | 1 | ACN | Down 4.7% (regular) | ACN -4.7% at 216.76 vs 227.49 close (regular, 12:05 ET) |  |
+| 11-19 12:09 | 1 | CI | Down 6.1% (regular) | CI -6.1% at 268.08 vs 285.37 close (regular, 12:05 ET) |  |
+| 11-19 12:09 | 1 | ELV | Down 4.2% (regular) | ELV -4.2% at 384.19 vs 400.84 close (regular, 12:05 ET) |  |
+| 11-19 12:09 | 1 | CRWD | Up 4.3% (regular) | CRWD +4.3% at 247.27 vs 237.03 close (regular, 12:05 ET) |  |
+| 11-19 12:09 | 1 | DASH | Down 4.3% (regular) | DASH -4.3% at 159.61 vs 166.80 close (regular, 12:05 ET) |  |
+| 11-19 12:09 | 1 | HIMS | Down 5.0% (regular) | HIMS -5.0% at 16.20 vs 17.05 close (regular, 12:05 ET) |  |
+| 11-19 12:09 | 1 | SPCX | Down 4.5% (regular) | SPCX -4.5% at 136.98 vs 143.50 close (regular, 12:05 ET) |  |
+| 11-19 12:09 | 1 | RIVN | Down 4.1% (regular) | RIVN -4.1% at 11.32 vs 11.80 close (regular, 12:05 ET) |  |
 | 11-19 11:02 | 1 | UNH | Down 5.3% (regular) | UNH -5.3% at 331.30 vs 349.91 close (regular, 11:00 ET) |  |
 | 11-19 11:02 | 1 | AMD | Down 7.7% (regular) | AMD -7.7% at 489.17 vs 530.14 close (regular, 11:00 ET) |  |
 | 11-19 11:02 | 1 | PANW | Up 5.1% (regular) | PANW +5.1% at 357.09 vs 339.92 close (regular, 11:00 ET) |  |
@@ -147,20 +156,13 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-17 07:40 | 1 | HD | Guidance | Home Depot names CFO McPhail as next CEO, lifts sales outlook | [link](https://finnhub.io/api/news?id=bdf27472b25bb03d69f34e01d58856adf29f63abcbc9693c7a4b10ac30c7a0b7) |
 | 11-17 07:40 | 2 | PEP | Analyst | PEP Stock Slides As Bernstein Downgrades PepsiCo, Warns Of Earnings Shortfall | [link](https://finnhub.io/api/news?id=f8405a793f8016f25197dbd0b2064b4d74a1eb04e563ee91ac170a0d5e5545cd) |
 | 11-17 07:40 | 1 | SPGI | 8-K: 5.02 Executive/director change | 8-K - S&P Global Inc. (0000064040) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/64040/000006404026000063/0000064040-26-000063-index.htm) |
-| 11-17 06:35 | 2 | DIS | 8-K: 2.02 Earnings results | 8-K - Walt Disney Co (0001744489) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1744489/000174448926000065/0001744489-26-000065-index.htm) |
-| 11-17 06:35 | 2 | HD | 8-K: 2.02 Earnings results | 8-K - HOME DEPOT, INC. (0000354950) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/354950/000035495026000184/0000354950-26-000184-index.htm) |
-| 11-17 06:35 | 1 | HD | 8-K: 5.02 Executive/director change | 8-K - HOME DEPOT, INC. (0000354950) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/354950/000035495026000182/0000354950-26-000182-index.htm) |
-| 11-17 05:44 | 1 | NVDA | Leadership | Jensen Huang's Departure as Nvidia CEO Could Have Enormous Consequences for Where the Crypto Market Heads Next. | [link](https://finnhub.io/api/news?id=663783a448a9c27c0f23217e181f6113d2b7ecafdc568d6dbc55367b39d4499e) |
-| 11-17 05:44 | 1 | DASH | Legal/regulatory | DOJ reportedly set to review DoorDash’s Instacart acquisition | [link](https://finnhub.io/api/news?id=5b58cee3c6f8750f7510ea276735bec09ad591113fd4e89857eeb67e4b2400e6) |
-| 11-16 17:14 | 2 | NVDA | Leadership | The cost of ousting a founder: Is the 'bank of Nvidia' at risk? | [link](https://finnhub.io/api/news?id=6efbcfd3ef79aa754c5377906727bca8e3d8b534fb19688829cd30eb2af4ba06) |
-| 11-16 17:14 | 2 | NVDA | Legal/regulatory | Nvidia Probe Focus Shifts To China Chip Smuggling | [link](https://finnhub.io/api/news?id=bab3cf1bda0fd5ea01de95b24a6b5dfb523871a3d549938d0cf64ca824a0b1de) |
-| 11-16 17:14 | 1 | CVX | Deal | Chevron Reportedly Moves Ahead in Talks to Buy Majority Stake in Gulf Oil Producer Beacon | [link](https://finnhub.io/api/news?id=835fb95c0a1847b86771132a14dedcf72ac23ac4743812cb2e6731169301c57f) |
-| 11-16 15:22 | 1 | ANET | Down 6.1% (regular) | ANET -6.1% at 185.35 vs 197.29 close (regular, 15:20 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-19 12:09 | 2 | WSM | Down 13.5% (regular) | WSM -13.5% at 225.07 vs 260.09 close (regular, 12:10 ET) |  |
+| 11-19 12:09 | 2 | UGI | Down 8.5% (regular) | UGI -8.5% at 34.80 vs 38.05 close (regular, 12:10 ET) |  |
 | 11-19 11:02 | 2 | P | Up 13.6% (regular) | P +13.6% at 114.48 vs 100.74 close (regular, 11:00 ET) |  |
 | 11-19 11:02 | 2 | OKTA | Up 8.8% (regular) | OKTA +8.8% at 212.80 vs 195.61 close (regular, 11:00 ET) |  |
 | 11-19 11:02 | 2 | WSM | Down 9.7% (regular) | WSM -9.7% at 234.98 vs 260.09 close (regular, 11:00 ET) |  |
