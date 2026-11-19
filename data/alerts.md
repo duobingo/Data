@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-19 14:29 ET
+# Alerts — watcher run 2026-11-19 15:37 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-19 15:37 | 1 | NKE | Down 6.0% (regular) | NKE -6.0% at 34.13 vs 36.31 close (regular, 15:35 ET) |  |
+| 11-19 15:37 | 1 | LULU | Down 4.4% (regular) | LULU -4.4% at 105.90 vs 110.78 close (regular, 15:35 ET) |  |
+| 11-19 15:37 | 1 | NVDA | Financing/distress | Short Seller Raises Questions About Nvidia's Former Top Sales Executive. $2.5 Billion China Chip Case In Focus. | [link](https://finnhub.io/api/news?id=6de128a88288cc80aae5ace163107c28abb3b7895f2a6c85127eb973735ee74b) |
 | 11-19 14:29 | 1 | UBER | Down 4.6% (regular) | UBER -4.6% at 65.57 vs 68.76 close (regular, 14:25 ET) |  |
 | 11-19 14:29 | 1 | DECK | Down 5.0% (regular) | DECK -5.0% at 79.40 vs 83.60 close (regular, 14:25 ET) |  |
 | 11-19 14:29 | 1 | MELI | Down 4.4% (regular) | MELI -4.4% at 1360.80 vs 1423.11 close (regular, 14:25 ET) |  |
@@ -153,14 +156,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-17 10:58 | 1 | IONQ | Down 7.2% (regular) | IONQ -7.2% at 24.55 vs 26.45 close (regular, 10:55 ET) |  |
 | 11-17 10:58 | 1 | SMCI | Down 5.1% (regular) | SMCI -5.1% at 23.76 vs 25.03 close (regular, 10:55 ET) |  |
 | 11-17 10:58 | 1 | TSM | Down 4.2% (regular) | TSM -4.2% at 357.82 vs 373.45 close (regular, 10:55 ET) |  |
-| 11-17 10:58 | 1 | SOUN | Down 5.3% (regular) | SOUN -5.3% at 3.06 vs 3.23 close (regular, 10:55 ET) |  |
-| 11-17 09:57 | 1 | UNH | Down 4.9% (regular) | UNH -4.9% at 391.62 vs 412.02 close (regular, 09:55 ET) |  |
-| 11-17 09:57 | 1 | CRM | Down 6.5% (regular) | CRM -6.5% at 200.82 vs 214.83 close (regular, 09:55 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-19 15:37 | 2 | VVV | Up 8.6% (regular) | VVV +8.6% at 36.26 vs 33.37 close (regular, 15:35 ET) |  |
 | 11-19 14:29 | 2 | WSM | Down 16.1% (regular) | WSM -16.1% at 218.26 vs 260.09 close (regular, 14:30 ET) |  |
 | 11-19 13:16 | 2 | P | Up 8.1% (regular) | P +8.1% at 108.88 vs 100.74 close (regular, 13:15 ET) |  |
 | 11-19 12:09 | 2 | WSM | Down 13.5% (regular) | WSM -13.5% at 225.07 vs 260.09 close (regular, 12:10 ET) |  |
@@ -227,12 +228,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-17 07:40 | 2 | COHR | Up 11.0% (premarket) | COHR +11.0% at 225.80 vs 203.43 close (premarket, 07:40 ET) |  |
 | 11-17 07:40 | 2 | LITE | Up 8.2% (premarket) | LITE +8.2% at 590.85 vs 546.00 close (premarket, 07:40 ET) |  |
 | 11-17 07:40 | 2 | KNX | Down 8.5% (premarket) | KNX -8.5% at 58.40 vs 63.81 close (premarket, 07:17 ET) |  |
-| 11-16 15:22 | 2 | CIEN | Down 8.3% (regular) | CIEN -8.3% at 257.26 vs 280.54 close (regular, 15:20 ET) |  |
-| 11-16 15:22 | 2 | SNDK | Down 8.4% (regular) | SNDK -8.4% at 810.27 vs 885.01 close (regular, 15:20 ET) |  |
-| 11-16 15:22 | 2 | BBWI | Down 9.7% (regular) | BBWI -9.7% at 19.33 vs 21.39 close (regular, 15:20 ET) |  |
-| 11-16 15:22 | 2 | DOCN | Down 8.1% (regular) | DOCN -8.1% at 79.32 vs 86.32 close (regular, 15:20 ET) |  |
-| 11-16 15:22 | 2 | MOH | Up 9.1% (regular) | MOH +9.1% at 228.65 vs 209.49 close (regular, 15:20 ET) |  |
-| 11-16 15:22 | 2 | TTMI | Down 8.1% (regular) | TTMI -8.1% at 68.08 vs 74.08 close (regular, 15:20 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
