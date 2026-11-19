@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-19 05:43 ET
+# Alerts — watcher run 2026-11-19 06:40 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,14 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-19 06:40 | 1 | LRCX | Up 4.6% (premarket) | LRCX +4.6% at 221.34 vs 211.67 close (premarket, 06:35 ET) |  |
+| 11-19 06:40 | 1 | AMAT | Up 4.5% (premarket) | AMAT +4.5% at 368.00 vs 352.30 close (premarket, 06:39 ET) |  |
+| 11-19 06:40 | 1 | KLAC | Up 4.3% (premarket) | KLAC +4.3% at 151.06 vs 144.88 close (premarket, 06:30 ET) |  |
+| 11-19 06:40 | 1 | CRWD | Up 5.8% (premarket) | CRWD +5.8% at 250.80 vs 237.03 close (premarket, 06:40 ET) |  |
+| 11-19 06:40 | 1 | IONQ | Up 4.8% (premarket) | IONQ +4.8% at 24.60 vs 23.48 close (premarket, 06:40 ET) |  |
+| 11-19 06:40 | 1 | SMCI | Up 4.8% (premarket) | SMCI +4.8% at 25.53 vs 24.37 close (premarket, 06:40 ET) |  |
+| 11-19 06:40 | 1 | ASML | Up 4.0% (premarket) | ASML +4.0% at 1451.73 vs 1395.27 close (premarket, 06:40 ET) |  |
+| 11-19 06:40 | 1 | OKLO | Up 4.3% (premarket) | OKLO +4.3% at 22.73 vs 21.80 close (premarket, 06:40 ET) |  |
 | 11-19 05:43 | 1 | SNOW | Up 4.1% (premarket) | SNOW +4.1% at 291.00 vs 279.62 close (premarket, 05:39 ET) |  |
 | 11-19 05:43 | 1 | RKLB | Up 4.2% (premarket) | RKLB +4.2% at 55.32 vs 53.07 close (premarket, 05:39 ET) |  |
 | 11-19 05:43 | 1 | ARM | Up 4.5% (premarket) | ARM +4.5% at 191.05 vs 182.76 close (premarket, 05:39 ET) |  |
@@ -148,14 +156,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-16 12:16 | 1 | COIN | Down 6.0% (regular) | COIN -6.0% at 120.01 vs 127.65 close (regular, 12:15 ET) |  |
 | 11-16 12:16 | 1 | RBLX | Down 5.7% (regular) | RBLX -5.7% at 47.08 vs 49.91 close (regular, 12:15 ET) |  |
 | 11-16 12:16 | 1 | RKLB | Down 4.4% (regular) | RKLB -4.4% at 58.81 vs 61.53 close (regular, 12:15 ET) |  |
-| 11-16 12:16 | 1 | BFLY | Down 4.9% (regular) | BFLY -4.9% at 5.78 vs 6.08 close (regular, 12:15 ET) |  |
-| 11-16 12:16 | 1 | LCID | Down 5.9% (regular) | LCID -5.9% at 2.78 vs 2.95 close (regular, 12:15 ET) |  |
-| 11-16 11:01 | 1 | AMD | Down 4.5% (regular) | AMD -4.5% at 510.00 vs 534.06 close (regular, 11:00 ET) |  |
-| 11-16 11:01 | 1 | MU | Down 5.5% (regular) | MU -5.5% at 735.34 vs 778.31 close (regular, 11:00 ET) |  |
-| 11-16 11:01 | 1 | LRCX | Down 5.0% (regular) | LRCX -5.0% at 214.62 vs 225.92 close (regular, 11:00 ET) |  |
-| 11-16 11:01 | 1 | KLAC | Down 4.2% (regular) | KLAC -4.2% at 145.94 vs 152.32 close (regular, 11:00 ET) |  |
-| 11-16 11:01 | 1 | ANET | Down 5.4% (regular) | ANET -5.4% at 186.66 vs 197.29 close (regular, 11:00 ET) |  |
-| 11-16 11:01 | 1 | HOOD | Down 5.4% (regular) | HOOD -5.4% at 73.69 vs 77.86 close (regular, 11:00 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
@@ -230,4 +230,4 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 ## Watcher health
 
-- All checks ran.
+- sec/8k: HTTPSConnectionPool(host='www.sec.gov', port=443): Read timed out. (read timeout=20)
