@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-20 04:43 ET
+# Alerts — watcher run 2026-11-20 05:45 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 05:45 | 1 | AMD | Financing/distress | AMD stock gets drilled again in the wake of surprise short seller report | [link](https://finnhub.io/api/news?id=1389134b0f42496df49ca359bb551878799c3410f86e6575ce26b80df2cfc511) |
 | 11-20 04:43 | 1 | AMD | Down 5.1% (premarket) | AMD -5.1% at 464.30 vs 489.19 close (premarket, 04:40 ET) |  |
 | 11-20 04:43 | 1 | INTU | Down 11.0% (premarket) | INTU -11.0% at 276.00 vs 310.02 close (premarket, 04:42 ET) |  |
 | 11-20 04:43 | 1 | LRCX | Down 4.0% (premarket) | LRCX -4.0% at 195.50 vs 203.68 close (premarket, 04:42 ET) |  |
@@ -155,7 +156,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-17 12:06 | 1 | PANW | Down 4.1% (regular) | PANW -4.1% at 303.21 vs 316.09 close (regular, 12:05 ET) |  |
 | 11-17 12:06 | 1 | TTWO | Down 4.7% (regular) | TTWO -4.7% at 203.48 vs 213.47 close (regular, 12:05 ET) |  |
 | 11-17 12:06 | 1 | RBLX | Down 4.1% (regular) | RBLX -4.1% at 44.23 vs 46.12 close (regular, 12:05 ET) |  |
-| 11-17 10:58 | 1 | CRM | Down 9.2% (regular) | CRM -9.2% at 195.16 vs 214.83 close (regular, 10:55 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
