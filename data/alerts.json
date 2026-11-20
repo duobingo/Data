@@ -1,21 +1,6 @@
 {
  "alerts": [
   {
-   "id": "e9a7f44a30dd6f1d",
-   "kind": "news",
-   "group": "tracked",
-   "ticker": "NVDA",
-   "name": "Nvidia",
-   "sector": "Information Technology",
-   "severity": 1,
-   "category": "Leadership",
-   "title": "Nvidia CEO Jensen Huang resigns: Is the stock now a 50% bargain?",
-   "source": "Yahoo",
-   "url": "https://finnhub.io/api/news?id=230b76a78437121aab06b6d67d0ac68d24e700a28436fa3cfe96162569eb096a",
-   "published": "2026-11-13 02:30",
-   "first_seen": "2026-11-13T03:30-05:00"
-  },
-  {
    "id": "919805c342871dc2",
    "kind": "news",
    "group": "tracked",
@@ -5575,6 +5560,6 @@
    "first_seen": "2026-11-19T19:28-05:00"
   }
  ],
- "last_run": "2026-11-20T02:46-05:00",
+ "last_run": "2026-11-20T03:47-05:00",
  "errors": []
 }
