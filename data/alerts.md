@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-20 06:42 ET
+# Alerts — watcher run 2026-11-20 07:45 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,10 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 07:45 | 1 | INTU | Down 8.7% (premarket) | INTU -8.7% at 282.90 vs 310.02 close (premarket, 07:45 ET) |  |
+| 11-20 07:45 | 1 | ANET | Down 4.5% (premarket) | ANET -4.5% at 181.05 vs 189.59 close (premarket, 07:42 ET) |  |
+| 11-20 07:45 | 1 | SPCX | Down 6.1% (premarket) | SPCX -6.1% at 129.99 vs 138.43 close (premarket, 07:45 ET) |  |
+| 11-20 07:45 | 1 | MRK | FDA/trial | Merck Announces TroFuse-015 Trial Evaluating Sacituzumab Tirumotecan (Sac-TMT) Met Primary Endpoint of Overall Survival (OS) in Third-Line or Later Locally Advanced Unresectable or Metastatic Gastroesophageal Adenocarcin | [link](https://finnhub.io/api/news?id=190115b574441038e7ccba7c45bce1bc8cb741db289da9cbfbd13a83c65b9afa) |
 | 11-20 06:42 | 1 | AMD | Down 6.4% (premarket) | AMD -6.4% at 458.00 vs 489.19 close (premarket, 06:40 ET) |  |
 | 11-20 06:42 | 1 | MU | Down 4.8% (premarket) | MU -4.8% at 657.45 vs 690.44 close (premarket, 06:40 ET) |  |
 | 11-20 06:42 | 1 | RKLB | Down 4.3% (premarket) | RKLB -4.3% at 48.82 vs 50.99 close (premarket, 06:40 ET) |  |
@@ -152,15 +156,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-17 16:18 | 2 | NVDA | 8-K: 2.02 Earnings results | 8-K - NVIDIA CORP (0001045810) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/0001045810-26-000088-index.htm) |
 | 11-17 16:18 | 1 | LOW | 8-K: 5.02 Executive/director change | 8-K - LOWES COMPANIES INC (0000060667) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/60667/000006066726000122/0000060667-26-000122-index.htm) |
 | 11-17 15:11 | 1 | NKE | Down 7.0% (regular) | NKE -7.0% at 35.56 vs 38.26 close (regular, 15:10 ET) |  |
-| 11-17 15:11 | 1 | LCID | Up 5.5% (regular) | LCID +5.5% at 2.95 vs 2.80 close (regular, 15:10 ET) |  |
-| 11-17 15:11 | 2 | AMZN | Deal | Alphabet, Amazon, and Nvidia All Have a Stake in Anthropic. Here’s the One I’d Buy If I Could Only Pick 1. | [link](https://finnhub.io/api/news?id=54e623e9f7c0fe72db4df2b0243944e711aa4640755147316abdd3d7b2974c5d) |
-| 11-17 14:06 | 1 | NKE | Down 5.7% (regular) | NKE -5.7% at 36.09 vs 38.26 close (regular, 14:05 ET) |  |
-| 11-17 14:06 | 1 | ACHR | Down 6.3% (regular) | ACHR -6.3% at 3.51 vs 3.74 close (regular, 14:05 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 07:45 | 2 | BJ | 8-K: 2.02 Earnings results | 8-K - BJ's Wholesale Club Holdings, Inc. (0001531152) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1531152/000153115226000083/0001531152-26-000083-index.htm) |
 | 11-19 19:28 | 2 | DTE | Down 11.8% (after-hours) | DTE -11.8% at 120.00 vs 136.13 close (after-hours, 18:30 ET) |  |
 | 11-19 16:35 | 2 | KBR | 8-K: 5.02 Executive/director change | 8-K - KBR, INC. (0001357615) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1357615/000135761526000210/0001357615-26-000210-index.htm) |
 | 11-19 16:35 | 2 | POST | 8-K: 2.02 Earnings results; 5.02 Executive/director change | 8-K - Post Holdings, Inc. (0001530950) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1530950/000153095026000100/0001530950-26-000100-index.htm) |
@@ -232,9 +233,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-17 12:06 | 2 | BILL | Up 8.3% (regular) | BILL +8.3% at 62.38 vs 57.63 close (regular, 12:05 ET) |  |
 | 11-17 09:57 | 2 | ACM | Up 12.0% (regular) | ACM +12.0% at 81.20 vs 72.50 close (regular, 09:55 ET) |  |
 | 11-17 09:57 | 2 | VTRS | 8-K: 2.01 Acquisition/disposition completed | 8-K - Viatris Inc (0001792044) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1792044/000114036126044356/0001140361-26-044356-index.htm) |
-| 11-17 07:40 | 2 | COHR | Up 11.0% (premarket) | COHR +11.0% at 225.80 vs 203.43 close (premarket, 07:40 ET) |  |
-| 11-17 07:40 | 2 | LITE | Up 8.2% (premarket) | LITE +8.2% at 590.85 vs 546.00 close (premarket, 07:40 ET) |  |
-| 11-17 07:40 | 2 | KNX | Down 8.5% (premarket) | KNX -8.5% at 58.40 vs 63.81 close (premarket, 07:17 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
