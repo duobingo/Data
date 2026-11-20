@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-19 18:28 ET
+# Alerts — watcher run 2026-11-19 19:28 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -161,6 +161,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-19 19:28 | 2 | DTE | Down 11.8% (after-hours) | DTE -11.8% at 120.00 vs 136.13 close (after-hours, 18:30 ET) |  |
 | 11-19 16:35 | 2 | KBR | 8-K: 5.02 Executive/director change | 8-K - KBR, INC. (0001357615) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1357615/000135761526000210/0001357615-26-000210-index.htm) |
 | 11-19 16:35 | 2 | POST | 8-K: 2.02 Earnings results; 5.02 Executive/director change | 8-K - Post Holdings, Inc. (0001530950) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1530950/000153095026000100/0001530950-26-000100-index.htm) |
 | 11-19 16:35 | 2 | GAP | 8-K: 2.02 Earnings results | 8-K - GAP INC (0000039911) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/39911/000162828026075088/0001628280-26-075088-index.htm) |

@@ -5589,8 +5589,22 @@
    "url": "https://www.sec.gov/Archives/edgar/data/896878/000119312526468834/0001193125-26-468834-index.htm",
    "published": "2026-11-19 17:26",
    "first_seen": "2026-11-19T17:34-05:00"
+  },
+  {
+   "id": "27c02c64955c6666",
+   "kind": "price",
+   "group": "universe",
+   "ticker": "DTE",
+   "name": "DTE Energy",
+   "sector": "Utilities",
+   "severity": 2,
+   "category": "Down 11.8% (after-hours)",
+   "title": "DTE -11.8% at 120.00 vs 136.13 close (after-hours, 18:30 ET)",
+   "url": "",
+   "move_pct": -11.85,
+   "first_seen": "2026-11-19T19:28-05:00"
   }
  ],
- "last_run": "2026-11-19T18:28-05:00",
+ "last_run": "2026-11-19T19:28-05:00",
  "errors": []
 }
