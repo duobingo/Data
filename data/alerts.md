@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-20 15:53 ET
+# Alerts — watcher run 2026-11-20 16:51 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 16:51 | 1 | CRWD | Down 8.1% (after-hours) | CRWD -8.1% at 210.97 vs 229.44 close (after-hours, 16:50 ET) |  |
+| 11-20 16:51 | 1 | RKLB | Up 4.2% (after-hours) | RKLB +4.2% at 47.31 vs 45.42 close (after-hours, 16:50 ET) |  |
+| 11-20 16:51 | 1 | IONQ | Up 4.0% (after-hours) | IONQ +4.0% at 21.55 vs 20.72 close (after-hours, 16:50 ET) |  |
 | 11-20 15:53 | 1 | NVDA | Down 12.8% (regular) | NVDA -12.8% at 127.29 vs 145.98 close (regular, 15:50 ET) |  |
 | 11-20 15:53 | 1 | AMZN | Down 4.2% (regular) | AMZN -4.2% at 246.56 vs 257.37 close (regular, 15:50 ET) |  |
 | 11-20 15:53 | 1 | AMD | Down 12.8% (regular) | AMD -12.8% at 426.58 vs 489.19 close (regular, 15:50 ET) |  |
@@ -153,14 +156,21 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-19 10:00 | 1 | QCOM | Up 6.2% (regular) | QCOM +6.2% at 169.64 vs 159.81 close (regular, 10:00 ET) |  |
 | 11-19 10:00 | 1 | MU | Up 5.9% (regular) | MU +5.9% at 746.84 vs 705.27 close (regular, 10:00 ET) |  |
 | 11-19 10:00 | 1 | PANW | Up 7.2% (regular) | PANW +7.2% at 364.41 vs 339.92 close (regular, 10:00 ET) |  |
-| 11-19 10:00 | 1 | PLTR | Up 5.1% (regular) | PLTR +5.1% at 164.65 vs 156.67 close (regular, 10:00 ET) |  |
-| 11-19 10:00 | 1 | CRWD | Up 6.5% (regular) | CRWD +6.5% at 252.51 vs 237.03 close (regular, 10:00 ET) |  |
-| 11-19 10:00 | 1 | SNOW | Up 4.5% (regular) | SNOW +4.5% at 292.11 vs 279.62 close (regular, 10:00 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 16:51 | 2 | POST | 8-K: 5.02 Executive/director change | 8-K - Post Holdings, Inc. (0001530950) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1530950/000153095026000104/0001530950-26-000104-index.htm) |
+| 11-20 16:51 | 2 | SWX | 8-K: 5.02 Executive/director change | 8-K - Southwest Gas Holdings, Inc. (0001692115) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1692115/000169211526000129/0001692115-26-000129-index.htm) |
+| 11-20 16:51 | 2 | LYB | 8-K: 5.02 Executive/director change | 8-K - LyondellBasell Industries N.V. (0001489393) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1489393/000148939326000072/0001489393-26-000072-index.htm) |
+| 11-20 16:51 | 2 | MTZ | 8-K: 1.01 Material agreement | 8-K - MASTEC INC (0000015615) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/15615/000119312526470279/0001193125-26-470279-index.htm) |
+| 11-20 16:51 | 2 | A | 8-K: 5.02 Executive/director change | 8-K - AGILENT TECHNOLOGIES, INC. (0001090872) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1090872/000119312526470278/0001193125-26-470278-index.htm) |
+| 11-20 16:51 | 2 | AVT | 8-K: 1.01 Material agreement | 8-K - AVNET INC (0000008858) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/8858/000000885826000128/0000008858-26-000128-index.htm) |
+| 11-20 16:51 | 2 | BSX | 8-K: 1.01 Material agreement | 8-K - BOSTON SCIENTIFIC CORP (0000885725) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/885725/000088572526000076/0000885725-26-000076-index.htm) |
+| 11-20 16:51 | 2 | AYI | 8-K: 1.01 Material agreement | 8-K - ACUITY INC. (DE) (0001144215) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1144215/000110465926130602/0001104659-26-130602-index.htm) |
+| 11-20 16:51 | 2 | PODD | 8-K: 5.02 Executive/director change | 8-K - INSULET CORP (0001145197) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1145197/000114519726000195/0001145197-26-000195-index.htm) |
+| 11-20 16:51 | 2 | AME | 8-K: 1.01 Material agreement | 8-K - AMETEK INC/ (0001037868) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1037868/000110465926130589/0001104659-26-130589-index.htm) |
 | 11-20 15:53 | 2 | BE | Down 15.3% (regular) | BE -15.3% at 142.32 vs 168.11 close (regular, 15:50 ET) |  |
 | 11-20 15:53 | 2 | ECHO | Down 8.8% (regular) | ECHO -8.8% at 84.15 vs 92.31 close (regular, 15:50 ET) |  |
 | 11-20 15:53 | 2 | FSLR | Down 9.2% (regular) | FSLR -9.2% at 137.90 vs 151.95 close (regular, 15:50 ET) |  |
@@ -301,16 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-18 15:26 | 2 | AKAM | Up 8.3% (regular) | AKAM +8.3% at 91.68 vs 84.64 close (regular, 15:25 ET) |  |
 | 11-18 14:25 | 2 | GNRC | Up 9.9% (regular) | GNRC +9.9% at 205.57 vs 187.00 close (regular, 14:25 ET) |  |
 | 11-18 14:25 | 2 | QLYS | Up 12.4% (regular) | QLYS +12.4% at 196.32 vs 174.67 close (regular, 14:25 ET) |  |
-| 11-18 13:15 | 2 | AKAM | Up 9.2% (regular) | AKAM +9.2% at 92.43 vs 84.64 close (regular, 13:15 ET) |  |
-| 11-18 13:15 | 2 | GNRC | Up 8.9% (regular) | GNRC +8.9% at 203.73 vs 187.00 close (regular, 13:15 ET) |  |
-| 11-18 13:15 | 2 | HUM | Down 10.8% (regular) | HUM -10.8% at 395.59 vs 443.34 close (regular, 13:15 ET) |  |
-| 11-18 13:15 | 2 | OKTA | Up 9.8% (regular) | OKTA +9.8% at 191.63 vs 174.54 close (regular, 13:15 ET) |  |
-| 11-18 13:15 | 2 | QLYS | Up 10.9% (regular) | QLYS +10.9% at 193.76 vs 174.67 close (regular, 13:15 ET) |  |
-| 11-18 12:09 | 2 | HUM | Down 8.3% (regular) | HUM -8.3% at 406.61 vs 443.34 close (regular, 12:05 ET) |  |
-| 11-18 11:02 | 2 | QLYS | Up 8.6% (regular) | QLYS +8.6% at 189.67 vs 174.67 close (regular, 11:00 ET) |  |
-| 11-18 09:57 | 2 | MP | Up 8.5% (regular) | MP +8.5% at 37.83 vs 34.86 close (regular, 09:55 ET) |  |
-| 11-18 08:59 | 2 | EXPD | 8-K: 2.02 Earnings results | 8-K - EXPEDITORS INTERNATIONAL OF WASHINGTON INC (0000746515) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/746515/000119312526466274/0001193125-26-466274-index.htm) |
-| 11-18 07:44 | 2 | TXT | 8-K: 1.01 Material agreement; 2.06 Impairment | 8-K - TEXTRON INC (0000217346) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/217346/000110465926129345/0001104659-26-129345-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
