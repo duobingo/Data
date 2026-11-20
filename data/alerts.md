@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-20 09:01 ET
+# Alerts — watcher run 2026-11-20 09:57 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,11 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 09:57 | 1 | INTU | Down 4.2% (regular) | INTU -4.2% at 297.12 vs 310.02 close (regular, 09:55 ET) |  |
+| 11-20 09:57 | 1 | MU | Down 5.0% (regular) | MU -5.0% at 655.85 vs 690.44 close (regular, 09:55 ET) |  |
+| 11-20 09:57 | 1 | ANET | Down 5.4% (regular) | ANET -5.4% at 179.31 vs 189.59 close (regular, 09:55 ET) |  |
+| 11-20 09:57 | 1 | CRWD | Down 4.3% (regular) | CRWD -4.3% at 232.99 vs 243.46 close (regular, 09:55 ET) |  |
+| 11-20 09:57 | 1 | ARM | Down 4.2% (regular) | ARM -4.2% at 169.76 vs 177.17 close (regular, 09:55 ET) |  |
 | 11-20 07:45 | 1 | INTU | Down 8.7% (premarket) | INTU -8.7% at 282.90 vs 310.02 close (premarket, 07:45 ET) |  |
 | 11-20 07:45 | 1 | ANET | Down 4.5% (premarket) | ANET -4.5% at 181.05 vs 189.59 close (premarket, 07:42 ET) |  |
 | 11-20 07:45 | 1 | SPCX | Down 6.1% (premarket) | SPCX -6.1% at 129.99 vs 138.43 close (premarket, 07:45 ET) |  |
@@ -151,16 +156,13 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-17 18:19 | 1 | ASML | Up 4.0% (after-hours) | ASML +4.0% at 1439.00 vs 1383.11 close (after-hours, 18:15 ET) |  |
 | 11-17 18:19 | 1 | FIX | Up 4.0% (after-hours) | FIX +4.0% at 1143.40 vs 1099.02 close (after-hours, 18:15 ET) |  |
 | 11-17 17:21 | 1 | APP | Deal | AppLovin in talks to acquire ad-tech peer Criteo, Reuters reports | [link](https://finnhub.io/api/news?id=f9defcab49341f2c31a628e1179b52c19b52b1cec8da98de374233703e930c1f) |
-| 11-17 17:21 | 2 | FIX | Buyback/dividend | Comfort Systems USA Increases Stock Repurchase Program | [link](https://finnhub.io/api/news?id=a69d2567cb6951cf65d9f74b434edc46372f6e1f970fdf32d66093e3b9f685aa) |
-| 11-17 17:21 | 2 | OKLO | 8-K: 1.01 Material agreement | 8-K - Oklo Inc. (0001849056) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1849056/000184905626000055/0001849056-26-000055-index.htm) |
-| 11-17 16:18 | 2 | NVDA | 8-K: 2.02 Earnings results | 8-K - NVIDIA CORP (0001045810) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000088/0001045810-26-000088-index.htm) |
-| 11-17 16:18 | 1 | LOW | 8-K: 5.02 Executive/director change | 8-K - LOWES COMPANIES INC (0000060667) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/60667/000006066726000122/0000060667-26-000122-index.htm) |
-| 11-17 15:11 | 1 | NKE | Down 7.0% (regular) | NKE -7.0% at 35.56 vs 38.26 close (regular, 15:10 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 09:57 | 2 | GAP | Up 16.3% (regular) | GAP +16.3% at 21.85 vs 18.79 close (regular, 09:55 ET) |  |
+| 11-20 09:57 | 2 | AAL | 8-K: 5.02 Executive/director change | 8-K - American Airlines Group Inc. (0000006201) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/6201/000000620126000081/0000006201-26-000081-index.htm) |
 | 11-20 09:01 | 2 | SAIC | Down 9.3% (premarket) | SAIC -9.3% at 130.00 vs 143.33 close (premarket, 07:55 ET) |  |
 | 11-20 09:01 | 2 | BILL | 8-K: 1.01 Material agreement | 8-K - BILL Holdings, Inc. (0001786352) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1786352/000119312526469396/0001193125-26-469396-index.htm) |
 | 11-20 09:01 | 2 | CHRW | 8-K: 1.01 Material agreement | 8-K - C. H. ROBINSON WORLDWIDE, INC. (0001043277) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1043277/000104327726000051/0001043277-26-000051-index.htm) |
@@ -237,8 +239,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-17 13:06 | 2 | ACM | Up 12.7% (regular) | ACM +12.7% at 81.74 vs 72.50 close (regular, 13:05 ET) |  |
 | 11-17 13:06 | 2 | BILL | Up 9.3% (regular) | BILL +9.3% at 63.00 vs 57.63 close (regular, 13:05 ET) |  |
 | 11-17 12:06 | 2 | BILL | Up 8.3% (regular) | BILL +8.3% at 62.38 vs 57.63 close (regular, 12:05 ET) |  |
-| 11-17 09:57 | 2 | ACM | Up 12.0% (regular) | ACM +12.0% at 81.20 vs 72.50 close (regular, 09:55 ET) |  |
-| 11-17 09:57 | 2 | VTRS | 8-K: 2.01 Acquisition/disposition completed | 8-K - Viatris Inc (0001792044) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1792044/000114036126044356/0001140361-26-044356-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
