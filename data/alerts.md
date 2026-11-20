@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-20 16:51 ET
+# Alerts — watcher run 2026-11-20 17:50 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 17:50 | 1 | CRWD | Down 5.6% (after-hours) | CRWD -5.6% at 216.50 vs 229.44 close (after-hours, 17:45 ET) |  |
+| 11-20 17:50 | 2 | NVDA | Legal/regulatory | Nvidia’s Stock Slide Deepens After Report of SEC Accounting Probe | [link](https://finnhub.io/api/news?id=8ea45aa89b25bf662ec532ef89c9c04f096153d6e9dc711db4f16a9cd9d560e8) |
 | 11-20 16:51 | 1 | CRWD | Down 8.1% (after-hours) | CRWD -8.1% at 210.97 vs 229.44 close (after-hours, 16:50 ET) |  |
 | 11-20 16:51 | 1 | RKLB | Up 4.2% (after-hours) | RKLB +4.2% at 47.31 vs 45.42 close (after-hours, 16:50 ET) |  |
 | 11-20 16:51 | 1 | IONQ | Up 4.0% (after-hours) | IONQ +4.0% at 21.55 vs 20.72 close (after-hours, 16:50 ET) |  |
@@ -154,13 +156,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-19 11:02 | 1 | CI | Down 5.1% (regular) | CI -5.1% at 270.90 vs 285.37 close (regular, 11:00 ET) |  |
 | 11-19 11:02 | 1 | NKE | Down 4.4% (regular) | NKE -4.4% at 34.73 vs 36.31 close (regular, 11:00 ET) |  |
 | 11-19 10:00 | 1 | QCOM | Up 6.2% (regular) | QCOM +6.2% at 169.64 vs 159.81 close (regular, 10:00 ET) |  |
-| 11-19 10:00 | 1 | MU | Up 5.9% (regular) | MU +5.9% at 746.84 vs 705.27 close (regular, 10:00 ET) |  |
-| 11-19 10:00 | 1 | PANW | Up 7.2% (regular) | PANW +7.2% at 364.41 vs 339.92 close (regular, 10:00 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 17:50 | 2 | TSN | 8-K: 5.02 Executive/director change | 8-K - TYSON FOODS, INC. (0000100493) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/100493/000010049326000085/0000100493-26-000085-index.htm) |
 | 11-20 16:51 | 2 | POST | 8-K: 5.02 Executive/director change | 8-K - Post Holdings, Inc. (0001530950) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1530950/000153095026000104/0001530950-26-000104-index.htm) |
 | 11-20 16:51 | 2 | SWX | 8-K: 5.02 Executive/director change | 8-K - Southwest Gas Holdings, Inc. (0001692115) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1692115/000169211526000129/0001692115-26-000129-index.htm) |
 | 11-20 16:51 | 2 | LYB | 8-K: 5.02 Executive/director change | 8-K - LyondellBasell Industries N.V. (0001489393) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1489393/000148939326000072/0001489393-26-000072-index.htm) |
@@ -310,7 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-18 16:23 | 2 | WWD | 8-K: 2.02 Earnings results | 8-K - Woodward, Inc. (0000108312) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/108312/000117184326007561/0001171843-26-007561-index.htm) |
 | 11-18 15:26 | 2 | AKAM | Up 8.3% (regular) | AKAM +8.3% at 91.68 vs 84.64 close (regular, 15:25 ET) |  |
 | 11-18 14:25 | 2 | GNRC | Up 9.9% (regular) | GNRC +9.9% at 205.57 vs 187.00 close (regular, 14:25 ET) |  |
-| 11-18 14:25 | 2 | QLYS | Up 12.4% (regular) | QLYS +12.4% at 196.32 vs 174.67 close (regular, 14:25 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
