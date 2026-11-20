@@ -1,4 +1,4 @@
-Generated 2026-11-20 16:40 ET
+Generated 2026-11-20 16:59 ET
 
 # Swing scan (setup G) — range trades, backtested
 

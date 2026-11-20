@@ -1,7 +1,7 @@
 {
  "mode": "close",
- "generated_utc": "2026-11-20 21:24",
- "generated_et": "2026-11-20 16:24",
+ "generated_utc": "2026-11-20 21:42",
+ "generated_et": "2026-11-20 16:42",
  "since": "2026-11-18",
  "prices": {
   "AAPL": {
@@ -143,7 +143,7 @@
    "52w_high": 596.92,
    "52w_low": 464.01,
    "from_52w_high_pct": -4.51,
-   "vol_vs_20d": 1.19,
+   "vol_vs_20d": 1.27,
    "finnhub_last": 570,
    "finnhub_prev_close": 572.04,
    "verified": true
@@ -159,7 +159,7 @@
    "52w_high": 1475.25,
    "52w_low": 850.51,
    "from_52w_high_pct": -8.69,
-   "vol_vs_20d": 0.97,
+   "vol_vs_20d": 1.13,
    "finnhub_last": 1347.11,
    "finnhub_prev_close": 1351.12,
    "verified": true
@@ -167,14 +167,14 @@
   "JPM": {
    "ticker": "JPM",
    "close_date": "2026-11-20",
-   "close": 310.68,
-   "day_pct": -2.98,
-   "5d_pct": -10.26,
-   "1m_pct": -7.68,
-   "3m_pct": -12.83,
+   "close": 310.53,
+   "day_pct": -3.03,
+   "5d_pct": -10.3,
+   "1m_pct": -7.73,
+   "3m_pct": -12.87,
    "52w_high": 366.5,
    "52w_low": 279.1,
-   "from_52w_high_pct": -15.23,
+   "from_52w_high_pct": -15.27,
    "vol_vs_20d": 1.83,
    "finnhub_last": 310.53,
    "finnhub_prev_close": 320.22,
@@ -183,14 +183,14 @@
   "V": {
    "ticker": "V",
    "close_date": "2026-11-20",
-   "close": 402.42,
-   "day_pct": 0.04,
-   "5d_pct": -5.48,
-   "1m_pct": -2.88,
-   "3m_pct": 5.23,
+   "close": 401.87,
+   "day_pct": -0.09,
+   "5d_pct": -5.61,
+   "1m_pct": -3.01,
+   "3m_pct": 5.09,
    "52w_high": 442.23,
    "52w_low": 293.89,
-   "from_52w_high_pct": -9.0,
+   "from_52w_high_pct": -9.13,
    "vol_vs_20d": 1.17,
    "finnhub_last": 401.87,
    "finnhub_prev_close": 402.25,
@@ -199,14 +199,14 @@
   "MA": {
    "ticker": "MA",
    "close_date": "2026-11-20",
-   "close": 626.14,
-   "day_pct": -0.06,
-   "5d_pct": -5.3,
-   "1m_pct": -1.12,
-   "3m_pct": 4.38,
+   "close": 625.59,
+   "day_pct": -0.15,
+   "5d_pct": -5.38,
+   "1m_pct": -1.2,
+   "3m_pct": 4.29,
    "52w_high": 681.99,
    "52w_low": 464.52,
-   "from_52w_high_pct": -8.19,
+   "from_52w_high_pct": -8.27,
    "vol_vs_20d": 1.13,
    "finnhub_last": 625.59,
    "finnhub_prev_close": 626.5,
@@ -215,14 +215,14 @@
   "UNH": {
    "ticker": "UNH",
    "close_date": "2026-11-20",
-   "close": 339.89,
-   "day_pct": 2.85,
-   "5d_pct": -16.58,
-   "1m_pct": -20.02,
-   "3m_pct": -14.76,
+   "close": 339.85,
+   "day_pct": 2.84,
+   "5d_pct": -16.59,
+   "1m_pct": -20.03,
+   "3m_pct": -14.77,
    "52w_high": 461.62,
    "52w_low": 255.97,
-   "from_52w_high_pct": -26.37,
+   "from_52w_high_pct": -26.38,
    "vol_vs_20d": 2.0,
    "finnhub_last": 339.85,
    "finnhub_prev_close": 330.48,
@@ -255,7 +255,7 @@
    "52w_high": 250.25,
    "52w_low": 100.25,
    "from_52w_high_pct": -59.56,
-   "vol_vs_20d": 1.05,
+   "vol_vs_20d": 1.07,
    "finnhub_last": 101.19,
    "finnhub_prev_close": 110.57,
    "verified": true
@@ -295,14 +295,14 @@
   "HD": {
    "ticker": "HD",
    "close_date": "2026-11-20",
-   "close": 339.09,
-   "day_pct": 0.72,
-   "5d_pct": -2.75,
-   "1m_pct": 3.47,
-   "3m_pct": 0.49,
+   "close": 339.04,
+   "day_pct": 0.7,
+   "5d_pct": -2.77,
+   "1m_pct": 3.45,
+   "3m_pct": 0.48,
    "52w_high": 397.63,
    "52w_low": 277.15,
-   "from_52w_high_pct": -14.72,
+   "from_52w_high_pct": -14.73,
    "vol_vs_20d": 1.65,
    "finnhub_last": 339.04,
    "finnhub_prev_close": 336.68,
@@ -319,7 +319,7 @@
    "52w_high": 173.59,
    "52w_low": 137.62,
    "from_52w_high_pct": -2.43,
-   "vol_vs_20d": 1.13,
+   "vol_vs_20d": 1.18,
    "finnhub_last": 169.37,
    "finnhub_prev_close": 167.85,
    "verified": true
@@ -367,7 +367,7 @@
    "52w_high": 302.93,
    "52w_low": 190.75,
    "from_52w_high_pct": -5.52,
-   "vol_vs_20d": 1.46,
+   "vol_vs_20d": 1.69,
    "finnhub_last": 286.2,
    "finnhub_prev_close": 283.54,
    "verified": true
@@ -375,14 +375,14 @@
   "BAC": {
    "ticker": "BAC",
    "close_date": "2026-11-20",
-   "close": 47.08,
-   "day_pct": -3.07,
-   "5d_pct": -7.72,
-   "1m_pct": -7.83,
-   "3m_pct": -24.47,
+   "close": 47.04,
+   "day_pct": -3.15,
+   "5d_pct": -7.8,
+   "1m_pct": -7.91,
+   "3m_pct": -24.53,
    "52w_high": 65.23,
    "52w_low": 46.12,
-   "from_52w_high_pct": -27.82,
+   "from_52w_high_pct": -27.89,
    "vol_vs_20d": 1.37,
    "finnhub_last": 47.04,
    "finnhub_prev_close": 48.57,
@@ -391,14 +391,14 @@
   "CRM": {
    "ticker": "CRM",
    "close_date": "2026-11-20",
-   "close": 180.68,
-   "day_pct": -1.44,
-   "5d_pct": -17.06,
-   "1m_pct": -27.81,
-   "3m_pct": -13.58,
+   "close": 180.62,
+   "day_pct": -1.47,
+   "5d_pct": -17.09,
+   "1m_pct": -27.84,
+   "3m_pct": -13.6,
    "52w_high": 269.11,
    "52w_low": 146.32,
-   "from_52w_high_pct": -32.86,
+   "from_52w_high_pct": -32.88,
    "vol_vs_20d": 1.18,
    "finnhub_last": 180.62,
    "finnhub_prev_close": 183.31,
@@ -431,7 +431,7 @@
    "52w_high": 156.92,
    "52w_low": 95.36,
    "from_52w_high_pct": -14.78,
-   "vol_vs_20d": 1.51,
+   "vol_vs_20d": 1.69,
    "finnhub_last": 133.72,
    "finnhub_prev_close": 132.81,
    "verified": true
@@ -447,7 +447,7 @@
    "52w_high": 236.48,
    "52w_low": 146.49,
    "from_52w_high_pct": -11.89,
-   "vol_vs_20d": 1.18,
+   "vol_vs_20d": 1.41,
    "finnhub_last": 208.37,
    "finnhub_prev_close": 206.5,
    "verified": true
@@ -551,14 +551,14 @@
   "ACN": {
    "ticker": "ACN",
    "close_date": "2026-11-20",
-   "close": 221.22,
-   "day_pct": 1.21,
-   "5d_pct": -11.69,
-   "1m_pct": -14.5,
-   "3m_pct": 18.6,
+   "close": 221.17,
+   "day_pct": 1.18,
+   "5d_pct": -11.71,
+   "1m_pct": -14.52,
+   "3m_pct": 18.57,
    "52w_high": 291.09,
    "52w_low": 118.15,
-   "from_52w_high_pct": -24.0,
+   "from_52w_high_pct": -24.02,
    "vol_vs_20d": 1.02,
    "finnhub_last": 221.17,
    "finnhub_prev_close": 218.58,
@@ -591,7 +591,7 @@
    "52w_high": 129.85,
    "52w_low": 81.97,
    "from_52w_high_pct": -20.68,
-   "vol_vs_20d": 0.82,
+   "vol_vs_20d": 0.87,
    "finnhub_last": 103,
    "finnhub_prev_close": 103.87,
    "verified": true
@@ -607,7 +607,7 @@
    "52w_high": 97.76,
    "52w_low": 72.78,
    "from_52w_high_pct": -19.58,
-   "vol_vs_20d": 1.19,
+   "vol_vs_20d": 1.26,
    "finnhub_last": 78.62,
    "finnhub_prev_close": 80.61,
    "verified": true
@@ -631,14 +631,14 @@
   "GE": {
    "ticker": "GE",
    "close_date": "2026-11-20",
-   "close": 309.72,
-   "day_pct": -2.87,
-   "5d_pct": -6.66,
-   "1m_pct": 5.51,
-   "3m_pct": -9.4,
+   "close": 309.62,
+   "day_pct": -2.9,
+   "5d_pct": -6.69,
+   "1m_pct": 5.48,
+   "3m_pct": -9.43,
    "52w_high": 388.84,
    "52w_low": 268.91,
-   "from_52w_high_pct": -20.35,
+   "from_52w_high_pct": -20.37,
    "vol_vs_20d": 1.02,
    "finnhub_last": 309.62,
    "finnhub_prev_close": 318.88,
@@ -671,7 +671,7 @@
    "52w_high": 123.37,
    "52w_low": 92.19,
    "from_52w_high_pct": -4.37,
-   "vol_vs_20d": 1.21,
+   "vol_vs_20d": 1.25,
    "finnhub_last": 117.98,
    "finnhub_prev_close": 120.25,
    "verified": true
@@ -759,14 +759,14 @@
   "VZ": {
    "ticker": "VZ",
    "close_date": "2026-11-20",
-   "close": 46.52,
-   "day_pct": 1.71,
-   "5d_pct": 0.35,
-   "1m_pct": 2.92,
-   "3m_pct": -7.24,
+   "close": 46.48,
+   "day_pct": 1.62,
+   "5d_pct": 0.26,
+   "1m_pct": 2.83,
+   "3m_pct": -7.32,
    "52w_high": 51.68,
    "52w_low": 38.68,
-   "from_52w_high_pct": -9.98,
+   "from_52w_high_pct": -10.06,
    "vol_vs_20d": 1.18,
    "finnhub_last": 46.48,
    "finnhub_prev_close": 45.74,
@@ -791,14 +791,14 @@
   "NOW": {
    "ticker": "NOW",
    "close_date": "2026-11-20",
-   "close": 87.66,
-   "day_pct": -1.36,
-   "5d_pct": -14.27,
-   "1m_pct": -44.17,
-   "3m_pct": -31.54,
+   "close": 87.61,
+   "day_pct": -1.42,
+   "5d_pct": -14.32,
+   "1m_pct": -44.2,
+   "3m_pct": -31.58,
    "52w_high": 175.0,
    "52w_low": 81.24,
-   "from_52w_high_pct": -49.91,
+   "from_52w_high_pct": -49.94,
    "vol_vs_20d": 0.91,
    "finnhub_last": 87.61,
    "finnhub_prev_close": 88.87,
@@ -831,7 +831,7 @@
    "52w_high": 232.25,
    "52w_low": 152.8,
    "from_52w_high_pct": -28.67,
-   "vol_vs_20d": 1.61,
+   "vol_vs_20d": 1.63,
    "finnhub_last": 165.67,
    "finnhub_prev_close": 174.98,
    "verified": true
@@ -839,14 +839,14 @@
   "SPGI": {
    "ticker": "SPGI",
    "close_date": "2026-11-20",
-   "close": 439.74,
-   "day_pct": -0.66,
-   "5d_pct": -7.15,
-   "1m_pct": -2.95,
-   "3m_pct": 0.99,
+   "close": 439.57,
+   "day_pct": -0.7,
+   "5d_pct": -7.18,
+   "1m_pct": -2.99,
+   "3m_pct": 0.95,
    "52w_high": 522.47,
    "52w_low": 361.03,
-   "from_52w_high_pct": -15.83,
+   "from_52w_high_pct": -15.87,
    "vol_vs_20d": 1.12,
    "finnhub_last": 439.57,
    "finnhub_prev_close": 442.66,
@@ -856,9 +856,9 @@
    "ticker": "UBER",
    "close_date": "2026-11-20",
    "close": 63.47,
-   "day_pct": -3.24,
-   "5d_pct": -8.92,
-   "1m_pct": -8.1,
+   "day_pct": -3.25,
+   "5d_pct": -8.93,
+   "1m_pct": -8.11,
    "3m_pct": -19.95,
    "52w_high": 92.78,
    "52w_low": 63.29,
@@ -879,7 +879,7 @@
    "52w_high": 31.44,
    "52w_low": 23.62,
    "from_52w_high_pct": -12.85,
-   "vol_vs_20d": 0.98,
+   "vol_vs_20d": 1.02,
    "finnhub_last": 27.4,
    "finnhub_prev_close": 27.54,
    "verified": true
@@ -887,14 +887,14 @@
   "RTX": {
    "ticker": "RTX",
    "close_date": "2026-11-20",
-   "close": 190.39,
-   "day_pct": -1.58,
-   "5d_pct": -4.12,
-   "1m_pct": -2.22,
-   "3m_pct": -9.0,
+   "close": 190.17,
+   "day_pct": -1.69,
+   "5d_pct": -4.24,
+   "1m_pct": -2.33,
+   "3m_pct": -9.11,
    "52w_high": 226.88,
    "52w_low": 166.74,
-   "from_52w_high_pct": -16.08,
+   "from_52w_high_pct": -16.18,
    "vol_vs_20d": 1.09,
    "finnhub_last": 190.17,
    "finnhub_prev_close": 193.44,
@@ -911,7 +911,7 @@
    "52w_high": 29.44,
    "52w_low": 19.89,
    "from_52w_high_pct": -24.22,
-   "vol_vs_20d": 1.01,
+   "vol_vs_20d": 1.12,
    "finnhub_last": 22.31,
    "finnhub_prev_close": 21.85,
    "verified": true
@@ -943,7 +943,7 @@
    "52w_high": 387.49,
    "52w_low": 290.97,
    "from_52w_high_pct": -22.14,
-   "vol_vs_20d": 1.04,
+   "vol_vs_20d": 1.1,
    "finnhub_last": 301.7,
    "finnhub_prev_close": 311.11,
    "verified": true
@@ -959,7 +959,7 @@
    "52w_high": 293.06,
    "52w_low": 178.45,
    "from_52w_high_pct": -24.64,
-   "vol_vs_20d": 1.24,
+   "vol_vs_20d": 1.35,
    "finnhub_last": 220.84,
    "finnhub_prev_close": 219.14,
    "verified": true
@@ -1015,14 +1015,14 @@
   "NEE": {
    "ticker": "NEE",
    "close_date": "2026-11-20",
-   "close": 83.54,
-   "day_pct": -0.3,
-   "5d_pct": -1.86,
-   "1m_pct": 2.0,
-   "3m_pct": -0.67,
+   "close": 83.45,
+   "day_pct": -0.41,
+   "5d_pct": -1.96,
+   "1m_pct": 1.89,
+   "3m_pct": -0.77,
    "52w_high": 98.75,
    "52w_low": 74.41,
-   "from_52w_high_pct": -15.41,
+   "from_52w_high_pct": -15.49,
    "vol_vs_20d": 1.1,
    "finnhub_last": 83.45,
    "finnhub_prev_close": 83.79,
@@ -1039,7 +1039,7 @@
    "52w_high": 389.33,
    "52w_low": 267.0,
    "from_52w_high_pct": -20.38,
-   "vol_vs_20d": 0.7,
+   "vol_vs_20d": 0.73,
    "finnhub_last": 310,
    "finnhub_prev_close": 313.08,
    "verified": true
@@ -1053,9 +1053,9 @@
    "1m_pct": -3.28,
    "3m_pct": -14.55,
    "52w_high": 153.35,
-   "52w_low": 122.19,
+   "52w_low": 122.18,
    "from_52w_high_pct": -20.12,
-   "vol_vs_20d": 1.4,
+   "vol_vs_20d": 1.45,
    "finnhub_last": 122.5,
    "finnhub_prev_close": 123.36,
    "verified": true
@@ -1191,14 +1191,14 @@
   "ANET": {
    "ticker": "ANET",
    "close_date": "2026-11-20",
-   "close": 167.66,
-   "day_pct": -11.57,
-   "5d_pct": -15.02,
-   "1m_pct": -1.99,
-   "3m_pct": -10.89,
+   "close": 167.62,
+   "day_pct": -11.59,
+   "5d_pct": -15.04,
+   "1m_pct": -2.02,
+   "3m_pct": -10.91,
    "52w_high": 217.41,
    "52w_low": 114.52,
-   "from_52w_high_pct": -22.88,
+   "from_52w_high_pct": -22.9,
    "vol_vs_20d": 1.59,
    "finnhub_last": 167.62,
    "finnhub_prev_close": 189.59,
@@ -1271,14 +1271,14 @@
   "BMY": {
    "ticker": "BMY",
    "close_date": "2026-11-20",
-   "close": 58.83,
-   "day_pct": 0.84,
-   "5d_pct": -7.25,
-   "1m_pct": -6.62,
-   "3m_pct": -12.56,
+   "close": 58.8,
+   "day_pct": 0.79,
+   "5d_pct": -7.3,
+   "1m_pct": -6.67,
+   "3m_pct": -12.6,
    "52w_high": 68.64,
    "52w_low": 45.52,
-   "from_52w_high_pct": -14.29,
+   "from_52w_high_pct": -14.34,
    "vol_vs_20d": 1.21,
    "finnhub_last": 58.8,
    "finnhub_prev_close": 58.34,
@@ -1319,11 +1319,11 @@
   "CI": {
    "ticker": "CI",
    "close_date": "2026-11-20",
-   "close": 270.92,
+   "close": 270.9,
    "day_pct": -0.78,
-   "5d_pct": -8.78,
-   "1m_pct": -14.23,
-   "3m_pct": -3.4,
+   "5d_pct": -8.79,
+   "1m_pct": -14.24,
+   "3m_pct": -3.41,
    "52w_high": 318.05,
    "52w_low": 257.85,
    "from_52w_high_pct": -14.82,
@@ -1359,7 +1359,7 @@
    "52w_high": 79.97,
    "52w_low": 54.7,
    "from_52w_high_pct": -6.38,
-   "vol_vs_20d": 1.02,
+   "vol_vs_20d": 1.23,
    "finnhub_last": 74.87,
    "finnhub_prev_close": 74.68,
    "verified": true
@@ -1367,14 +1367,14 @@
   "SCHW": {
    "ticker": "SCHW",
    "close_date": "2026-11-20",
-   "close": 90.22,
-   "day_pct": -2.06,
-   "5d_pct": -2.97,
-   "1m_pct": -1.33,
-   "3m_pct": -20.62,
+   "close": 90.16,
+   "day_pct": -2.13,
+   "5d_pct": -3.03,
+   "1m_pct": -1.4,
+   "3m_pct": -20.67,
    "52w_high": 114.53,
    "52w_low": 83.96,
-   "from_52w_high_pct": -21.23,
+   "from_52w_high_pct": -21.28,
    "vol_vs_20d": 1.3,
    "finnhub_last": 90.16,
    "finnhub_prev_close": 92.12,
@@ -1391,7 +1391,7 @@
    "52w_high": 147.96,
    "52w_low": 95.83,
    "from_52w_high_pct": -25.24,
-   "vol_vs_20d": 1.69,
+   "vol_vs_20d": 1.73,
    "finnhub_last": 110.62,
    "finnhub_prev_close": 115.28,
    "verified": true
@@ -1415,14 +1415,14 @@
   "NKE": {
    "ticker": "NKE",
    "close_date": "2026-11-20",
-   "close": 32.94,
-   "day_pct": -4.06,
-   "5d_pct": -13.31,
-   "1m_pct": -14.05,
-   "3m_pct": -19.18,
+   "close": 32.92,
+   "day_pct": -4.11,
+   "5d_pct": -13.35,
+   "1m_pct": -14.09,
+   "3m_pct": -19.21,
    "52w_high": 69.14,
    "52w_low": 31.97,
-   "from_52w_high_pct": -52.36,
+   "from_52w_high_pct": -52.39,
    "vol_vs_20d": 1.31,
    "finnhub_last": 32.92,
    "finnhub_prev_close": 34.33,
@@ -1455,7 +1455,7 @@
    "52w_high": 170.0,
    "52w_low": 122.78,
    "from_52w_high_pct": -17.87,
-   "vol_vs_20d": 1.24,
+   "vol_vs_20d": 1.29,
    "finnhub_last": 139.62,
    "finnhub_prev_close": 139.41,
    "verified": true
@@ -1479,14 +1479,14 @@
   "MCK": {
    "ticker": "MCK",
    "close_date": "2026-11-20",
-   "close": 1069.72,
-   "day_pct": 0.71,
-   "5d_pct": -3.0,
-   "1m_pct": 5.67,
-   "3m_pct": 22.42,
+   "close": 1069.43,
+   "day_pct": 0.68,
+   "5d_pct": -3.03,
+   "1m_pct": 5.64,
+   "3m_pct": 22.39,
    "52w_high": 1121.5,
    "52w_low": 723.68,
-   "from_52w_high_pct": -4.62,
+   "from_52w_high_pct": -4.64,
    "vol_vs_20d": 1.11,
    "finnhub_last": 1069.43,
    "finnhub_prev_close": 1062.16,
@@ -1647,7 +1647,7 @@
    "52w_high": 99.98,
    "52w_low": 33.88,
    "from_52w_high_pct": -53.27,
-   "vol_vs_20d": 1.49,
+   "vol_vs_20d": 1.54,
    "finnhub_last": 46.72,
    "finnhub_prev_close": 46.35,
    "verified": true
@@ -1783,14 +1783,14 @@
   "TSM": {
    "ticker": "TSM",
    "close_date": "2026-11-20",
-   "close": 319.14,
-   "day_pct": -9.36,
-   "5d_pct": -19.96,
-   "1m_pct": -22.6,
-   "3m_pct": -22.18,
+   "close": 318.71,
+   "day_pct": -9.48,
+   "5d_pct": -20.07,
+   "1m_pct": -22.71,
+   "3m_pct": -22.29,
    "52w_high": 487.47,
    "52w_low": 266.82,
-   "from_52w_high_pct": -34.53,
+   "from_52w_high_pct": -34.62,
    "vol_vs_20d": 2.33,
    "finnhub_last": 318.71,
    "finnhub_prev_close": 352.09,
@@ -1967,7 +1967,7 @@
    "52w_high": 165.14,
    "52w_low": 101.73,
    "from_52w_high_pct": -32.91,
-   "vol_vs_20d": 1.24,
+   "vol_vs_20d": 1.33,
    "finnhub_last": 110.8,
    "finnhub_prev_close": 115.99,
    "verified": true
@@ -2103,14 +2103,14 @@
   "SPY": {
    "ticker": "SPY",
    "close_date": "2026-11-20",
-   "close": 690.87,
-   "day_pct": -3.49,
-   "5d_pct": -8.42,
-   "1m_pct": -9.57,
-   "3m_pct": -9.51,
+   "close": 689.81,
+   "day_pct": -3.64,
+   "5d_pct": -8.56,
+   "1m_pct": -9.71,
+   "3m_pct": -9.65,
    "52w_high": 781.62,
    "52w_low": 629.28,
-   "from_52w_high_pct": -11.61,
+   "from_52w_high_pct": -11.75,
    "vol_vs_20d": 2.59,
    "finnhub_last": 689.81,
    "finnhub_prev_close": 715.87,
@@ -2362,6 +2362,18 @@
   ],
   "LLY": [],
   "JPM": [
+   {
+    "form": "424B2",
+    "date": "2026-11-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426036397/form424b2.htm",
+    "description": "PRELIMINARY PRICING SUPPLEMENT"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426036396/form424b2.htm",
+    "description": "PRELIMINARY PRICING SUPPLEMENT"
+   },
    {
     "form": "424B2",
     "date": "2026-11-20",
@@ -3615,7 +3627,17 @@
   "MA": [],
   "UNH": [],
   "XOM": [],
-  "ORCL": [],
+  "ORCL": [
+   {
+    "form": "8-K",
+    "date": "2026-11-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/1341439/000119312526470351/orcl-20261118.htm",
+    "description": "8-K",
+    "items": [
+     "5.07 Shareholder vote"
+    ]
+   }
+  ],
   "COST": [],
   "WMT": [
    {
@@ -3670,6 +3692,12 @@
    }
   ],
   "BAC": [
+   {
+    "form": "424B2",
+    "date": "2026-11-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036398/form424b2.htm",
+    "description": "424B2"
+   },
    {
     "form": "424B2",
     "date": "2026-11-20",
@@ -4667,7 +4695,14 @@
     }
    }
   ],
-  "PEP": [],
+  "PEP": [
+   {
+    "form": "S-3ASR",
+    "date": "2026-11-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/77476/000110465926130634/tm2628616-1_s3asr.htm",
+    "description": "S-3ASR"
+   }
+  ],
   "ADBE": [],
   "TMO": [],
   "LIN": [],
@@ -5399,6 +5434,36 @@
    }
   ],
   "GS": [
+   {
+    "form": "424B2",
+    "date": "2026-11-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526470384/gs-20261120.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526470383/gs-20261120.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526470341/gs-20261120.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526470340/gs-20261120.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526470334/gs-20261120.htm",
+    "description": "424B2"
+   },
    {
     "form": "424B2",
     "date": "2026-11-20",
@@ -7542,6 +7607,24 @@
    {
     "form": "424B2",
     "date": "2026-11-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326017958/dp257235_424b2-us26t2997d.htm",
+    "description": "PRELIMINARY PRICING SUPPLEMENT"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/831001/000119312526470374/d189768d424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/831001/000119312526470369/d911066d424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-20",
     "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426036394/form424b2.htm",
     "description": "PRELIMINARY PRICING SUPPLEMENT"
    },
@@ -8178,6 +8261,26 @@
   ],
   "LULU": [],
   "TJX": [
+   {
+    "form": "4",
+    "date": "2026-11-20",
+    "url": "https://www.sec.gov/Archives/edgar/data/109198/000166492126000002/xslF345X06/ownership.xml",
+    "description": "4",
+    "form4": {
+     "owner": "Pintoff Craig Adam",
+     "role": "Director",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "P",
+       "type": "open-market BUY",
+       "shares": 1427.0,
+       "price": 140.03,
+       "value": 199823
+      }
+     ]
+    }
+   },
    {
     "form": "8-K",
     "date": "2026-11-18",
@@ -16304,31 +16407,6 @@
    ]
   },
   "PLTR": {
-   "next_earnings": {
-    "date": "2027-02-01",
-    "hour": "amc",
-    "quarter": "2026Q4",
-    "eps_est": 0.53,
-    "rev_est": 2691028382
-   },
-   "last_earnings": {
-    "date": "2026-11-02",
-    "quarter": "2026Q3",
-    "eps_actual": 0.44,
-    "eps_est": 0.42,
-    "rev_actual": 2313411000,
-    "rev_est": 2226152254
-   },
-   "analysts": {
-    "period": "2026-11-01",
-    "strongBuy": 12,
-    "buy": 19,
-    "hold": 8,
-    "sell": 1,
-    "strongSell": 1,
-    "buy_change_vs_prior_month": 3,
-    "sell_change_vs_prior_month": 0
-   },
    "metrics": {
     "peTTM": 100.9215,
     "peExclExtraTTM": 100.9215,
@@ -16980,31 +17058,6 @@
    ]
   },
   "RBLX": {
-   "next_earnings": {
-    "date": "2027-02-03",
-    "hour": "amc",
-    "quarter": "2026Q4",
-    "eps_est": -0.47,
-    "rev_est": 2031623617
-   },
-   "last_earnings": {
-    "date": "2026-10-29",
-    "quarter": "2026Q3",
-    "eps_actual": -0.32,
-    "eps_est": -0.44,
-    "rev_actual": 1697000000,
-    "rev_est": 1653163490
-   },
-   "analysts": {
-    "period": "2026-11-01",
-    "strongBuy": 6,
-    "buy": 16,
-    "hold": 19,
-    "sell": 1,
-    "strongSell": 2,
-    "buy_change_vs_prior_month": 0,
-    "sell_change_vs_prior_month": 0
-   },
    "metrics": {
     "psTTM": 5.6245,
     "pbAnnual": 144.1807,
@@ -17671,16 +17724,6 @@
     "eps_est": 33.48,
     "rev_est": 1718656238185
    },
-   "analysts": {
-    "period": "2026-11-01",
-    "strongBuy": 12,
-    "buy": 28,
-    "hold": 2,
-    "sell": 0,
-    "strongSell": 0,
-    "buy_change_vs_prior_month": 0,
-    "sell_change_vs_prior_month": 0
-   },
    "metrics": {
     "peTTM": 22.1375,
     "peExclExtraTTM": 22.1375,
@@ -17693,45 +17736,7 @@
     "netProfitMarginTTM": 51.53,
     "beta": 0.920252,
     "marketCapitalization": 56402904
-   },
-   "news": [
-    {
-     "time": "11-20 06:01",
-     "source": "Yahoo",
-     "headline": "16 ETFs Add to Taiwan Semiconductor (TSM) on Wednesday",
-     "url": "https://finnhub.io/api/news?id=0a30f7b88b5365860d7d69fd52e30ada426fddfe535099a7eba03e802a726f02"
-    },
-    {
-     "time": "11-20 05:59",
-     "source": "Yahoo",
-     "headline": "Update: Market Chatter: TSMC Tightening Restrictions on Chinese Chip Designers in Response to New US Rules",
-     "url": "https://finnhub.io/api/news?id=b71fc1e62086be3b639f36e2d721fc1300aa6c61e7916273876336d7e73766d9"
-    },
-    {
-     "time": "11-20 05:47",
-     "source": "Yahoo",
-     "headline": "TSMC Tightens Restrictions on Chinese AI Chip Production Following New US Export Rules",
-     "url": "https://finnhub.io/api/news?id=a6915af6a21180a90d7d04f7823c2803f45593ddb2715e8c83e0c479560a076c"
-    },
-    {
-     "time": "11-20 05:23",
-     "source": "Benzinga",
-     "headline": "Taiwan Stocks Just Had Their Worst Week Since 1990 \u2014 And The AI Trade Is Unwinding From The East",
-     "url": "https://finnhub.io/api/news?id=3fcbe0f280254c62240ce04e290e65a8d5087719383ccb233d014bd4cd308a9f"
-    },
-    {
-     "time": "11-20 04:50",
-     "source": "Yahoo",
-     "headline": "TSMC Is 28% Below Its High. Another Director Just Bought $500,000 of Stock as Demand Stays \u201cExtremely Robust\u201d",
-     "url": "https://finnhub.io/api/news?id=48491b281a1ab46b3ea4f3bc21e198b9f9940b7e14a79c6784097efd93f13d74"
-    },
-    {
-     "time": "11-20 02:33",
-     "source": "Yahoo",
-     "headline": "Taiwan Stock Market Falls 6.2% to Cap Its Worst Week Since 1991 as KOSPI Closes Down 5.2% and Nikkei 225 Drops 5.1% in AI Chip Selloff",
-     "url": "https://finnhub.io/api/news?id=005d8c1226687fea3b8497bf73654db0293519cc2d139b10b1ac21778311ccb6"
-    }
-   ]
+   }
   },
   "ASML": {
    "next_earnings": {
@@ -18448,62 +18453,9 @@
     "netProfitMarginTTM": 22.11,
     "beta": 1.5782672,
     "marketCapitalization": 144600.67
-   },
-   "news": [
-    {
-     "time": "11-20 04:39",
-     "source": "Yahoo",
-     "headline": "Market Chatter: Blackstone, Carlyle Among Lenders to Take Over Vivid Seats in Debt Deal",
-     "url": "https://finnhub.io/api/news?id=c9525dd39008ef5292ac52a6dc73dfe8d0caa99110f806263ef2833210079bab"
-    },
-    {
-     "time": "11-18 16:50",
-     "source": "Yahoo",
-     "headline": "Blackstone\u2019s Jon Gray Says AI Demand Is Too Strong for Bubble Fears to Stick",
-     "url": "https://finnhub.io/api/news?id=a1702a1edaee96f7cecf4f423e3e714ed5b185f03aff591d92b68ff0bc3d606f"
-    },
-    {
-     "time": "11-18 14:05",
-     "source": "Yahoo",
-     "headline": "Why Amazon Wants the Chips and Blackstone Wants the Buildings",
-     "url": "https://finnhub.io/api/news?id=51e6f542a450e76e4d0f3629a5053a8b893f338c1cc560e687b1b477384ef5aa"
-    },
-    {
-     "time": "11-18 11:21",
-     "source": "Yahoo",
-     "headline": "Blackstone\u2019s Gray says market shakeout could benefit firm",
-     "url": "https://finnhub.io/api/news?id=8c5065f8f3280a0b3c2a21befa6156c0e9fabc9d200fca6d5bfdf23706263566"
-    },
-    {
-     "time": "11-18 09:30",
-     "source": "Benzinga",
-     "headline": "Blackstone Bought Offices For $39B, Then Sold Most Before The 2008 Crash. CEO Schwarzman Says, \u2018We Made 2.2 Times Our Money\u2019",
-     "url": "https://finnhub.io/api/news?id=4a8aefc2751273de5151a7bbdb06d0b122631dfe093660337ae5b3961f3a5c46"
-    },
-    {
-     "time": "11-18 06:04",
-     "source": "Yahoo",
-     "headline": "OMERS and Blackstone-Backed Transmission Developers Form Partnership to Pursue Toronto Third Line",
-     "url": "https://finnhub.io/api/news?id=e0da10da61c5cfb082af853d6b39b7b437ab233747bc026f40d81928eaf136cd"
-    }
-   ]
+   }
   },
   "KKR": {
-   "next_earnings": {
-    "date": "2027-02-03",
-    "hour": "amc",
-    "quarter": "2026Q4",
-    "eps_est": 3.66,
-    "rev_est": 3782747950
-   },
-   "last_earnings": {
-    "date": "2026-11-09",
-    "quarter": "2026Q3",
-    "eps_actual": 1.78,
-    "eps_est": 1.6,
-    "rev_actual": 1761785000,
-    "rev_est": 2622445052
-   },
    "analysts": {
     "period": "2026-11-01",
     "strongBuy": 6,
@@ -19551,12 +19503,6 @@
    "days_of_history": 10,
    "eps_rev_7d_pct": 0.0
   },
-  "PLTR": {
-   "quarter": "2026Q4",
-   "eps_est": 0.53,
-   "days_of_history": 10,
-   "eps_rev_7d_pct": 0.0
-  },
   "CRWD": {
    "quarter": "2027Q3",
    "eps_est": 0.32,
@@ -19603,12 +19549,6 @@
    "quarter": "2027Q3",
    "eps_est": 4.32,
    "days_of_history": 9,
-   "eps_rev_7d_pct": 0.0
-  },
-  "RBLX": {
-   "quarter": "2026Q4",
-   "eps_est": -0.47,
-   "days_of_history": 10,
    "eps_rev_7d_pct": 0.0
   },
   "DASH": {
@@ -19706,11 +19646,6 @@
   "BX": {
    "quarter": "2026Q4",
    "eps_est": 1.77,
-   "days_of_history": 5
-  },
-  "KKR": {
-   "quarter": "2026Q4",
-   "eps_est": 3.66,
    "days_of_history": 5
   },
   "MELI": {
@@ -20009,11 +19944,11 @@
    "fwd_pe": 7.5596437,
    "ttm_pe": 13.483351,
    "peg": 0.18,
-   "target_mean": 246.67091,
+   "target_mean": 244.18286,
    "target_low": 130.0,
    "target_high": 425.0,
    "rating": "buy",
-   "n_analysts": 55,
+   "n_analysts": 56,
    "short_pct": 0.0121
   },
   "AMZN": {
@@ -20085,7 +20020,7 @@
   "LLY": {
    "fwd_pe": 26.4812,
    "ttm_pe": 43.72314,
-   "peg": 1.28,
+   "peg": 1.25,
    "target_mean": 1470.0565,
    "target_low": 940.0,
    "target_high": 1700.0,
@@ -20228,7 +20163,7 @@
   "ABBV": {
    "fwd_pe": 17.647331,
    "ttm_pe": 49.17526,
-   "peg": 0.58,
+   "peg": 0.57,
    "target_mean": 315.8846,
    "target_low": 237.0,
    "target_high": 350.0,
@@ -20294,7 +20229,7 @@
   "AMD": {
    "fwd_pe": 24.060778,
    "ttm_pe": 90.68163,
-   "peg": 0.47,
+   "peg": 0.44,
    "target_mean": 657.74286,
    "target_low": 525.0,
    "target_high": 1250.0,
@@ -20393,7 +20328,7 @@
   "WFC": {
    "fwd_pe": 9.830695,
    "ttm_pe": 11.088858,
-   "peg": 1.26,
+   "peg": 1.25,
    "target_mean": 97.375,
    "target_low": 88.0,
    "target_high": 108.0,
@@ -20426,7 +20361,7 @@
   "QCOM": {
    "fwd_pe": 12.308627,
    "ttm_pe": 11.806299,
-   "peg": 0.94,
+   "peg": 0.96,
    "target_mean": 185.25,
    "target_low": 100.0,
    "target_high": 305.0,
@@ -20481,7 +20416,7 @@
   "CAT": {
    "fwd_pe": 15.86362,
    "ttm_pe": 20.03336,
-   "peg": 0.98,
+   "peg": 0.94,
    "target_mean": 807.2604,
    "target_low": 575.0,
    "target_high": 1027.0,
@@ -20591,7 +20526,7 @@
   "RTX": {
    "fwd_pe": 23.502064,
    "ttm_pe": 30.921951,
-   "peg": 2.11,
+   "peg": 2.07,
    "target_mean": 228.13043,
    "target_low": 200.0,
    "target_high": 250.0,
@@ -20624,7 +20559,7 @@
   "AXP": {
    "fwd_pe": 14.923447,
    "ttm_pe": 16.997183,
-   "peg": 1.3,
+   "peg": 1.29,
    "target_mean": 364.78708,
    "target_low": 329.0,
    "target_high": 425.0,
@@ -20767,7 +20702,7 @@
   "AMAT": {
    "fwd_pe": 12.293523,
    "ttm_pe": 23.98019,
-   "peg": 0.74,
+   "peg": 0.71,
    "target_mean": 557.8611,
    "target_low": 358.0,
    "target_high": 900.0,
@@ -20843,7 +20778,7 @@
   },
   "GILD": {
    "fwd_pe": 16.398497,
-   "peg": 2.27,
+   "peg": 2.24,
    "target_mean": 175.92308,
    "target_low": 131.0,
    "target_high": 200.0,
@@ -20854,7 +20789,7 @@
   "BMY": {
    "fwd_pe": 8.780824,
    "ttm_pe": 13.037693,
-   "peg": 16.33,
+   "peg": 16.0,
    "target_mean": 65.25,
    "target_low": 40.0,
    "target_high": 80.0,
@@ -20909,7 +20844,7 @@
   "MO": {
    "fwd_pe": 12.63938,
    "ttm_pe": 15.437115,
-   "peg": 2.92,
+   "peg": 2.86,
    "target_mean": 73.45455,
    "target_low": 59.0,
    "target_high": 85.0,
@@ -20931,7 +20866,7 @@
   "C": {
    "fwd_pe": 8.4683485,
    "ttm_pe": 10.781676,
-   "peg": 0.49,
+   "peg": 0.48,
    "target_mean": 150.59525,
    "target_low": 127.0,
    "target_high": 170.0,
@@ -20942,7 +20877,7 @@
   "SBUX": {
    "fwd_pe": 27.685236,
    "ttm_pe": 46.665157,
-   "peg": 1.18,
+   "peg": 1.13,
    "target_mean": 111.06667,
    "target_low": 82.0,
    "target_high": 141.0,
@@ -21136,10 +21071,10 @@
   "NVO": {
    "fwd_pe": 10.767441,
    "ttm_pe": 9.550505,
-   "peg": 4.12,
-   "target_mean": 45.63184,
-   "target_low": 39.344448,
-   "target_high": 63.934765,
+   "peg": 4.06,
+   "target_mean": 45.694798,
+   "target_low": 39.366795,
+   "target_high": 63.97108,
    "rating": "hold",
    "n_analysts": 12,
    "short_pct": 0.0121
@@ -21210,9 +21145,9 @@
    "fwd_pe": 19.972149,
    "ttm_pe": 31.156988,
    "peg": 0.74,
-   "target_mean": 2105.8958,
-   "target_low": 848.3825,
-   "target_high": 2786.8901,
+   "target_mean": 2107.0508,
+   "target_low": 848.8479,
+   "target_high": 2788.4187,
    "rating": "strong_buy",
    "n_analysts": 17,
    "short_pct": 0.003
@@ -21403,5 +21338,14 @@
    "short_pct": 0.2188
   }
  },
- "errors": []
+ "errors": [
+  "finnhub/earnings/PLTR: HTTP 429 https://finnhub.io/api/v1/calendar/earnings",
+  "finnhub/recs/PLTR: HTTP 429 https://finnhub.io/api/v1/stock/recommendation",
+  "finnhub/earnings/RBLX: HTTP 429 https://finnhub.io/api/v1/calendar/earnings",
+  "finnhub/recs/RBLX: HTTP 429 https://finnhub.io/api/v1/stock/recommendation",
+  "finnhub/recs/TSM: HTTP 429 https://finnhub.io/api/v1/stock/recommendation",
+  "finnhub/news/TSM: HTTP 429 https://finnhub.io/api/v1/company-news",
+  "finnhub/news/BX: HTTP 429 https://finnhub.io/api/v1/company-news",
+  "finnhub/earnings/KKR: HTTP 429 https://finnhub.io/api/v1/calendar/earnings"
+ ]
 }

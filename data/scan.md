@@ -1,4 +1,4 @@
-# Short-term scan — 2026-11-20 16:40 ET
+# Short-term scan — 2026-11-20 16:59 ET
 Universe: S&P 500 + S&P 400 (903 names, 909 priced). Filters: price ≥ $10, avg daily dollar volume ≥ $20M, no semiconductors, no names from the tracked list. These are candidates; check news, catalysts and the trading rules before proposing a trade.
 
 ## Market regime
@@ -18,7 +18,7 @@ Universe: S&P 500 + S&P 400 (903 names, 909 priced). Filters: price ≥ $10, avg
 | Ticker | Company | Close | 3d % | Day % | RSI | Vol × | vs 200-day % | ATR |
 |---|---|---|---|---|---|---|---|---|
 | DINO | HF Sinclair · Energy | 87.39 | -10.56 | -2.6 | 25.3 | 0.84 | 6.53 | 4.8 |
-| NTAP | NetApp · Information Technology | 157.65 | -8.89 | -7.36 | 29.3 | 0.97 | 1.12 | 9.21 |
+| NTAP | NetApp · Information Technology | 157.65 | -8.89 | -7.36 | 29.3 | 1.0 | 1.12 | 9.21 |
 
 ## 4. Insider cluster buys (open-market, not 10b5-1, last 14 days: ≥2 insiders or ≥$500K)
 | Ticker | Company | Insiders | Total bought | Avg insider price | Close | vs insider price % | Last buy | Who |
@@ -71,14 +71,14 @@ How to use: for each loser, find the reason. If it's fear, a sector selloff or a
 **Losers**
 | Ticker | Company | Day % | Gap % | Vol × | 1m % | From 52w high % | RSI | vs 200-day % | Flags |
 |---|---|---|---|---|---|---|---|---|---|
-| SNDK | Sandisk · Information Technology | -16.05 | -4.68 | 1.51 | -49.73 | -73.10 | 25.4 | -50.70 |  |
+| SNDK | Sandisk · Information Technology | -16.05 | -4.68 | 1.52 | -49.73 | -73.10 | 25.4 | -50.70 |  |
 | BE | Bloom Energy · Industrials | -15.3 | -3.62 | 1.66 | -34.61 | -59.50 | 32.4 | -36.40 |  |
-| NVDA | Nvidia · Information Technology | -14.01 | -1.65 | 3.64 | -40.85 | -48.40 | 15.0 | -38.27 | Tracked, Semi |
-| LITE | Lumentum · Information Technology | -13.94 | -3.6 | 1.04 | -38.80 | -59.70 | 30.1 | -43.56 |  |
-| SMTC | Semtech · Information Technology | -13.93 | -4.48 | 1.11 | -29.96 | -56.60 | 32.7 | -31.09 | Semi |
-| MU | Micron Technology · Information Technology | -13.89 | -3.59 | 2.05 | -30.59 | -52.60 | 29.5 | -23.04 | Tracked, Semi |
-| TTMI | TTM Technologies · Information Technology | -13.46 | -3.68 | 2.14 | -20.35 | -73.70 | 33.7 | -53.35 |  |
-| DOCN | DigitalOcean · Information Technology | -13.4 | -4.14 | 1.69 | -27.43 | -64.40 | 31.0 | -41.11 |  |
+| NVDA | Nvidia · Information Technology | -14.01 | -1.69 | 3.7 | -40.85 | -48.40 | 15.0 | -38.27 | Tracked, Semi |
+| LITE | Lumentum · Information Technology | -13.94 | -3.6 | 1.05 | -38.80 | -59.70 | 30.1 | -43.56 |  |
+| SMTC | Semtech · Information Technology | -13.93 | -4.48 | 1.12 | -29.96 | -56.60 | 32.7 | -31.09 | Semi |
+| MU | Micron Technology · Information Technology | -13.89 | -3.62 | 2.06 | -30.59 | -52.60 | 29.5 | -23.04 | Tracked, Semi |
+| TTMI | TTM Technologies · Information Technology | -13.46 | -3.68 | 2.15 | -20.35 | -73.70 | 33.7 | -53.35 |  |
+| DOCN | DigitalOcean · Information Technology | -13.4 | -4.14 | 1.7 | -27.43 | -64.40 | 31.0 | -41.11 |  |
 | AMD | Advanced Micro Devices · Information Technology | -13.25 | -3.57 | 2.4 | -16.45 | -35.60 | 38.4 | -1.26 | Tracked, Semi |
 | ONTO | Onto Innovation · Information Technology | -13.15 | -4.0 | 1.16 | -14.35 | -56.00 | 35.8 | -34.53 | Semi |
 
