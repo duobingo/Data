@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-20 12:00 ET
+# Alerts — watcher run 2026-11-20 12:59 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,14 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 12:59 | 1 | META | Down 4.3% (regular) | META -4.3% at 570.74 vs 596.22 close (regular, 12:55 ET) |  |
+| 11-20 12:59 | 1 | QCOM | Down 4.1% (regular) | QCOM -4.1% at 155.32 vs 162.01 close (regular, 12:55 ET) |  |
+| 11-20 12:59 | 1 | CAT | Down 4.3% (regular) | CAT -4.3% at 514.34 vs 537.37 close (regular, 12:55 ET) |  |
+| 11-20 12:59 | 1 | MU | Down 12.6% (regular) | MU -12.6% at 603.28 vs 690.44 close (regular, 12:55 ET) |  |
+| 11-20 12:59 | 1 | KLAC | Down 9.2% (regular) | KLAC -9.2% at 128.46 vs 141.48 close (regular, 12:55 ET) |  |
+| 11-20 12:59 | 1 | ADI | Down 6.3% (regular) | ADI -6.3% at 353.56 vs 377.44 close (regular, 12:55 ET) |  |
+| 11-20 12:59 | 1 | HOOD | Down 6.4% (regular) | HOOD -6.4% at 64.29 vs 68.65 close (regular, 12:55 ET) |  |
+| 11-20 12:59 | 1 | BFLY | Down 6.3% (regular) | BFLY -6.3% at 5.48 vs 5.85 close (regular, 12:55 ET) |  |
 | 11-20 12:00 | 1 | AVGO | Down 10.3% (regular) | AVGO -10.3% at 311.02 vs 346.65 close (regular, 12:00 ET) |  |
 | 11-20 12:00 | 1 | TSLA | Down 5.2% (regular) | TSLA -5.2% at 355.10 vs 374.41 close (regular, 12:00 ET) |  |
 | 11-20 12:00 | 1 | ORCL | Down 7.0% (regular) | ORCL -7.0% at 102.85 vs 110.57 close (regular, 12:00 ET) |  |
@@ -148,19 +156,20 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-18 19:15 | 2 | COST | Legal/regulatory | Costco recalls food product that’s popular during the holidays | [link](https://finnhub.io/api/news?id=1b58680601e857434c10b374d2a6f79cea03b314661d06272bf6702c047e4f2d) |
 | 11-18 17:19 | 1 | NVDA | Leadership | Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated | [link](https://finnhub.io/api/news?id=d0d9a150f61aee1e1f446d7a1fae80c4ee1a1b97833d1c235ff748be35fcacbc) |
 | 11-18 17:19 | 1 | PANW | Guidance | Palo Alto beats estimates, raises guidance and makes $4.5B AI bet | [link](https://finnhub.io/api/news?id=3fcbf4f402c788df0b1e9b8df714e0c7bfe3f00230a18707f8ec61e5ad897033) |
-| 11-18 17:19 | 1 | PANW | Guidance | Palo Alto Networks Q1 Adjusted Earnings, Revenue Rises; Lifts 2027 Outlook; Announces Applied Compute Acquisition | [link](https://finnhub.io/api/news?id=199a7992aaa1fd94ea9dc8b6d6656ecd385b08cc299d1d3a9190ed5443eceb4b) |
-| 11-18 17:19 | 2 | PANW | 8-K: 2.02 Earnings results | 8-K - Palo Alto Networks Inc (0001327567) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1327567/000132756726000030/0001327567-26-000030-index.htm) |
-| 11-18 17:19 | 1 | MRK | 8-K: 5.02 Executive/director change | 8-K - Merck & Co., Inc. (0000310158) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/310158/000031015826000255/0000310158-26-000255-index.htm) |
-| 11-18 16:23 | 1 | PANW | Up 8.1% (after-hours) | PANW +8.1% at 367.50 vs 339.92 close (after-hours, 16:20 ET) |  |
-| 11-18 16:23 | 1 | CRWD | Up 5.4% (after-hours) | CRWD +5.4% at 249.85 vs 237.03 close (after-hours, 16:20 ET) |  |
-| 11-18 16:23 | 2 | SPGI | 8-K: 1.01 Material agreement | 8-K - S&P Global Inc. (0000064040) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/64040/000110465926129710/0001104659-26-129710-index.htm) |
-| 11-18 15:26 | 1 | TJX | Up 8.9% (regular) | TJX +8.9% at 141.46 vs 129.85 close (regular, 15:25 ET) |  |
-| 11-18 15:26 | 2 | NVDA | Analyst | Nvidia’s Annual GPU Upgrades Are Changing the HBM Investment Outlook | [link](https://finnhub.io/api/news?id=2ecc64acd81f9649cb6c1045a31421e57244dc8f331f84702f23b2f6ed3c0875) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 12:59 | 2 | LITE | Down 12.0% (regular) | LITE -12.0% at 470.88 vs 535.15 close (regular, 13:00 ET) |  |
+| 11-20 12:59 | 2 | TER | Down 8.2% (regular) | TER -8.2% at 208.85 vs 227.43 close (regular, 12:55 ET) |  |
+| 11-20 12:59 | 2 | AEIS | Down 9.3% (regular) | AEIS -9.3% at 192.60 vs 212.24 close (regular, 13:00 ET) |  |
+| 11-20 12:59 | 2 | ALGM | Down 9.0% (regular) | ALGM -9.0% at 25.85 vs 28.42 close (regular, 13:00 ET) |  |
+| 11-20 12:59 | 2 | ENTG | Down 9.2% (regular) | ENTG -9.2% at 125.47 vs 138.14 close (regular, 13:00 ET) |  |
+| 11-20 12:59 | 2 | MTZ | Down 12.6% (regular) | MTZ -12.6% at 143.97 vs 164.76 close (regular, 13:00 ET) |  |
+| 11-20 12:59 | 2 | NXT | Down 9.4% (regular) | NXT -9.4% at 68.85 vs 75.95 close (regular, 13:00 ET) |  |
+| 11-20 12:59 | 2 | SITM | Down 10.7% (regular) | SITM -10.7% at 361.55 vs 405.10 close (regular, 13:00 ET) |  |
+| 11-20 12:59 | 2 | VICR | Down 12.7% (regular) | VICR -12.7% at 123.60 vs 141.52 close (regular, 13:00 ET) |  |
 | 11-20 12:00 | 2 | COHR | Down 14.4% (regular) | COHR -14.4% at 184.05 vs 214.94 close (regular, 12:00 ET) |  |
 | 11-20 12:00 | 2 | GLW | Down 9.6% (regular) | GLW -9.6% at 95.81 vs 105.97 close (regular, 12:00 ET) |  |
 | 11-20 12:00 | 2 | DELL | Down 10.4% (regular) | DELL -10.4% at 280.02 vs 312.54 close (regular, 12:00 ET) |  |
@@ -287,12 +296,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-17 14:06 | 2 | NXT | Down 9.4% (regular) | NXT -9.4% at 80.94 vs 89.31 close (regular, 14:05 ET) |  |
 | 11-17 13:06 | 2 | ACM | Up 12.7% (regular) | ACM +12.7% at 81.74 vs 72.50 close (regular, 13:05 ET) |  |
 | 11-17 13:06 | 2 | BILL | Up 9.3% (regular) | BILL +9.3% at 63.00 vs 57.63 close (regular, 13:05 ET) |  |
-| 11-17 12:06 | 2 | BILL | Up 8.3% (regular) | BILL +8.3% at 62.38 vs 57.63 close (regular, 12:05 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 12:59 | 2 | — | Market stress | We’re making another small buy as the market sell-off deepens | [link](https://www.cnbc.com/investingclub/2026/11/20/were-making-another-small-buy-as-the-market-sell-off-deepens.html) |
 | 11-20 10:59 | 2 | — | Market stress | Bitcoin selloff: Crypto is failing the 'digital gold' test again as it sinks with stocks | [link](https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html) |
 | 11-20 06:42 | 2 | — | Market stress | Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market | [link](https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html) |
 | 11-18 14:25 | 2 | — | Market stress | Nvidia reverses, metals crash ahead of Anthropic IPO: Options Action Live | [link](https://www.cnbc.com/2026/11/18/nvidia-reverses-metals-crash-ahead-of-anthropic-ipo-options-action-live.html) |
