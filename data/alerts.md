@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-20 15:02 ET
+# Alerts — watcher run 2026-11-20 15:53 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,18 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 15:53 | 1 | NVDA | Down 12.8% (regular) | NVDA -12.8% at 127.29 vs 145.98 close (regular, 15:50 ET) |  |
+| 11-20 15:53 | 1 | AMZN | Down 4.2% (regular) | AMZN -4.2% at 246.56 vs 257.37 close (regular, 15:50 ET) |  |
+| 11-20 15:53 | 1 | AMD | Down 12.8% (regular) | AMD -12.8% at 426.58 vs 489.19 close (regular, 15:50 ET) |  |
+| 11-20 15:53 | 1 | CSCO | Down 4.3% (regular) | CSCO -4.3% at 90.62 vs 94.70 close (regular, 15:50 ET) |  |
+| 11-20 15:53 | 1 | QCOM | Down 7.0% (regular) | QCOM -7.0% at 150.63 vs 162.01 close (regular, 15:50 ET) |  |
+| 11-20 15:53 | 1 | ANET | Down 12.2% (regular) | ANET -12.2% at 166.50 vs 189.59 close (regular, 15:50 ET) |  |
+| 11-20 15:53 | 1 | PLTR | Down 6.7% (regular) | PLTR -6.7% at 143.44 vs 153.68 close (regular, 15:50 ET) |  |
+| 11-20 15:53 | 1 | CRWD | Down 6.5% (regular) | CRWD -6.5% at 227.63 vs 243.46 close (regular, 15:50 ET) |  |
+| 11-20 15:53 | 1 | SHOP | Down 6.3% (regular) | SHOP -6.3% at 123.63 vs 131.97 close (regular, 15:50 ET) |  |
+| 11-20 15:53 | 1 | BX | Down 4.2% (regular) | BX -4.2% at 111.16 vs 115.99 close (regular, 15:50 ET) |  |
+| 11-20 15:53 | 1 | LCID | Down 10.4% (regular) | LCID -10.4% at 2.50 vs 2.79 close (regular, 15:50 ET) |  |
+| 11-20 15:53 | 1 | OKLO | Down 4.8% (regular) | OKLO -4.8% at 19.85 vs 20.84 close (regular, 15:50 ET) |  |
 | 11-20 15:02 | 1 | NVDA | Down 11.7% (regular) | NVDA -11.7% at 128.84 vs 145.98 close (regular, 15:00 ET) |  |
 | 11-20 15:02 | 1 | AVGO | Down 12.0% (regular) | AVGO -12.0% at 304.99 vs 346.65 close (regular, 15:00 ET) |  |
 | 11-20 15:02 | 1 | TXN | Down 6.3% (regular) | TXN -6.3% at 267.78 vs 285.75 close (regular, 15:00 ET) |  |
@@ -144,23 +156,24 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-19 10:00 | 1 | PLTR | Up 5.1% (regular) | PLTR +5.1% at 164.65 vs 156.67 close (regular, 10:00 ET) |  |
 | 11-19 10:00 | 1 | CRWD | Up 6.5% (regular) | CRWD +6.5% at 252.51 vs 237.03 close (regular, 10:00 ET) |  |
 | 11-19 10:00 | 1 | SNOW | Up 4.5% (regular) | SNOW +4.5% at 292.11 vs 279.62 close (regular, 10:00 ET) |  |
-| 11-19 10:00 | 1 | HOOD | Up 5.1% (regular) | HOOD +5.1% at 72.69 vs 69.17 close (regular, 10:00 ET) |  |
-| 11-19 10:00 | 1 | RBLX | Up 4.3% (regular) | RBLX +4.3% at 49.38 vs 47.33 close (regular, 10:00 ET) |  |
-| 11-19 10:00 | 1 | IONQ | Up 6.9% (regular) | IONQ +6.9% at 25.09 vs 23.48 close (regular, 10:00 ET) |  |
-| 11-19 10:00 | 1 | SMCI | Up 4.1% (regular) | SMCI +4.1% at 25.38 vs 24.37 close (regular, 10:00 ET) |  |
-| 11-19 10:00 | 1 | ACHR | Up 4.2% (regular) | ACHR +4.2% at 3.37 vs 3.23 close (regular, 10:00 ET) |  |
-| 11-19 10:00 | 1 | OKLO | Up 4.1% (regular) | OKLO +4.1% at 22.69 vs 21.80 close (regular, 10:00 ET) |  |
-| 11-19 09:04 | 1 | GOOGL | Up 4.1% (premarket) | GOOGL +4.1% at 293.98 vs 282.44 close (premarket, 09:00 ET) |  |
-| 11-19 09:04 | 1 | PANW | Up 7.1% (premarket) | PANW +7.1% at 364.13 vs 339.92 close (premarket, 09:00 ET) |  |
-| 11-19 09:04 | 1 | JNJ | FDA/trial | Johnson & Johnson Seeks U.S. FDA Approval for CAPLYTA in Bipolar Mania, Marking Fifth Potential Indication | [link](https://finnhub.io/api/news?id=2d380f5accf1d614df7418c5c0cc9f7ca69cbdaa0af5e9e9570f9a670b1546fc) |
-| 11-19 07:46 | 1 | ACHR | Up 4.3% (premarket) | ACHR +4.3% at 3.37 vs 3.23 close (premarket, 07:40 ET) |  |
-| 11-19 07:46 | 1 | WMT | Guidance | Walmart raises its outlook for the year for the 3rd time after a solid quarter | [link](https://finnhub.io/api/news?id=78e246d2be04a1b0892155cc781298ef801eaec833cd9a792aa0b08999eeae9d) |
-| 11-19 07:46 | 1 | BLK | Deal | BlackRock to acquire Brazilian asset manager SulAmérica | [link](https://finnhub.io/api/news?id=0af147deb948b64c9f35d7c8d54cb7cd3617a5c4b85abadbd1a317610477e196) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 15:53 | 2 | BE | Down 15.3% (regular) | BE -15.3% at 142.32 vs 168.11 close (regular, 15:50 ET) |  |
+| 11-20 15:53 | 2 | ECHO | Down 8.8% (regular) | ECHO -8.8% at 84.15 vs 92.31 close (regular, 15:50 ET) |  |
+| 11-20 15:53 | 2 | FSLR | Down 9.2% (regular) | FSLR -9.2% at 137.90 vs 151.95 close (regular, 15:50 ET) |  |
+| 11-20 15:53 | 2 | ON | Down 9.7% (regular) | ON -9.7% at 59.34 vs 65.72 close (regular, 15:50 ET) |  |
+| 11-20 15:53 | 2 | Q | Down 9.3% (regular) | Q -9.3% at 103.10 vs 113.63 close (regular, 15:50 ET) |  |
+| 11-20 15:53 | 2 | SNPS | Down 8.1% (regular) | SNPS -8.1% at 395.98 vs 430.91 close (regular, 15:50 ET) |  |
+| 11-20 15:53 | 2 | URI | Down 8.0% (regular) | URI -8.0% at 974.36 vs 1059.56 close (regular, 15:50 ET) |  |
+| 11-20 15:53 | 2 | AVAV | Down 9.5% (regular) | AVAV -9.5% at 86.84 vs 95.91 close (regular, 15:50 ET) |  |
+| 11-20 15:53 | 2 | BRKR | Down 9.0% (regular) | BRKR -9.0% at 56.51 vs 62.10 close (regular, 15:50 ET) |  |
+| 11-20 15:53 | 2 | CLF | Down 9.8% (regular) | CLF -9.8% at 10.57 vs 11.72 close (regular, 15:50 ET) |  |
+| 11-20 15:53 | 2 | KTOS | Down 9.8% (regular) | KTOS -9.8% at 26.75 vs 29.65 close (regular, 15:50 ET) |  |
+| 11-20 15:53 | 2 | RMBS | Down 13.6% (regular) | RMBS -13.6% at 65.82 vs 76.19 close (regular, 15:55 ET) |  |
+| 11-20 15:53 | 2 | WCC | Down 8.3% (regular) | WCC -8.3% at 281.65 vs 307.17 close (regular, 15:55 ET) |  |
 | 11-20 15:02 | 2 | P | Down 12.1% (regular) | P -12.1% at 92.72 vs 105.50 close (regular, 15:00 ET) |  |
 | 11-20 15:02 | 2 | FSLR | Down 8.2% (regular) | FSLR -8.2% at 139.45 vs 151.95 close (regular, 15:00 ET) |  |
 | 11-20 15:02 | 2 | HPE | Down 9.3% (regular) | HPE -9.3% at 41.25 vs 45.49 close (regular, 15:00 ET) |  |
@@ -298,19 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-18 09:57 | 2 | MP | Up 8.5% (regular) | MP +8.5% at 37.83 vs 34.86 close (regular, 09:55 ET) |  |
 | 11-18 08:59 | 2 | EXPD | 8-K: 2.02 Earnings results | 8-K - EXPEDITORS INTERNATIONAL OF WASHINGTON INC (0000746515) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/746515/000119312526466274/0001193125-26-466274-index.htm) |
 | 11-18 07:44 | 2 | TXT | 8-K: 1.01 Material agreement; 2.06 Impairment | 8-K - TEXTRON INC (0000217346) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/217346/000110465926129345/0001104659-26-129345-index.htm) |
-| 11-18 07:44 | 2 | ACI | 8-K: 5.02 Executive/director change | 8-K - Albertsons Companies, Inc. (0001646972) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1646972/000164697226000073/0001646972-26-000073-index.htm) |
-| 11-18 07:44 | 2 | TGT | 8-K: 2.02 Earnings results | 8-K - TARGET CORP (0000027419) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/27419/000002741926000051/0000027419-26-000051-index.htm) |
-| 11-17 18:19 | 2 | AMKR | Up 8.0% (after-hours) | AMKR +8.0% at 36.79 vs 34.05 close (after-hours, 18:19 ET) |  |
-| 11-17 18:19 | 2 | TTMI | Up 8.0% (after-hours) | TTMI +8.0% at 72.10 vs 66.74 close (after-hours, 18:20 ET) |  |
-| 11-17 17:21 | 2 | JEF | Down 9.3% (after-hours) | JEF -9.3% at 38.56 vs 42.53 close (after-hours, 16:49 ET) |  |
-| 11-17 17:21 | 2 | CSX | 8-K: 1.01 Material agreement; 1.02 Agreement terminated | 8-K - CSX CORP (0000277948) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/277948/000095010326017684/0000950103-26-017684-index.htm) |
-| 11-17 17:21 | 2 | ECL | 8-K: 2.05 Restructuring/exit costs | 8-K - ECOLAB INC. (0000031462) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/31462/000162828026074572/0001628280-26-074572-index.htm) |
-| 11-17 17:21 | 2 | SYY | 8-K: 5.02 Executive/director change | 8-K - SYSCO CORP (0000096021) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/96021/000095014226003101/0000950142-26-003101-index.htm) |
-| 11-17 17:21 | 2 | UGI | 8-K: 1.01 Material agreement | 8-K - UGI CORP /PA/ (0000884614) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/884614/000110465926129089/0001104659-26-129089-index.htm) |
-| 11-17 16:18 | 2 | O | 8-K: 5.02 Executive/director change | 8-K - REALTY INCOME CORP (0000726728) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/726728/000110465926129070/0001104659-26-129070-index.htm) |
-| 11-17 16:18 | 2 | DLB | 8-K: 2.02 Earnings results | 8-K - Dolby Laboratories, Inc. (0001308547) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1308547/000119312526465542/0001193125-26-465542-index.htm) |
-| 11-17 16:18 | 2 | SPXC | 8-K: 5.02 Executive/director change | 8-K - SPX Technologies, Inc. (0000088205) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/88205/000110465926129057/0001104659-26-129057-index.htm) |
-| 11-17 16:18 | 2 | BSX | 8-K: 5.02 Executive/director change | 8-K - BOSTON SCIENTIFIC CORP (0000885725) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/885725/000088572526000073/0000885725-26-000073-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
