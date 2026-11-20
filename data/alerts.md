@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-20 03:47 ET
+# Alerts — watcher run 2026-11-20 04:43 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 04:43 | 1 | AMD | Down 5.1% (premarket) | AMD -5.1% at 464.30 vs 489.19 close (premarket, 04:40 ET) |  |
+| 11-20 04:43 | 1 | INTU | Down 11.0% (premarket) | INTU -11.0% at 276.00 vs 310.02 close (premarket, 04:42 ET) |  |
+| 11-20 04:43 | 1 | LRCX | Down 4.0% (premarket) | LRCX -4.0% at 195.50 vs 203.68 close (premarket, 04:42 ET) |  |
+| 11-20 04:43 | 1 | SMCI | Down 4.3% (premarket) | SMCI -4.3% at 22.82 vs 23.84 close (premarket, 04:40 ET) |  |
+| 11-20 04:43 | 1 | ARM | Down 5.2% (premarket) | ARM -5.2% at 167.97 vs 177.17 close (premarket, 04:41 ET) |  |
+| 11-20 04:43 | 1 | OKLO | Down 4.2% (premarket) | OKLO -4.2% at 19.97 vs 20.84 close (premarket, 04:35 ET) |  |
 | 11-19 17:34 | 2 | INTU | 8-K: 1.01 Material agreement | 8-K - INTUIT INC. (0000896878) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/896878/000119312526468834/0001193125-26-468834-index.htm) |
 | 11-19 16:35 | 1 | INTU | Down 10.9% (after-hours) | INTU -10.9% at 276.25 vs 310.02 close (after-hours, 16:35 ET) |  |
 | 11-19 16:35 | 1 | NKE | 8-K: 5.02 Executive/director change | 8-K/A - NIKE, Inc. (0000320187) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/320187/000032018726000212/0000320187-26-000212-index.htm) |
@@ -150,12 +156,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-17 12:06 | 1 | TTWO | Down 4.7% (regular) | TTWO -4.7% at 203.48 vs 213.47 close (regular, 12:05 ET) |  |
 | 11-17 12:06 | 1 | RBLX | Down 4.1% (regular) | RBLX -4.1% at 44.23 vs 46.12 close (regular, 12:05 ET) |  |
 | 11-17 10:58 | 1 | CRM | Down 9.2% (regular) | CRM -9.2% at 195.16 vs 214.83 close (regular, 10:55 ET) |  |
-| 11-17 10:58 | 1 | INTU | Down 6.2% (regular) | INTU -6.2% at 324.20 vs 345.56 close (regular, 10:55 ET) |  |
-| 11-17 10:58 | 1 | NOW | Down 6.6% (regular) | NOW -6.6% at 92.86 vs 99.37 close (regular, 10:55 ET) |  |
-| 11-17 10:58 | 1 | MU | Down 5.0% (regular) | MU -5.0% at 683.00 vs 719.02 close (regular, 10:55 ET) |  |
-| 11-17 10:58 | 1 | SNOW | Down 4.9% (regular) | SNOW -4.9% at 266.80 vs 280.54 close (regular, 10:55 ET) |  |
-| 11-17 10:58 | 1 | HOOD | Down 5.1% (regular) | HOOD -5.1% at 68.37 vs 72.06 close (regular, 10:55 ET) |  |
-| 11-17 10:58 | 1 | APP | Down 5.7% (regular) | APP -5.7% at 391.73 vs 415.22 close (regular, 10:55 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
