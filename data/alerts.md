@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-20 05:45 ET
+# Alerts — watcher run 2026-11-20 06:42 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,13 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 06:42 | 1 | AMD | Down 6.4% (premarket) | AMD -6.4% at 458.00 vs 489.19 close (premarket, 06:40 ET) |  |
+| 11-20 06:42 | 1 | MU | Down 4.8% (premarket) | MU -4.8% at 657.45 vs 690.44 close (premarket, 06:40 ET) |  |
+| 11-20 06:42 | 1 | RKLB | Down 4.3% (premarket) | RKLB -4.3% at 48.82 vs 50.99 close (premarket, 06:40 ET) |  |
+| 11-20 06:42 | 1 | TSM | Down 4.1% (premarket) | TSM -4.1% at 337.50 vs 352.09 close (premarket, 06:40 ET) |  |
+| 11-20 06:42 | 1 | FIX | Down 4.8% (premarket) | FIX -4.8% at 1060.00 vs 1114.02 close (premarket, 06:21 ET) |  |
+| 11-20 06:42 | 1 | SPCX | Down 4.5% (premarket) | SPCX -4.5% at 132.16 vs 138.43 close (premarket, 06:40 ET) |  |
+| 11-20 06:42 | 1 | BFLY | Down 5.1% (premarket) | BFLY -5.1% at 5.55 vs 5.85 close (premarket, 06:05 ET) |  |
 | 11-20 05:45 | 1 | AMD | Financing/distress | AMD stock gets drilled again in the wake of surprise short seller report | [link](https://finnhub.io/api/news?id=1389134b0f42496df49ca359bb551878799c3410f86e6575ce26b80df2cfc511) |
 | 11-20 04:43 | 1 | AMD | Down 5.1% (premarket) | AMD -5.1% at 464.30 vs 489.19 close (premarket, 04:40 ET) |  |
 | 11-20 04:43 | 1 | INTU | Down 11.0% (premarket) | INTU -11.0% at 276.00 vs 310.02 close (premarket, 04:42 ET) |  |
@@ -149,13 +156,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-17 15:11 | 2 | AMZN | Deal | Alphabet, Amazon, and Nvidia All Have a Stake in Anthropic. Here’s the One I’d Buy If I Could Only Pick 1. | [link](https://finnhub.io/api/news?id=54e623e9f7c0fe72db4df2b0243944e711aa4640755147316abdd3d7b2974c5d) |
 | 11-17 14:06 | 1 | NKE | Down 5.7% (regular) | NKE -5.7% at 36.09 vs 38.26 close (regular, 14:05 ET) |  |
 | 11-17 14:06 | 1 | ACHR | Down 6.3% (regular) | ACHR -6.3% at 3.51 vs 3.74 close (regular, 14:05 ET) |  |
-| 11-17 13:06 | 1 | IBM | Down 4.1% (regular) | IBM -4.1% at 232.67 vs 242.51 close (regular, 13:05 ET) |  |
-| 11-17 13:06 | 1 | HIMS | Down 5.9% (regular) | HIMS -5.9% at 17.46 vs 18.56 close (regular, 13:05 ET) |  |
-| 11-17 13:06 | 1 | ACHR | Down 4.7% (regular) | ACHR -4.7% at 3.57 vs 3.74 close (regular, 13:05 ET) |  |
-| 11-17 12:06 | 1 | ORCL | Down 4.0% (regular) | ORCL -4.0% at 114.32 vs 119.09 close (regular, 12:05 ET) |  |
-| 11-17 12:06 | 1 | PANW | Down 4.1% (regular) | PANW -4.1% at 303.21 vs 316.09 close (regular, 12:05 ET) |  |
-| 11-17 12:06 | 1 | TTWO | Down 4.7% (regular) | TTWO -4.7% at 203.48 vs 213.47 close (regular, 12:05 ET) |  |
-| 11-17 12:06 | 1 | RBLX | Down 4.1% (regular) | RBLX -4.1% at 44.23 vs 46.12 close (regular, 12:05 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
@@ -240,6 +240,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 06:42 | 2 | — | Market stress | Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market | [link](https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html) |
 | 11-18 14:25 | 2 | — | Market stress | Nvidia reverses, metals crash ahead of Anthropic IPO: Options Action Live | [link](https://www.cnbc.com/2026/11/18/nvidia-reverses-metals-crash-ahead-of-anthropic-ipo-options-action-live.html) |
 | 11-18 05:44 | 2 | — | Market stress | Five military officers injured in Jordan's helicopter crash, army says - Reuters | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZlNsOHNTUlpqakhGa1lzZXpqM0Z0dXlSR1FoMG5McXIzUXQ0NWRLSHBpdTJBOHNzb2s4c2JCQ1p2aVZxd0xBMGtIYnRSUW90THB5Q1RGbjlXWlRMTXVwX2VhdXRZNmRCZlpTVEhLVEZ6N21tWlZlekxuRUY3YV80S3hCRzVkZDlPbkVpWG81ejl2N2dXQndWSjhMOUc3UjljZUswbVFSNWt4TndHX2dwYmVFbk9XYWxmLTlQblo0TDRFQklOSFpzMEExZw?oc=5) |
 
