@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-20 09:57 ET
+# Alerts — watcher run 2026-11-20 10:59 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,40 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 10:59 | 1 | NVDA | Down 6.1% (regular) | NVDA -6.1% at 137.07 vs 145.98 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | AVGO | Down 8.9% (regular) | AVGO -8.9% at 315.73 vs 346.65 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | UNH | Up 4.4% (regular) | UNH +4.4% at 345.07 vs 330.48 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | ORCL | Down 5.7% (regular) | ORCL -5.7% at 104.24 vs 110.57 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | AMD | Down 9.3% (regular) | AMD -9.3% at 443.77 vs 489.19 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | ACN | Up 4.0% (regular) | ACN +4.0% at 227.40 vs 218.58 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | TXN | Down 4.3% (regular) | TXN -4.3% at 273.59 vs 285.75 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | INTU | Down 8.4% (regular) | INTU -8.4% at 283.83 vs 310.02 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | GS | Down 4.7% (regular) | GS -4.7% at 807.72 vs 847.53 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | MU | Down 10.6% (regular) | MU -10.6% at 616.92 vs 690.44 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | LRCX | Down 7.9% (regular) | LRCX -7.9% at 187.68 vs 203.68 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | AMAT | Down 8.1% (regular) | AMAT -8.1% at 311.41 vs 338.93 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | KLAC | Down 7.0% (regular) | KLAC -7.0% at 131.58 vs 141.48 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | ANET | Down 10.2% (regular) | ANET -10.2% at 170.30 vs 189.59 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | ADI | Down 4.6% (regular) | ADI -4.6% at 360.04 vs 377.44 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | PLTR | Down 4.6% (regular) | PLTR -4.6% at 146.67 vs 153.68 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | HOOD | Down 4.2% (regular) | HOOD -4.2% at 65.79 vs 68.65 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | SOFI | Down 4.0% (regular) | SOFI -4.0% at 12.98 vs 13.53 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | APP | Down 6.1% (regular) | APP -6.1% at 355.76 vs 379.02 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | HIMS | Down 4.6% (regular) | HIMS -4.6% at 15.28 vs 16.02 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | RKLB | Down 6.7% (regular) | RKLB -6.7% at 47.57 vs 50.99 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | IONQ | Down 4.5% (regular) | IONQ -4.5% at 21.68 vs 22.71 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | SMCI | Down 5.8% (regular) | SMCI -5.8% at 22.45 vs 23.84 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | ARM | Down 9.7% (regular) | ARM -9.7% at 159.91 vs 177.17 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | TSM | Down 6.8% (regular) | TSM -6.8% at 327.98 vs 352.09 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | ASML | Down 4.8% (regular) | ASML -4.8% at 1291.42 vs 1356.20 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | VST | Down 4.6% (regular) | VST -4.6% at 118.40 vs 124.15 close (regular, 10:59 ET) |  |
+| 11-20 10:59 | 1 | FIX | Down 6.9% (regular) | FIX -6.9% at 1036.60 vs 1114.02 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | SPCX | Down 6.4% (regular) | SPCX -6.4% at 129.59 vs 138.43 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | BFLY | Down 5.1% (regular) | BFLY -5.1% at 5.55 vs 5.85 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | RIVN | Down 4.5% (regular) | RIVN -4.5% at 10.79 vs 11.29 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | LCID | Down 4.3% (regular) | LCID -4.3% at 2.67 vs 2.79 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | SOUN | Down 4.8% (regular) | SOUN -4.8% at 2.77 vs 2.91 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 1 | ACHR | Down 5.0% (regular) | ACHR -5.0% at 3.04 vs 3.20 close (regular, 10:55 ET) |  |
 | 11-20 09:57 | 1 | INTU | Down 4.2% (regular) | INTU -4.2% at 297.12 vs 310.02 close (regular, 09:55 ET) |  |
 | 11-20 09:57 | 1 | MU | Down 5.0% (regular) | MU -5.0% at 655.85 vs 690.44 close (regular, 09:55 ET) |  |
 | 11-20 09:57 | 1 | ANET | Down 5.4% (regular) | ANET -5.4% at 179.31 vs 189.59 close (regular, 09:55 ET) |  |
@@ -122,45 +156,32 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-18 11:02 | 1 | CVX | Down 4.1% (regular) | CVX -4.1% at 207.17 vs 216.13 close (regular, 11:00 ET) |  |
 | 11-18 11:02 | 1 | PANW | Up 6.1% (regular) | PANW +6.1% at 328.23 vs 309.29 close (regular, 11:00 ET) |  |
 | 11-18 11:02 | 1 | ELV | Down 4.7% (regular) | ELV -4.7% at 413.68 vs 433.93 close (regular, 11:00 ET) |  |
-| 11-18 11:02 | 1 | LULU | Up 5.7% (regular) | LULU +5.7% at 110.06 vs 104.14 close (regular, 11:00 ET) |  |
-| 11-18 11:02 | 1 | CRWD | Up 6.3% (regular) | CRWD +6.3% at 233.40 vs 219.58 close (regular, 11:00 ET) |  |
-| 11-18 11:02 | 1 | RBLX | Up 6.7% (regular) | RBLX +6.7% at 46.93 vs 44.00 close (regular, 11:00 ET) |  |
-| 11-18 11:02 | 1 | IONQ | Down 4.1% (regular) | IONQ -4.1% at 23.83 vs 24.84 close (regular, 11:00 ET) |  |
-| 11-18 11:02 | 1 | FIX | Up 4.7% (regular) | FIX +4.7% at 1150.78 vs 1099.02 close (regular, 11:00 ET) |  |
-| 11-18 09:57 | 1 | TJX | Up 9.4% (regular) | TJX +9.4% at 142.03 vs 129.85 close (regular, 09:55 ET) |  |
-| 11-18 09:57 | 1 | TTWO | Up 7.5% (regular) | TTWO +7.5% at 219.25 vs 203.93 close (regular, 09:55 ET) |  |
-| 11-18 09:57 | 1 | BFLY | Up 5.8% (regular) | BFLY +5.8% at 6.09 vs 5.75 close (regular, 09:55 ET) |  |
-| 11-18 09:57 | 1 | OKLO | Up 5.2% (regular) | OKLO +5.2% at 23.52 vs 22.37 close (regular, 09:55 ET) |  |
-| 11-18 09:57 | 2 | TJX | 8-K: 2.02 Earnings results | 8-K - TJX COMPANIES INC /DE/ (0000109198) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/109198/000010919826000058/0000109198-26-000058-index.htm) |
-| 11-18 08:59 | 2 | LOW | 8-K: 2.02 Earnings results | 8-K - LOWES COMPANIES INC (0000060667) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/60667/000006066726000126/0000060667-26-000126-index.htm) |
-| 11-18 07:44 | 1 | LOW | Down 4.2% (premarket) | LOW -4.2% at 211.20 vs 220.46 close (premarket, 07:35 ET) |  |
-| 11-18 07:44 | 1 | TJX | Up 7.4% (premarket) | TJX +7.4% at 139.52 vs 129.85 close (premarket, 07:40 ET) |  |
-| 11-18 07:44 | 1 | TTWO | Up 5.8% (premarket) | TTWO +5.8% at 215.80 vs 203.93 close (premarket, 07:40 ET) |  |
-| 11-18 06:42 | 1 | TTWO | Up 6.2% (premarket) | TTWO +6.2% at 216.63 vs 203.93 close (premarket, 06:40 ET) |  |
-| 11-18 04:43 | 1 | IONQ | Up 4.7% (premarket) | IONQ +4.7% at 26.01 vs 24.84 close (premarket, 04:40 ET) |  |
-| 11-18 04:43 | 1 | SMCI | Up 4.3% (premarket) | SMCI +4.3% at 25.17 vs 24.14 close (premarket, 04:42 ET) |  |
-| 11-17 19:13 | 1 | SMCI | Up 5.1% (after-hours) | SMCI +5.1% at 25.36 vs 24.14 close (after-hours, 19:10 ET) |  |
-| 11-17 19:13 | 1 | TSM | Up 5.8% (after-hours) | TSM +5.8% at 380.50 vs 359.69 close (after-hours, 19:10 ET) |  |
-| 11-17 18:19 | 1 | NVDA | Up 4.8% (after-hours) | NVDA +4.8% at 162.90 vs 155.46 close (after-hours, 18:15 ET) |  |
-| 11-17 18:19 | 1 | ORCL | Up 4.2% (after-hours) | ORCL +4.2% at 119.82 vs 115.00 close (after-hours, 18:15 ET) |  |
-| 11-17 18:19 | 1 | AMD | Up 4.9% (after-hours) | AMD +4.9% at 528.01 vs 503.41 close (after-hours, 18:15 ET) |  |
-| 11-17 18:19 | 1 | MU | Up 4.8% (after-hours) | MU +4.8% at 746.52 vs 712.42 close (after-hours, 18:15 ET) |  |
-| 11-17 18:19 | 1 | LRCX | Up 4.9% (after-hours) | LRCX +4.9% at 221.00 vs 210.69 close (after-hours, 18:15 ET) |  |
-| 11-17 18:19 | 1 | AMAT | Up 4.0% (after-hours) | AMAT +4.0% at 363.29 vs 349.23 close (after-hours, 18:19 ET) |  |
-| 11-17 18:19 | 1 | ANET | Up 4.3% (after-hours) | ANET +4.3% at 194.50 vs 186.42 close (after-hours, 18:15 ET) |  |
-| 11-17 18:19 | 1 | RKLB | Up 5.5% (after-hours) | RKLB +5.5% at 58.10 vs 55.05 close (after-hours, 18:15 ET) |  |
-| 11-17 18:19 | 1 | IONQ | Up 5.5% (after-hours) | IONQ +5.5% at 26.22 vs 24.84 close (after-hours, 18:15 ET) |  |
-| 11-17 18:19 | 1 | SMCI | Up 6.3% (after-hours) | SMCI +6.3% at 25.65 vs 24.14 close (after-hours, 18:15 ET) |  |
-| 11-17 18:19 | 1 | ARM | Up 5.9% (after-hours) | ARM +5.9% at 194.13 vs 183.39 close (after-hours, 18:15 ET) |  |
-| 11-17 18:19 | 1 | TSM | Up 6.8% (after-hours) | TSM +6.8% at 384.11 vs 359.69 close (after-hours, 18:15 ET) |  |
-| 11-17 18:19 | 1 | ASML | Up 4.0% (after-hours) | ASML +4.0% at 1439.00 vs 1383.11 close (after-hours, 18:15 ET) |  |
-| 11-17 18:19 | 1 | FIX | Up 4.0% (after-hours) | FIX +4.0% at 1143.40 vs 1099.02 close (after-hours, 18:15 ET) |  |
-| 11-17 17:21 | 1 | APP | Deal | AppLovin in talks to acquire ad-tech peer Criteo, Reuters reports | [link](https://finnhub.io/api/news?id=f9defcab49341f2c31a628e1179b52c19b52b1cec8da98de374233703e930c1f) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 10:59 | 2 | BE | Down 12.6% (regular) | BE -12.6% at 146.89 vs 168.11 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 2 | CIEN | Down 9.1% (regular) | CIEN -9.1% at 238.79 vs 262.63 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 2 | COHR | Down 11.2% (regular) | COHR -11.2% at 190.80 vs 214.94 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 2 | DELL | Down 8.2% (regular) | DELL -8.2% at 286.82 vs 312.54 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 2 | P | Down 8.5% (regular) | P -8.5% at 96.56 vs 105.50 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 2 | LITE | Down 9.8% (regular) | LITE -9.8% at 482.66 vs 535.15 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 2 | MRVL | Down 9.2% (regular) | MRVL -9.2% at 125.73 vs 138.47 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 2 | SNDK | Down 14.0% (regular) | SNDK -14.0% at 81.21 vs 94.39 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 2 | STX | Down 10.0% (regular) | STX -10.0% at 469.04 vs 521.39 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 2 | VRT | Down 9.1% (regular) | VRT -9.1% at 168.16 vs 184.99 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 2 | WDC | Down 10.3% (regular) | WDC -10.3% at 266.20 vs 296.78 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 2 | DOCN | Down 11.4% (regular) | DOCN -11.4% at 68.27 vs 77.09 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 2 | FORM | Down 8.3% (regular) | FORM -8.3% at 75.07 vs 81.89 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 2 | GAP | Up 15.0% (regular) | GAP +15.0% at 21.60 vs 18.79 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 2 | LSCC | Down 8.8% (regular) | LSCC -8.8% at 101.20 vs 110.92 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 2 | MTZ | Down 9.6% (regular) | MTZ -9.6% at 148.89 vs 164.76 close (regular, 11:00 ET) |  |
+| 11-20 10:59 | 2 | ONTO | Down 11.7% (regular) | ONTO -11.7% at 172.94 vs 195.93 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 2 | RMBS | Down 8.4% (regular) | RMBS -8.4% at 69.76 vs 76.19 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 2 | SMTC | Down 10.1% (regular) | SMTC -10.1% at 91.55 vs 101.81 close (regular, 11:00 ET) |  |
+| 11-20 10:59 | 2 | TTMI | Down 12.0% (regular) | TTMI -12.0% at 59.87 vs 68.00 close (regular, 10:55 ET) |  |
+| 11-20 10:59 | 2 | VICR | Down 10.0% (regular) | VICR -10.0% at 127.39 vs 141.52 close (regular, 10:55 ET) |  |
 | 11-20 09:57 | 2 | GAP | Up 16.3% (regular) | GAP +16.3% at 21.85 vs 18.79 close (regular, 09:55 ET) |  |
 | 11-20 09:57 | 2 | AAL | 8-K: 5.02 Executive/director change | 8-K - American Airlines Group Inc. (0000006201) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/6201/000000620126000081/0000006201-26-000081-index.htm) |
 | 11-20 09:01 | 2 | SAIC | Down 9.3% (premarket) | SAIC -9.3% at 130.00 vs 143.33 close (premarket, 07:55 ET) |  |
@@ -244,6 +265,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 10:59 | 2 | — | Market stress | Bitcoin selloff: Crypto is failing the 'digital gold' test again as it sinks with stocks | [link](https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html) |
 | 11-20 06:42 | 2 | — | Market stress | Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market | [link](https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html) |
 | 11-18 14:25 | 2 | — | Market stress | Nvidia reverses, metals crash ahead of Anthropic IPO: Options Action Live | [link](https://www.cnbc.com/2026/11/18/nvidia-reverses-metals-crash-ahead-of-anthropic-ipo-options-action-live.html) |
 | 11-18 05:44 | 2 | — | Market stress | Five military officers injured in Jordan's helicopter crash, army says - Reuters | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZlNsOHNTUlpqakhGa1lzZXpqM0Z0dXlSR1FoMG5McXIzUXQ0NWRLSHBpdTJBOHNzb2s4c2JCQ1p2aVZxd0xBMGtIYnRSUW90THB5Q1RGbjlXWlRMTXVwX2VhdXRZNmRCZlpTVEhLVEZ6N21tWlZlekxuRUY3YV80S3hCRzVkZDlPbkVpWG81ejl2N2dXQndWSjhMOUc3UjljZUswbVFSNWt4TndHX2dwYmVFbk9XYWxmLTlQblo0TDRFQklOSFpzMEExZw?oc=5) |
