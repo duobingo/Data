@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-20 07:45 ET
+# Alerts — watcher run 2026-11-20 09:01 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -161,6 +161,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 09:01 | 2 | SAIC | Down 9.3% (premarket) | SAIC -9.3% at 130.00 vs 143.33 close (premarket, 07:55 ET) |  |
+| 11-20 09:01 | 2 | BILL | 8-K: 1.01 Material agreement | 8-K - BILL Holdings, Inc. (0001786352) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1786352/000119312526469396/0001193125-26-469396-index.htm) |
+| 11-20 09:01 | 2 | CHRW | 8-K: 1.01 Material agreement | 8-K - C. H. ROBINSON WORLDWIDE, INC. (0001043277) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1043277/000104327726000051/0001043277-26-000051-index.htm) |
+| 11-20 09:01 | 2 | WAB | 8-K: 5.02 Executive/director change | 8-K - WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP (0000943452) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/943452/000114036126045007/0001140361-26-045007-index.htm) |
+| 11-20 09:01 | 2 | PYPL | 8-K: 5.02 Executive/director change | 8-K - PayPal Holdings, Inc. (0001633917) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1633917/000119312526469335/0001193125-26-469335-index.htm) |
+| 11-20 09:01 | 2 | IESC | 8-K: 2.02 Earnings results; 5.02 Executive/director change | 8-K - IES Holdings, Inc. (0001048268) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1048268/000104826826000176/0001048268-26-000176-index.htm) |
 | 11-20 07:45 | 2 | BJ | 8-K: 2.02 Earnings results | 8-K - BJ's Wholesale Club Holdings, Inc. (0001531152) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1531152/000153115226000083/0001531152-26-000083-index.htm) |
 | 11-19 19:28 | 2 | DTE | Down 11.8% (after-hours) | DTE -11.8% at 120.00 vs 136.13 close (after-hours, 18:30 ET) |  |
 | 11-19 16:35 | 2 | KBR | 8-K: 5.02 Executive/director change | 8-K - KBR, INC. (0001357615) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1357615/000135761526000210/0001357615-26-000210-index.htm) |
