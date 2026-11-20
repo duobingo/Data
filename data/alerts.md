@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-20 14:00 ET
+# Alerts — watcher run 2026-11-20 15:02 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,23 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 15:02 | 1 | NVDA | Down 11.7% (regular) | NVDA -11.7% at 128.84 vs 145.98 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 1 | AVGO | Down 12.0% (regular) | AVGO -12.0% at 304.99 vs 346.65 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 1 | TXN | Down 6.3% (regular) | TXN -6.3% at 267.78 vs 285.75 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 1 | GS | Down 6.2% (regular) | GS -6.2% at 795.33 vs 847.53 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 1 | MS | Down 4.7% (regular) | MS -4.7% at 166.71 vs 174.98 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 1 | PANW | Down 4.6% (regular) | PANW -4.6% at 345.27 vs 361.73 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 1 | SHOP | Down 5.3% (regular) | SHOP -5.3% at 125.03 vs 131.97 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 1 | SOFI | Down 7.1% (regular) | SOFI -7.1% at 12.57 vs 13.53 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 1 | COIN | Down 4.2% (regular) | COIN -4.2% at 104.32 vs 108.87 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 1 | RKLB | Down 9.8% (regular) | RKLB -9.8% at 45.98 vs 50.99 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 1 | ARM | Down 12.8% (regular) | ARM -12.8% at 154.49 vs 177.17 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 1 | ASML | Down 6.2% (regular) | ASML -6.2% at 1271.76 vs 1356.20 close (regular, 15:02 ET) |  |
+| 11-20 15:02 | 1 | VST | Down 6.8% (regular) | VST -6.8% at 115.71 vs 124.15 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 1 | CEG | Down 4.6% (regular) | CEG -4.6% at 240.39 vs 252.03 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 1 | RIVN | Down 7.8% (regular) | RIVN -7.8% at 10.41 vs 11.29 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 1 | SOUN | Down 9.3% (regular) | SOUN -9.3% at 2.64 vs 2.91 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 1 | ACHR | Down 9.2% (regular) | ACHR -9.2% at 2.91 vs 3.20 close (regular, 15:00 ET) |  |
 | 11-20 14:00 | 1 | TSLA | Down 6.3% (regular) | TSLA -6.3% at 350.88 vs 374.41 close (regular, 14:00 ET) |  |
 | 11-20 14:00 | 1 | INTU | Down 10.2% (regular) | INTU -10.2% at 278.53 vs 310.02 close (regular, 14:00 ET) |  |
 | 11-20 12:59 | 1 | META | Down 4.3% (regular) | META -4.3% at 570.74 vs 596.22 close (regular, 12:55 ET) |  |
@@ -139,28 +156,24 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-19 07:46 | 1 | ACHR | Up 4.3% (premarket) | ACHR +4.3% at 3.37 vs 3.23 close (premarket, 07:40 ET) |  |
 | 11-19 07:46 | 1 | WMT | Guidance | Walmart raises its outlook for the year for the 3rd time after a solid quarter | [link](https://finnhub.io/api/news?id=78e246d2be04a1b0892155cc781298ef801eaec833cd9a792aa0b08999eeae9d) |
 | 11-19 07:46 | 1 | BLK | Deal | BlackRock to acquire Brazilian asset manager SulAmérica | [link](https://finnhub.io/api/news?id=0af147deb948b64c9f35d7c8d54cb7cd3617a5c4b85abadbd1a317610477e196) |
-| 11-19 07:46 | 1 | REGN | FDA/trial | Alnylam Collaborator Regeneron Secures FDA Approval of Livsayis™ (cemdisiran), the Seventh FDA-Approved Therapeutic from Alnylam's RNAi Platform in Less Than Nine Years | [link](https://finnhub.io/api/news?id=c964281093d2672097240da1b7450283a3e4c65dd0258ec36dec5989cdc5923b) |
-| 11-19 06:40 | 1 | LRCX | Up 4.6% (premarket) | LRCX +4.6% at 221.34 vs 211.67 close (premarket, 06:35 ET) |  |
-| 11-19 06:40 | 1 | AMAT | Up 4.5% (premarket) | AMAT +4.5% at 368.00 vs 352.30 close (premarket, 06:39 ET) |  |
-| 11-19 06:40 | 1 | KLAC | Up 4.3% (premarket) | KLAC +4.3% at 151.06 vs 144.88 close (premarket, 06:30 ET) |  |
-| 11-19 06:40 | 1 | CRWD | Up 5.8% (premarket) | CRWD +5.8% at 250.80 vs 237.03 close (premarket, 06:40 ET) |  |
-| 11-19 06:40 | 1 | IONQ | Up 4.8% (premarket) | IONQ +4.8% at 24.60 vs 23.48 close (premarket, 06:40 ET) |  |
-| 11-19 06:40 | 1 | SMCI | Up 4.8% (premarket) | SMCI +4.8% at 25.53 vs 24.37 close (premarket, 06:40 ET) |  |
-| 11-19 06:40 | 1 | ASML | Up 4.0% (premarket) | ASML +4.0% at 1451.73 vs 1395.27 close (premarket, 06:40 ET) |  |
-| 11-19 06:40 | 1 | OKLO | Up 4.3% (premarket) | OKLO +4.3% at 22.73 vs 21.80 close (premarket, 06:40 ET) |  |
-| 11-19 05:43 | 1 | SNOW | Up 4.1% (premarket) | SNOW +4.1% at 291.00 vs 279.62 close (premarket, 05:39 ET) |  |
-| 11-19 05:43 | 1 | RKLB | Up 4.2% (premarket) | RKLB +4.2% at 55.32 vs 53.07 close (premarket, 05:39 ET) |  |
-| 11-19 05:43 | 1 | ARM | Up 4.5% (premarket) | ARM +4.5% at 191.05 vs 182.76 close (premarket, 05:39 ET) |  |
-| 11-19 04:43 | 1 | MU | Up 4.1% (premarket) | MU +4.1% at 734.50 vs 705.27 close (premarket, 04:40 ET) |  |
-| 11-19 04:43 | 1 | PANW | Up 9.2% (premarket) | PANW +9.2% at 371.27 vs 339.92 close (premarket, 04:40 ET) |  |
-| 11-19 04:43 | 1 | CRWD | Up 6.3% (premarket) | CRWD +6.3% at 251.90 vs 237.03 close (premarket, 04:35 ET) |  |
-| 11-19 04:43 | 1 | HOOD | Up 4.4% (premarket) | HOOD +4.4% at 72.20 vs 69.17 close (premarket, 04:40 ET) |  |
-| 11-18 19:15 | 2 | COST | Legal/regulatory | Costco recalls food product that’s popular during the holidays | [link](https://finnhub.io/api/news?id=1b58680601e857434c10b374d2a6f79cea03b314661d06272bf6702c047e4f2d) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 15:02 | 2 | P | Down 12.1% (regular) | P -12.1% at 92.72 vs 105.50 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 2 | FSLR | Down 8.2% (regular) | FSLR -8.2% at 139.45 vs 151.95 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 2 | HPE | Down 9.3% (regular) | HPE -9.3% at 41.25 vs 45.49 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 2 | JBL | Down 8.1% (regular) | JBL -8.1% at 226.54 vs 246.44 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 2 | Q | Down 8.0% (regular) | Q -8.0% at 104.52 vs 113.63 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 2 | SNDK | Down 15.6% (regular) | SNDK -15.6% at 79.64 vs 94.39 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 2 | TER | Down 9.2% (regular) | TER -9.2% at 206.49 vs 227.43 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 2 | AVAV | Down 8.1% (regular) | AVAV -8.1% at 88.13 vs 95.91 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 2 | BDC | Down 8.2% (regular) | BDC -8.2% at 91.87 vs 100.04 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 2 | FN | Down 9.2% (regular) | FN -9.2% at 283.02 vs 311.71 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 2 | GAP | Up 11.0% (regular) | GAP +11.0% at 20.86 vs 18.79 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 2 | IPGP | Down 8.2% (regular) | IPGP -8.2% at 58.70 vs 63.94 close (regular, 15:00 ET) |  |
+| 11-20 15:02 | 2 | KTOS | Down 8.4% (regular) | KTOS -8.4% at 27.16 vs 29.65 close (regular, 15:00 ET) |  |
 | 11-20 14:00 | 2 | GLW | Down 8.9% (regular) | GLW -8.9% at 96.52 vs 105.97 close (regular, 14:00 ET) |  |
 | 11-20 14:00 | 2 | FLEX | Down 8.2% (regular) | FLEX -8.2% at 68.12 vs 74.22 close (regular, 14:00 ET) |  |
 | 11-20 14:00 | 2 | GPN | Up 10.1% (regular) | GPN +10.1% at 91.96 vs 83.52 close (regular, 14:00 ET) |  |
@@ -298,9 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-17 16:18 | 2 | DLB | 8-K: 2.02 Earnings results | 8-K - Dolby Laboratories, Inc. (0001308547) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1308547/000119312526465542/0001193125-26-465542-index.htm) |
 | 11-17 16:18 | 2 | SPXC | 8-K: 5.02 Executive/director change | 8-K - SPX Technologies, Inc. (0000088205) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/88205/000110465926129057/0001104659-26-129057-index.htm) |
 | 11-17 16:18 | 2 | BSX | 8-K: 5.02 Executive/director change | 8-K - BOSTON SCIENTIFIC CORP (0000885725) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/885725/000088572526000073/0000885725-26-000073-index.htm) |
-| 11-17 16:18 | 2 | ATO | 8-K: 1.01 Material agreement | 8-K - ATMOS ENERGY CORP (0000731802) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/731802/000119312526465513/0001193125-26-465513-index.htm) |
-| 11-17 16:18 | 2 | FLEX | 8-K: 1.01 Material agreement | 8-K - FLEX LTD. (0000866374) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/866374/000119312526465504/0001193125-26-465504-index.htm) |
-| 11-17 14:06 | 2 | NXT | Down 9.4% (regular) | NXT -9.4% at 80.94 vs 89.31 close (regular, 14:05 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
