@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-20 12:59 ET
+# Alerts — watcher run 2026-11-20 14:00 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 14:00 | 1 | TSLA | Down 6.3% (regular) | TSLA -6.3% at 350.88 vs 374.41 close (regular, 14:00 ET) |  |
+| 11-20 14:00 | 1 | INTU | Down 10.2% (regular) | INTU -10.2% at 278.53 vs 310.02 close (regular, 14:00 ET) |  |
 | 11-20 12:59 | 1 | META | Down 4.3% (regular) | META -4.3% at 570.74 vs 596.22 close (regular, 12:55 ET) |  |
 | 11-20 12:59 | 1 | QCOM | Down 4.1% (regular) | QCOM -4.1% at 155.32 vs 162.01 close (regular, 12:55 ET) |  |
 | 11-20 12:59 | 1 | CAT | Down 4.3% (regular) | CAT -4.3% at 514.34 vs 537.37 close (regular, 12:55 ET) |  |
@@ -154,13 +156,18 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-19 04:43 | 1 | CRWD | Up 6.3% (premarket) | CRWD +6.3% at 251.90 vs 237.03 close (premarket, 04:35 ET) |  |
 | 11-19 04:43 | 1 | HOOD | Up 4.4% (premarket) | HOOD +4.4% at 72.20 vs 69.17 close (premarket, 04:40 ET) |  |
 | 11-18 19:15 | 2 | COST | Legal/regulatory | Costco recalls food product that’s popular during the holidays | [link](https://finnhub.io/api/news?id=1b58680601e857434c10b374d2a6f79cea03b314661d06272bf6702c047e4f2d) |
-| 11-18 17:19 | 1 | NVDA | Leadership | Palmer Luckey thinks China is ‘thrilled to have Jensen out,’ so he wants the ousted Nvidia CEO reinstated | [link](https://finnhub.io/api/news?id=d0d9a150f61aee1e1f446d7a1fae80c4ee1a1b97833d1c235ff748be35fcacbc) |
-| 11-18 17:19 | 1 | PANW | Guidance | Palo Alto beats estimates, raises guidance and makes $4.5B AI bet | [link](https://finnhub.io/api/news?id=3fcbf4f402c788df0b1e9b8df714e0c7bfe3f00230a18707f8ec61e5ad897033) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 14:00 | 2 | GLW | Down 8.9% (regular) | GLW -8.9% at 96.52 vs 105.97 close (regular, 14:00 ET) |  |
+| 11-20 14:00 | 2 | FLEX | Down 8.2% (regular) | FLEX -8.2% at 68.12 vs 74.22 close (regular, 14:00 ET) |  |
+| 11-20 14:00 | 2 | GPN | Up 10.1% (regular) | GPN +10.1% at 91.96 vs 83.52 close (regular, 14:00 ET) |  |
+| 11-20 14:00 | 2 | MRVL | Down 8.9% (regular) | MRVL -8.9% at 126.21 vs 138.47 close (regular, 14:00 ET) |  |
+| 11-20 14:00 | 2 | AMKR | Down 8.6% (regular) | AMKR -8.6% at 31.18 vs 34.13 close (regular, 14:00 ET) |  |
+| 11-20 14:00 | 2 | MKSI | Down 8.4% (regular) | MKSI -8.4% at 187.84 vs 205.08 close (regular, 14:00 ET) |  |
+| 11-20 14:00 | 2 | NOVT | Down 9.0% (regular) | NOVT -9.0% at 104.53 vs 114.88 close (regular, 14:00 ET) |  |
 | 11-20 12:59 | 2 | LITE | Down 12.0% (regular) | LITE -12.0% at 470.88 vs 535.15 close (regular, 13:00 ET) |  |
 | 11-20 12:59 | 2 | TER | Down 8.2% (regular) | TER -8.2% at 208.85 vs 227.43 close (regular, 12:55 ET) |  |
 | 11-20 12:59 | 2 | AEIS | Down 9.3% (regular) | AEIS -9.3% at 192.60 vs 212.24 close (regular, 13:00 ET) |  |
@@ -294,8 +301,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-17 16:18 | 2 | ATO | 8-K: 1.01 Material agreement | 8-K - ATMOS ENERGY CORP (0000731802) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/731802/000119312526465513/0001193125-26-465513-index.htm) |
 | 11-17 16:18 | 2 | FLEX | 8-K: 1.01 Material agreement | 8-K - FLEX LTD. (0000866374) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/866374/000119312526465504/0001193125-26-465504-index.htm) |
 | 11-17 14:06 | 2 | NXT | Down 9.4% (regular) | NXT -9.4% at 80.94 vs 89.31 close (regular, 14:05 ET) |  |
-| 11-17 13:06 | 2 | ACM | Up 12.7% (regular) | ACM +12.7% at 81.74 vs 72.50 close (regular, 13:05 ET) |  |
-| 11-17 13:06 | 2 | BILL | Up 9.3% (regular) | BILL +9.3% at 63.00 vs 57.63 close (regular, 13:05 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
