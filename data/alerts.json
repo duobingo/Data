@@ -1,21 +1,6 @@
 {
  "alerts": [
   {
-   "id": "26df76fdef091ff0",
-   "kind": "news",
-   "group": "tracked",
-   "ticker": "NVDA",
-   "name": "Nvidia",
-   "sector": "Information Technology",
-   "severity": 1,
-   "category": "Leadership",
-   "title": "Jensen Huang Misled Nvidia Leadership, Lawyer On Affair With Alleged Chinese Spy: Report",
-   "source": "Yahoo",
-   "url": "https://finnhub.io/api/news?id=ffa55216906a078747cbd1523e7bead48b069a3ad08519f099542bb339de78a0",
-   "published": "2026-11-14 04:25",
-   "first_seen": "2026-11-14T05:25-05:00"
-  },
-  {
    "id": "b2fb87fd1ea1e3ec",
    "kind": "news",
    "group": "tracked",
@@ -7957,6 +7942,6 @@
    "first_seen": "2026-11-20T20:10-05:00"
   }
  ],
- "last_run": "2026-11-21T04:32-05:00",
+ "last_run": "2026-11-21T05:31-05:00",
  "errors": []
 }
