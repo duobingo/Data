@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-20 18:50 ET
+# Alerts — watcher run 2026-11-20 20:10 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-20 20:10 | 1 | CRWD | Deal | CrowdStrike, Zscaler Merger Would Create Cybersecurity Giant | [link](https://finnhub.io/api/news?id=8db09f48a9a0d3285ad7db8b1609f2f3e7a3f02e77d91e03993324f1d8c4e7a6) |
 | 11-20 18:50 | 1 | KLAC | Up 4.1% (after-hours) | KLAC +4.1% at 132.10 vs 126.87 close (after-hours, 18:42 ET) |  |
 | 11-20 17:50 | 1 | CRWD | Down 5.6% (after-hours) | CRWD -5.6% at 216.50 vs 229.44 close (after-hours, 17:45 ET) |  |
 | 11-20 17:50 | 2 | NVDA | Legal/regulatory | Nvidia’s Stock Slide Deepens After Report of SEC Accounting Probe | [link](https://finnhub.io/api/news?id=8ea45aa89b25bf662ec532ef89c9c04f096153d6e9dc711db4f16a9cd9d560e8) |
@@ -155,7 +156,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-19 11:02 | 1 | AMD | Down 7.7% (regular) | AMD -7.7% at 489.17 vs 530.14 close (regular, 11:00 ET) |  |
 | 11-19 11:02 | 1 | PANW | Up 5.1% (regular) | PANW +5.1% at 357.09 vs 339.92 close (regular, 11:00 ET) |  |
 | 11-19 11:02 | 1 | CI | Down 5.1% (regular) | CI -5.1% at 270.90 vs 285.37 close (regular, 11:00 ET) |  |
-| 11-19 11:02 | 1 | NKE | Down 4.4% (regular) | NKE -4.4% at 34.73 vs 36.31 close (regular, 11:00 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
