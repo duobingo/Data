@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-21 05:31 ET
+# Alerts — watcher run 2026-11-21 06:29 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -320,7 +320,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-20 10:59 | 2 | — | Market stress | Bitcoin selloff: Crypto is failing the 'digital gold' test again as it sinks with stocks | [link](https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html) |
 | 11-20 06:42 | 2 | — | Market stress | Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market | [link](https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html) |
 | 11-18 14:25 | 2 | — | Market stress | Nvidia reverses, metals crash ahead of Anthropic IPO: Options Action Live | [link](https://www.cnbc.com/2026/11/18/nvidia-reverses-metals-crash-ahead-of-anthropic-ipo-options-action-live.html) |
-| 11-18 05:44 | 2 | — | Market stress | Five military officers injured in Jordan's helicopter crash, army says - Reuters | [link](https://news.google.com/rss/articles/CBMiywFBVV95cUxQZlNsOHNTUlpqakhGa1lzZXpqM0Z0dXlSR1FoMG5McXIzUXQ0NWRLSHBpdTJBOHNzb2s4c2JCQ1p2aVZxd0xBMGtIYnRSUW90THB5Q1RGbjlXWlRMTXVwX2VhdXRZNmRCZlpTVEhLVEZ6N21tWlZlekxuRUY3YV80S3hCRzVkZDlPbkVpWG81ejl2N2dXQndWSjhMOUc3UjljZUswbVFSNWt4TndHX2dwYmVFbk9XYWxmLTlQblo0TDRFQklOSFpzMEExZw?oc=5) |
 
 ## Watcher health
 
