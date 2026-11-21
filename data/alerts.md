@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-21 08:43 ET
+# Alerts — watcher run 2026-11-21 09:34 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -316,6 +316,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-21 09:34 | 2 | — | Market stress | During Wall Street's worst week in over a year, we put money to work. What we're buying | [link](https://www.cnbc.com/investingclub/2026/11/21/during-wall-streets-worst-week-in-over-a-year-we-put-money-to-work-what-were-buying.html) |
 | 11-21 07:30 | 2 | — | Market stress | S&P 500 correction: Five forces behind the market sell-off | [link](https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html) |
 | 11-20 12:59 | 2 | — | Market stress | We’re making another small buy as the market sell-off deepens | [link](https://www.cnbc.com/investingclub/2026/11/20/were-making-another-small-buy-as-the-market-sell-off-deepens.html) |
 | 11-20 10:59 | 2 | — | Market stress | Bitcoin selloff: Crypto is failing the 'digital gold' test again as it sinks with stocks | [link](https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html) |

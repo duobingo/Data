@@ -7955,8 +7955,23 @@
    "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html",
    "published": "2026-11-21 06:29",
    "first_seen": "2026-11-21T07:30-05:00"
+  },
+  {
+   "id": "ae613ffdaa07a109",
+   "kind": "macro",
+   "group": "market",
+   "ticker": "",
+   "name": "",
+   "sector": "",
+   "severity": 2,
+   "category": "Market stress",
+   "title": "During Wall Street's worst week in over a year, we put money to work. What we're buying",
+   "source": "CNBC",
+   "url": "https://www.cnbc.com/investingclub/2026/11/21/during-wall-streets-worst-week-in-over-a-year-we-put-money-to-work-what-were-buying.html",
+   "published": "2026-11-21 09:22",
+   "first_seen": "2026-11-21T09:34-05:00"
   }
  ],
- "last_run": "2026-11-21T08:43-05:00",
+ "last_run": "2026-11-21T09:34-05:00",
  "errors": []
 }
