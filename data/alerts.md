@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-21 14:19 ET
+# Alerts — watcher run 2026-11-21 15:10 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -310,7 +310,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-18 16:23 | 2 | ALGN | 8-K: 5.02 Executive/director change | 8-K - ALIGN TECHNOLOGY INC (0001097149) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1097149/000109714926000088/0001097149-26-000088-index.htm) |
 | 11-18 16:23 | 2 | WWD | 8-K: 2.02 Earnings results | 8-K - Woodward, Inc. (0000108312) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/108312/000117184326007561/0001171843-26-007561-index.htm) |
 | 11-18 15:26 | 2 | AKAM | Up 8.3% (regular) | AKAM +8.3% at 91.68 vs 84.64 close (regular, 15:25 ET) |  |
-| 11-18 14:25 | 2 | GNRC | Up 9.9% (regular) | GNRC +9.9% at 205.57 vs 187.00 close (regular, 14:25 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
@@ -321,7 +320,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-20 12:59 | 2 | — | Market stress | We’re making another small buy as the market sell-off deepens | [link](https://www.cnbc.com/investingclub/2026/11/20/were-making-another-small-buy-as-the-market-sell-off-deepens.html) |
 | 11-20 10:59 | 2 | — | Market stress | Bitcoin selloff: Crypto is failing the 'digital gold' test again as it sinks with stocks | [link](https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html) |
 | 11-20 06:42 | 2 | — | Market stress | Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market | [link](https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html) |
-| 11-18 14:25 | 2 | — | Market stress | Nvidia reverses, metals crash ahead of Anthropic IPO: Options Action Live | [link](https://www.cnbc.com/2026/11/18/nvidia-reverses-metals-crash-ahead-of-anthropic-ipo-options-action-live.html) |
 
 ## Watcher health
 
