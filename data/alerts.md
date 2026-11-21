@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-21 15:10 ET
+# Alerts — watcher run 2026-11-21 16:09 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -309,7 +309,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-18 16:23 | 2 | NDAQ | 8-K: 5.02 Executive/director change | 8-K - NASDAQ, INC. (0001120193) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1120193/000119312526467087/0001193125-26-467087-index.htm) |
 | 11-18 16:23 | 2 | ALGN | 8-K: 5.02 Executive/director change | 8-K - ALIGN TECHNOLOGY INC (0001097149) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1097149/000109714926000088/0001097149-26-000088-index.htm) |
 | 11-18 16:23 | 2 | WWD | 8-K: 2.02 Earnings results | 8-K - Woodward, Inc. (0000108312) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/108312/000117184326007561/0001171843-26-007561-index.htm) |
-| 11-18 15:26 | 2 | AKAM | Up 8.3% (regular) | AKAM +8.3% at 91.68 vs 84.64 close (regular, 15:25 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
