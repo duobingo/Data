@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-21 17:07 ET
+# Alerts — watcher run 2026-11-21 18:07 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -299,10 +299,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-19 09:04 | 2 | MMS | 8-K: 2.02 Earnings results | 8-K - MAXIMUS, INC. (0001032220) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1032220/000103222026000048/0001032220-26-000048-index.htm) |
 | 11-19 09:04 | 2 | UGI | 8-K: 2.02 Earnings results | 8-K - UGI CORP /PA/ (0000884614) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/884614/000088461426000064/0000884614-26-000064-index.htm) |
 | 11-19 09:04 | 2 | WMG | 8-K: 2.02 Earnings results | 8-K - Warner Music Group Corp. (0001319161) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1319161/000131916126000040/0001319161-26-000040-index.htm) |
-| 11-18 17:19 | 2 | NJR | 8-K: 2.02 Earnings results | 8-K - NEW JERSEY RESOURCES CORP (0000356309) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/356309/000114036126044760/0001140361-26-044760-index.htm) |
-| 11-18 17:19 | 2 | RGLD | 8-K: 5.02 Executive/director change | 8-K - ROYAL GOLD INC (0000085535) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/85535/000008553526000055/0000085535-26-000055-index.htm) |
-| 11-18 17:19 | 2 | ED | 8-K: 1.01 Material agreement | 8-K - CONSOLIDATED EDISON INC (0001047862) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1047862/000119312526467177/0001193125-26-467177-index.htm) |
-| 11-18 17:19 | 2 | SARO | 8-K: 5.02 Executive/director change | 8-K/A - StandardAero, Inc. (0002025410) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/2025410/000119312526467156/0001193125-26-467156-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
