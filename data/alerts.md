@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-21 16:09 ET
+# Alerts — watcher run 2026-11-21 17:07 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -303,12 +303,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-18 17:19 | 2 | RGLD | 8-K: 5.02 Executive/director change | 8-K - ROYAL GOLD INC (0000085535) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/85535/000008553526000055/0000085535-26-000055-index.htm) |
 | 11-18 17:19 | 2 | ED | 8-K: 1.01 Material agreement | 8-K - CONSOLIDATED EDISON INC (0001047862) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1047862/000119312526467177/0001193125-26-467177-index.htm) |
 | 11-18 17:19 | 2 | SARO | 8-K: 5.02 Executive/director change | 8-K/A - StandardAero, Inc. (0002025410) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/2025410/000119312526467156/0001193125-26-467156-index.htm) |
-| 11-18 16:23 | 2 | BG | 8-K: 1.01 Material agreement | 8-K - Bunge Global SA (0001996862) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1996862/000162828026074820/0001628280-26-074820-index.htm) |
-| 11-18 16:23 | 2 | GATX | 8-K: 1.01 Material agreement | 8-K - GATX CORP (0000040211) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/40211/000119312526467128/0001193125-26-467128-index.htm) |
-| 11-18 16:23 | 2 | P | 8-K: 2.02 Earnings results | 8-K - Everpure, Inc. (0001474432) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1474432/000147443226000110/0001474432-26-000110-index.htm) |
-| 11-18 16:23 | 2 | NDAQ | 8-K: 5.02 Executive/director change | 8-K - NASDAQ, INC. (0001120193) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1120193/000119312526467087/0001193125-26-467087-index.htm) |
-| 11-18 16:23 | 2 | ALGN | 8-K: 5.02 Executive/director change | 8-K - ALIGN TECHNOLOGY INC (0001097149) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1097149/000109714926000088/0001097149-26-000088-index.htm) |
-| 11-18 16:23 | 2 | WWD | 8-K: 2.02 Earnings results | 8-K - Woodward, Inc. (0000108312) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/108312/000117184326007561/0001171843-26-007561-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
