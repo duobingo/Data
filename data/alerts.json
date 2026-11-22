@@ -1,21 +1,6 @@
 {
  "alerts": [
   {
-   "id": "b2fb87fd1ea1e3ec",
-   "kind": "news",
-   "group": "tracked",
-   "ticker": "NVDA",
-   "name": "Nvidia",
-   "sector": "Information Technology",
-   "severity": 2,
-   "category": "Analyst",
-   "title": "Jordi Visser Sees December Fed Decision As Bitcoin\u2019s Next Catalyst, Questions Wall Street\u2019s Nvidia Downgrades",
-   "source": "Yahoo",
-   "url": "https://finnhub.io/api/news?id=4b3394d8c6d0cf927f25bd2697f084f2a1986de5074b12a036d23fd7a34be6b6",
-   "published": "2026-11-15 02:51",
-   "first_seen": "2026-11-15T03:32-05:00"
-  },
-  {
    "id": "679fb53cb0795238",
    "kind": "news",
    "group": "tracked",
@@ -7972,6 +7957,6 @@
    "first_seen": "2026-11-21T09:34-05:00"
   }
  ],
- "last_run": "2026-11-22T02:43-05:00",
+ "last_run": "2026-11-22T03:35-05:00",
  "errors": []
 }
