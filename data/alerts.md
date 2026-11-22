@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-22 08:42 ET
+# Alerts — watcher run 2026-11-22 09:34 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -293,12 +293,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-19 10:00 | 2 | STX | Up 8.4% (regular) | STX +8.4% at 559.34 vs 515.90 close (regular, 10:00 ET) |  |
 | 11-19 10:00 | 2 | WDC | Up 8.2% (regular) | WDC +8.2% at 311.95 vs 288.19 close (regular, 10:00 ET) |  |
 | 11-19 10:00 | 2 | VVV | Up 9.7% (regular) | VVV +9.7% at 36.60 vs 33.37 close (regular, 10:00 ET) |  |
-| 11-19 09:04 | 2 | COHR | Up 8.3% (premarket) | COHR +8.3% at 230.51 vs 212.84 close (premarket, 09:00 ET) |  |
-| 11-19 09:04 | 2 | MMS | 8-K: 1.01 Material agreement; 2.01 Acquisition/disposition completed | 8-K - MAXIMUS, INC. (0001032220) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1032220/000103222026000052/0001032220-26-000052-index.htm) |
-| 11-19 09:04 | 2 | WSM | 8-K: 2.02 Earnings results | 8-K - WILLIAMS SONOMA INC (0000719955) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/719955/000071995526000244/0000719955-26-000244-index.htm) |
-| 11-19 09:04 | 2 | MMS | 8-K: 2.02 Earnings results | 8-K - MAXIMUS, INC. (0001032220) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1032220/000103222026000048/0001032220-26-000048-index.htm) |
-| 11-19 09:04 | 2 | UGI | 8-K: 2.02 Earnings results | 8-K - UGI CORP /PA/ (0000884614) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/884614/000088461426000064/0000884614-26-000064-index.htm) |
-| 11-19 09:04 | 2 | WMG | 8-K: 2.02 Earnings results | 8-K - Warner Music Group Corp. (0001319161) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1319161/000131916126000040/0001319161-26-000040-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
