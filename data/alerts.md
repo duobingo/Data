@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-22 17:09 ET
+# Alerts — watcher run 2026-11-22 18:10 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -126,7 +126,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-20 04:43 | 1 | SMCI | Down 4.3% (premarket) | SMCI -4.3% at 22.82 vs 23.84 close (premarket, 04:40 ET) |  |
 | 11-20 04:43 | 1 | ARM | Down 5.2% (premarket) | ARM -5.2% at 167.97 vs 177.17 close (premarket, 04:41 ET) |  |
 | 11-20 04:43 | 1 | OKLO | Down 4.2% (premarket) | OKLO -4.2% at 19.97 vs 20.84 close (premarket, 04:35 ET) |  |
-| 11-19 17:34 | 2 | INTU | 8-K: 1.01 Material agreement | 8-K - INTUIT INC. (0000896878) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/896878/000119312526468834/0001193125-26-468834-index.htm) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
