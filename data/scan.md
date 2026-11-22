@@ -1,4 +1,4 @@
-# Short-term scan — 2026-11-20 16:59 ET
+# Short-term scan — 2026-11-22 18:12 ET
 Universe: S&P 500 + S&P 400 (903 names, 909 priced). Filters: price ≥ $10, avg daily dollar volume ≥ $20M, no semiconductors, no names from the tracked list. These are candidates; check news, catalysts and the trading rules before proposing a trade.
 
 ## Market regime
@@ -7,7 +7,7 @@ Universe: S&P 500 + S&P 400 (903 names, 909 priced). Filters: price ≥ $10, avg
 ## 1. Earnings reactions (beat EPS and revenue, jumped ≥4% on ≥2× volume, still above the reaction-day low and within 5% of the reaction-day close)
 | Ticker | Company | Reported | Reaction day | Reaction % | Gap % | Vol × | EPS surprise % | Rev surprise % | Since % | Reaction-day low | Close |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| TGT | Target Corporation · Consumer Staples | 2026-11-18 bmo | 2026-11-18 | 4.01 | 0.92 | 3.2 | 26.70 | 0.90 | -0.06 | 159.95 | 165.83 |
+| TGT | Target Corporation · Consumer Staples | 2026-11-18 bmo | 2026-11-18 | 4.01 | 0.92 | 3.2 | 26.60 | 0.90 | -0.06 | 159.95 | 165.83 |
 
 ## 2. Breakouts (new 52-week high on ≥1.8× volume, closed near the high, above 50- and 200-day)
 | Ticker | Company | Close | Day % | Vol × | 1m % | 3m % | RSI | ATR | Day low |
@@ -17,27 +17,26 @@ Universe: S&P 500 + S&P 400 (903 names, 909 priced). Filters: price ≥ $10, avg
 ## 3. Oversold in an uptrend (down ≥8% in 3 days, RSI ≤ 30, still above the 200-day)
 | Ticker | Company | Close | 3d % | Day % | RSI | Vol × | vs 200-day % | ATR |
 |---|---|---|---|---|---|---|---|---|
-| DINO | HF Sinclair · Energy | 87.39 | -10.56 | -2.6 | 25.3 | 0.84 | 6.53 | 4.8 |
+| DINO | HF Sinclair · Energy | 87.39 | -10.56 | -2.6 | 25.3 | 0.86 | 6.53 | 4.8 |
 | NTAP | NetApp · Information Technology | 157.65 | -8.89 | -7.36 | 29.3 | 1.0 | 1.12 | 9.21 |
 
 ## 4. Insider cluster buys (open-market, not 10b5-1, last 14 days: ≥2 insiders or ≥$500K)
 | Ticker | Company | Insiders | Total bought | Avg insider price | Close | vs insider price % | Last buy | Who |
 |---|---|---|---|---|---|---|---|---|
-| MTDR | Matador Resources · Energy | 4 | $386.0K | 50.2 | 48.63 | -3.10 | 2026-11-17 | Appel Shelley F (Director); Ehrman Monika U (Director); Foran Joseph Wm (Director, Chairman and CEO); Stetson Glenn W (EVP and COO) |
 | STWD | Starwood Property Trust · Financials | 3 | $18.7M | 11.8 | 10.83 | -8.20 | 2026-11-16 | Pollack Jonathan Lee (Director); Sternlicht Barry S (Director, CEO, Chairman of the Board); Zelnick Strauss (Director) |
 | MP | MP Materials · Materials | 3 | $3.6M | 36.24 | 33.95 | -6.30 | 2026-11-17 | Corbett Ryan (Chief Financial Officer); Rosenthal Michael Stuart (Chief Operating Officer); Weisenburger Randall J (Director) |
+| MTDR | Matador Resources · Energy | 3 | $444.4K | 49.86 | 48.63 | -2.50 | 2026-11-18 | Appel Shelley F (Director); Ehrman Monika U (Director); Foran Joseph Wm (Director, Chairman and CEO) |
 | COHR | Coherent Corp. · Information Technology | 2 | $1.2M | 203.38 | 187.22 | -7.90 | 2026-11-10 | Anderson James Robert (Director, CEO); Digirolomo Enrico (Director) |
+| FLG | Flagstar Bank · Financials | 2 | $546.1K | 10.44 | 9.96 | -4.60 | 2026-11-20 | Otting Joseph M (Director, Exec Chairman and CEO); Smith Lee Matthew (SEVP, Co-Pres, Co-COO & CFO) |
 | CTVA | Corteva · Materials | 2 | $485.7K | 9.29 | 7.89 | -15.10 | 2026-11-16 | Kissam Luther C Iv (Chief Executive Officer); Page Gregory R (Director) |
-| KMI | Kinder Morgan · Energy | 1 | $15.0M | 29.99 | 30.36 | 1.20 | 2026-11-06 | Kinder Richard D (Director, Executive Chairman, 10% owner) |
 | HUBS | HubSpot · Information Technology | 1 | $5.0M | 217.44 | 193.88 | -10.80 | 2026-11-13 | Halligan Brian (Director, Chief Executive Officer) |
 | AKAM | Akamai Technologies · Information Technology | 1 | $2.6M | 85.08 | 85.11 | 0.00 | 2026-11-13 | Leighton F Thomson (Director, Chief Executive Officer) |
 | ROK | Rockwell Automation · Industrials | 1 | $1.5M | 386.36 | 361.93 | -6.30 | 2026-11-09 | Moret Blake D. (Director, President and CEO) |
 | SKYD | Skydance · Communication Services | 1 | $1.5M | 7.49 | 6.20 | -17.20 | 2026-11-17 | Cardinale Gerald J. (Director) |
 | AMG | Affiliated Managers Group · Financials | 1 | $1.0M | 400.0 | 368.15 | -8.00 | 2026-11-12 | Cates G. Staley (Director) |
-| NLY | Annaly Capital Management · Financials | 1 | $940.0K | 18.8 | 16.83 | -10.50 | 2026-11-06 | Wede Scott (Director) |
-| CRH | CRH plc · Materials | 1 | $569.7K | 94.95 | 88.05 | -7.30 | 2026-11-06 | Fearon Richard H (Director) |
 | CNH | CNH Industrial · Industrials | 1 | $566.6K | 12.43 | 10.74 | -13.60 | 2026-11-12 | Simonelli Lorenzo (Director) |
 | ITT | ITT Inc. · Industrials | 1 | $501.6K | 209.86 | 201.09 | -4.20 | 2026-11-18 | Berryman Kevin C (Director) |
+| BA | Boeing · Industrials | 1 | $500.1K | 166.69 | 155.89 | -6.50 | 2026-11-17 | Johri Akhil (Director) |
 
 Insider history builds up over the first two weeks of runs.
 
@@ -45,7 +44,7 @@ Insider history builds up over the first two weeks of runs.
 Sorted by a value-and-quality score. 'Turning' = RSI rising from below 35 or price above its 20-day low by 5%+ (selling may be exhausting). Insider ✓ = in the insider list above.
 | Ticker | Company | Close | From high % | RSI | Turning | P/E TTM | P/FCF | Rev growth % | Op margin % | ROE % | Debt/Equity | Insider | Score |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| SNDK | Sandisk · Information Technology | 79.24 | -73.1 | 25.4 |  | 6.48 | 7.25 | 272.38 | 72.46 | 134.27 | 0 |  | 47.8 |
+| SNDK | Sandisk · Information Technology | 94.39 | -67.9 | 29.4 |  | 6.48 | 7.25 | 272.38 | 72.46 | 134.27 | 0 |  | 47.8 |
 | IESC | IES Holdings · Industrials | 156.06 | -61.8 | 28.3 | ✓ | 15.04 | 30.03 | 57.05 | 12.37 | 43.99 | 0.11 |  | 45.0 |
 | STRL | Sterling Infrastructure · Industrials | 247.92 | -75.3 | 29.2 |  | 15.31 | 18.00 | 93.14 | 18.14 | 42.94 | 0.06 |  | 44.9 |
 | WDC | Western Digital · Information Technology | 261.11 | -67.4 | 34.3 |  | 10.71 | 25.03 | 43.02 | 33.14 | 113.77 | 0.08 |  | 41.4 |
@@ -71,31 +70,30 @@ How to use: for each loser, find the reason. If it's fear, a sector selloff or a
 **Losers**
 | Ticker | Company | Day % | Gap % | Vol × | 1m % | From 52w high % | RSI | vs 200-day % | Flags |
 |---|---|---|---|---|---|---|---|---|---|
-| SNDK | Sandisk · Information Technology | -16.05 | -4.68 | 1.52 | -49.73 | -73.10 | 25.4 | -50.70 |  |
-| BE | Bloom Energy · Industrials | -15.3 | -3.62 | 1.66 | -34.61 | -59.50 | 32.4 | -36.40 |  |
-| NVDA | Nvidia · Information Technology | -14.01 | -1.69 | 3.7 | -40.85 | -48.40 | 15.0 | -38.27 | Tracked, Semi |
-| LITE | Lumentum · Information Technology | -13.94 | -3.6 | 1.05 | -38.80 | -59.70 | 30.1 | -43.56 |  |
+| BE | Bloom Energy · Industrials | -15.3 | -3.62 | 1.7 | -34.61 | -59.50 | 32.4 | -36.40 |  |
+| NVDA | Nvidia · Information Technology | -14.01 | -1.69 | 3.74 | -40.85 | -48.40 | 15.0 | -38.27 | Tracked, Semi |
+| LITE | Lumentum · Information Technology | -13.94 | -3.6 | 1.06 | -38.80 | -59.70 | 30.1 | -43.56 |  |
 | SMTC | Semtech · Information Technology | -13.93 | -4.48 | 1.12 | -29.96 | -56.60 | 32.7 | -31.09 | Semi |
-| MU | Micron Technology · Information Technology | -13.89 | -3.62 | 2.06 | -30.59 | -52.60 | 29.5 | -23.04 | Tracked, Semi |
+| MU | Micron Technology · Information Technology | -13.89 | -3.62 | 2.08 | -30.59 | -52.60 | 29.5 | -23.04 | Tracked, Semi |
 | TTMI | TTM Technologies · Information Technology | -13.46 | -3.68 | 2.15 | -20.35 | -73.70 | 33.7 | -53.35 |  |
 | DOCN | DigitalOcean · Information Technology | -13.4 | -4.14 | 1.7 | -27.43 | -64.40 | 31.0 | -41.11 |  |
-| AMD | Advanced Micro Devices · Information Technology | -13.25 | -3.57 | 2.4 | -16.45 | -35.60 | 38.4 | -1.26 | Tracked, Semi |
+| AMD | Advanced Micro Devices · Information Technology | -13.25 | -3.57 | 2.43 | -16.45 | -35.60 | 38.4 | -1.26 | Tracked, Semi |
 | ONTO | Onto Innovation · Information Technology | -13.15 | -4.0 | 1.16 | -14.35 | -56.00 | 35.8 | -34.53 | Semi |
+| RMBS | Rambus · Information Technology | -12.92 | -2.6 | 1.16 | -22.61 | -61.90 | 31.5 | -37.13 | Semi |
 
 **Gainers**
 | Ticker | Company | Day % | Gap % | Vol × | 1m % | From 52w high % | RSI | vs 200-day % | Flags |
 |---|---|---|---|---|---|---|---|---|---|
 | GAP | Gap Inc. · Consumer Discretionary | 11.44 | 7.77 | 4.5 | -8.60 | -28.70 | 47.3 | -7.59 |  |
-| GPN | Global Payments · Financials | 9.95 | 0.59 | 3.24 | 6.93 | -10.80 | 52.7 | 17.03 |  |
+| GPN | Global Payments · Financials | 9.95 | 0.59 | 3.25 | 6.93 | -10.80 | 52.7 | 17.03 |  |
 | GIS | General Mills · Consumer Staples | 3.65 | 1.54 | 1.52 | 1.59 | -27.90 | 57.4 | -2.64 |  |
 | PPC | Pilgrim's Pride · Consumer Staples | 3.47 | 0.33 | 1.04 | 1.82 | -36.20 | 51.9 | -8.83 |  |
 | MKC | McCormick & Company · Consumer Staples | 3.43 | 1.55 | 1.48 | -2.69 | -34.50 | 50.8 | -9.04 |  |
 | HCA | HCA Healthcare · Health Care | 3.31 | 1.45 | 1.15 | 1.77 | -14.50 | 48.9 | 6.87 |  |
-| CSGP | CoStar Group · Real Estate | 3.17 | 0.78 | 1.27 | -16.47 | -58.00 | 45.9 | -13.80 |  |
-| CTSH | Cognizant · Information Technology | 3.11 | 1.76 | 1.01 | -21.24 | -33.30 | 38.3 | 0.99 |  |
-| DVA | DaVita · Health Care | 3.0 | 0.97 | 0.9 | -13.47 | -34.90 | 35.5 | -11.43 |  |
-| UNH | UnitedHealth Group · Health Care | 2.84 | 2.86 | 2.11 | -20.03 | -26.40 | 29.7 | -7.78 | Tracked |
+| CSGP | CoStar Group · Real Estate | 3.17 | 0.8 | 1.32 | -16.47 | -58.00 | 45.9 | -13.80 |  |
+| CTSH | Cognizant · Information Technology | 3.11 | 1.76 | 1.23 | -21.24 | -33.30 | 38.3 | 0.99 |  |
+| DVA | DaVita · Health Care | 3.0 | 0.97 | 0.95 | -13.47 | -34.90 | 35.5 | -11.43 |  |
+| UNH | UnitedHealth Group · Health Care | 2.84 | 2.86 | 2.12 | -20.03 | -26.40 | 29.7 | -7.78 | Tracked |
 
 ## Data quality
 - insider: index 2026-11-11: 403 Client Error: Forbidden for url: https://www.sec.gov/Archives/edgar/daily-index/2026/QTR4/form.20261111.idx
-- insider: index 2026-11-20: 403 Client Error: Forbidden for url: https://www.sec.gov/Archives/edgar/daily-index/2026/QTR4/form.20261120.idx

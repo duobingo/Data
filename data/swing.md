@@ -1,4 +1,4 @@
-Generated 2026-11-20 16:59 ET
+Generated 2026-11-22 18:12 ET
 
 # Swing scan (setup G) — range trades, backtested
 
@@ -22,14 +22,14 @@ Position: shares = min($2,000 ÷ (entry − stop), $15,000 ÷ entry). $ per trad
 
 ## Today's swing signals (passing names that closed below the lower band)
 - **CDNS** close 281.58 · entry: limit near 281.58 at the open · stop 251.52 (-10.7%) · target 20-day avg 322.75 (+14.6%) · 53 shares ≈ $14.9K · exit by 10 trading days · backtest: 8 trades, 88% wins, avg 4.04%, PF 5.25
-- **CDP** close 31.87 · entry: limit near 31.87 at the open · stop 30.39 (-4.6%) · target 20-day avg 33.11 (+3.9%) · 470 shares ≈ $15.0K · exit by 10 trading days · backtest: 8 trades, 62% wins, avg 1.81%, PF 3.57
+- **CDP** close 31.87 · entry: limit near 31.87 at the open · stop 30.39 (-4.7%) · target 20-day avg 33.11 (+3.9%) · 470 shares ≈ $15.0K · exit by 10 trading days · backtest: 8 trades, 62% wins, avg 1.81%, PF 3.57
 - **SYF** close 67.76 · entry: limit near 67.76 at the open · stop 62.81 (-7.3%) · target 20-day avg 73.11 (+7.9%) · 221 shares ≈ $15.0K · exit by 10 trading days · backtest: 8 trades, 62% wins, avg 1.1%, PF 1.55
 - Watch name **SOFI** closed below its lower band (FAILS the backtest — do not trade). Stop 10.82, target 15.75, 1201 shares ≈ $15.0K.
 - Watch name **IONQ** closed below its lower band (FAILS the backtest — do not trade). Stop 14.62, target 29.35, 327 shares ≈ $6.8K.
 - Watch name **RIVN** closed below its lower band (FAILS the backtest — do not trade). Stop 8.94, target 12.48, 1443 shares ≈ $14.9K.
 - Watch name **LCID** closed below its lower band (FAILS the backtest — do not trade). Stop 1.8, target 3.16, 2865 shares ≈ $7.2K.
 - Watch name **SOUN** closed below its lower band (FAILS the backtest — do not trade). Stop 2.05, target 3.81, 3562 shares ≈ $9.3K.
-- Watch name **ACHR** closed below its lower band (FAILS the backtest — do not trade). Stop 2.07, target 4.06, 2374 shares ≈ $6.9K.
+- Watch name **ACHR** closed below its lower band (FAILS the backtest — do not trade). Stop 2.07, target 4.06, 2372 shares ≈ $6.9K.
 
 ## Passing swing names (top 20 by total backtest edge)
 | Ticker | Company | Pass | Trades | Win % | Avg % | Avg win % | Avg loss % | Worst % | PF | Days | Last 6m PF (n) | $/trade (after tax) | Close | Lower band | 20-day avg | Signal |
