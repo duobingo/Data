@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-22 15:16 ET
+# Alerts — watcher run 2026-11-22 16:12 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -131,9 +131,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-19 16:35 | 1 | NKE | 8-K: 5.02 Executive/director change | 8-K/A - NIKE, Inc. (0000320187) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/320187/000032018726000212/0000320187-26-000212-index.htm) |
 | 11-19 16:35 | 1 | NKE | 8-K: 5.02 Executive/director change | 8-K - NIKE, Inc. (0000320187) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/320187/000032018726000211/0000320187-26-000211-index.htm) |
 | 11-19 16:35 | 2 | INTU | 8-K: 2.02 Earnings results | 8-K - INTUIT INC. (0000896878) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/896878/000089687826000043/0000896878-26-000043-index.htm) |
-| 11-19 15:37 | 1 | NKE | Down 6.0% (regular) | NKE -6.0% at 34.13 vs 36.31 close (regular, 15:35 ET) |  |
-| 11-19 15:37 | 1 | LULU | Down 4.4% (regular) | LULU -4.4% at 105.90 vs 110.78 close (regular, 15:35 ET) |  |
-| 11-19 15:37 | 1 | NVDA | Financing/distress | Short Seller Raises Questions About Nvidia's Former Top Sales Executive. $2.5 Billion China Chip Case In Focus. | [link](https://finnhub.io/api/news?id=6de128a88288cc80aae5ace163107c28abb3b7895f2a6c85127eb973735ee74b) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
@@ -257,7 +254,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-19 16:35 | 2 | EW | 8-K: 1.01 Material agreement | 8-K - Edwards Lifesciences Corp (0001099800) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1099800/000109980026000057/0001099800-26-000057-index.htm) |
 | 11-19 16:35 | 2 | KEYS | 8-K: 2.02 Earnings results | 8-K - Keysight Technologies, Inc. (0001601046) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1601046/000160104626000040/0001601046-26-000040-index.htm) |
 | 11-19 16:35 | 2 | ROST | 8-K: 2.02 Earnings results | 8-K - ROSS STORES, INC. (0000745732) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/745732/000074573226000047/0000745732-26-000047-index.htm) |
-| 11-19 15:37 | 2 | VVV | Up 8.6% (regular) | VVV +8.6% at 36.26 vs 33.37 close (regular, 15:35 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
