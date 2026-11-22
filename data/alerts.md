@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-22 10:28 ET
+# Alerts — watcher run 2026-11-22 11:29 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -152,10 +152,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-19 12:09 | 1 | HIMS | Down 5.0% (regular) | HIMS -5.0% at 16.20 vs 17.05 close (regular, 12:05 ET) |  |
 | 11-19 12:09 | 1 | SPCX | Down 4.5% (regular) | SPCX -4.5% at 136.98 vs 143.50 close (regular, 12:05 ET) |  |
 | 11-19 12:09 | 1 | RIVN | Down 4.1% (regular) | RIVN -4.1% at 11.32 vs 11.80 close (regular, 12:05 ET) |  |
-| 11-19 11:02 | 1 | UNH | Down 5.3% (regular) | UNH -5.3% at 331.30 vs 349.91 close (regular, 11:00 ET) |  |
-| 11-19 11:02 | 1 | AMD | Down 7.7% (regular) | AMD -7.7% at 489.17 vs 530.14 close (regular, 11:00 ET) |  |
-| 11-19 11:02 | 1 | PANW | Up 5.1% (regular) | PANW +5.1% at 357.09 vs 339.92 close (regular, 11:00 ET) |  |
-| 11-19 11:02 | 1 | CI | Down 5.1% (regular) | CI -5.1% at 270.90 vs 285.37 close (regular, 11:00 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
@@ -284,10 +280,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-19 13:16 | 2 | P | Up 8.1% (regular) | P +8.1% at 108.88 vs 100.74 close (regular, 13:15 ET) |  |
 | 11-19 12:09 | 2 | WSM | Down 13.5% (regular) | WSM -13.5% at 225.07 vs 260.09 close (regular, 12:10 ET) |  |
 | 11-19 12:09 | 2 | UGI | Down 8.5% (regular) | UGI -8.5% at 34.80 vs 38.05 close (regular, 12:10 ET) |  |
-| 11-19 11:02 | 2 | P | Up 13.6% (regular) | P +13.6% at 114.48 vs 100.74 close (regular, 11:00 ET) |  |
-| 11-19 11:02 | 2 | OKTA | Up 8.8% (regular) | OKTA +8.8% at 212.80 vs 195.61 close (regular, 11:00 ET) |  |
-| 11-19 11:02 | 2 | WSM | Down 9.7% (regular) | WSM -9.7% at 234.98 vs 260.09 close (regular, 11:00 ET) |  |
-| 11-19 11:02 | 2 | VVV | Up 12.9% (regular) | VVV +12.9% at 37.66 vs 33.37 close (regular, 11:00 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
