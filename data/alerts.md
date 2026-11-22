@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-22 09:34 ET
+# Alerts — watcher run 2026-11-22 10:28 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -288,11 +288,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-19 11:02 | 2 | OKTA | Up 8.8% (regular) | OKTA +8.8% at 212.80 vs 195.61 close (regular, 11:00 ET) |  |
 | 11-19 11:02 | 2 | WSM | Down 9.7% (regular) | WSM -9.7% at 234.98 vs 260.09 close (regular, 11:00 ET) |  |
 | 11-19 11:02 | 2 | VVV | Up 12.9% (regular) | VVV +12.9% at 37.66 vs 33.37 close (regular, 11:00 ET) |  |
-| 11-19 10:00 | 2 | COHR | Up 10.5% (regular) | COHR +10.5% at 235.27 vs 212.84 close (regular, 10:00 ET) |  |
-| 11-19 10:00 | 2 | P | Up 11.0% (regular) | P +11.0% at 111.86 vs 100.74 close (regular, 10:00 ET) |  |
-| 11-19 10:00 | 2 | STX | Up 8.4% (regular) | STX +8.4% at 559.34 vs 515.90 close (regular, 10:00 ET) |  |
-| 11-19 10:00 | 2 | WDC | Up 8.2% (regular) | WDC +8.2% at 311.95 vs 288.19 close (regular, 10:00 ET) |  |
-| 11-19 10:00 | 2 | VVV | Up 9.7% (regular) | VVV +9.7% at 36.60 vs 33.37 close (regular, 10:00 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
