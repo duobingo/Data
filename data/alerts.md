@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-22 16:12 ET
+# Alerts — watcher run 2026-11-22 17:09 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -127,10 +127,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-20 04:43 | 1 | ARM | Down 5.2% (premarket) | ARM -5.2% at 167.97 vs 177.17 close (premarket, 04:41 ET) |  |
 | 11-20 04:43 | 1 | OKLO | Down 4.2% (premarket) | OKLO -4.2% at 19.97 vs 20.84 close (premarket, 04:35 ET) |  |
 | 11-19 17:34 | 2 | INTU | 8-K: 1.01 Material agreement | 8-K - INTUIT INC. (0000896878) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/896878/000119312526468834/0001193125-26-468834-index.htm) |
-| 11-19 16:35 | 1 | INTU | Down 10.9% (after-hours) | INTU -10.9% at 276.25 vs 310.02 close (after-hours, 16:35 ET) |  |
-| 11-19 16:35 | 1 | NKE | 8-K: 5.02 Executive/director change | 8-K/A - NIKE, Inc. (0000320187) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/320187/000032018726000212/0000320187-26-000212-index.htm) |
-| 11-19 16:35 | 1 | NKE | 8-K: 5.02 Executive/director change | 8-K - NIKE, Inc. (0000320187) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/320187/000032018726000211/0000320187-26-000211-index.htm) |
-| 11-19 16:35 | 2 | INTU | 8-K: 2.02 Earnings results | 8-K - INTUIT INC. (0000896878) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/896878/000089687826000043/0000896878-26-000043-index.htm) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
@@ -248,12 +244,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-20 09:01 | 2 | IESC | 8-K: 2.02 Earnings results; 5.02 Executive/director change | 8-K - IES Holdings, Inc. (0001048268) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1048268/000104826826000176/0001048268-26-000176-index.htm) |
 | 11-20 07:45 | 2 | BJ | 8-K: 2.02 Earnings results | 8-K - BJ's Wholesale Club Holdings, Inc. (0001531152) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1531152/000153115226000083/0001531152-26-000083-index.htm) |
 | 11-19 19:28 | 2 | DTE | Down 11.8% (after-hours) | DTE -11.8% at 120.00 vs 136.13 close (after-hours, 18:30 ET) |  |
-| 11-19 16:35 | 2 | KBR | 8-K: 5.02 Executive/director change | 8-K - KBR, INC. (0001357615) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1357615/000135761526000210/0001357615-26-000210-index.htm) |
-| 11-19 16:35 | 2 | POST | 8-K: 2.02 Earnings results; 5.02 Executive/director change | 8-K - Post Holdings, Inc. (0001530950) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1530950/000153095026000100/0001530950-26-000100-index.htm) |
-| 11-19 16:35 | 2 | GAP | 8-K: 2.02 Earnings results | 8-K - GAP INC (0000039911) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/39911/000162828026075088/0001628280-26-075088-index.htm) |
-| 11-19 16:35 | 2 | EW | 8-K: 1.01 Material agreement | 8-K - Edwards Lifesciences Corp (0001099800) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1099800/000109980026000057/0001099800-26-000057-index.htm) |
-| 11-19 16:35 | 2 | KEYS | 8-K: 2.02 Earnings results | 8-K - Keysight Technologies, Inc. (0001601046) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1601046/000160104626000040/0001601046-26-000040-index.htm) |
-| 11-19 16:35 | 2 | ROST | 8-K: 2.02 Earnings results | 8-K - ROSS STORES, INC. (0000745732) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/745732/000074573226000047/0000745732-26-000047-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
