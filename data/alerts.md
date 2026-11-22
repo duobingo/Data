@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-22 11:29 ET
+# Alerts — watcher run 2026-11-22 12:27 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -143,15 +143,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-19 13:16 | 1 | AMD | Financing/distress | AMD shares slide over 9% after short seller raises concerns over China exposure | [link](https://finnhub.io/api/news?id=2f488f2659e85f1a44924cf3060b1c9a22691593393320650a68ee21ae00eea4) |
 | 11-19 13:16 | 1 | AMD | Legal/regulatory | AMD stock drops after Hunterbrook Media raises export control concerns | [link](https://finnhub.io/api/news?id=bfeea3460f8c1581e9760c44bf69b753185c9bfe29bea3cd2c465f83c446e42d) |
 | 11-19 13:16 | 1 | AMD | Financing/distress | AMD Sinks 8% as Short Seller Hunterbrook Warns “AMD Has a China Problem of Its Own” | [link](https://finnhub.io/api/news?id=a663c9902abf961ebbab9df08029de34486cc0f3a1d561a5076feaf95571bdf6) |
-| 11-19 12:09 | 1 | UNH | Down 6.9% (regular) | UNH -6.9% at 325.71 vs 349.91 close (regular, 12:05 ET) |  |
-| 11-19 12:09 | 1 | ACN | Down 4.7% (regular) | ACN -4.7% at 216.76 vs 227.49 close (regular, 12:05 ET) |  |
-| 11-19 12:09 | 1 | CI | Down 6.1% (regular) | CI -6.1% at 268.08 vs 285.37 close (regular, 12:05 ET) |  |
-| 11-19 12:09 | 1 | ELV | Down 4.2% (regular) | ELV -4.2% at 384.19 vs 400.84 close (regular, 12:05 ET) |  |
-| 11-19 12:09 | 1 | CRWD | Up 4.3% (regular) | CRWD +4.3% at 247.27 vs 237.03 close (regular, 12:05 ET) |  |
-| 11-19 12:09 | 1 | DASH | Down 4.3% (regular) | DASH -4.3% at 159.61 vs 166.80 close (regular, 12:05 ET) |  |
-| 11-19 12:09 | 1 | HIMS | Down 5.0% (regular) | HIMS -5.0% at 16.20 vs 17.05 close (regular, 12:05 ET) |  |
-| 11-19 12:09 | 1 | SPCX | Down 4.5% (regular) | SPCX -4.5% at 136.98 vs 143.50 close (regular, 12:05 ET) |  |
-| 11-19 12:09 | 1 | RIVN | Down 4.1% (regular) | RIVN -4.1% at 11.32 vs 11.80 close (regular, 12:05 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
@@ -278,8 +269,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-19 15:37 | 2 | VVV | Up 8.6% (regular) | VVV +8.6% at 36.26 vs 33.37 close (regular, 15:35 ET) |  |
 | 11-19 14:29 | 2 | WSM | Down 16.1% (regular) | WSM -16.1% at 218.26 vs 260.09 close (regular, 14:30 ET) |  |
 | 11-19 13:16 | 2 | P | Up 8.1% (regular) | P +8.1% at 108.88 vs 100.74 close (regular, 13:15 ET) |  |
-| 11-19 12:09 | 2 | WSM | Down 13.5% (regular) | WSM -13.5% at 225.07 vs 260.09 close (regular, 12:10 ET) |  |
-| 11-19 12:09 | 2 | UGI | Down 8.5% (regular) | UGI -8.5% at 34.80 vs 38.05 close (regular, 12:10 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
