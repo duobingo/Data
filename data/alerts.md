@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-22 12:27 ET
+# Alerts — watcher run 2026-11-22 13:24 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -137,12 +137,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-19 14:29 | 1 | UBER | Down 4.6% (regular) | UBER -4.6% at 65.57 vs 68.76 close (regular, 14:25 ET) |  |
 | 11-19 14:29 | 1 | DECK | Down 5.0% (regular) | DECK -5.0% at 79.40 vs 83.60 close (regular, 14:25 ET) |  |
 | 11-19 14:29 | 1 | MELI | Down 4.4% (regular) | MELI -4.4% at 1360.80 vs 1423.11 close (regular, 14:25 ET) |  |
-| 11-19 13:16 | 1 | AMD | Down 9.8% (regular) | AMD -9.8% at 478.18 vs 530.14 close (regular, 13:15 ET) |  |
-| 11-19 13:16 | 1 | SHOP | Down 5.2% (regular) | SHOP -5.2% at 132.16 vs 139.42 close (regular, 13:15 ET) |  |
-| 11-19 13:16 | 2 | COST | Buyback/dividend | Costco Just Surpassed $1,100 Per Share Ahead of Its $30 Special Dividend Payment. Is the Stock a Buy Before Nov. 24?. | [link](https://finnhub.io/api/news?id=631d39d79e224396eda5bc69efb05fe86e08fd6592b19b34504806551f2fd7d3) |
-| 11-19 13:16 | 1 | AMD | Financing/distress | AMD shares slide over 9% after short seller raises concerns over China exposure | [link](https://finnhub.io/api/news?id=2f488f2659e85f1a44924cf3060b1c9a22691593393320650a68ee21ae00eea4) |
-| 11-19 13:16 | 1 | AMD | Legal/regulatory | AMD stock drops after Hunterbrook Media raises export control concerns | [link](https://finnhub.io/api/news?id=bfeea3460f8c1581e9760c44bf69b753185c9bfe29bea3cd2c465f83c446e42d) |
-| 11-19 13:16 | 1 | AMD | Financing/distress | AMD Sinks 8% as Short Seller Hunterbrook Warns “AMD Has a China Problem of Its Own” | [link](https://finnhub.io/api/news?id=a663c9902abf961ebbab9df08029de34486cc0f3a1d561a5076feaf95571bdf6) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
@@ -268,7 +262,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-19 16:35 | 2 | ROST | 8-K: 2.02 Earnings results | 8-K - ROSS STORES, INC. (0000745732) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/745732/000074573226000047/0000745732-26-000047-index.htm) |
 | 11-19 15:37 | 2 | VVV | Up 8.6% (regular) | VVV +8.6% at 36.26 vs 33.37 close (regular, 15:35 ET) |  |
 | 11-19 14:29 | 2 | WSM | Down 16.1% (regular) | WSM -16.1% at 218.26 vs 260.09 close (regular, 14:30 ET) |  |
-| 11-19 13:16 | 2 | P | Up 8.1% (regular) | P +8.1% at 108.88 vs 100.74 close (regular, 13:15 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
