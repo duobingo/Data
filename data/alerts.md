@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-23 07:24 ET
+# Alerts — watcher run 2026-11-23 08:54 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 08:54 | 1 | SHOP | Up 6.2% (premarket) | SHOP +6.2% at 131.42 vs 123.72 close (premarket, 08:50 ET) |  |
+| 11-23 08:54 | 1 | RBLX | Up 6.8% (premarket) | RBLX +6.8% at 49.92 vs 46.72 close (premarket, 08:52 ET) |  |
+| 11-23 08:54 | 1 | TSM | Up 5.4% (premarket) | TSM +5.4% at 335.94 vs 318.71 close (premarket, 08:50 ET) |  |
 | 11-23 07:24 | 1 | UNH | Down 5.1% (premarket) | UNH -5.1% at 322.40 vs 339.85 close (premarket, 07:20 ET) |  |
 | 11-23 07:24 | 1 | MU | Up 4.6% (premarket) | MU +4.6% at 622.01 vs 594.51 close (premarket, 07:25 ET) |  |
 | 11-23 07:24 | 1 | AMAT | Up 5.9% (premarket) | AMAT +5.9% at 320.60 vs 302.63 close (premarket, 07:20 ET) |  |
@@ -153,14 +156,14 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-20 10:59 | 1 | HOOD | Down 4.2% (regular) | HOOD -4.2% at 65.79 vs 68.65 close (regular, 10:55 ET) |  |
 | 11-20 10:59 | 1 | SOFI | Down 4.0% (regular) | SOFI -4.0% at 12.98 vs 13.53 close (regular, 10:55 ET) |  |
 | 11-20 10:59 | 1 | APP | Down 6.1% (regular) | APP -6.1% at 355.76 vs 379.02 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | HIMS | Down 4.6% (regular) | HIMS -4.6% at 15.28 vs 16.02 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | RKLB | Down 6.7% (regular) | RKLB -6.7% at 47.57 vs 50.99 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | IONQ | Down 4.5% (regular) | IONQ -4.5% at 21.68 vs 22.71 close (regular, 10:55 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 08:54 | 2 | FTI | Up 10.5% (premarket) | FTI +10.5% at 64.85 vs 58.71 close (premarket, 08:00 ET) |  |
+| 11-23 08:54 | 2 | SITM | Up 8.1% (premarket) | SITM +8.1% at 390.50 vs 361.24 close (premarket, 08:10 ET) |  |
+| 11-23 08:54 | 2 | PNC | 8-K: 5.02 Executive/director change | 8-K - PNC FINANCIAL SERVICES GROUP, INC. (0000713676) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/713676/000162828026075375/0001628280-26-075375-index.htm) |
 | 11-23 07:24 | 2 | FORM | Up 8.2% (premarket) | FORM +8.2% at 79.00 vs 73.02 close (premarket, 07:00 ET) |  |
 | 11-23 07:24 | 2 | ONTO | Up 8.1% (premarket) | ONTO +8.1% at 184.01 vs 170.16 close (premarket, 06:30 ET) |  |
 | 11-23 07:24 | 2 | RMBS | Up 8.1% (premarket) | RMBS +8.1% at 71.70 vs 66.35 close (premarket, 05:55 ET) |  |
@@ -287,7 +290,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-20 09:01 | 2 | WAB | 8-K: 5.02 Executive/director change | 8-K - WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP (0000943452) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/943452/000114036126045007/0001140361-26-045007-index.htm) |
 | 11-20 09:01 | 2 | PYPL | 8-K: 5.02 Executive/director change | 8-K - PayPal Holdings, Inc. (0001633917) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1633917/000119312526469335/0001193125-26-469335-index.htm) |
 | 11-20 09:01 | 2 | IESC | 8-K: 2.02 Earnings results; 5.02 Executive/director change | 8-K - IES Holdings, Inc. (0001048268) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1048268/000104826826000176/0001048268-26-000176-index.htm) |
-| 11-20 07:45 | 2 | BJ | 8-K: 2.02 Earnings results | 8-K - BJ's Wholesale Club Holdings, Inc. (0001531152) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1531152/000153115226000083/0001531152-26-000083-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
