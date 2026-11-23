@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-23 17:36 ET
+# Alerts — watcher run 2026-11-23 18:35 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -310,7 +310,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 04:58 | 2 | SMTC | Up 10.7% (premarket) | SMTC +10.7% at 97.00 vs 87.63 close (premarket, 04:20 ET) |  |
 | 11-23 04:58 | 2 | TTMI | Up 8.2% (premarket) | TTMI +8.2% at 63.65 vs 58.85 close (premarket, 04:49 ET) |  |
 | 11-23 04:58 | 2 | VIAV | Up 8.3% (premarket) | VIAV +8.3% at 28.92 vs 26.71 close (premarket, 04:30 ET) |  |
-| 11-20 17:50 | 2 | TSN | 8-K: 5.02 Executive/director change | 8-K - TYSON FOODS, INC. (0000100493) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/100493/000010049326000085/0000100493-26-000085-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
