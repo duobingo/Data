@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-23 14:29 ET
+# Alerts — watcher run 2026-11-23 15:32 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 15:32 | 1 | OKLO | Up 5.8% (regular) | OKLO +5.8% at 21.00 vs 19.85 close (regular, 15:30 ET) |  |
+| 11-23 15:32 | 2 | PANW | Analyst | Phillip Securities Just Upgraded Palo Alto Networks With a $418 Target. Here’s What Changed | [link](https://finnhub.io/api/news?id=53e53d7081865c83befc83771833d1931586b706ed45c55919270106f911a196) |
 | 11-23 14:29 | 1 | ORCL | Up 11.8% (regular) | ORCL +11.8% at 113.18 vs 101.19 close (regular, 14:25 ET) |  |
 | 11-23 14:29 | 1 | ADI | Up 8.6% (regular) | ADI +8.6% at 375.68 vs 345.92 close (regular, 14:25 ET) |  |
 | 11-23 14:29 | 1 | SOFI | Up 5.4% (regular) | SOFI +5.4% at 13.16 vs 12.48 close (regular, 14:25 ET) |  |
@@ -154,13 +156,16 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 04:58 | 1 | HIMS | Up 6.2% (premarket) | HIMS +6.2% at 15.50 vs 14.60 close (premarket, 04:57 ET) |  |
 | 11-23 04:58 | 1 | RKLB | Up 9.0% (premarket) | RKLB +9.0% at 49.50 vs 45.42 close (premarket, 04:55 ET) |  |
 | 11-23 04:58 | 1 | IONQ | Up 8.0% (premarket) | IONQ +8.0% at 22.38 vs 20.72 close (premarket, 04:55 ET) |  |
-| 11-23 04:58 | 1 | SMCI | Up 7.3% (premarket) | SMCI +7.3% at 23.23 vs 21.65 close (premarket, 04:55 ET) |  |
-| 11-23 04:58 | 1 | ARM | Up 7.6% (premarket) | ARM +7.6% at 163.80 vs 152.20 close (premarket, 04:55 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 15:32 | 2 | INTC | Up 15.2% (regular) | INTC +15.2% at 59.08 vs 51.28 close (regular, 15:30 ET) |  |
+| 11-23 15:32 | 2 | UAL | Up 8.1% (regular) | UAL +8.1% at 109.25 vs 101.03 close (regular, 15:30 ET) |  |
+| 11-23 15:32 | 2 | ALK | Up 10.0% (regular) | ALK +10.0% at 37.11 vs 33.73 close (regular, 15:30 ET) |  |
+| 11-23 15:32 | 2 | AMKR | Up 15.1% (regular) | AMKR +15.1% at 34.82 vs 30.24 close (regular, 15:30 ET) |  |
+| 11-23 15:32 | 2 | SITM | Up 21.7% (regular) | SITM +21.7% at 439.61 vs 361.24 close (regular, 15:30 ET) |  |
 | 11-23 14:29 | 2 | CRL | Up 8.1% (regular) | CRL +8.1% at 339.74 vs 314.32 close (regular, 14:25 ET) |  |
 | 11-23 14:29 | 2 | COHR | Up 14.5% (regular) | COHR +14.5% at 214.45 vs 187.22 close (regular, 14:25 ET) |  |
 | 11-23 14:29 | 2 | LITE | Up 17.6% (regular) | LITE +17.6% at 541.38 vs 460.54 close (regular, 14:25 ET) |  |
@@ -306,11 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-20 16:51 | 2 | AME | 8-K: 1.01 Material agreement | 8-K - AMETEK INC/ (0001037868) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1037868/000110465926130589/0001104659-26-130589-index.htm) |
 | 11-20 15:53 | 2 | BE | Down 15.3% (regular) | BE -15.3% at 142.32 vs 168.11 close (regular, 15:50 ET) |  |
 | 11-20 15:53 | 2 | ECHO | Down 8.8% (regular) | ECHO -8.8% at 84.15 vs 92.31 close (regular, 15:50 ET) |  |
-| 11-20 15:53 | 2 | FSLR | Down 9.2% (regular) | FSLR -9.2% at 137.90 vs 151.95 close (regular, 15:50 ET) |  |
-| 11-20 15:53 | 2 | ON | Down 9.7% (regular) | ON -9.7% at 59.34 vs 65.72 close (regular, 15:50 ET) |  |
-| 11-20 15:53 | 2 | Q | Down 9.3% (regular) | Q -9.3% at 103.10 vs 113.63 close (regular, 15:50 ET) |  |
-| 11-20 15:53 | 2 | SNPS | Down 8.1% (regular) | SNPS -8.1% at 395.98 vs 430.91 close (regular, 15:50 ET) |  |
-| 11-20 15:53 | 2 | URI | Down 8.0% (regular) | URI -8.0% at 974.36 vs 1059.56 close (regular, 15:50 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
