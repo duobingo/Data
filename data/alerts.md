@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-23 03:39 ET
+# Alerts — watcher run 2026-11-23 04:58 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,44 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 04:58 | 1 | NVDA | Up 8.5% (premarket) | NVDA +8.5% at 136.18 vs 125.53 close (premarket, 04:55 ET) |  |
+| 11-23 04:58 | 1 | GOOGL | Up 4.5% (premarket) | GOOGL +4.5% at 277.34 vs 265.29 close (premarket, 04:55 ET) |  |
+| 11-23 04:58 | 1 | AVGO | Up 5.5% (premarket) | AVGO +5.5% at 321.11 vs 304.41 close (premarket, 04:55 ET) |  |
+| 11-23 04:58 | 1 | TSLA | Up 4.4% (premarket) | TSLA +4.4% at 361.19 vs 345.82 close (premarket, 04:55 ET) |  |
+| 11-23 04:58 | 1 | ORCL | Up 4.8% (premarket) | ORCL +4.8% at 106.05 vs 101.19 close (premarket, 04:57 ET) |  |
+| 11-23 04:58 | 1 | AMD | Up 5.6% (premarket) | AMD +5.6% at 448.00 vs 424.39 close (premarket, 04:55 ET) |  |
+| 11-23 04:58 | 1 | QCOM | Up 4.2% (premarket) | QCOM +4.2% at 156.19 vs 149.94 close (premarket, 04:50 ET) |  |
+| 11-23 04:58 | 1 | ETN | Up 5.2% (premarket) | ETN +5.2% at 327.64 vs 311.33 close (premarket, 04:35 ET) |  |
+| 11-23 04:58 | 1 | MU | Up 6.9% (premarket) | MU +6.9% at 635.51 vs 594.51 close (premarket, 04:55 ET) |  |
+| 11-23 04:58 | 1 | LRCX | Up 7.0% (premarket) | LRCX +7.0% at 196.11 vs 183.27 close (premarket, 04:55 ET) |  |
+| 11-23 04:58 | 1 | AMAT | Up 6.7% (premarket) | AMAT +6.7% at 323.00 vs 302.63 close (premarket, 04:50 ET) |  |
+| 11-23 04:58 | 1 | KLAC | Up 8.5% (premarket) | KLAC +8.5% at 137.69 vs 126.87 close (premarket, 04:10 ET) |  |
+| 11-23 04:58 | 1 | ANET | Up 5.4% (premarket) | ANET +5.4% at 176.74 vs 167.62 close (premarket, 04:35 ET) |  |
+| 11-23 04:58 | 1 | PLTR | Up 4.9% (premarket) | PLTR +4.9% at 150.55 vs 143.49 close (premarket, 04:55 ET) |  |
+| 11-23 04:58 | 1 | SNOW | Up 4.4% (premarket) | SNOW +4.4% at 266.00 vs 254.82 close (premarket, 04:53 ET) |  |
+| 11-23 04:58 | 1 | SHOP | Up 5.6% (premarket) | SHOP +5.6% at 130.71 vs 123.72 close (premarket, 04:35 ET) |  |
+| 11-23 04:58 | 1 | HOOD | Up 7.0% (premarket) | HOOD +7.0% at 66.54 vs 62.17 close (premarket, 04:55 ET) |  |
+| 11-23 04:58 | 1 | SOFI | Up 5.3% (premarket) | SOFI +5.3% at 13.14 vs 12.48 close (premarket, 04:55 ET) |  |
+| 11-23 04:58 | 1 | COIN | Up 5.1% (premarket) | COIN +5.1% at 107.22 vs 101.97 close (premarket, 04:56 ET) |  |
+| 11-23 04:58 | 1 | APP | Up 4.8% (premarket) | APP +4.8% at 365.00 vs 348.29 close (premarket, 04:56 ET) |  |
+| 11-23 04:58 | 1 | RBLX | Up 5.2% (premarket) | RBLX +5.2% at 49.13 vs 46.72 close (premarket, 04:55 ET) |  |
+| 11-23 04:58 | 1 | HIMS | Up 6.2% (premarket) | HIMS +6.2% at 15.50 vs 14.60 close (premarket, 04:57 ET) |  |
+| 11-23 04:58 | 1 | RKLB | Up 9.0% (premarket) | RKLB +9.0% at 49.50 vs 45.42 close (premarket, 04:55 ET) |  |
+| 11-23 04:58 | 1 | IONQ | Up 8.0% (premarket) | IONQ +8.0% at 22.38 vs 20.72 close (premarket, 04:55 ET) |  |
+| 11-23 04:58 | 1 | SMCI | Up 7.3% (premarket) | SMCI +7.3% at 23.23 vs 21.65 close (premarket, 04:55 ET) |  |
+| 11-23 04:58 | 1 | ARM | Up 7.6% (premarket) | ARM +7.6% at 163.80 vs 152.20 close (premarket, 04:55 ET) |  |
+| 11-23 04:58 | 1 | TSM | Up 7.0% (premarket) | TSM +7.0% at 340.99 vs 318.71 close (premarket, 04:55 ET) |  |
+| 11-23 04:58 | 1 | ASML | Up 6.1% (premarket) | ASML +6.1% at 1344.09 vs 1266.22 close (premarket, 04:55 ET) |  |
+| 11-23 04:58 | 1 | VST | Up 4.5% (premarket) | VST +4.5% at 120.48 vs 115.25 close (premarket, 04:20 ET) |  |
+| 11-23 04:58 | 1 | CEG | Up 4.4% (premarket) | CEG +4.4% at 247.89 vs 237.41 close (premarket, 04:30 ET) |  |
+| 11-23 04:58 | 1 | FIX | Up 5.2% (premarket) | FIX +5.2% at 1096.21 vs 1042.47 close (premarket, 04:00 ET) |  |
+| 11-23 04:58 | 1 | MELI | Up 5.0% (premarket) | MELI +5.0% at 1423.00 vs 1355.00 close (premarket, 04:55 ET) |  |
+| 11-23 04:58 | 1 | BFLY | Up 5.2% (premarket) | BFLY +5.2% at 5.68 vs 5.40 close (premarket, 04:10 ET) |  |
+| 11-23 04:58 | 1 | RIVN | Up 4.9% (premarket) | RIVN +4.9% at 10.83 vs 10.33 close (premarket, 04:50 ET) |  |
+| 11-23 04:58 | 1 | LCID | Up 4.8% (premarket) | LCID +4.8% at 2.62 vs 2.50 close (premarket, 04:55 ET) |  |
+| 11-23 04:58 | 1 | SOUN | Up 5.7% (premarket) | SOUN +5.7% at 2.76 vs 2.61 close (premarket, 04:56 ET) |  |
+| 11-23 04:58 | 1 | ACHR | Up 6.2% (premarket) | ACHR +6.2% at 3.09 vs 2.91 close (premarket, 04:56 ET) |  |
+| 11-23 04:58 | 1 | OKLO | Up 6.5% (premarket) | OKLO +6.5% at 21.15 vs 19.85 close (premarket, 04:50 ET) |  |
 | 11-20 20:10 | 1 | CRWD | Deal | CrowdStrike, Zscaler Merger Would Create Cybersecurity Giant | [link](https://finnhub.io/api/news?id=8db09f48a9a0d3285ad7db8b1609f2f3e7a3f02e77d91e03993324f1d8c4e7a6) |
 | 11-20 18:50 | 1 | KLAC | Up 4.1% (after-hours) | KLAC +4.1% at 132.10 vs 126.87 close (after-hours, 18:42 ET) |  |
 | 11-20 17:50 | 1 | CRWD | Down 5.6% (after-hours) | CRWD -5.6% at 216.50 vs 229.44 close (after-hours, 17:45 ET) |  |
@@ -118,19 +156,21 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-20 06:42 | 1 | TSM | Down 4.1% (premarket) | TSM -4.1% at 337.50 vs 352.09 close (premarket, 06:40 ET) |  |
 | 11-20 06:42 | 1 | FIX | Down 4.8% (premarket) | FIX -4.8% at 1060.00 vs 1114.02 close (premarket, 06:21 ET) |  |
 | 11-20 06:42 | 1 | SPCX | Down 4.5% (premarket) | SPCX -4.5% at 132.16 vs 138.43 close (premarket, 06:40 ET) |  |
-| 11-20 06:42 | 1 | BFLY | Down 5.1% (premarket) | BFLY -5.1% at 5.55 vs 5.85 close (premarket, 06:05 ET) |  |
-| 11-20 05:45 | 1 | AMD | Financing/distress | AMD stock gets drilled again in the wake of surprise short seller report | [link](https://finnhub.io/api/news?id=1389134b0f42496df49ca359bb551878799c3410f86e6575ce26b80df2cfc511) |
-| 11-20 04:43 | 1 | AMD | Down 5.1% (premarket) | AMD -5.1% at 464.30 vs 489.19 close (premarket, 04:40 ET) |  |
-| 11-20 04:43 | 1 | INTU | Down 11.0% (premarket) | INTU -11.0% at 276.00 vs 310.02 close (premarket, 04:42 ET) |  |
-| 11-20 04:43 | 1 | LRCX | Down 4.0% (premarket) | LRCX -4.0% at 195.50 vs 203.68 close (premarket, 04:42 ET) |  |
-| 11-20 04:43 | 1 | SMCI | Down 4.3% (premarket) | SMCI -4.3% at 22.82 vs 23.84 close (premarket, 04:40 ET) |  |
-| 11-20 04:43 | 1 | ARM | Down 5.2% (premarket) | ARM -5.2% at 167.97 vs 177.17 close (premarket, 04:41 ET) |  |
-| 11-20 04:43 | 1 | OKLO | Down 4.2% (premarket) | OKLO -4.2% at 19.97 vs 20.84 close (premarket, 04:35 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 04:58 | 2 | SNDK | Down 9.9% (premarket) | SNDK -9.9% at 85.06 vs 94.39 close (premarket, 04:55 ET) |  |
+| 11-23 04:58 | 2 | GWW | Up 9.6% (premarket) | GWW +9.6% at 1488.18 vs 1357.35 close (premarket, 04:00 ET) |  |
+| 11-23 04:58 | 2 | FORM | Up 11.0% (premarket) | FORM +11.0% at 81.08 vs 73.02 close (premarket, 04:15 ET) |  |
+| 11-23 04:58 | 2 | MKSI | Up 9.2% (premarket) | MKSI +9.2% at 201.47 vs 184.52 close (premarket, 04:05 ET) |  |
+| 11-23 04:58 | 2 | MTSI | Up 8.8% (premarket) | MTSI +8.8% at 212.00 vs 194.91 close (premarket, 04:10 ET) |  |
+| 11-23 04:58 | 2 | NVT | Up 11.5% (premarket) | NVT +11.5% at 113.55 vs 101.84 close (premarket, 04:20 ET) |  |
+| 11-23 04:58 | 2 | ONTO | Up 9.2% (premarket) | ONTO +9.2% at 185.88 vs 170.16 close (premarket, 04:05 ET) |  |
+| 11-23 04:58 | 2 | SMTC | Up 10.7% (premarket) | SMTC +10.7% at 97.00 vs 87.63 close (premarket, 04:20 ET) |  |
+| 11-23 04:58 | 2 | TTMI | Up 8.2% (premarket) | TTMI +8.2% at 63.65 vs 58.85 close (premarket, 04:49 ET) |  |
+| 11-23 04:58 | 2 | VIAV | Up 8.3% (premarket) | VIAV +8.3% at 28.92 vs 26.71 close (premarket, 04:30 ET) |  |
 | 11-20 17:50 | 2 | TSN | 8-K: 5.02 Executive/director change | 8-K - TYSON FOODS, INC. (0000100493) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/100493/000010049326000085/0000100493-26-000085-index.htm) |
 | 11-20 16:51 | 2 | POST | 8-K: 5.02 Executive/director change | 8-K - Post Holdings, Inc. (0001530950) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1530950/000153095026000104/0001530950-26-000104-index.htm) |
 | 11-20 16:51 | 2 | SWX | 8-K: 5.02 Executive/director change | 8-K - Southwest Gas Holdings, Inc. (0001692115) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1692115/000169211526000129/0001692115-26-000129-index.htm) |
