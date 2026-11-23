@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-23 04:58 ET
+# Alerts — watcher run 2026-11-23 06:10 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,18 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 06:10 | 1 | AMZN | Up 4.1% (premarket) | AMZN +4.1% at 256.93 vs 246.82 close (premarket, 06:10 ET) |  |
+| 11-23 06:10 | 1 | TXN | Up 4.1% (premarket) | TXN +4.1% at 274.53 vs 263.75 close (premarket, 06:09 ET) |  |
+| 11-23 06:10 | 1 | NOW | Up 4.1% (premarket) | NOW +4.1% at 91.21 vs 87.61 close (premarket, 06:02 ET) |  |
+| 11-23 06:10 | 1 | GS | Up 4.1% (premarket) | GS +4.1% at 823.50 vs 790.69 close (premarket, 05:58 ET) |  |
+| 11-23 06:10 | 1 | MS | Up 4.4% (premarket) | MS +4.4% at 172.90 vs 165.67 close (premarket, 06:07 ET) |  |
+| 11-23 06:10 | 1 | CRWD | Down 8.9% (premarket) | CRWD -8.9% at 208.99 vs 229.44 close (premarket, 06:10 ET) |  |
+| 11-23 06:10 | 1 | SOFI | Up 6.0% (premarket) | SOFI +6.0% at 13.23 vs 12.48 close (premarket, 06:10 ET) |  |
+| 11-23 06:10 | 1 | RKLB | Up 9.8% (premarket) | RKLB +9.8% at 49.86 vs 45.42 close (premarket, 06:10 ET) |  |
+| 11-23 06:10 | 1 | EME | Up 4.4% (premarket) | EME +4.4% at 630.00 vs 603.32 close (premarket, 04:40 ET) |  |
+| 11-23 06:10 | 1 | RIVN | Up 6.0% (premarket) | RIVN +6.0% at 10.95 vs 10.33 close (premarket, 06:10 ET) |  |
+| 11-23 06:10 | 1 | SOUN | Up 6.5% (premarket) | SOUN +6.5% at 2.78 vs 2.61 close (premarket, 06:10 ET) |  |
+| 11-23 06:10 | 2 | CRWD | 8-K: 2.02 Earnings results | 8-K - CrowdStrike Holdings, Inc. (0001535527) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/0001535527-26-000035-index.htm) |
 | 11-23 04:58 | 1 | NVDA | Up 8.5% (premarket) | NVDA +8.5% at 136.18 vs 125.53 close (premarket, 04:55 ET) |  |
 | 11-23 04:58 | 1 | GOOGL | Up 4.5% (premarket) | GOOGL +4.5% at 277.34 vs 265.29 close (premarket, 04:55 ET) |  |
 | 11-23 04:58 | 1 | AVGO | Up 5.5% (premarket) | AVGO +5.5% at 321.11 vs 304.41 close (premarket, 04:55 ET) |  |
@@ -144,23 +156,13 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-20 09:57 | 1 | INTU | Down 4.2% (regular) | INTU -4.2% at 297.12 vs 310.02 close (regular, 09:55 ET) |  |
 | 11-20 09:57 | 1 | MU | Down 5.0% (regular) | MU -5.0% at 655.85 vs 690.44 close (regular, 09:55 ET) |  |
 | 11-20 09:57 | 1 | ANET | Down 5.4% (regular) | ANET -5.4% at 179.31 vs 189.59 close (regular, 09:55 ET) |  |
-| 11-20 09:57 | 1 | CRWD | Down 4.3% (regular) | CRWD -4.3% at 232.99 vs 243.46 close (regular, 09:55 ET) |  |
-| 11-20 09:57 | 1 | ARM | Down 4.2% (regular) | ARM -4.2% at 169.76 vs 177.17 close (regular, 09:55 ET) |  |
-| 11-20 07:45 | 1 | INTU | Down 8.7% (premarket) | INTU -8.7% at 282.90 vs 310.02 close (premarket, 07:45 ET) |  |
-| 11-20 07:45 | 1 | ANET | Down 4.5% (premarket) | ANET -4.5% at 181.05 vs 189.59 close (premarket, 07:42 ET) |  |
-| 11-20 07:45 | 1 | SPCX | Down 6.1% (premarket) | SPCX -6.1% at 129.99 vs 138.43 close (premarket, 07:45 ET) |  |
-| 11-20 07:45 | 1 | MRK | FDA/trial | Merck Announces TroFuse-015 Trial Evaluating Sacituzumab Tirumotecan (Sac-TMT) Met Primary Endpoint of Overall Survival (OS) in Third-Line or Later Locally Advanced Unresectable or Metastatic Gastroesophageal Adenocarcin | [link](https://finnhub.io/api/news?id=190115b574441038e7ccba7c45bce1bc8cb741db289da9cbfbd13a83c65b9afa) |
-| 11-20 06:42 | 1 | AMD | Down 6.4% (premarket) | AMD -6.4% at 458.00 vs 489.19 close (premarket, 06:40 ET) |  |
-| 11-20 06:42 | 1 | MU | Down 4.8% (premarket) | MU -4.8% at 657.45 vs 690.44 close (premarket, 06:40 ET) |  |
-| 11-20 06:42 | 1 | RKLB | Down 4.3% (premarket) | RKLB -4.3% at 48.82 vs 50.99 close (premarket, 06:40 ET) |  |
-| 11-20 06:42 | 1 | TSM | Down 4.1% (premarket) | TSM -4.1% at 337.50 vs 352.09 close (premarket, 06:40 ET) |  |
-| 11-20 06:42 | 1 | FIX | Down 4.8% (premarket) | FIX -4.8% at 1060.00 vs 1114.02 close (premarket, 06:21 ET) |  |
-| 11-20 06:42 | 1 | SPCX | Down 4.5% (premarket) | SPCX -4.5% at 132.16 vs 138.43 close (premarket, 06:40 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 06:10 | 2 | P | Up 8.6% (premarket) | P +8.6% at 100.00 vs 92.05 close (premarket, 06:10 ET) |  |
+| 11-23 06:10 | 2 | DOCN | Up 8.1% (premarket) | DOCN +8.1% at 72.14 vs 66.76 close (premarket, 05:45 ET) |  |
 | 11-23 04:58 | 2 | SNDK | Down 9.9% (premarket) | SNDK -9.9% at 85.06 vs 94.39 close (premarket, 04:55 ET) |  |
 | 11-23 04:58 | 2 | GWW | Up 9.6% (premarket) | GWW +9.6% at 1488.18 vs 1357.35 close (premarket, 04:00 ET) |  |
 | 11-23 04:58 | 2 | FORM | Up 11.0% (premarket) | FORM +11.0% at 81.08 vs 73.02 close (premarket, 04:15 ET) |  |
