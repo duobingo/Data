@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-23 12:26 ET
+# Alerts — watcher run 2026-11-23 13:21 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 13:21 | 1 | VRTX | Up 4.2% (regular) | VRTX +4.2% at 536.46 vs 515.02 close (regular, 13:20 ET) |  |
+| 11-23 13:21 | 1 | C | Up 4.2% (regular) | C +4.2% at 115.22 vs 110.62 close (regular, 13:20 ET) |  |
+| 11-23 13:21 | 1 | RBLX | Up 8.7% (regular) | RBLX +8.7% at 50.80 vs 46.72 close (regular, 13:20 ET) |  |
+| 11-23 13:21 | 1 | DECK | Up 4.5% (regular) | DECK +4.5% at 81.41 vs 77.94 close (regular, 13:20 ET) |  |
+| 11-23 13:21 | 1 | LCID | Up 5.4% (regular) | LCID +5.4% at 2.63 vs 2.50 close (regular, 13:20 ET) |  |
+| 11-23 13:21 | 1 | CRWD | Deal | Zscaler Stocks Surge 16.81% After CrowdStrike Agrees to Buy It for $43.9 Billion | [link](https://finnhub.io/api/news?id=14aec55f2353ed9b0631f9144d743a3167afdb708f70452c53fc122d22ee390d) |
 | 11-23 12:26 | 1 | META | Up 6.2% (regular) | META +6.2% at 595.36 vs 560.84 close (regular, 12:25 ET) |  |
 | 11-23 12:26 | 1 | CSCO | Up 6.5% (regular) | CSCO +6.5% at 96.51 vs 90.64 close (regular, 12:25 ET) |  |
 | 11-23 12:26 | 1 | IBM | Up 4.0% (regular) | IBM +4.0% at 233.45 vs 224.44 close (regular, 12:25 ET) |  |
@@ -150,17 +156,17 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 04:58 | 1 | FIX | Up 5.2% (premarket) | FIX +5.2% at 1096.21 vs 1042.47 close (premarket, 04:00 ET) |  |
 | 11-23 04:58 | 1 | MELI | Up 5.0% (premarket) | MELI +5.0% at 1423.00 vs 1355.00 close (premarket, 04:55 ET) |  |
 | 11-23 04:58 | 1 | BFLY | Up 5.2% (premarket) | BFLY +5.2% at 5.68 vs 5.40 close (premarket, 04:10 ET) |  |
-| 11-23 04:58 | 1 | RIVN | Up 4.9% (premarket) | RIVN +4.9% at 10.83 vs 10.33 close (premarket, 04:50 ET) |  |
-| 11-23 04:58 | 1 | LCID | Up 4.8% (premarket) | LCID +4.8% at 2.62 vs 2.50 close (premarket, 04:55 ET) |  |
-| 11-23 04:58 | 1 | SOUN | Up 5.7% (premarket) | SOUN +5.7% at 2.76 vs 2.61 close (premarket, 04:56 ET) |  |
-| 11-23 04:58 | 1 | ACHR | Up 6.2% (premarket) | ACHR +6.2% at 3.09 vs 2.91 close (premarket, 04:56 ET) |  |
-| 11-23 04:58 | 1 | OKLO | Up 6.5% (premarket) | OKLO +6.5% at 21.15 vs 19.85 close (premarket, 04:50 ET) |  |
-| 11-20 20:10 | 1 | CRWD | Deal | CrowdStrike, Zscaler Merger Would Create Cybersecurity Giant | [link](https://finnhub.io/api/news?id=8db09f48a9a0d3285ad7db8b1609f2f3e7a3f02e77d91e03993324f1d8c4e7a6) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 13:21 | 2 | FCX | Up 9.1% (regular) | FCX +9.1% at 50.19 vs 45.99 close (regular, 13:20 ET) |  |
+| 11-23 13:21 | 2 | HPE | Up 17.5% (regular) | HPE +17.5% at 48.05 vs 40.91 close (regular, 13:20 ET) |  |
+| 11-23 13:21 | 2 | NTAP | Up 9.7% (regular) | NTAP +9.7% at 172.90 vs 157.65 close (regular, 13:20 ET) |  |
+| 11-23 13:21 | 2 | FLS | Up 8.1% (regular) | FLS +8.1% at 82.91 vs 76.72 close (regular, 13:20 ET) |  |
+| 11-23 13:21 | 2 | PATH | Up 8.3% (regular) | PATH +8.3% at 11.86 vs 10.96 close (regular, 13:20 ET) |  |
+| 11-23 13:21 | 2 | WCC | Up 9.0% (regular) | WCC +9.0% at 307.48 vs 282.04 close (regular, 13:20 ET) |  |
 | 11-23 12:26 | 2 | NRG | Up 9.4% (regular) | NRG +9.4% at 96.02 vs 87.80 close (regular, 12:25 ET) |  |
 | 11-23 12:26 | 2 | NXPI | Up 8.5% (regular) | NXPI +8.5% at 255.07 vs 235.15 close (regular, 12:25 ET) |  |
 | 11-23 12:26 | 2 | STX | Up 14.1% (regular) | STX +14.1% at 521.44 vs 457.01 close (regular, 12:25 ET) |  |
@@ -305,12 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-20 15:02 | 2 | FSLR | Down 8.2% (regular) | FSLR -8.2% at 139.45 vs 151.95 close (regular, 15:00 ET) |  |
 | 11-20 15:02 | 2 | HPE | Down 9.3% (regular) | HPE -9.3% at 41.25 vs 45.49 close (regular, 15:00 ET) |  |
 | 11-20 15:02 | 2 | JBL | Down 8.1% (regular) | JBL -8.1% at 226.54 vs 246.44 close (regular, 15:00 ET) |  |
-| 11-20 15:02 | 2 | Q | Down 8.0% (regular) | Q -8.0% at 104.52 vs 113.63 close (regular, 15:00 ET) |  |
-| 11-20 15:02 | 2 | SNDK | Down 15.6% (regular) | SNDK -15.6% at 79.64 vs 94.39 close (regular, 15:00 ET) |  |
-| 11-20 15:02 | 2 | TER | Down 9.2% (regular) | TER -9.2% at 206.49 vs 227.43 close (regular, 15:00 ET) |  |
-| 11-20 15:02 | 2 | AVAV | Down 8.1% (regular) | AVAV -8.1% at 88.13 vs 95.91 close (regular, 15:00 ET) |  |
-| 11-20 15:02 | 2 | BDC | Down 8.2% (regular) | BDC -8.2% at 91.87 vs 100.04 close (regular, 15:00 ET) |  |
-| 11-20 15:02 | 2 | FN | Down 9.2% (regular) | FN -9.2% at 283.02 vs 311.71 close (regular, 15:00 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
@@ -319,7 +319,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 10:07 | 2 | — | Market stress | Wall Street's 'Fear Gauge' just flashed a buy sign | [link](https://www.cnbc.com/2026/11/23/wall-streets-fear-gauge-just-flashed-a-buy-sign.html) |
 | 11-21 09:34 | 2 | — | Market stress | During Wall Street's worst week in over a year, we put money to work. What we're buying | [link](https://www.cnbc.com/investingclub/2026/11/21/during-wall-streets-worst-week-in-over-a-year-we-put-money-to-work-what-were-buying.html) |
 | 11-21 07:30 | 2 | — | Market stress | S&P 500 correction: Five forces behind the market sell-off | [link](https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html) |
-| 11-20 12:59 | 2 | — | Market stress | We’re making another small buy as the market sell-off deepens | [link](https://www.cnbc.com/investingclub/2026/11/20/were-making-another-small-buy-as-the-market-sell-off-deepens.html) |
 
 ## Watcher health
 
