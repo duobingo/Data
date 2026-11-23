@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-23 13:21 ET
+# Alerts — watcher run 2026-11-23 14:29 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,13 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 14:29 | 1 | ORCL | Up 11.8% (regular) | ORCL +11.8% at 113.18 vs 101.19 close (regular, 14:25 ET) |  |
+| 11-23 14:29 | 1 | ADI | Up 8.6% (regular) | ADI +8.6% at 375.68 vs 345.92 close (regular, 14:25 ET) |  |
+| 11-23 14:29 | 1 | SOFI | Up 5.4% (regular) | SOFI +5.4% at 13.16 vs 12.48 close (regular, 14:25 ET) |  |
+| 11-23 14:29 | 1 | RKLB | Up 8.7% (regular) | RKLB +8.7% at 49.39 vs 45.42 close (regular, 14:25 ET) |  |
+| 11-23 14:29 | 1 | TSM | Up 14.8% (regular) | TSM +14.8% at 365.75 vs 318.71 close (regular, 14:25 ET) |  |
+| 11-23 14:29 | 1 | SPCX | Up 5.4% (regular) | SPCX +5.4% at 134.74 vs 127.79 close (regular, 14:25 ET) |  |
+| 11-23 14:29 | 1 | ACHR | Up 5.5% (regular) | ACHR +5.5% at 3.07 vs 2.91 close (regular, 14:25 ET) |  |
 | 11-23 13:21 | 1 | VRTX | Up 4.2% (regular) | VRTX +4.2% at 536.46 vs 515.02 close (regular, 13:20 ET) |  |
 | 11-23 13:21 | 1 | C | Up 4.2% (regular) | C +4.2% at 115.22 vs 110.62 close (regular, 13:20 ET) |  |
 | 11-23 13:21 | 1 | RBLX | Up 8.7% (regular) | RBLX +8.7% at 50.80 vs 46.72 close (regular, 13:20 ET) |  |
@@ -149,18 +156,21 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 04:58 | 1 | IONQ | Up 8.0% (premarket) | IONQ +8.0% at 22.38 vs 20.72 close (premarket, 04:55 ET) |  |
 | 11-23 04:58 | 1 | SMCI | Up 7.3% (premarket) | SMCI +7.3% at 23.23 vs 21.65 close (premarket, 04:55 ET) |  |
 | 11-23 04:58 | 1 | ARM | Up 7.6% (premarket) | ARM +7.6% at 163.80 vs 152.20 close (premarket, 04:55 ET) |  |
-| 11-23 04:58 | 1 | TSM | Up 7.0% (premarket) | TSM +7.0% at 340.99 vs 318.71 close (premarket, 04:55 ET) |  |
-| 11-23 04:58 | 1 | ASML | Up 6.1% (premarket) | ASML +6.1% at 1344.09 vs 1266.22 close (premarket, 04:55 ET) |  |
-| 11-23 04:58 | 1 | VST | Up 4.5% (premarket) | VST +4.5% at 120.48 vs 115.25 close (premarket, 04:20 ET) |  |
-| 11-23 04:58 | 1 | CEG | Up 4.4% (premarket) | CEG +4.4% at 247.89 vs 237.41 close (premarket, 04:30 ET) |  |
-| 11-23 04:58 | 1 | FIX | Up 5.2% (premarket) | FIX +5.2% at 1096.21 vs 1042.47 close (premarket, 04:00 ET) |  |
-| 11-23 04:58 | 1 | MELI | Up 5.0% (premarket) | MELI +5.0% at 1423.00 vs 1355.00 close (premarket, 04:55 ET) |  |
-| 11-23 04:58 | 1 | BFLY | Up 5.2% (premarket) | BFLY +5.2% at 5.68 vs 5.40 close (premarket, 04:10 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 14:29 | 2 | CRL | Up 8.1% (regular) | CRL +8.1% at 339.74 vs 314.32 close (regular, 14:25 ET) |  |
+| 11-23 14:29 | 2 | COHR | Up 14.5% (regular) | COHR +14.5% at 214.45 vs 187.22 close (regular, 14:25 ET) |  |
+| 11-23 14:29 | 2 | LITE | Up 17.6% (regular) | LITE +17.6% at 541.38 vs 460.54 close (regular, 14:25 ET) |  |
+| 11-23 14:29 | 2 | MRVL | Up 17.5% (regular) | MRVL +17.5% at 143.65 vs 122.28 close (regular, 14:25 ET) |  |
+| 11-23 14:29 | 2 | ON | Up 8.7% (regular) | ON +8.7% at 66.13 vs 60.84 close (regular, 14:30 ET) |  |
+| 11-23 14:29 | 2 | AEIS | Up 11.4% (regular) | AEIS +11.4% at 211.95 vs 190.18 close (regular, 14:25 ET) |  |
+| 11-23 14:29 | 2 | ALK | Up 8.3% (regular) | ALK +8.3% at 36.54 vs 33.73 close (regular, 14:30 ET) |  |
+| 11-23 14:29 | 2 | BWA | Up 8.3% (regular) | BWA +8.3% at 50.87 vs 46.95 close (regular, 14:30 ET) |  |
+| 11-23 14:29 | 2 | NXT | Up 8.2% (regular) | NXT +8.2% at 72.62 vs 67.13 close (regular, 14:30 ET) |  |
+| 11-23 14:29 | 2 | STRL | Up 12.0% (regular) | STRL +12.0% at 277.58 vs 247.92 close (regular, 14:30 ET) |  |
 | 11-23 13:21 | 2 | FCX | Up 9.1% (regular) | FCX +9.1% at 50.19 vs 45.99 close (regular, 13:20 ET) |  |
 | 11-23 13:21 | 2 | HPE | Up 17.5% (regular) | HPE +17.5% at 48.05 vs 40.91 close (regular, 13:20 ET) |  |
 | 11-23 13:21 | 2 | NTAP | Up 9.7% (regular) | NTAP +9.7% at 172.90 vs 157.65 close (regular, 13:20 ET) |  |
@@ -301,16 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-20 15:53 | 2 | Q | Down 9.3% (regular) | Q -9.3% at 103.10 vs 113.63 close (regular, 15:50 ET) |  |
 | 11-20 15:53 | 2 | SNPS | Down 8.1% (regular) | SNPS -8.1% at 395.98 vs 430.91 close (regular, 15:50 ET) |  |
 | 11-20 15:53 | 2 | URI | Down 8.0% (regular) | URI -8.0% at 974.36 vs 1059.56 close (regular, 15:50 ET) |  |
-| 11-20 15:53 | 2 | AVAV | Down 9.5% (regular) | AVAV -9.5% at 86.84 vs 95.91 close (regular, 15:50 ET) |  |
-| 11-20 15:53 | 2 | BRKR | Down 9.0% (regular) | BRKR -9.0% at 56.51 vs 62.10 close (regular, 15:50 ET) |  |
-| 11-20 15:53 | 2 | CLF | Down 9.8% (regular) | CLF -9.8% at 10.57 vs 11.72 close (regular, 15:50 ET) |  |
-| 11-20 15:53 | 2 | KTOS | Down 9.8% (regular) | KTOS -9.8% at 26.75 vs 29.65 close (regular, 15:50 ET) |  |
-| 11-20 15:53 | 2 | RMBS | Down 13.6% (regular) | RMBS -13.6% at 65.82 vs 76.19 close (regular, 15:55 ET) |  |
-| 11-20 15:53 | 2 | WCC | Down 8.3% (regular) | WCC -8.3% at 281.65 vs 307.17 close (regular, 15:55 ET) |  |
-| 11-20 15:02 | 2 | P | Down 12.1% (regular) | P -12.1% at 92.72 vs 105.50 close (regular, 15:00 ET) |  |
-| 11-20 15:02 | 2 | FSLR | Down 8.2% (regular) | FSLR -8.2% at 139.45 vs 151.95 close (regular, 15:00 ET) |  |
-| 11-20 15:02 | 2 | HPE | Down 9.3% (regular) | HPE -9.3% at 41.25 vs 45.49 close (regular, 15:00 ET) |  |
-| 11-20 15:02 | 2 | JBL | Down 8.1% (regular) | JBL -8.1% at 226.54 vs 246.44 close (regular, 15:00 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
