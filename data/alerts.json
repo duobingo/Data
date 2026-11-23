@@ -1,51 +1,6 @@
 {
  "alerts": [
   {
-   "id": "995dafb08b50aef6",
-   "kind": "news",
-   "group": "tracked",
-   "ticker": "NVDA",
-   "name": "Nvidia",
-   "sector": "Information Technology",
-   "severity": 2,
-   "category": "Leadership",
-   "title": "The cost of ousting a founder: Is the 'bank of Nvidia' at risk?",
-   "source": "Yahoo",
-   "url": "https://finnhub.io/api/news?id=6efbcfd3ef79aa754c5377906727bca8e3d8b534fb19688829cd30eb2af4ba06",
-   "published": "2026-11-16 16:46",
-   "first_seen": "2026-11-16T17:14-05:00"
-  },
-  {
-   "id": "c4f12bed3ddc0b8f",
-   "kind": "news",
-   "group": "tracked",
-   "ticker": "NVDA",
-   "name": "Nvidia",
-   "sector": "Information Technology",
-   "severity": 2,
-   "category": "Legal/regulatory",
-   "title": "Nvidia Probe Focus Shifts To China Chip Smuggling",
-   "source": "Yahoo",
-   "url": "https://finnhub.io/api/news?id=bab3cf1bda0fd5ea01de95b24a6b5dfb523871a3d549938d0cf64ca824a0b1de",
-   "published": "2026-11-16 16:25",
-   "first_seen": "2026-11-16T17:14-05:00"
-  },
-  {
-   "id": "dfbd11bb639d4d9d",
-   "kind": "news",
-   "group": "tracked",
-   "ticker": "CVX",
-   "name": "Chevron Corporation",
-   "sector": "Energy",
-   "severity": 1,
-   "category": "Deal",
-   "title": "Chevron Reportedly Moves Ahead in Talks to Buy Majority Stake in Gulf Oil Producer Beacon",
-   "source": "Yahoo",
-   "url": "https://finnhub.io/api/news?id=835fb95c0a1847b86771132a14dedcf72ac23ac4743812cb2e6731169301c57f",
-   "published": "2026-11-16 16:28",
-   "first_seen": "2026-11-16T17:14-05:00"
-  },
-  {
    "id": "fb8ce31485e40e19",
    "kind": "news",
    "group": "tracked",
@@ -11274,8 +11229,65 @@
    "url": "https://www.sec.gov/Archives/edgar/data/84839/000095014226003142/0000950142-26-003142-index.htm",
    "published": "2026-11-23 16:05",
    "first_seen": "2026-11-23T16:35-05:00"
+  },
+  {
+   "id": "c36dfc554c814551",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "C",
+   "name": "Citigroup",
+   "sector": "Financials",
+   "severity": 1,
+   "category": "Up 4.1% (after-hours)",
+   "title": "C +4.1% at 119.00 vs 114.35 close (after-hours, 16:45 ET)",
+   "url": "",
+   "move_pct": 4.07,
+   "first_seen": "2026-11-23T17:36-05:00"
+  },
+  {
+   "id": "e199fa76cea1284e",
+   "kind": "news",
+   "group": "tracked",
+   "ticker": "NVDA",
+   "name": "Nvidia",
+   "sector": "Information Technology",
+   "severity": 1,
+   "category": "Deal",
+   "title": "Trump has a personal stake in Nvidia's future",
+   "source": "Yahoo",
+   "url": "https://finnhub.io/api/news?id=85c4ae9dac0d5bb3dd55f5876f1d3e4566bf5b3a1ec98b53a27a216dc3d1df41",
+   "published": "2026-11-23 16:26",
+   "first_seen": "2026-11-23T17:36-05:00"
+  },
+  {
+   "id": "35ad1ec18474a4c0",
+   "kind": "filing",
+   "group": "universe",
+   "ticker": "PINS",
+   "name": "Pinterest",
+   "sector": "",
+   "severity": 2,
+   "category": "8-K: 5.02 Executive/director change",
+   "title": "8-K - PINTEREST, INC. (0001506293) (Filer)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1506293/000162828026075546/0001628280-26-075546-index.htm",
+   "published": "2026-11-23 17:00",
+   "first_seen": "2026-11-23T17:36-05:00"
+  },
+  {
+   "id": "4f4c2f616591cd4f",
+   "kind": "filing",
+   "group": "universe",
+   "ticker": "TPL",
+   "name": "Texas Pacific Land Corporation",
+   "sector": "",
+   "severity": 2,
+   "category": "8-K: 1.01 Material agreement",
+   "title": "8-K - Texas Pacific Land Corp (0001811074) (Filer)",
+   "url": "https://www.sec.gov/Archives/edgar/data/1811074/000119312526472518/0001193125-26-472518-index.htm",
+   "published": "2026-11-23 16:43",
+   "first_seen": "2026-11-23T17:36-05:00"
   }
  ],
- "last_run": "2026-11-23T16:35-05:00",
+ "last_run": "2026-11-23T17:36-05:00",
  "errors": []
 }

@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-23 16:35 ET
+# Alerts — watcher run 2026-11-23 17:36 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 17:36 | 1 | C | Up 4.1% (after-hours) | C +4.1% at 119.00 vs 114.35 close (after-hours, 16:45 ET) |  |
+| 11-23 17:36 | 1 | NVDA | Deal | Trump has a personal stake in Nvidia's future | [link](https://finnhub.io/api/news?id=85c4ae9dac0d5bb3dd55f5876f1d3e4566bf5b3a1ec98b53a27a216dc3d1df41) |
 | 11-23 16:35 | 1 | KO | 8-K: 5.02 Executive/director change | 8-K - COCA COLA CO (0000021344) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/21344/000155278126000567/0001552781-26-000567-index.htm) |
 | 11-23 16:35 | 1 | DIS | 8-K: 5.02 Executive/director change | 8-K - Walt Disney Co (0001744489) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1744489/000174448926000069/0001744489-26-000069-index.htm) |
 | 11-23 16:35 | 1 | V | 8-K: 5.02 Executive/director change | 8-K - VISA INC. (0001403161) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000143/0001403161-26-000143-index.htm) |
@@ -154,13 +156,13 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 04:58 | 1 | HOOD | Up 7.0% (premarket) | HOOD +7.0% at 66.54 vs 62.17 close (premarket, 04:55 ET) |  |
 | 11-23 04:58 | 1 | SOFI | Up 5.3% (premarket) | SOFI +5.3% at 13.14 vs 12.48 close (premarket, 04:55 ET) |  |
 | 11-23 04:58 | 1 | COIN | Up 5.1% (premarket) | COIN +5.1% at 107.22 vs 101.97 close (premarket, 04:56 ET) |  |
-| 11-23 04:58 | 1 | APP | Up 4.8% (premarket) | APP +4.8% at 365.00 vs 348.29 close (premarket, 04:56 ET) |  |
-| 11-23 04:58 | 1 | RBLX | Up 5.2% (premarket) | RBLX +5.2% at 49.13 vs 46.72 close (premarket, 04:55 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 17:36 | 2 | PINS | 8-K: 5.02 Executive/director change | 8-K - PINTEREST, INC. (0001506293) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1506293/000162828026075546/0001628280-26-075546-index.htm) |
+| 11-23 17:36 | 2 | TPL | 8-K: 1.01 Material agreement | 8-K - Texas Pacific Land Corp (0001811074) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1811074/000119312526472518/0001193125-26-472518-index.htm) |
 | 11-23 16:35 | 2 | SMTC | Down 8.5% (after-hours) | SMTC -8.5% at 95.33 vs 104.13 close (after-hours, 16:35 ET) |  |
 | 11-23 16:35 | 2 | GPK | 8-K: 5.02 Executive/director change | 8-K - GRAPHIC PACKAGING HOLDING CO (0001408075) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1408075/000119312526472429/0001193125-26-472429-index.htm) |
 | 11-23 16:35 | 2 | FTI | 8-K: 1.01 Material agreement | 8-K - TechnipFMC plc (0001681459) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1681459/000162828026075503/0001628280-26-075503-index.htm) |
@@ -309,8 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 04:58 | 2 | TTMI | Up 8.2% (premarket) | TTMI +8.2% at 63.65 vs 58.85 close (premarket, 04:49 ET) |  |
 | 11-23 04:58 | 2 | VIAV | Up 8.3% (premarket) | VIAV +8.3% at 28.92 vs 26.71 close (premarket, 04:30 ET) |  |
 | 11-20 17:50 | 2 | TSN | 8-K: 5.02 Executive/director change | 8-K - TYSON FOODS, INC. (0000100493) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/100493/000010049326000085/0000100493-26-000085-index.htm) |
-| 11-20 16:51 | 2 | POST | 8-K: 5.02 Executive/director change | 8-K - Post Holdings, Inc. (0001530950) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1530950/000153095026000104/0001530950-26-000104-index.htm) |
-| 11-20 16:51 | 2 | SWX | 8-K: 5.02 Executive/director change | 8-K - Southwest Gas Holdings, Inc. (0001692115) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1692115/000169211526000129/0001692115-26-000129-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
