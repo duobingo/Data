@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-23 06:10 ET
+# Alerts — watcher run 2026-11-23 07:24 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,21 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 07:24 | 1 | UNH | Down 5.1% (premarket) | UNH -5.1% at 322.40 vs 339.85 close (premarket, 07:20 ET) |  |
+| 11-23 07:24 | 1 | MU | Up 4.6% (premarket) | MU +4.6% at 622.01 vs 594.51 close (premarket, 07:25 ET) |  |
+| 11-23 07:24 | 1 | AMAT | Up 5.9% (premarket) | AMAT +5.9% at 320.60 vs 302.63 close (premarket, 07:20 ET) |  |
+| 11-23 07:24 | 1 | ADI | Up 4.1% (premarket) | ADI +4.1% at 360.00 vs 345.92 close (premarket, 07:18 ET) |  |
+| 11-23 07:24 | 1 | CVS | Down 4.5% (premarket) | CVS -4.5% at 77.17 vs 80.84 close (premarket, 07:20 ET) |  |
+| 11-23 07:24 | 1 | HOOD | Up 5.7% (premarket) | HOOD +5.7% at 65.70 vs 62.17 close (premarket, 07:20 ET) |  |
+| 11-23 07:24 | 1 | DASH | Up 4.2% (premarket) | DASH +4.2% at 158.99 vs 152.60 close (premarket, 07:13 ET) |  |
+| 11-23 07:24 | 1 | HIMS | Up 5.0% (premarket) | HIMS +5.0% at 15.33 vs 14.60 close (premarket, 07:20 ET) |  |
+| 11-23 07:24 | 1 | ASML | Up 6.0% (premarket) | ASML +6.0% at 1342.02 vs 1266.22 close (premarket, 07:20 ET) |  |
+| 11-23 07:24 | 1 | ACHR | Up 5.5% (premarket) | ACHR +5.5% at 3.07 vs 2.91 close (premarket, 07:25 ET) |  |
+| 11-23 07:24 | 1 | OKLO | Up 4.5% (premarket) | OKLO +4.5% at 20.75 vs 19.85 close (premarket, 07:25 ET) |  |
+| 11-23 07:24 | 1 | CRWD | Deal | CrowdStrike To Acquire Zscaler For $43.9B In All-Stock Deal: TD Cowen Sees Cybersecurity Consolidation Entering ‘More Material Phase’ | [link](https://finnhub.io/api/news?id=4d17d658adc276242fa0aeee544c083051c2a1482385f7b7bc2c15df1b485388) |
+| 11-23 07:24 | 1 | CRWD | Deal | CrowdStrike explores acquisition of Zscaler – report | [link](https://finnhub.io/api/news?id=5b0fe56de11eb9cc3f9557d18f8a6b1e0ba9e89520febdb443fab7c6eb702778) |
+| 11-23 07:24 | 2 | DASH | 8-K: 1.01 Material agreement | 8-K - DoorDash, Inc. (0001792789) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1792789/000114036126045152/0001140361-26-045152-index.htm) |
+| 11-23 07:24 | 2 | CRWD | 8-K: 1.01 Material agreement | 8-K - CrowdStrike Holdings, Inc. (0001535527) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1535527/000110465926130785/0001104659-26-130785-index.htm) |
 | 11-23 06:10 | 1 | AMZN | Up 4.1% (premarket) | AMZN +4.1% at 256.93 vs 246.82 close (premarket, 06:10 ET) |  |
 | 11-23 06:10 | 1 | TXN | Up 4.1% (premarket) | TXN +4.1% at 274.53 vs 263.75 close (premarket, 06:09 ET) |  |
 | 11-23 06:10 | 1 | NOW | Up 4.1% (premarket) | NOW +4.1% at 91.21 vs 87.61 close (premarket, 06:02 ET) |  |
@@ -141,26 +156,15 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-20 10:59 | 1 | HIMS | Down 4.6% (regular) | HIMS -4.6% at 15.28 vs 16.02 close (regular, 10:55 ET) |  |
 | 11-20 10:59 | 1 | RKLB | Down 6.7% (regular) | RKLB -6.7% at 47.57 vs 50.99 close (regular, 10:55 ET) |  |
 | 11-20 10:59 | 1 | IONQ | Down 4.5% (regular) | IONQ -4.5% at 21.68 vs 22.71 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | SMCI | Down 5.8% (regular) | SMCI -5.8% at 22.45 vs 23.84 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | ARM | Down 9.7% (regular) | ARM -9.7% at 159.91 vs 177.17 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | TSM | Down 6.8% (regular) | TSM -6.8% at 327.98 vs 352.09 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | ASML | Down 4.8% (regular) | ASML -4.8% at 1291.42 vs 1356.20 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | VST | Down 4.6% (regular) | VST -4.6% at 118.40 vs 124.15 close (regular, 10:59 ET) |  |
-| 11-20 10:59 | 1 | FIX | Down 6.9% (regular) | FIX -6.9% at 1036.60 vs 1114.02 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | SPCX | Down 6.4% (regular) | SPCX -6.4% at 129.59 vs 138.43 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | BFLY | Down 5.1% (regular) | BFLY -5.1% at 5.55 vs 5.85 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | RIVN | Down 4.5% (regular) | RIVN -4.5% at 10.79 vs 11.29 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | LCID | Down 4.3% (regular) | LCID -4.3% at 2.67 vs 2.79 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | SOUN | Down 4.8% (regular) | SOUN -4.8% at 2.77 vs 2.91 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | ACHR | Down 5.0% (regular) | ACHR -5.0% at 3.04 vs 3.20 close (regular, 10:55 ET) |  |
-| 11-20 09:57 | 1 | INTU | Down 4.2% (regular) | INTU -4.2% at 297.12 vs 310.02 close (regular, 09:55 ET) |  |
-| 11-20 09:57 | 1 | MU | Down 5.0% (regular) | MU -5.0% at 655.85 vs 690.44 close (regular, 09:55 ET) |  |
-| 11-20 09:57 | 1 | ANET | Down 5.4% (regular) | ANET -5.4% at 179.31 vs 189.59 close (regular, 09:55 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 07:24 | 2 | FORM | Up 8.2% (premarket) | FORM +8.2% at 79.00 vs 73.02 close (premarket, 07:00 ET) |  |
+| 11-23 07:24 | 2 | ONTO | Up 8.1% (premarket) | ONTO +8.1% at 184.01 vs 170.16 close (premarket, 06:30 ET) |  |
+| 11-23 07:24 | 2 | RMBS | Up 8.1% (premarket) | RMBS +8.1% at 71.70 vs 66.35 close (premarket, 05:55 ET) |  |
+| 11-23 07:24 | 2 | SMTC | Up 8.4% (premarket) | SMTC +8.4% at 95.01 vs 87.63 close (premarket, 07:22 ET) |  |
 | 11-23 06:10 | 2 | P | Up 8.6% (premarket) | P +8.6% at 100.00 vs 92.05 close (premarket, 06:10 ET) |  |
 | 11-23 06:10 | 2 | DOCN | Up 8.1% (premarket) | DOCN +8.1% at 72.14 vs 66.76 close (premarket, 05:45 ET) |  |
 | 11-23 04:58 | 2 | SNDK | Down 9.9% (premarket) | SNDK -9.9% at 85.06 vs 94.39 close (premarket, 04:55 ET) |  |
@@ -293,7 +297,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-21 07:30 | 2 | — | Market stress | S&P 500 correction: Five forces behind the market sell-off | [link](https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html) |
 | 11-20 12:59 | 2 | — | Market stress | We’re making another small buy as the market sell-off deepens | [link](https://www.cnbc.com/investingclub/2026/11/20/were-making-another-small-buy-as-the-market-sell-off-deepens.html) |
 | 11-20 10:59 | 2 | — | Market stress | Bitcoin selloff: Crypto is failing the 'digital gold' test again as it sinks with stocks | [link](https://www.cnbc.com/2026/11/20/bitcoin-price-gold-market-hedge.html) |
-| 11-20 06:42 | 2 | — | Market stress | Anthropic defies the odds, holding record IPO despite ‘massively disruptive’ market | [link](https://www.cnbc.com/2026/11/20/anthropic-defies-odds-holding-ipo-despite-massively-disruptive-market.html) |
 
 ## Watcher health
 
