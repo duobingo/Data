@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-23 15:32 ET
+# Alerts — watcher run 2026-11-23 16:35 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 16:35 | 1 | KO | 8-K: 5.02 Executive/director change | 8-K - COCA COLA CO (0000021344) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/21344/000155278126000567/0001552781-26-000567-index.htm) |
+| 11-23 16:35 | 1 | DIS | 8-K: 5.02 Executive/director change | 8-K - Walt Disney Co (0001744489) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1744489/000174448926000069/0001744489-26-000069-index.htm) |
+| 11-23 16:35 | 1 | V | 8-K: 5.02 Executive/director change | 8-K - VISA INC. (0001403161) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000143/0001403161-26-000143-index.htm) |
 | 11-23 15:32 | 1 | OKLO | Up 5.8% (regular) | OKLO +5.8% at 21.00 vs 19.85 close (regular, 15:30 ET) |  |
 | 11-23 15:32 | 2 | PANW | Analyst | Phillip Securities Just Upgraded Palo Alto Networks With a $418 Target. Here’s What Changed | [link](https://finnhub.io/api/news?id=53e53d7081865c83befc83771833d1931586b706ed45c55919270106f911a196) |
 | 11-23 14:29 | 1 | ORCL | Up 11.8% (regular) | ORCL +11.8% at 113.18 vs 101.19 close (regular, 14:25 ET) |  |
@@ -153,14 +156,21 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 04:58 | 1 | COIN | Up 5.1% (premarket) | COIN +5.1% at 107.22 vs 101.97 close (premarket, 04:56 ET) |  |
 | 11-23 04:58 | 1 | APP | Up 4.8% (premarket) | APP +4.8% at 365.00 vs 348.29 close (premarket, 04:56 ET) |  |
 | 11-23 04:58 | 1 | RBLX | Up 5.2% (premarket) | RBLX +5.2% at 49.13 vs 46.72 close (premarket, 04:55 ET) |  |
-| 11-23 04:58 | 1 | HIMS | Up 6.2% (premarket) | HIMS +6.2% at 15.50 vs 14.60 close (premarket, 04:57 ET) |  |
-| 11-23 04:58 | 1 | RKLB | Up 9.0% (premarket) | RKLB +9.0% at 49.50 vs 45.42 close (premarket, 04:55 ET) |  |
-| 11-23 04:58 | 1 | IONQ | Up 8.0% (premarket) | IONQ +8.0% at 22.38 vs 20.72 close (premarket, 04:55 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 16:35 | 2 | SMTC | Down 8.5% (after-hours) | SMTC -8.5% at 95.33 vs 104.13 close (after-hours, 16:35 ET) |  |
+| 11-23 16:35 | 2 | GPK | 8-K: 5.02 Executive/director change | 8-K - GRAPHIC PACKAGING HOLDING CO (0001408075) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1408075/000119312526472429/0001193125-26-472429-index.htm) |
+| 11-23 16:35 | 2 | FTI | 8-K: 1.01 Material agreement | 8-K - TechnipFMC plc (0001681459) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1681459/000162828026075503/0001628280-26-075503-index.htm) |
+| 11-23 16:35 | 2 | INGR | 8-K: 5.02 Executive/director change | 8-K - Ingredion Inc (0001046257) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1046257/000104625726000270/0001046257-26-000270-index.htm) |
+| 11-23 16:35 | 2 | SMTC | 8-K: 2.02 Earnings results | 8-K - SEMTECH CORP (0000088941) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/88941/000008894126000045/0000088941-26-000045-index.htm) |
+| 11-23 16:35 | 2 | ED | 8-K: 5.02 Executive/director change | 8-K - CONSOLIDATED EDISON INC (0001047862) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1047862/000119312526472369/0001193125-26-472369-index.htm) |
+| 11-23 16:35 | 2 | J | 8-K: 2.02 Earnings results | 8-K - JACOBS SOLUTIONS INC. (0000052988) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/52988/000162828026075492/0001628280-26-075492-index.htm) |
+| 11-23 16:35 | 2 | KEYS | 8-K: 5.02 Executive/director change | 8-K - Keysight Technologies, Inc. (0001601046) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1601046/000160104626000042/0001601046-26-000042-index.htm) |
+| 11-23 16:35 | 2 | A | 8-K: 2.02 Earnings results | 8-K - AGILENT TECHNOLOGIES, INC. (0001090872) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1090872/000109087226000082/0001090872-26-000082-index.htm) |
+| 11-23 16:35 | 2 | ROL | 8-K: 1.01 Material agreement; 1.02 Agreement terminated | 8-K - ROLLINS INC (0000084839) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/84839/000095014226003142/0000950142-26-003142-index.htm) |
 | 11-23 15:32 | 2 | INTC | Up 15.2% (regular) | INTC +15.2% at 59.08 vs 51.28 close (regular, 15:30 ET) |  |
 | 11-23 15:32 | 2 | UAL | Up 8.1% (regular) | UAL +8.1% at 109.25 vs 101.03 close (regular, 15:30 ET) |  |
 | 11-23 15:32 | 2 | ALK | Up 10.0% (regular) | ALK +10.0% at 37.11 vs 33.73 close (regular, 15:30 ET) |  |
@@ -301,16 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-20 17:50 | 2 | TSN | 8-K: 5.02 Executive/director change | 8-K - TYSON FOODS, INC. (0000100493) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/100493/000010049326000085/0000100493-26-000085-index.htm) |
 | 11-20 16:51 | 2 | POST | 8-K: 5.02 Executive/director change | 8-K - Post Holdings, Inc. (0001530950) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1530950/000153095026000104/0001530950-26-000104-index.htm) |
 | 11-20 16:51 | 2 | SWX | 8-K: 5.02 Executive/director change | 8-K - Southwest Gas Holdings, Inc. (0001692115) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1692115/000169211526000129/0001692115-26-000129-index.htm) |
-| 11-20 16:51 | 2 | LYB | 8-K: 5.02 Executive/director change | 8-K - LyondellBasell Industries N.V. (0001489393) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1489393/000148939326000072/0001489393-26-000072-index.htm) |
-| 11-20 16:51 | 2 | MTZ | 8-K: 1.01 Material agreement | 8-K - MASTEC INC (0000015615) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/15615/000119312526470279/0001193125-26-470279-index.htm) |
-| 11-20 16:51 | 2 | A | 8-K: 5.02 Executive/director change | 8-K - AGILENT TECHNOLOGIES, INC. (0001090872) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1090872/000119312526470278/0001193125-26-470278-index.htm) |
-| 11-20 16:51 | 2 | AVT | 8-K: 1.01 Material agreement | 8-K - AVNET INC (0000008858) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/8858/000000885826000128/0000008858-26-000128-index.htm) |
-| 11-20 16:51 | 2 | BSX | 8-K: 1.01 Material agreement | 8-K - BOSTON SCIENTIFIC CORP (0000885725) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/885725/000088572526000076/0000885725-26-000076-index.htm) |
-| 11-20 16:51 | 2 | AYI | 8-K: 1.01 Material agreement | 8-K - ACUITY INC. (DE) (0001144215) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1144215/000110465926130602/0001104659-26-130602-index.htm) |
-| 11-20 16:51 | 2 | PODD | 8-K: 5.02 Executive/director change | 8-K - INSULET CORP (0001145197) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1145197/000114519726000195/0001145197-26-000195-index.htm) |
-| 11-20 16:51 | 2 | AME | 8-K: 1.01 Material agreement | 8-K - AMETEK INC/ (0001037868) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1037868/000110465926130589/0001104659-26-130589-index.htm) |
-| 11-20 15:53 | 2 | BE | Down 15.3% (regular) | BE -15.3% at 142.32 vs 168.11 close (regular, 15:50 ET) |  |
-| 11-20 15:53 | 2 | ECHO | Down 8.8% (regular) | ECHO -8.8% at 84.15 vs 92.31 close (regular, 15:50 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
