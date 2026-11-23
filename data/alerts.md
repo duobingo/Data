@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-23 11:16 ET
+# Alerts — watcher run 2026-11-23 12:26 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,15 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 12:26 | 1 | META | Up 6.2% (regular) | META +6.2% at 595.36 vs 560.84 close (regular, 12:25 ET) |  |
+| 11-23 12:26 | 1 | CSCO | Up 6.5% (regular) | CSCO +6.5% at 96.51 vs 90.64 close (regular, 12:25 ET) |  |
+| 11-23 12:26 | 1 | IBM | Up 4.0% (regular) | IBM +4.0% at 233.45 vs 224.44 close (regular, 12:25 ET) |  |
+| 11-23 12:26 | 1 | ISRG | Up 4.5% (regular) | ISRG +4.5% at 417.01 vs 399.05 close (regular, 12:25 ET) |  |
+| 11-23 12:26 | 1 | HON | Up 4.3% (regular) | HON +4.3% at 221.87 vs 212.64 close (regular, 12:25 ET) |  |
+| 11-23 12:26 | 1 | DE | Up 4.1% (regular) | DE +4.1% at 634.28 vs 609.25 close (regular, 12:25 ET) |  |
+| 11-23 12:26 | 1 | HOOD | Up 8.7% (regular) | HOOD +8.7% at 67.58 vs 62.17 close (regular, 12:25 ET) |  |
+| 11-23 12:26 | 1 | IONQ | Up 12.9% (regular) | IONQ +12.9% at 23.40 vs 20.72 close (regular, 12:25 ET) |  |
+| 11-23 12:26 | 1 | RIVN | Up 9.7% (regular) | RIVN +9.7% at 11.33 vs 10.33 close (regular, 12:25 ET) |  |
 | 11-23 11:16 | 1 | AMZN | Up 4.2% (regular) | AMZN +4.2% at 257.14 vs 246.82 close (regular, 11:15 ET) |  |
 | 11-23 11:16 | 1 | AMD | Up 7.7% (regular) | AMD +7.7% at 456.96 vs 424.39 close (regular, 11:15 ET) |  |
 | 11-23 11:16 | 1 | GE | Up 4.1% (regular) | GE +4.1% at 322.23 vs 309.62 close (regular, 11:15 ET) |  |
@@ -147,20 +156,19 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 04:58 | 1 | ACHR | Up 6.2% (premarket) | ACHR +6.2% at 3.09 vs 2.91 close (premarket, 04:56 ET) |  |
 | 11-23 04:58 | 1 | OKLO | Up 6.5% (premarket) | OKLO +6.5% at 21.15 vs 19.85 close (premarket, 04:50 ET) |  |
 | 11-20 20:10 | 1 | CRWD | Deal | CrowdStrike, Zscaler Merger Would Create Cybersecurity Giant | [link](https://finnhub.io/api/news?id=8db09f48a9a0d3285ad7db8b1609f2f3e7a3f02e77d91e03993324f1d8c4e7a6) |
-| 11-20 18:50 | 1 | KLAC | Up 4.1% (after-hours) | KLAC +4.1% at 132.10 vs 126.87 close (after-hours, 18:42 ET) |  |
-| 11-20 17:50 | 1 | CRWD | Down 5.6% (after-hours) | CRWD -5.6% at 216.50 vs 229.44 close (after-hours, 17:45 ET) |  |
-| 11-20 17:50 | 2 | NVDA | Legal/regulatory | Nvidia’s Stock Slide Deepens After Report of SEC Accounting Probe | [link](https://finnhub.io/api/news?id=8ea45aa89b25bf662ec532ef89c9c04f096153d6e9dc711db4f16a9cd9d560e8) |
-| 11-20 16:51 | 1 | CRWD | Down 8.1% (after-hours) | CRWD -8.1% at 210.97 vs 229.44 close (after-hours, 16:50 ET) |  |
-| 11-20 16:51 | 1 | RKLB | Up 4.2% (after-hours) | RKLB +4.2% at 47.31 vs 45.42 close (after-hours, 16:50 ET) |  |
-| 11-20 16:51 | 1 | IONQ | Up 4.0% (after-hours) | IONQ +4.0% at 21.55 vs 20.72 close (after-hours, 16:50 ET) |  |
-| 11-20 15:53 | 1 | NVDA | Down 12.8% (regular) | NVDA -12.8% at 127.29 vs 145.98 close (regular, 15:50 ET) |  |
-| 11-20 15:53 | 1 | AMZN | Down 4.2% (regular) | AMZN -4.2% at 246.56 vs 257.37 close (regular, 15:50 ET) |  |
-| 11-20 15:53 | 1 | AMD | Down 12.8% (regular) | AMD -12.8% at 426.58 vs 489.19 close (regular, 15:50 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 12:26 | 2 | NRG | Up 9.4% (regular) | NRG +9.4% at 96.02 vs 87.80 close (regular, 12:25 ET) |  |
+| 11-23 12:26 | 2 | NXPI | Up 8.5% (regular) | NXPI +8.5% at 255.07 vs 235.15 close (regular, 12:25 ET) |  |
+| 11-23 12:26 | 2 | STX | Up 14.1% (regular) | STX +14.1% at 521.44 vs 457.01 close (regular, 12:25 ET) |  |
+| 11-23 12:26 | 2 | TER | Up 13.7% (regular) | TER +13.7% at 232.92 vs 204.78 close (regular, 12:25 ET) |  |
+| 11-23 12:26 | 2 | WDC | Up 14.9% (regular) | WDC +14.9% at 300.08 vs 261.11 close (regular, 12:25 ET) |  |
+| 11-23 12:26 | 2 | BDC | Up 9.1% (regular) | BDC +9.1% at 101.19 vs 92.79 close (regular, 12:25 ET) |  |
+| 11-23 12:26 | 2 | DOCN | Up 18.1% (regular) | DOCN +18.1% at 78.83 vs 66.76 close (regular, 12:25 ET) |  |
+| 11-23 12:26 | 2 | MKSI | Up 11.9% (regular) | MKSI +11.9% at 206.56 vs 184.52 close (regular, 12:25 ET) |  |
 | 11-23 11:16 | 2 | APH | Up 9.6% (regular) | APH +9.6% at 76.40 vs 69.72 close (regular, 11:15 ET) |  |
 | 11-23 11:16 | 2 | BE | Up 21.3% (regular) | BE +21.3% at 172.72 vs 142.39 close (regular, 11:15 ET) |  |
 | 11-23 11:16 | 2 | CIEN | Up 14.1% (regular) | CIEN +14.1% at 267.37 vs 234.37 close (regular, 11:15 ET) |  |
@@ -303,14 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-20 15:02 | 2 | AVAV | Down 8.1% (regular) | AVAV -8.1% at 88.13 vs 95.91 close (regular, 15:00 ET) |  |
 | 11-20 15:02 | 2 | BDC | Down 8.2% (regular) | BDC -8.2% at 91.87 vs 100.04 close (regular, 15:00 ET) |  |
 | 11-20 15:02 | 2 | FN | Down 9.2% (regular) | FN -9.2% at 283.02 vs 311.71 close (regular, 15:00 ET) |  |
-| 11-20 15:02 | 2 | GAP | Up 11.0% (regular) | GAP +11.0% at 20.86 vs 18.79 close (regular, 15:00 ET) |  |
-| 11-20 15:02 | 2 | IPGP | Down 8.2% (regular) | IPGP -8.2% at 58.70 vs 63.94 close (regular, 15:00 ET) |  |
-| 11-20 15:02 | 2 | KTOS | Down 8.4% (regular) | KTOS -8.4% at 27.16 vs 29.65 close (regular, 15:00 ET) |  |
-| 11-20 14:00 | 2 | GLW | Down 8.9% (regular) | GLW -8.9% at 96.52 vs 105.97 close (regular, 14:00 ET) |  |
-| 11-20 14:00 | 2 | FLEX | Down 8.2% (regular) | FLEX -8.2% at 68.12 vs 74.22 close (regular, 14:00 ET) |  |
-| 11-20 14:00 | 2 | GPN | Up 10.1% (regular) | GPN +10.1% at 91.96 vs 83.52 close (regular, 14:00 ET) |  |
-| 11-20 14:00 | 2 | MRVL | Down 8.9% (regular) | MRVL -8.9% at 126.21 vs 138.47 close (regular, 14:00 ET) |  |
-| 11-20 14:00 | 2 | AMKR | Down 8.6% (regular) | AMKR -8.6% at 31.18 vs 34.13 close (regular, 14:00 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
