@@ -1,5 +1,5 @@
-# Short-term scan — 2026-11-23 16:43 ET
-Universe: S&P 500 + S&P 400 (903 names, 910 priced). Filters: price ≥ $10, avg daily dollar volume ≥ $20M, no semiconductors, no names from the tracked list. These are candidates; check news, catalysts and the trading rules before proposing a trade.
+# Short-term scan — 2026-11-23 17:01 ET
+Universe: S&P 500 + S&P 400 (903 names, 909 priced). Filters: price ≥ $10, avg daily dollar volume ≥ $20M, no semiconductors, no names from the tracked list. These are candidates; check news, catalysts and the trading rules before proposing a trade.
 
 ## Market regime
 - **RISK-OFF** · SPY 722.29 (-4.89% vs 50-day, -1.45% vs 200-day) · VIX 26.62
@@ -69,7 +69,7 @@ How to use: for each loser, find the reason. If it's fear, a sector selloff or a
 **Losers**
 | Ticker | Company | Day % | Gap % | Vol × | 1m % | From 52w high % | RSI | vs 200-day % | Flags |
 |---|---|---|---|---|---|---|---|---|---|
-| CRWD | CrowdStrike · Information Technology | -8.92 | -5.15 | 4.25 | -18.87 | -27.20 | 37.8 | 18.24 | Tracked |
+| CRWD | CrowdStrike · Information Technology | -8.92 | -4.99 | 4.26 | -18.87 | -27.20 | 37.8 | 18.24 | Tracked |
 | SNDK | Sandisk · Information Technology | -7.08 | 4.44 | 1.35 | -44.35 | -70.20 | 27.4 | -45.44 |  |
 | IP | International Paper · Materials | -4.55 | 2.11 | 2.17 | -12.68 | -42.30 | 27.7 | -20.82 |  |
 | BURL | Burlington Stores · Consumer Discretionary | -4.15 | 1.52 | 2.88 | -5.04 | -37.80 | 40.8 | -22.45 |  |
@@ -83,15 +83,15 @@ How to use: for each loser, find the reason. If it's fear, a sector selloff or a
 **Gainers**
 | Ticker | Company | Day % | Gap % | Vol × | 1m % | From 52w high % | RSI | vs 200-day % | Flags |
 |---|---|---|---|---|---|---|---|---|---|
-| NVDA | Nvidia · Information Technology | 31.48 | 33.06 | 4.33 | -21.76 | -32.20 | 42.9 | -18.79 | Tracked, Semi |
-| SITM | SiTime · Information Technology | 21.48 | 19.07 | 1.64 | -4.65 | -51.30 | 47.2 | -20.47 | Semi |
-| DELL | Dell Technologies · Information Technology | 20.46 | 35.66 | 2.07 | -26.63 | -43.80 | 41.5 | -4.11 |  |
-| MU | Micron Technology · Information Technology | 19.04 | 16.18 | 1.68 | -19.36 | -43.60 | 42.5 | -8.58 | Tracked, Semi |
-| SMTC | Semtech · Information Technology | 18.83 | 19.25 | 1.65 | -21.11 | -48.40 | 42.2 | -18.18 | Semi |
+| NVDA | Nvidia · Information Technology | 31.48 | 33.06 | 4.35 | -21.76 | -32.20 | 42.9 | -18.79 | Tracked, Semi |
+| SITM | SiTime · Information Technology | 21.48 | 19.31 | 1.64 | -4.65 | -51.30 | 47.2 | -20.47 | Semi |
+| DELL | Dell Technologies · Information Technology | 20.46 | 35.66 | 2.09 | -26.63 | -43.80 | 41.5 | -4.11 |  |
+| MU | Micron Technology · Information Technology | 19.04 | 16.18 | 1.69 | -19.36 | -43.60 | 42.5 | -8.58 | Tracked, Semi |
+| SMTC | Semtech · Information Technology | 18.83 | 19.25 | 1.72 | -21.11 | -48.40 | 42.2 | -18.18 | Semi |
 | MTSI | MACOM Technology Solutions · Information Technology | 18.67 | 17.42 | 1.3 | -2.09 | -44.80 | 48.2 | -18.44 | Semi |
 | MRVL | Marvell Technology · Information Technology | 18.37 | 19.37 | 1.47 | -36.66 | -56.10 | 38.6 | -23.39 | Semi |
-| DOCN | DigitalOcean · Information Technology | 18.3 | 19.85 | 1.14 | -15.28 | -57.90 | 42.4 | -30.38 |  |
-| LITE | Lumentum · Information Technology | 18.2 | 22.32 | 1.08 | -28.01 | -52.40 | 39.4 | -33.29 |  |
+| DOCN | DigitalOcean · Information Technology | 18.3 | 19.85 | 1.15 | -15.28 | -57.90 | 42.4 | -30.38 |  |
+| LITE | Lumentum · Information Technology | 18.2 | 22.32 | 1.09 | -28.01 | -52.40 | 39.4 | -33.29 |  |
 | BE | Bloom Energy · Industrials | 18.09 | 23.63 | 1.31 | -13.01 | -52.10 | 41.7 | -24.94 |  |
 
 ## Data quality

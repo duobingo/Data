@@ -1,7 +1,7 @@
 {
  "mode": "close",
- "generated_utc": "2026-11-23 21:26",
- "generated_et": "2026-11-23 16:26",
+ "generated_utc": "2026-11-23 21:45",
+ "generated_et": "2026-11-23 16:45",
  "since": "2026-11-19",
  "prices": {
   "AAPL": {
@@ -159,7 +159,7 @@
    "52w_high": 1475.25,
    "52w_low": 850.51,
    "from_52w_high_pct": -7.5,
-   "vol_vs_20d": 0.86,
+   "vol_vs_20d": 0.92,
    "finnhub_last": 1364.6,
    "finnhub_prev_close": 1347.11,
    "verified": true
@@ -239,7 +239,7 @@
    "52w_high": 188.5,
    "52w_low": 114.19,
    "from_52w_high_pct": -16.76,
-   "vol_vs_20d": 0.94,
+   "vol_vs_20d": 0.98,
    "finnhub_last": 156.9,
    "finnhub_prev_close": 159.99,
    "verified": true
@@ -255,7 +255,7 @@
    "52w_high": 250.25,
    "52w_low": 100.25,
    "from_52w_high_pct": -54.57,
-   "vol_vs_20d": 0.93,
+   "vol_vs_20d": 0.95,
    "finnhub_last": 113.68,
    "finnhub_prev_close": 101.19,
    "verified": true
@@ -319,7 +319,7 @@
    "52w_high": 173.59,
    "52w_low": 137.62,
    "from_52w_high_pct": -2.3,
-   "vol_vs_20d": 0.93,
+   "vol_vs_20d": 1.05,
    "finnhub_last": 169.6,
    "finnhub_prev_close": 169.37,
    "verified": true
@@ -367,7 +367,7 @@
    "52w_high": 302.93,
    "52w_low": 190.75,
    "from_52w_high_pct": -4.78,
-   "vol_vs_20d": 1.08,
+   "vol_vs_20d": 1.25,
    "finnhub_last": 288.45,
    "finnhub_prev_close": 286.2,
    "verified": true
@@ -431,7 +431,7 @@
    "52w_high": 156.92,
    "52w_low": 96.06,
    "from_52w_high_pct": -13.67,
-   "vol_vs_20d": 0.9,
+   "vol_vs_20d": 0.99,
    "finnhub_last": 135.47,
    "finnhub_prev_close": 133.72,
    "verified": true
@@ -447,7 +447,7 @@
    "52w_high": 236.48,
    "52w_low": 146.49,
    "from_52w_high_pct": -12.82,
-   "vol_vs_20d": 0.97,
+   "vol_vs_20d": 1.03,
    "finnhub_last": 206.17,
    "finnhub_prev_close": 208.37,
    "verified": true
@@ -591,7 +591,7 @@
    "52w_high": 129.85,
    "52w_low": 81.97,
    "from_52w_high_pct": -20.43,
-   "vol_vs_20d": 0.82,
+   "vol_vs_20d": 0.87,
    "finnhub_last": 103.32,
    "finnhub_prev_close": 103,
    "verified": true
@@ -607,7 +607,7 @@
    "52w_high": 97.76,
    "52w_low": 72.78,
    "from_52w_high_pct": -18.17,
-   "vol_vs_20d": 0.84,
+   "vol_vs_20d": 0.92,
    "finnhub_last": 80,
    "finnhub_prev_close": 78.62,
    "verified": true
@@ -671,7 +671,7 @@
    "52w_high": 123.37,
    "52w_low": 92.19,
    "from_52w_high_pct": -2.51,
-   "vol_vs_20d": 0.91,
+   "vol_vs_20d": 0.95,
    "finnhub_last": 120.27,
    "finnhub_prev_close": 117.98,
    "verified": true
@@ -831,7 +831,7 @@
    "52w_high": 232.25,
    "52w_low": 152.8,
    "from_52w_high_pct": -25.68,
-   "vol_vs_20d": 1.19,
+   "vol_vs_20d": 1.23,
    "finnhub_last": 172.6,
    "finnhub_prev_close": 165.67,
    "verified": true
@@ -879,7 +879,7 @@
    "52w_high": 31.44,
    "52w_low": 23.62,
    "from_52w_high_pct": -12.85,
-   "vol_vs_20d": 0.72,
+   "vol_vs_20d": 0.76,
    "finnhub_last": 27.4,
    "finnhub_prev_close": 27.4,
    "verified": true
@@ -911,7 +911,7 @@
    "52w_high": 29.44,
    "52w_low": 19.89,
    "from_52w_high_pct": -24.25,
-   "vol_vs_20d": 0.91,
+   "vol_vs_20d": 0.95,
    "finnhub_last": 22.3,
    "finnhub_prev_close": 22.31,
    "verified": true
@@ -943,7 +943,7 @@
    "52w_high": 387.49,
    "52w_low": 290.97,
    "from_52w_high_pct": -20.8,
-   "vol_vs_20d": 1.16,
+   "vol_vs_20d": 1.27,
    "finnhub_last": 306.9,
    "finnhub_prev_close": 301.7,
    "verified": true
@@ -959,7 +959,7 @@
    "52w_high": 293.06,
    "52w_low": 178.45,
    "from_52w_high_pct": -22.83,
-   "vol_vs_20d": 0.81,
+   "vol_vs_20d": 0.85,
    "finnhub_last": 226.14,
    "finnhub_prev_close": 220.84,
    "verified": true
@@ -1039,7 +1039,7 @@
    "52w_high": 389.33,
    "52w_low": 267.0,
    "from_52w_high_pct": -18.8,
-   "vol_vs_20d": 0.6,
+   "vol_vs_20d": 0.64,
    "finnhub_last": 316.15,
    "finnhub_prev_close": 310,
    "verified": true
@@ -1055,7 +1055,7 @@
    "52w_high": 153.35,
    "52w_low": 122.18,
    "from_52w_high_pct": -18.4,
-   "vol_vs_20d": 1.04,
+   "vol_vs_20d": 1.1,
    "finnhub_last": 125.14,
    "finnhub_prev_close": 122.5,
    "verified": true
@@ -1359,7 +1359,7 @@
    "52w_high": 79.97,
    "52w_low": 54.7,
    "from_52w_high_pct": -7.72,
-   "vol_vs_20d": 0.99,
+   "vol_vs_20d": 1.19,
    "finnhub_last": 73.8,
    "finnhub_prev_close": 74.87,
    "verified": true
@@ -1391,7 +1391,7 @@
    "52w_high": 147.96,
    "52w_low": 98.6,
    "from_52w_high_pct": -22.72,
-   "vol_vs_20d": 1.12,
+   "vol_vs_20d": 1.15,
    "finnhub_last": 114.35,
    "finnhub_prev_close": 110.62,
    "verified": true
@@ -1455,7 +1455,7 @@
    "52w_high": 170.0,
    "52w_low": 122.78,
    "from_52w_high_pct": -18.09,
-   "vol_vs_20d": 0.97,
+   "vol_vs_20d": 1.02,
    "finnhub_last": 139.25,
    "finnhub_prev_close": 139.62,
    "verified": true
@@ -1647,7 +1647,7 @@
    "52w_high": 99.98,
    "52w_low": 33.88,
    "from_52w_high_pct": -48.34,
-   "vol_vs_20d": 1.12,
+   "vol_vs_20d": 1.13,
    "finnhub_last": 51.65,
    "finnhub_prev_close": 46.72,
    "verified": true
@@ -1967,7 +1967,7 @@
    "52w_high": 165.14,
    "52w_low": 101.73,
    "from_52w_high_pct": -29.84,
-   "vol_vs_20d": 1.03,
+   "vol_vs_20d": 1.08,
    "finnhub_last": 115.86,
    "finnhub_prev_close": 110.8,
    "verified": true
@@ -2103,14 +2103,14 @@
   "SPY": {
    "ticker": "SPY",
    "close_date": "2026-11-23",
-   "close": 722.51,
-   "day_pct": 4.74,
-   "5d_pct": -2.36,
-   "1m_pct": -4.93,
-   "3m_pct": -5.67,
+   "close": 722.29,
+   "day_pct": 4.71,
+   "5d_pct": -2.39,
+   "1m_pct": -4.96,
+   "3m_pct": -5.7,
    "52w_high": 781.62,
    "52w_low": 629.28,
-   "from_52w_high_pct": -7.56,
+   "from_52w_high_pct": -7.59,
    "vol_vs_20d": 1.48,
    "finnhub_last": 722.29,
    "finnhub_prev_close": 689.81,
@@ -2345,6 +2345,12 @@
   ],
   "LLY": [],
   "JPM": [
+   {
+    "form": "424B2",
+    "date": "2026-11-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426036590/form424b2.htm",
+    "description": "PRICING SUPPLEMENT"
+   },
    {
     "form": "424B2",
     "date": "2026-11-23",
@@ -3893,6 +3899,24 @@
    {
     "form": "424B2",
     "date": "2026-11-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036594/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036591/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036589/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-23",
     "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036588/form424b2.htm",
     "description": "424B2"
    },
@@ -4818,7 +4842,18 @@
    }
   ],
   "CRM": [],
-  "KO": [],
+  "KO": [
+   {
+    "form": "8-K",
+    "date": "2026-11-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/21344/000155278126000567/e26458_ko-8k.htm",
+    "description": "",
+    "items": [
+     "5.02 Executive/director change",
+     "9.01 Exhibits"
+    ]
+   }
+  ],
   "MRK": [],
   "CVX": [],
   "AMD": [
@@ -4964,6 +4999,12 @@
   "MCD": [],
   "ABT": [],
   "WFC": [
+   {
+    "form": "424B2",
+    "date": "2026-11-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226057736/r11107wfc_424b2-39593.htm",
+    "description": "PRELIMINARY PRICING SUPPLEMENT NO. 431"
+   },
    {
     "form": "424B2",
     "date": "2026-11-23",
@@ -5674,6 +5715,12 @@
    }
   ],
   "GS": [
+   {
+    "form": "424B2",
+    "date": "2026-11-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526472435/gs-20261123.htm",
+    "description": "424B2"
+   },
    {
     "form": "424B2",
     "date": "2026-11-23",
@@ -7084,7 +7131,42 @@
    }
   ],
   "MU": [],
-  "LRCX": [],
+  "LRCX": [
+   {
+    "form": "4",
+    "date": "2026-11-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/707549/000211360126000006/xslF345X06/wk-form4_1795469616.xml",
+    "description": "FORM 4",
+    "form4": {
+     "owner": "Rammohan Karthikeyan",
+     "role": "SVP, Global Ops & Ent Solns",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "G",
+       "type": "gift",
+       "shares": 1524.0,
+       "price": 0.0,
+       "value": 0
+      },
+      {
+       "code": "A",
+       "type": "grant/award",
+       "shares": 1524.0,
+       "price": 0.0,
+       "value": 0
+      },
+      {
+       "code": "G",
+       "type": "gift",
+       "shares": 1514.0,
+       "price": 0.0,
+       "value": 0
+      }
+     ]
+    }
+   }
+  ],
   "AMAT": [],
   "KLAC": [],
   "PANW": [
@@ -7238,7 +7320,88 @@
    }
   ],
   "MDT": [],
-  "CVS": [],
+  "CVS": [
+   {
+    "form": "4",
+    "date": "2026-11-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000127/xslF345X06/form4.xml",
+    "description": "PRIMARY DOCUMENT",
+    "form4": {
+     "owner": "Aguirre Fernando",
+     "role": "Director",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "A",
+       "type": "grant/award",
+       "shares": 1897.0,
+       "price": 80.04,
+       "value": 151836
+      }
+     ]
+    }
+   },
+   {
+    "form": "4",
+    "date": "2026-11-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000125/xslF345X06/form4.xml",
+    "description": "PRIMARY DOCUMENT",
+    "form4": {
+     "owner": "Shulman Douglas H.",
+     "role": "Director",
+     "10b5_1_plan": false,
+     "transactions": []
+    }
+   },
+   {
+    "form": "4",
+    "date": "2026-11-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000123/xslF345X06/form4.xml",
+    "description": "PRIMARY DOCUMENT",
+    "form4": {
+     "owner": "Mahoney Michael F",
+     "role": "Director",
+     "10b5_1_plan": false,
+     "transactions": []
+    }
+   },
+   {
+    "form": "4",
+    "date": "2026-11-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000121/xslF345X06/form4.xml",
+    "description": "PRIMARY DOCUMENT",
+    "form4": {
+     "owner": "Gallina John E",
+     "role": "Director",
+     "10b5_1_plan": false,
+     "transactions": []
+    }
+   },
+   {
+    "form": "4",
+    "date": "2026-11-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000119/xslF345X06/form4.xml",
+    "description": "PRIMARY DOCUMENT",
+    "form4": {
+     "owner": "Finucane Anne A.",
+     "role": "Director",
+     "10b5_1_plan": false,
+     "transactions": []
+    }
+   },
+   {
+    "form": "4",
+    "date": "2026-11-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000117/xslF345X06/form4.xml",
+    "description": "PRIMARY DOCUMENT",
+    "form4": {
+     "owner": "Decoudreaux Alecia A",
+     "role": "Director",
+     "10b5_1_plan": false,
+     "transactions": []
+    }
+   }
+  ],
   "CI": [],
   "ELV": [
    {
@@ -8148,6 +8311,12 @@
   "MCK": [],
   "PLTR": [],
   "CRWD": [
+   {
+    "form": "10-Q",
+    "date": "2026-11-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/1535527/000153552726000038/crwd-20261031.htm",
+    "description": "10-Q"
+   },
    {
     "form": "8-K",
     "date": "2026-11-23",
@@ -9315,6 +9484,26 @@
   "SOUN": [],
   "ACHR": [],
   "OKLO": [
+   {
+    "form": "4",
+    "date": "2026-11-23",
+    "url": "https://www.sec.gov/Archives/edgar/data/1849056/000214679026000033/xslF345X06/wk-form4_1795469599.xml",
+    "description": "FORM 4",
+    "form4": {
+     "owner": "Narayanadas Vivek",
+     "role": "General Counsel & Secretary",
+     "10b5_1_plan": true,
+     "transactions": [
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 89.0,
+       "price": 22.18,
+       "value": 1974
+      }
+     ]
+    }
+   },
    {
     "form": "4",
     "date": "2026-11-19",
@@ -15653,7 +15842,45 @@
     "netProfitMarginTTM": 39.04,
     "beta": 2.695689,
     "marketCapitalization": 55983.543
-   }
+   },
+   "news": [
+    {
+     "time": "11-23 12:33",
+     "source": "Yahoo",
+     "headline": "Ken Fisher and 10 Other Big Funds Sold Robinhood Markets Last Quarter, While 10 Bought. Who\u2019s Right?",
+     "url": "https://finnhub.io/api/news?id=b8aa66027d78140d85af94f4261082e1ac1ffe19a899b9d8279bbea11a9dd13e"
+    },
+    {
+     "time": "11-23 08:01",
+     "source": "Yahoo",
+     "headline": "Robinhood Accelerates Q4 Buybacks Past $100M: A Positive Signal?",
+     "url": "https://finnhub.io/api/news?id=a9ae45cffb5981741d7f56354ca75f167c357139680491a182f9e2157dd7445b"
+    },
+    {
+     "time": "11-23 06:35",
+     "source": "Yahoo",
+     "headline": "Why Did Robinhood Markets Stock Fall Again?",
+     "url": "https://finnhub.io/api/news?id=3a9a5215327c3c975ae7e3949165fb8660a7698a685270f76b6ac8bb9a5f7f67"
+    },
+    {
+     "time": "11-23 01:44",
+     "source": "Yahoo",
+     "headline": "Alice Huang\u2019s Contacts With Chinese Spy Agency Reportedly Tracked by US Intelligence: Nvidia Stock Climbs Over 7% on Robinhood\u2019s Platform",
+     "url": "https://finnhub.io/api/news?id=61e5ce3449f4cf22b8099be5e9849dbafe424fea5688589a348cbb0406173771"
+    },
+    {
+     "time": "11-22 14:59",
+     "source": "Yahoo",
+     "headline": "Why Robinhood\u2019s Outlook Appears to Be Positive Despite the Kalshi Threat",
+     "url": "https://finnhub.io/api/news?id=5a9927886b7499b3fd40b22cddd95fb470c357dd63f1a393feb79f42cff6b728"
+    },
+    {
+     "time": "11-21 09:40",
+     "source": "Yahoo",
+     "headline": "CME vs. Robinhood Markets: Which Financial Stock Is a Better Buy for 2027?",
+     "url": "https://finnhub.io/api/news?id=1df3ea577d9814d71e01677b5ef1daa07672d26ecd3aee29144ac66a97d5275b"
+    }
+   ]
   },
   "SOFI": {
    "next_earnings": {
@@ -16861,7 +17088,8 @@
     "netProfitMarginTTM": 19,
     "beta": 1.1329789,
     "marketCapitalization": 10403.43
-   }
+   },
+   "news": []
   },
   "EME": {
    "next_earnings": {
@@ -18452,7 +18680,7 @@
    "short_pct": 0.01
   },
   "MSFT": {
-   "fwd_pe": 20.348078,
+   "fwd_pe": 20.350533,
    "ttm_pe": 25.704594,
    "peg": 1.43,
    "target_mean": 636.12427,
@@ -18507,7 +18735,7 @@
    "short_pct": 0.0341
   },
   "AVGO": {
-   "fwd_pe": 16.150682,
+   "fwd_pe": 16.174044,
    "ttm_pe": 40.044697,
    "peg": 0.3,
    "target_mean": 526.4721,
@@ -18639,7 +18867,7 @@
    "short_pct": 0.0165
   },
   "HD": {
-   "fwd_pe": 22.016083,
+   "fwd_pe": 21.97756,
    "ttm_pe": 24.031944,
    "peg": 1.84,
    "target_mean": 375.59375,
@@ -18749,7 +18977,7 @@
    "short_pct": 0.0135
   },
   "AMD": {
-   "fwd_pe": 25.74175,
+   "fwd_pe": 25.708899,
    "ttm_pe": 96.893166,
    "peg": 0.38,
    "target_mean": 657.74286,
@@ -18782,7 +19010,7 @@
    "short_pct": 0.048299998
   },
   "TMO": {
-   "fwd_pe": 24.76609,
+   "fwd_pe": 24.763123,
    "ttm_pe": 36.29114,
    "peg": 1.94,
    "target_mean": 756.52,
@@ -18892,7 +19120,7 @@
    "short_pct": 0.030299999
   },
   "DIS": {
-   "fwd_pe": 14.086157,
+   "fwd_pe": 14.102045,
    "ttm_pe": 21.362343,
    "peg": 3.8,
    "target_mean": 131.34355,
@@ -18914,8 +19142,8 @@
    "short_pct": 0.0223
   },
   "INTU": {
-   "fwd_pe": 10.657948,
-   "ttm_pe": 15.677859,
+   "fwd_pe": 10.23305,
+   "ttm_pe": 16.735115,
    "peg": 0.86,
    "target_mean": 391.04968,
    "target_low": 270.0,
@@ -18980,7 +19208,7 @@
    "short_pct": 0.020499999
   },
   "NOW": {
-   "fwd_pe": 19.087694,
+   "fwd_pe": 19.099182,
    "ttm_pe": 65.98561,
    "peg": 0.69,
    "target_mean": 155.75348,
@@ -19178,7 +19406,7 @@
    "short_pct": 0.0135
   },
   "DE": {
-   "fwd_pe": 27.61404,
+   "fwd_pe": 27.630312,
    "ttm_pe": 35.187885,
    "peg": 1.41,
    "target_mean": 694.0078,
@@ -19408,7 +19636,7 @@
    "short_pct": 0.0428
   },
   "NKE": {
-   "fwd_pe": 24.57113,
+   "fwd_pe": 24.289516,
    "ttm_pe": 16.230768,
    "peg": 2.85,
    "target_mean": 36.56579,
@@ -19474,7 +19702,7 @@
    "short_pct": 0.025999999
   },
   "CRWD": {
-   "fwd_pe": 129.18202,
+   "fwd_pe": 128.94766,
    "ttm_pe": 3482.8335,
    "peg": 5.92,
    "target_mean": 251.9834,
@@ -19517,7 +19745,7 @@
    "short_pct": 0.044899996
   },
   "SOFI": {
-   "fwd_pe": 14.55075,
+   "fwd_pe": 14.619491,
    "ttm_pe": 23.8,
    "peg": 0.39,
    "target_mean": 20.66522,
@@ -19549,7 +19777,7 @@
    "short_pct": 0.0383
   },
   "TTWO": {
-   "fwd_pe": 20.526737,
+   "fwd_pe": 20.75049,
    "peg": 2.84,
    "target_mean": 284.10068,
    "target_low": 170.0,
@@ -19594,9 +19822,9 @@
    "fwd_pe": 11.143248,
    "ttm_pe": 9.883838,
    "peg": 3.96,
-   "target_mean": 45.410656,
-   "target_low": 39.122005,
-   "target_high": 63.573296,
+   "target_mean": 45.415497,
+   "target_low": 39.126175,
+   "target_high": 63.58007,
    "rating": "hold",
    "n_analysts": 12,
    "short_pct": 0.0121
@@ -19667,9 +19895,9 @@
    "fwd_pe": 21.82643,
    "ttm_pe": 34.049706,
    "peg": 0.68,
-   "target_mean": 2093.834,
-   "target_low": 843.57214,
-   "target_high": 2771.0884,
+   "target_mean": 2092.6929,
+   "target_low": 843.11255,
+   "target_high": 2769.5784,
    "rating": "strong_buy",
    "n_analysts": 17,
    "short_pct": 0.003
@@ -19686,7 +19914,7 @@
    "short_pct": 0.0352
   },
   "CEG": {
-   "fwd_pe": 18.809835,
+   "fwd_pe": 18.80208,
    "ttm_pe": 20.234728,
    "peg": 0.82,
    "target_mean": 340.37564,
@@ -19784,7 +20012,7 @@
    "short_pct": 0.0257
   },
   "KKR": {
-   "fwd_pe": 12.883465,
+   "fwd_pe": 12.887194,
    "ttm_pe": 27.161291,
    "peg": 0.38,
    "target_mean": 122.53818,
@@ -19860,12 +20088,5 @@
    "short_pct": 0.2188
   }
  },
- "errors": [
-  "finnhub/news/HOOD: HTTP 429 https://finnhub.io/api/v1/company-news",
-  "finnhub/earnings/SOFI: HTTP 429 https://finnhub.io/api/v1/calendar/earnings",
-  "finnhub/earnings/RKLB: HTTP 429 https://finnhub.io/api/v1/calendar/earnings",
-  "finnhub/recs/RKLB: HTTP 429 https://finnhub.io/api/v1/stock/recommendation",
-  "finnhub/recs/DECK: HTTP 429 https://finnhub.io/api/v1/stock/recommendation",
-  "finnhub/news/DECK: HTTP 429 https://finnhub.io/api/v1/company-news"
- ]
+ "errors": []
 }
