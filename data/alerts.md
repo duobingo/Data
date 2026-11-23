@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-22 19:08 ET
+# Alerts — watcher run 2026-11-22 20:47 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -242,7 +242,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-20 09:01 | 2 | PYPL | 8-K: 5.02 Executive/director change | 8-K - PayPal Holdings, Inc. (0001633917) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1633917/000119312526469335/0001193125-26-469335-index.htm) |
 | 11-20 09:01 | 2 | IESC | 8-K: 2.02 Earnings results; 5.02 Executive/director change | 8-K - IES Holdings, Inc. (0001048268) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1048268/000104826826000176/0001048268-26-000176-index.htm) |
 | 11-20 07:45 | 2 | BJ | 8-K: 2.02 Earnings results | 8-K - BJ's Wholesale Club Holdings, Inc. (0001531152) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1531152/000153115226000083/0001531152-26-000083-index.htm) |
-| 11-19 19:28 | 2 | DTE | Down 11.8% (after-hours) | DTE -11.8% at 120.00 vs 136.13 close (after-hours, 18:30 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
