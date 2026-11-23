@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-23 08:54 ET
+# Alerts — watcher run 2026-11-23 10:07 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,61 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 10:07 | 1 | MSFT | Up 4.1% (regular) | MSFT +4.1% at 504.52 vs 484.52 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | NVDA | Up 32.7% (regular) | NVDA +32.7% at 166.61 vs 125.53 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | GOOGL | Up 6.1% (regular) | GOOGL +6.1% at 281.53 vs 265.29 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | META | Up 5.0% (regular) | META +5.0% at 589.06 vs 560.84 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | TSLA | Up 12.5% (regular) | TSLA +12.5% at 388.99 vs 345.82 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | ORCL | Up 13.4% (regular) | ORCL +13.4% at 114.76 vs 101.19 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | AMD | Up 5.2% (regular) | AMD +5.2% at 446.58 vs 424.39 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | CSCO | Up 6.0% (regular) | CSCO +6.0% at 96.04 vs 90.64 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | QCOM | Up 8.8% (regular) | QCOM +8.8% at 163.20 vs 149.94 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | TXN | Up 11.8% (regular) | TXN +11.8% at 294.91 vs 263.75 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | CAT | Up 6.9% (regular) | CAT +6.9% at 545.57 vs 510.45 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | NOW | Up 4.8% (regular) | NOW +4.8% at 91.83 vs 87.61 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | GS | Up 4.3% (regular) | GS +4.3% at 825.01 vs 790.69 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | MS | Up 4.4% (regular) | MS +4.4% at 173.04 vs 165.67 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | ETN | Up 7.9% (regular) | ETN +7.9% at 335.89 vs 311.33 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | MU | Up 17.6% (regular) | MU +17.6% at 699.12 vs 594.51 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | LRCX | Up 15.0% (regular) | LRCX +15.0% at 210.73 vs 183.27 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | AMAT | Up 13.3% (regular) | AMAT +13.3% at 342.95 vs 302.63 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | KLAC | Up 12.5% (regular) | KLAC +12.5% at 142.70 vs 126.87 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | PANW | Up 4.4% (regular) | PANW +4.4% at 358.36 vs 343.32 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | ANET | Up 9.2% (regular) | ANET +9.2% at 182.99 vs 167.62 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | ADI | Up 10.4% (regular) | ADI +10.4% at 381.79 vs 345.92 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | PLTR | Up 10.1% (regular) | PLTR +10.1% at 158.03 vs 143.49 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | CRWD | Down 10.0% (regular) | CRWD -10.0% at 206.56 vs 229.44 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | SNOW | Up 7.4% (regular) | SNOW +7.4% at 273.73 vs 254.82 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | SHOP | Up 8.3% (regular) | SHOP +8.3% at 133.98 vs 123.72 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | HOOD | Up 10.2% (regular) | HOOD +10.2% at 68.53 vs 62.17 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | SOFI | Up 8.5% (regular) | SOFI +8.5% at 13.55 vs 12.48 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | COIN | Up 6.8% (regular) | COIN +6.8% at 108.94 vs 101.97 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | APP | Up 7.9% (regular) | APP +7.9% at 375.95 vs 348.29 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | RBLX | Up 11.0% (regular) | RBLX +11.0% at 51.87 vs 46.72 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | DASH | Up 5.6% (regular) | DASH +5.6% at 161.15 vs 152.60 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | HIMS | Up 5.8% (regular) | HIMS +5.8% at 15.44 vs 14.60 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | RKLB | Up 10.0% (regular) | RKLB +10.0% at 49.97 vs 45.42 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | IONQ | Up 15.5% (regular) | IONQ +15.5% at 23.93 vs 20.72 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | SMCI | Up 18.6% (regular) | SMCI +18.6% at 25.68 vs 21.65 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | ARM | Up 17.8% (regular) | ARM +17.8% at 179.28 vs 152.20 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | TSM | Up 15.8% (regular) | TSM +15.8% at 369.17 vs 318.71 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | ASML | Up 10.1% (regular) | ASML +10.1% at 1394.74 vs 1266.22 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | VST | Up 7.3% (regular) | VST +7.3% at 123.72 vs 115.25 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | CEG | Up 6.0% (regular) | CEG +6.0% at 251.73 vs 237.41 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | FIX | Up 9.5% (regular) | FIX +9.5% at 1141.32 vs 1042.47 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | EME | Up 7.5% (regular) | EME +7.5% at 648.46 vs 603.32 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | SPCX | Up 9.4% (regular) | SPCX +9.4% at 139.77 vs 127.79 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | BX | Up 4.1% (regular) | BX +4.1% at 115.33 vs 110.80 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | MELI | Up 4.1% (regular) | MELI +4.1% at 1409.94 vs 1355.00 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | BFLY | Up 7.1% (regular) | BFLY +7.1% at 5.78 vs 5.40 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | RIVN | Up 8.7% (regular) | RIVN +8.7% at 11.23 vs 10.33 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | LCID | Up 7.6% (regular) | LCID +7.6% at 2.69 vs 2.50 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | SOUN | Up 12.5% (regular) | SOUN +12.5% at 2.94 vs 2.61 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | ACHR | Up 8.8% (regular) | ACHR +8.8% at 3.16 vs 2.91 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | OKLO | Up 8.3% (regular) | OKLO +8.3% at 21.49 vs 19.85 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 1 | CRWD | Deal | CrowdStrike to Acquire Zscaler in $43.9 Billion All-Stock Deal | [link](https://finnhub.io/api/news?id=401027cb4dd324cf3ceb6f89d0f60257b7530d1ef2eabb440fcd25106ae31441) |
+| 11-23 10:07 | 2 | ASML | Buyback/dividend | ASML reports transactions under its current share buyback program | [link](https://finnhub.io/api/news?id=baec9b206c07618adfbe70339f13d85d5c73c7ca79033567b95338f470236dfe) |
+| 11-23 10:07 | 1 | NVDA | 8-K: 5.02 Executive/director change | 8-K - NVIDIA CORP (0001045810) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/0001045810-26-000090-index.htm) |
 | 11-23 08:54 | 1 | SHOP | Up 6.2% (premarket) | SHOP +6.2% at 131.42 vs 123.72 close (premarket, 08:50 ET) |  |
 | 11-23 08:54 | 1 | RBLX | Up 6.8% (premarket) | RBLX +6.8% at 49.92 vs 46.72 close (premarket, 08:52 ET) |  |
 | 11-23 08:54 | 1 | TSM | Up 5.4% (premarket) | TSM +5.4% at 335.94 vs 318.71 close (premarket, 08:50 ET) |  |
@@ -101,66 +156,68 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-20 15:02 | 1 | PANW | Down 4.6% (regular) | PANW -4.6% at 345.27 vs 361.73 close (regular, 15:00 ET) |  |
 | 11-20 15:02 | 1 | SHOP | Down 5.3% (regular) | SHOP -5.3% at 125.03 vs 131.97 close (regular, 15:00 ET) |  |
 | 11-20 15:02 | 1 | SOFI | Down 7.1% (regular) | SOFI -7.1% at 12.57 vs 13.53 close (regular, 15:00 ET) |  |
-| 11-20 15:02 | 1 | COIN | Down 4.2% (regular) | COIN -4.2% at 104.32 vs 108.87 close (regular, 15:00 ET) |  |
-| 11-20 15:02 | 1 | RKLB | Down 9.8% (regular) | RKLB -9.8% at 45.98 vs 50.99 close (regular, 15:00 ET) |  |
-| 11-20 15:02 | 1 | ARM | Down 12.8% (regular) | ARM -12.8% at 154.49 vs 177.17 close (regular, 15:00 ET) |  |
-| 11-20 15:02 | 1 | ASML | Down 6.2% (regular) | ASML -6.2% at 1271.76 vs 1356.20 close (regular, 15:02 ET) |  |
-| 11-20 15:02 | 1 | VST | Down 6.8% (regular) | VST -6.8% at 115.71 vs 124.15 close (regular, 15:00 ET) |  |
-| 11-20 15:02 | 1 | CEG | Down 4.6% (regular) | CEG -4.6% at 240.39 vs 252.03 close (regular, 15:00 ET) |  |
-| 11-20 15:02 | 1 | RIVN | Down 7.8% (regular) | RIVN -7.8% at 10.41 vs 11.29 close (regular, 15:00 ET) |  |
-| 11-20 15:02 | 1 | SOUN | Down 9.3% (regular) | SOUN -9.3% at 2.64 vs 2.91 close (regular, 15:00 ET) |  |
-| 11-20 15:02 | 1 | ACHR | Down 9.2% (regular) | ACHR -9.2% at 2.91 vs 3.20 close (regular, 15:00 ET) |  |
-| 11-20 14:00 | 1 | TSLA | Down 6.3% (regular) | TSLA -6.3% at 350.88 vs 374.41 close (regular, 14:00 ET) |  |
-| 11-20 14:00 | 1 | INTU | Down 10.2% (regular) | INTU -10.2% at 278.53 vs 310.02 close (regular, 14:00 ET) |  |
-| 11-20 12:59 | 1 | META | Down 4.3% (regular) | META -4.3% at 570.74 vs 596.22 close (regular, 12:55 ET) |  |
-| 11-20 12:59 | 1 | QCOM | Down 4.1% (regular) | QCOM -4.1% at 155.32 vs 162.01 close (regular, 12:55 ET) |  |
-| 11-20 12:59 | 1 | CAT | Down 4.3% (regular) | CAT -4.3% at 514.34 vs 537.37 close (regular, 12:55 ET) |  |
-| 11-20 12:59 | 1 | MU | Down 12.6% (regular) | MU -12.6% at 603.28 vs 690.44 close (regular, 12:55 ET) |  |
-| 11-20 12:59 | 1 | KLAC | Down 9.2% (regular) | KLAC -9.2% at 128.46 vs 141.48 close (regular, 12:55 ET) |  |
-| 11-20 12:59 | 1 | ADI | Down 6.3% (regular) | ADI -6.3% at 353.56 vs 377.44 close (regular, 12:55 ET) |  |
-| 11-20 12:59 | 1 | HOOD | Down 6.4% (regular) | HOOD -6.4% at 64.29 vs 68.65 close (regular, 12:55 ET) |  |
-| 11-20 12:59 | 1 | BFLY | Down 6.3% (regular) | BFLY -6.3% at 5.48 vs 5.85 close (regular, 12:55 ET) |  |
-| 11-20 12:00 | 1 | AVGO | Down 10.3% (regular) | AVGO -10.3% at 311.02 vs 346.65 close (regular, 12:00 ET) |  |
-| 11-20 12:00 | 1 | TSLA | Down 5.2% (regular) | TSLA -5.2% at 355.10 vs 374.41 close (regular, 12:00 ET) |  |
-| 11-20 12:00 | 1 | ORCL | Down 7.0% (regular) | ORCL -7.0% at 102.85 vs 110.57 close (regular, 12:00 ET) |  |
-| 11-20 12:00 | 1 | ETN | Down 5.1% (regular) | ETN -5.1% at 313.61 vs 330.57 close (regular, 12:00 ET) |  |
-| 11-20 12:00 | 1 | LRCX | Down 9.1% (regular) | LRCX -9.1% at 185.12 vs 203.68 close (regular, 12:00 ET) |  |
-| 11-20 12:00 | 1 | AMAT | Down 9.2% (regular) | AMAT -9.2% at 307.82 vs 338.93 close (regular, 12:00 ET) |  |
-| 11-20 12:00 | 1 | ELV | Up 4.2% (regular) | ELV +4.2% at 406.36 vs 390.16 close (regular, 12:00 ET) |  |
-| 11-20 12:00 | 1 | SNOW | Down 4.4% (regular) | SNOW -4.4% at 256.85 vs 268.59 close (regular, 12:00 ET) |  |
-| 11-20 12:00 | 1 | APP | Down 5.0% (regular) | APP -5.0% at 360.20 vs 379.02 close (regular, 12:00 ET) |  |
-| 11-20 12:00 | 1 | HIMS | Down 6.3% (regular) | HIMS -6.3% at 15.02 vs 16.02 close (regular, 12:00 ET) |  |
-| 11-20 12:00 | 1 | IONQ | Down 6.1% (regular) | IONQ -6.1% at 21.32 vs 22.71 close (regular, 12:00 ET) |  |
-| 11-20 12:00 | 1 | SMCI | Down 7.1% (regular) | SMCI -7.1% at 22.16 vs 23.84 close (regular, 12:00 ET) |  |
-| 11-20 12:00 | 1 | EME | Down 4.3% (regular) | EME -4.3% at 608.58 vs 636.08 close (regular, 11:55 ET) |  |
-| 11-20 12:00 | 1 | LCID | Down 7.2% (regular) | LCID -7.2% at 2.59 vs 2.79 close (regular, 12:00 ET) |  |
-| 11-20 12:00 | 1 | SOUN | Down 6.9% (regular) | SOUN -6.9% at 2.71 vs 2.91 close (regular, 12:00 ET) |  |
-| 11-20 12:00 | 1 | ACHR | Down 6.5% (regular) | ACHR -6.5% at 2.99 vs 3.20 close (regular, 12:00 ET) |  |
-| 11-20 12:00 | 2 | COST | Buyback/dividend | Costco Just Made a New All-Time High After Announcing a $30-Per-Share Special Dividend. Is the Stock a Buy Before Dec. 10? | [link](https://finnhub.io/api/news?id=1855103acd6e4f4ef8c03f7e9e2533c72119a2444a9a2386d99526d5b2cf6d26) |
-| 11-20 10:59 | 1 | NVDA | Down 6.1% (regular) | NVDA -6.1% at 137.07 vs 145.98 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | AVGO | Down 8.9% (regular) | AVGO -8.9% at 315.73 vs 346.65 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | UNH | Up 4.4% (regular) | UNH +4.4% at 345.07 vs 330.48 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | ORCL | Down 5.7% (regular) | ORCL -5.7% at 104.24 vs 110.57 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | AMD | Down 9.3% (regular) | AMD -9.3% at 443.77 vs 489.19 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | ACN | Up 4.0% (regular) | ACN +4.0% at 227.40 vs 218.58 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | TXN | Down 4.3% (regular) | TXN -4.3% at 273.59 vs 285.75 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | INTU | Down 8.4% (regular) | INTU -8.4% at 283.83 vs 310.02 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | GS | Down 4.7% (regular) | GS -4.7% at 807.72 vs 847.53 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | MU | Down 10.6% (regular) | MU -10.6% at 616.92 vs 690.44 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | LRCX | Down 7.9% (regular) | LRCX -7.9% at 187.68 vs 203.68 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | AMAT | Down 8.1% (regular) | AMAT -8.1% at 311.41 vs 338.93 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | KLAC | Down 7.0% (regular) | KLAC -7.0% at 131.58 vs 141.48 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | ANET | Down 10.2% (regular) | ANET -10.2% at 170.30 vs 189.59 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | ADI | Down 4.6% (regular) | ADI -4.6% at 360.04 vs 377.44 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | PLTR | Down 4.6% (regular) | PLTR -4.6% at 146.67 vs 153.68 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | HOOD | Down 4.2% (regular) | HOOD -4.2% at 65.79 vs 68.65 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | SOFI | Down 4.0% (regular) | SOFI -4.0% at 12.98 vs 13.53 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 1 | APP | Down 6.1% (regular) | APP -6.1% at 355.76 vs 379.02 close (regular, 10:55 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 10:07 | 2 | APH | Up 9.0% (regular) | APH +9.0% at 75.97 vs 69.72 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | BE | Up 19.9% (regular) | BE +19.9% at 170.73 vs 142.39 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | CDNS | Up 8.4% (regular) | CDNS +8.4% at 305.15 vs 281.58 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | CIEN | Up 16.2% (regular) | CIEN +16.2% at 272.42 vs 234.37 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | COHR | Up 16.8% (regular) | COHR +16.8% at 218.69 vs 187.22 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | GLW | Up 14.6% (regular) | GLW +14.6% at 108.16 vs 94.38 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | DDOG | Up 8.1% (regular) | DDOG +8.1% at 170.16 vs 157.37 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | DELL | Up 23.1% (regular) | DELL +23.1% at 342.33 vs 278.02 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | P | Up 10.6% (regular) | P +10.6% at 101.83 vs 92.05 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | FLEX | Up 13.3% (regular) | FLEX +13.3% at 75.04 vs 66.24 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | FCX | Up 8.2% (regular) | FCX +8.2% at 49.75 vs 45.99 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | GEV | Up 8.5% (regular) | GEV +8.5% at 758.86 vs 699.33 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | HPE | Up 13.8% (regular) | HPE +13.8% at 46.55 vs 40.91 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | INTC | Up 13.4% (regular) | INTC +13.4% at 58.15 vs 51.28 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | IBKR | Up 8.5% (regular) | IBKR +8.5% at 77.26 vs 71.19 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | JBL | Up 8.3% (regular) | JBL +8.3% at 244.43 vs 225.77 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | KEYS | Up 11.3% (regular) | KEYS +11.3% at 291.18 vs 261.51 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | LITE | Up 19.9% (regular) | LITE +19.9% at 552.17 vs 460.54 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | MRVL | Up 19.0% (regular) | MRVL +19.0% at 145.54 vs 122.28 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | MCHP | Up 10.0% (regular) | MCHP +10.0% at 60.99 vs 55.44 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | MPWR | Up 15.5% (regular) | MPWR +15.5% at 1318.58 vs 1142.05 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | NXPI | Up 9.1% (regular) | NXPI +9.1% at 256.51 vs 235.15 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | OKTA | Up 9.3% (regular) | OKTA +9.3% at 209.32 vs 191.46 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | ON | Up 9.1% (regular) | ON +9.1% at 66.36 vs 60.84 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | Q | Up 10.0% (regular) | Q +10.0% at 113.82 vs 103.47 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | STX | Up 15.9% (regular) | STX +15.9% at 529.52 vs 457.01 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | SNPS | Up 8.6% (regular) | SNPS +8.6% at 430.10 vs 396.17 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | TER | Up 15.3% (regular) | TER +15.3% at 236.20 vs 204.78 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | VRT | Up 13.7% (regular) | VRT +13.7% at 189.06 vs 166.24 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | WDC | Up 15.6% (regular) | WDC +15.6% at 301.84 vs 261.11 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | AEIS | Up 13.7% (regular) | AEIS +13.7% at 216.14 vs 190.18 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | ALGM | Up 14.8% (regular) | ALGM +14.8% at 29.34 vs 25.56 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | AMKR | Up 14.2% (regular) | AMKR +14.2% at 34.52 vs 30.24 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | CDE | Up 8.1% (regular) | CDE +8.1% at 11.55 vs 10.68 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | CGNX | Up 8.4% (regular) | CGNX +8.4% at 48.10 vs 44.36 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | DOCN | Up 16.4% (regular) | DOCN +16.4% at 77.74 vs 66.76 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | ENTG | Up 13.9% (regular) | ENTG +13.9% at 141.82 vs 124.53 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | FN | Up 14.4% (regular) | FN +14.4% at 326.10 vs 285.04 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | FORM | Up 16.5% (regular) | FORM +16.5% at 85.04 vs 73.02 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | IESC | Up 11.6% (regular) | IESC +11.6% at 174.10 vs 156.06 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | IPGP | Up 10.0% (regular) | IPGP +10.0% at 64.51 vs 58.64 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | LSCC | Up 15.5% (regular) | LSCC +15.5% at 113.50 vs 98.31 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | MKSI | Up 12.7% (regular) | MKSI +12.7% at 207.88 vs 184.52 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | MTSI | Up 17.0% (regular) | MTSI +17.0% at 228.01 vs 194.91 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | MTZ | Up 10.9% (regular) | MTZ +10.9% at 160.54 vs 144.71 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | NVT | Up 10.1% (regular) | NVT +10.1% at 112.11 vs 101.84 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | ONTO | Up 15.5% (regular) | ONTO +15.5% at 196.46 vs 170.16 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | RMBS | Up 14.9% (regular) | RMBS +14.9% at 76.23 vs 66.35 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | SANM | Up 9.8% (regular) | SANM +9.8% at 153.43 vs 139.76 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | SITM | Up 16.0% (regular) | SITM +16.0% at 419.17 vs 361.24 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | SMTC | Up 18.3% (regular) | SMTC +18.3% at 103.66 vs 87.63 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | STRL | Up 13.7% (regular) | STRL +13.7% at 281.83 vs 247.92 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | TLN | Up 8.3% (regular) | TLN +8.3% at 360.45 vs 332.92 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | TTMI | Up 17.2% (regular) | TTMI +17.2% at 68.97 vs 58.85 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | VIAV | Up 12.9% (regular) | VIAV +12.9% at 30.16 vs 26.71 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | VICR | Up 19.0% (regular) | VICR +19.0% at 148.91 vs 125.09 close (regular, 10:05 ET) |  |
+| 11-23 10:07 | 2 | WCC | Up 8.1% (regular) | WCC +8.1% at 305.00 vs 282.04 close (regular, 10:05 ET) |  |
 | 11-23 08:54 | 2 | FTI | Up 10.5% (premarket) | FTI +10.5% at 64.85 vs 58.71 close (premarket, 08:00 ET) |  |
 | 11-23 08:54 | 2 | SITM | Up 8.1% (premarket) | SITM +8.1% at 390.50 vs 361.24 close (premarket, 08:10 ET) |  |
 | 11-23 08:54 | 2 | PNC | 8-K: 5.02 Executive/director change | 8-K - PNC FINANCIAL SERVICES GROUP, INC. (0000713676) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/713676/000162828026075375/0001628280-26-075375-index.htm) |
@@ -254,47 +311,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-20 12:00 | 2 | MTSI | Down 9.3% (regular) | MTSI -9.3% at 198.23 vs 218.55 close (regular, 12:00 ET) |  |
 | 11-20 12:00 | 2 | NXT | Down 8.9% (regular) | NXT -8.9% at 69.21 vs 75.95 close (regular, 12:00 ET) |  |
 | 11-20 12:00 | 2 | ONTO | Down 13.1% (regular) | ONTO -13.1% at 170.34 vs 195.93 close (regular, 12:00 ET) |  |
-| 11-20 12:00 | 2 | RMBS | Down 10.9% (regular) | RMBS -10.9% at 67.87 vs 76.19 close (regular, 12:00 ET) |  |
-| 11-20 12:00 | 2 | SANM | Down 10.7% (regular) | SANM -10.7% at 138.26 vs 154.75 close (regular, 12:00 ET) |  |
-| 11-20 12:00 | 2 | SITM | Down 8.9% (regular) | SITM -8.9% at 369.22 vs 405.10 close (regular, 12:00 ET) |  |
-| 11-20 12:00 | 2 | SMTC | Down 12.6% (regular) | SMTC -12.6% at 88.95 vs 101.81 close (regular, 12:00 ET) |  |
-| 11-20 12:00 | 2 | STRL | Down 9.4% (regular) | STRL -9.4% at 247.66 vs 273.25 close (regular, 12:00 ET) |  |
-| 11-20 12:00 | 2 | TTMI | Down 14.4% (regular) | TTMI -14.4% at 58.24 vs 68.00 close (regular, 12:00 ET) |  |
-| 11-20 12:00 | 2 | VIAV | Down 10.2% (regular) | VIAV -10.2% at 26.38 vs 29.37 close (regular, 12:00 ET) |  |
-| 11-20 10:59 | 2 | BE | Down 12.6% (regular) | BE -12.6% at 146.89 vs 168.11 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 2 | CIEN | Down 9.1% (regular) | CIEN -9.1% at 238.79 vs 262.63 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 2 | COHR | Down 11.2% (regular) | COHR -11.2% at 190.80 vs 214.94 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 2 | DELL | Down 8.2% (regular) | DELL -8.2% at 286.82 vs 312.54 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 2 | P | Down 8.5% (regular) | P -8.5% at 96.56 vs 105.50 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 2 | LITE | Down 9.8% (regular) | LITE -9.8% at 482.66 vs 535.15 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 2 | MRVL | Down 9.2% (regular) | MRVL -9.2% at 125.73 vs 138.47 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 2 | SNDK | Down 14.0% (regular) | SNDK -14.0% at 81.21 vs 94.39 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 2 | STX | Down 10.0% (regular) | STX -10.0% at 469.04 vs 521.39 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 2 | VRT | Down 9.1% (regular) | VRT -9.1% at 168.16 vs 184.99 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 2 | WDC | Down 10.3% (regular) | WDC -10.3% at 266.20 vs 296.78 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 2 | DOCN | Down 11.4% (regular) | DOCN -11.4% at 68.27 vs 77.09 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 2 | FORM | Down 8.3% (regular) | FORM -8.3% at 75.07 vs 81.89 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 2 | GAP | Up 15.0% (regular) | GAP +15.0% at 21.60 vs 18.79 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 2 | LSCC | Down 8.8% (regular) | LSCC -8.8% at 101.20 vs 110.92 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 2 | MTZ | Down 9.6% (regular) | MTZ -9.6% at 148.89 vs 164.76 close (regular, 11:00 ET) |  |
-| 11-20 10:59 | 2 | ONTO | Down 11.7% (regular) | ONTO -11.7% at 172.94 vs 195.93 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 2 | RMBS | Down 8.4% (regular) | RMBS -8.4% at 69.76 vs 76.19 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 2 | SMTC | Down 10.1% (regular) | SMTC -10.1% at 91.55 vs 101.81 close (regular, 11:00 ET) |  |
-| 11-20 10:59 | 2 | TTMI | Down 12.0% (regular) | TTMI -12.0% at 59.87 vs 68.00 close (regular, 10:55 ET) |  |
-| 11-20 10:59 | 2 | VICR | Down 10.0% (regular) | VICR -10.0% at 127.39 vs 141.52 close (regular, 10:55 ET) |  |
-| 11-20 09:57 | 2 | GAP | Up 16.3% (regular) | GAP +16.3% at 21.85 vs 18.79 close (regular, 09:55 ET) |  |
-| 11-20 09:57 | 2 | AAL | 8-K: 5.02 Executive/director change | 8-K - American Airlines Group Inc. (0000006201) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/6201/000000620126000081/0000006201-26-000081-index.htm) |
-| 11-20 09:01 | 2 | SAIC | Down 9.3% (premarket) | SAIC -9.3% at 130.00 vs 143.33 close (premarket, 07:55 ET) |  |
-| 11-20 09:01 | 2 | BILL | 8-K: 1.01 Material agreement | 8-K - BILL Holdings, Inc. (0001786352) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1786352/000119312526469396/0001193125-26-469396-index.htm) |
-| 11-20 09:01 | 2 | CHRW | 8-K: 1.01 Material agreement | 8-K - C. H. ROBINSON WORLDWIDE, INC. (0001043277) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1043277/000104327726000051/0001043277-26-000051-index.htm) |
-| 11-20 09:01 | 2 | WAB | 8-K: 5.02 Executive/director change | 8-K - WESTINGHOUSE AIR BRAKE TECHNOLOGIES CORP (0000943452) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/943452/000114036126045007/0001140361-26-045007-index.htm) |
-| 11-20 09:01 | 2 | PYPL | 8-K: 5.02 Executive/director change | 8-K - PayPal Holdings, Inc. (0001633917) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1633917/000119312526469335/0001193125-26-469335-index.htm) |
-| 11-20 09:01 | 2 | IESC | 8-K: 2.02 Earnings results; 5.02 Executive/director change | 8-K - IES Holdings, Inc. (0001048268) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1048268/000104826826000176/0001048268-26-000176-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 10:07 | 2 | — | Market stress | Wall Street's 'Fear Gauge' just flashed a buy sign | [link](https://www.cnbc.com/2026/11/23/wall-streets-fear-gauge-just-flashed-a-buy-sign.html) |
 | 11-21 09:34 | 2 | — | Market stress | During Wall Street's worst week in over a year, we put money to work. What we're buying | [link](https://www.cnbc.com/investingclub/2026/11/21/during-wall-streets-worst-week-in-over-a-year-we-put-money-to-work-what-were-buying.html) |
 | 11-21 07:30 | 2 | — | Market stress | S&P 500 correction: Five forces behind the market sell-off | [link](https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html) |
 | 11-20 12:59 | 2 | — | Market stress | We’re making another small buy as the market sell-off deepens | [link](https://www.cnbc.com/investingclub/2026/11/20/were-making-another-small-buy-as-the-market-sell-off-deepens.html) |
