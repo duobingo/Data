@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-24 12:56 ET
+# Alerts — watcher run 2026-11-24 14:01 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,10 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-24 14:01 | 1 | ABBV | Up 4.2% (regular) | ABBV +4.2% at 300.70 vs 288.45 close (regular, 14:00 ET) |  |
+| 11-24 14:01 | 1 | MRK | Up 4.4% (regular) | MRK +4.4% at 141.48 vs 135.47 close (regular, 14:00 ET) |  |
+| 11-24 14:01 | 1 | AMD | Down 8.9% (regular) | AMD -8.9% at 413.10 vs 453.46 close (regular, 14:02 ET) |  |
+| 11-24 14:01 | 1 | PFE | Up 4.1% (regular) | PFE +4.1% at 28.52 vs 27.40 close (regular, 14:00 ET) |  |
 | 11-24 12:56 | 1 | ADBE | Up 4.3% (regular) | ADBE +4.3% at 233.57 vs 223.98 close (regular, 12:55 ET) |  |
 | 11-24 12:56 | 1 | AMGN | Up 4.8% (regular) | AMGN +4.8% at 470.65 vs 449.04 close (regular, 12:55 ET) |  |
 | 11-24 12:56 | 1 | ISRG | Up 4.3% (regular) | ISRG +4.3% at 434.23 vs 416.23 close (regular, 12:55 ET) |  |
@@ -152,15 +156,14 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 10:07 | 1 | DASH | Up 5.6% (regular) | DASH +5.6% at 161.15 vs 152.60 close (regular, 10:05 ET) |  |
 | 11-23 10:07 | 1 | HIMS | Up 5.8% (regular) | HIMS +5.8% at 15.44 vs 14.60 close (regular, 10:05 ET) |  |
 | 11-23 10:07 | 1 | RKLB | Up 10.0% (regular) | RKLB +10.0% at 49.97 vs 45.42 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | IONQ | Up 15.5% (regular) | IONQ +15.5% at 23.93 vs 20.72 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | SMCI | Up 18.6% (regular) | SMCI +18.6% at 25.68 vs 21.65 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | ARM | Up 17.8% (regular) | ARM +17.8% at 179.28 vs 152.20 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | TSM | Up 15.8% (regular) | TSM +15.8% at 369.17 vs 318.71 close (regular, 10:05 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-24 14:01 | 2 | P | Down 8.5% (regular) | P -8.5% at 92.42 vs 101.01 close (regular, 14:00 ET) |  |
+| 11-24 14:01 | 2 | ANF | Up 23.9% (regular) | ANF +23.9% at 173.99 vs 140.45 close (regular, 14:00 ET) |  |
+| 11-24 14:01 | 2 | BURL | Up 8.9% (regular) | BURL +8.9% at 256.04 vs 235.16 close (regular, 14:00 ET) |  |
 | 11-24 12:56 | 2 | BE | Down 8.3% (regular) | BE -8.3% at 154.27 vs 168.15 close (regular, 12:55 ET) |  |
 | 11-24 12:56 | 2 | COHR | Down 8.3% (regular) | COHR -8.3% at 197.96 vs 215.81 close (regular, 12:55 ET) |  |
 | 11-24 12:56 | 2 | DLTR | Up 12.0% (regular) | DLTR +12.0% at 155.82 vs 139.10 close (regular, 12:55 ET) |  |
@@ -308,9 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 11:16 | 2 | MTSI | Up 18.4% (regular) | MTSI +18.4% at 230.82 vs 194.91 close (regular, 11:15 ET) |  |
 | 11-23 11:16 | 2 | NOVT | Up 8.2% (regular) | NOVT +8.2% at 110.37 vs 101.99 close (regular, 11:15 ET) |  |
 | 11-23 11:16 | 2 | ONTO | Up 14.3% (regular) | ONTO +14.3% at 194.51 vs 170.16 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | RRX | Up 8.6% (regular) | RRX +8.6% at 165.43 vs 152.35 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | SITM | Up 19.2% (regular) | SITM +19.2% at 430.57 vs 361.24 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | SMTC | Up 17.3% (regular) | SMTC +17.3% at 102.83 vs 87.63 close (regular, 11:15 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
