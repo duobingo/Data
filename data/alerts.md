@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-24 14:01 ET
+# Alerts — watcher run 2026-11-24 15:06 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-24 15:06 | 1 | ORCL | Down 4.1% (regular) | ORCL -4.1% at 109.01 vs 113.68 close (regular, 15:05 ET) |  |
 | 11-24 14:01 | 1 | ABBV | Up 4.2% (regular) | ABBV +4.2% at 300.70 vs 288.45 close (regular, 14:00 ET) |  |
 | 11-24 14:01 | 1 | MRK | Up 4.4% (regular) | MRK +4.4% at 141.48 vs 135.47 close (regular, 14:00 ET) |  |
 | 11-24 14:01 | 1 | AMD | Down 8.9% (regular) | AMD -8.9% at 413.10 vs 453.46 close (regular, 14:02 ET) |  |
@@ -155,12 +156,16 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 10:07 | 1 | RBLX | Up 11.0% (regular) | RBLX +11.0% at 51.87 vs 46.72 close (regular, 10:05 ET) |  |
 | 11-23 10:07 | 1 | DASH | Up 5.6% (regular) | DASH +5.6% at 161.15 vs 152.60 close (regular, 10:05 ET) |  |
 | 11-23 10:07 | 1 | HIMS | Up 5.8% (regular) | HIMS +5.8% at 15.44 vs 14.60 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | RKLB | Up 10.0% (regular) | RKLB +10.0% at 49.97 vs 45.42 close (regular, 10:05 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-24 15:06 | 2 | DELL | Down 12.0% (regular) | DELL -12.0% at 294.70 vs 334.91 close (regular, 15:05 ET) |  |
+| 11-24 15:06 | 2 | TER | Down 8.8% (regular) | TER -8.8% at 212.90 vs 233.51 close (regular, 15:05 ET) |  |
+| 11-24 15:06 | 2 | SANM | Down 9.5% (regular) | SANM -9.5% at 139.30 vs 153.88 close (regular, 15:05 ET) |  |
+| 11-24 15:06 | 2 | CW | 8-K: 5.02 Executive/director change | 8-K - CURTISS WRIGHT CORP (0000026324) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/26324/000162828026075678/0001628280-26-075678-index.htm) |
+| 11-24 15:06 | 2 | CW | 8-K: 5.02 Executive/director change | 8-K/A - CURTISS WRIGHT CORP (0000026324) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/26324/000162828026075677/0001628280-26-075677-index.htm) |
 | 11-24 14:01 | 2 | P | Down 8.5% (regular) | P -8.5% at 92.42 vs 101.01 close (regular, 14:00 ET) |  |
 | 11-24 14:01 | 2 | ANF | Up 23.9% (regular) | ANF +23.9% at 173.99 vs 140.45 close (regular, 14:00 ET) |  |
 | 11-24 14:01 | 2 | BURL | Up 8.9% (regular) | BURL +8.9% at 256.04 vs 235.16 close (regular, 14:00 ET) |  |
@@ -306,11 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 11:16 | 2 | FORM | Up 14.1% (regular) | FORM +14.1% at 83.34 vs 73.02 close (regular, 11:15 ET) |  |
 | 11-23 11:16 | 2 | HL | Up 8.1% (regular) | HL +8.1% at 11.37 vs 10.52 close (regular, 11:15 ET) |  |
 | 11-23 11:16 | 2 | IESC | Up 12.2% (regular) | IESC +12.2% at 175.10 vs 156.06 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | LFUS | Up 8.5% (regular) | LFUS +8.5% at 388.15 vs 357.58 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | LSCC | Up 14.7% (regular) | LSCC +14.7% at 112.79 vs 98.31 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | MTSI | Up 18.4% (regular) | MTSI +18.4% at 230.82 vs 194.91 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | NOVT | Up 8.2% (regular) | NOVT +8.2% at 110.37 vs 101.99 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | ONTO | Up 14.3% (regular) | ONTO +14.3% at 194.51 vs 170.16 close (regular, 11:15 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
