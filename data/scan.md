@@ -1,4 +1,4 @@
-# Short-term scan — 2026-11-24 16:45 ET
+# Short-term scan — 2026-11-24 17:06 ET
 Universe: S&P 500 + S&P 400 (903 names, 909 priced). Filters: price ≥ $10, avg daily dollar volume ≥ $20M, no semiconductors, no names from the tracked list. These are candidates; check news, catalysts and the trading rules before proposing a trade.
 
 ## Market regime
@@ -12,7 +12,7 @@ Universe: S&P 500 + S&P 400 (903 names, 909 priced). Filters: price ≥ $10, avg
 ## 2. Breakouts (new 52-week high on ≥1.8× volume, closed near the high, above 50- and 200-day)
 | Ticker | Company | Close | Day % | Vol × | 1m % | 3m % | RSI | ATR | Day low |
 |---|---|---|---|---|---|---|---|---|---|
-| DLTR | Dollar Tree · Consumer Staples | 154.65 | 11.18 | 2.72 | 23.80 | 17.00 | 68.5 | 5.54 | 147.83 |
+| DLTR | Dollar Tree · Consumer Staples | 154.65 | 11.18 | 2.73 | 23.80 | 17.00 | 68.5 | 5.54 | 147.83 |
 
 ## 3. Oversold in an uptrend (down ≥8% in 3 days, RSI ≤ 30, still above the 200-day)
 | Ticker | Company | Close | 3d % | Day % | RSI | Vol × | vs 200-day % | ATR |
@@ -69,15 +69,15 @@ How to use: for each loser, find the reason. If it's fear, a sector selloff or a
 | Ticker | Company | Day % | Gap % | Vol × | 1m % | From 52w high % | RSI | vs 200-day % | Flags |
 |---|---|---|---|---|---|---|---|---|---|
 | DY | Dycom Industries · Industrials | -18.02 | -7.95 | 2.82 | -21.67 | -68.40 | 31.9 | -51.01 |  |
-| SNDK | Sandisk · Information Technology | -17.42 | -12.35 | 1.15 | -50.54 | -73.50 | 25.1 | -51.50 |  |
-| ADI | Analog Devices · Information Technology | -17.37 | -13.4 | 3.06 | -23.28 | -29.80 | 32.7 | -17.29 | Tracked, Semi |
+| SNDK | Sandisk · Information Technology | -17.42 | -12.37 | 1.15 | -50.54 | -73.50 | 25.1 | -51.50 |  |
+| ADI | Analog Devices · Information Technology | -17.37 | -13.4 | 3.08 | -23.28 | -29.80 | 32.7 | -17.29 | Tracked, Semi |
 | SMTC | Semtech · Information Technology | -16.97 | -12.06 | 1.91 | -36.77 | -57.20 | 36.3 | -32.06 | Semi |
-| HPE | Hewlett Packard Enterprise · Information Technology | -16.31 | -11.79 | 2.48 | -31.56 | -45.40 | 35.6 | -6.36 |  |
-| SITM | SiTime · Information Technology | -13.79 | -4.9 | 1.16 | -18.59 | -58.10 | 40.3 | -31.42 | Semi |
+| HPE | Hewlett Packard Enterprise · Information Technology | -16.31 | -11.79 | 2.49 | -31.56 | -45.40 | 35.6 | -6.36 |  |
+| SITM | SiTime · Information Technology | -13.79 | -4.86 | 1.16 | -18.59 | -58.10 | 40.3 | -31.42 | Semi |
 | MTSI | MACOM Technology Solutions · Information Technology | -13.45 | -5.26 | 1.29 | -17.81 | -52.20 | 41.3 | -29.37 | Semi |
-| TTMI | TTM Technologies · Information Technology | -13.34 | -3.31 | 0.96 | -30.50 | -73.50 | 37.3 | -52.77 |  |
+| TTMI | TTM Technologies · Information Technology | -13.34 | -4.39 | 0.97 | -30.50 | -73.50 | 37.3 | -52.77 |  |
 | FN | Fabrinet · Information Technology | -11.88 | -4.03 | 0.77 | -10.80 | -61.30 | 41.3 | -43.27 |  |
-| DELL | Dell Technologies · Information Technology | -11.83 | -7.14 | 2.2 | -36.78 | -50.40 | 36.5 | -15.67 |  |
+| DELL | Dell Technologies · Information Technology | -11.83 | -7.14 | 2.52 | -36.78 | -50.40 | 36.5 | -15.67 |  |
 
 **Gainers**
 | Ticker | Company | Day % | Gap % | Vol × | 1m % | From 52w high % | RSI | vs 200-day % | Flags |
@@ -85,13 +85,13 @@ How to use: for each loser, find the reason. If it's fear, a sector selloff or a
 | ANF | Abercrombie & Fitch · Consumer Discretionary | 19.69 | 13.13 | 4.04 | 2.05 | -5.80 | 62.2 | 53.99 |  |
 | DKS | Dick's Sporting Goods · Consumer Discretionary | 14.59 | 11.28 | 2.32 | 6.01 | -37.30 | 58.3 | -18.20 |  |
 | CYTK | Cytokinetics · Health Care | 11.36 | 1.04 | 1.45 | -1.37 | -32.20 | 54.8 | -13.73 |  |
-| DLTR | Dollar Tree · Consumer Staples | 11.18 | 7.8 | 2.72 | 23.80 | -1.40 | 68.5 | 31.09 |  |
+| DLTR | Dollar Tree · Consumer Staples | 11.18 | 7.83 | 2.73 | 23.80 | -1.40 | 68.5 | 31.09 |  |
 | ARWR | Arrowhead Pharmaceuticals · Health Care | 9.74 | 0.09 | 1.47 | -18.06 | -49.40 | 42.1 | -31.20 |  |
-| PINS | Pinterest · Communication Services | 9.47 | 1.01 | 1.86 | -12.86 | -33.80 | 45.9 | -9.09 |  |
+| PINS | Pinterest · Communication Services | 9.47 | 1.01 | 1.94 | -12.86 | -33.80 | 45.9 | -9.09 |  |
 | CSGP | CoStar Group · Real Estate | 8.08 | 0.0 | 0.96 | -3.15 | -53.70 | 57.8 | -4.42 |  |
 | TEX | Terex · Industrials | 7.26 | 0.97 | 3.1 | 14.60 | -21.70 | 57.8 | -4.82 |  |
-| MRNA | Moderna · Health Care | 7.21 | 0.25 | 0.61 | 14.35 | -19.00 | 53.5 | 122.49 |  |
-| KRYS | Krystal Biotech · Health Care | 7.21 | 0.96 | 1.36 | 9.81 | -10.00 | 64.6 | 10.71 |  |
+| MRNA | Moderna · Health Care | 7.21 | 0.53 | 0.61 | 14.35 | -19.00 | 53.5 | 122.49 |  |
+| KRYS | Krystal Biotech · Health Care | 7.21 | 0.74 | 1.36 | 9.81 | -10.00 | 64.6 | 10.71 |  |
 
 ## Data quality
 - insider: index 2026-11-11: 403 Client Error: Forbidden for url: https://www.sec.gov/Archives/edgar/daily-index/2026/QTR4/form.20261111.idx

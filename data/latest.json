@@ -1,7 +1,7 @@
 {
  "mode": "close",
- "generated_utc": "2026-11-24 21:29",
- "generated_et": "2026-11-24 16:29",
+ "generated_utc": "2026-11-24 21:50",
+ "generated_et": "2026-11-24 16:50",
  "since": "2026-11-22",
  "prices": {
   "AAPL": {
@@ -239,7 +239,7 @@
    "52w_high": 188.5,
    "52w_low": 114.19,
    "from_52w_high_pct": -16.06,
-   "vol_vs_20d": 0.67,
+   "vol_vs_20d": 0.71,
    "finnhub_last": 158.23,
    "finnhub_prev_close": 156.9,
    "verified": true
@@ -319,7 +319,7 @@
    "52w_high": 173.59,
    "52w_low": 137.62,
    "from_52w_high_pct": -0.65,
-   "vol_vs_20d": 0.76,
+   "vol_vs_20d": 0.83,
    "finnhub_last": 172.47,
    "finnhub_prev_close": 169.6,
    "verified": true
@@ -367,7 +367,7 @@
    "52w_high": 302.93,
    "52w_low": 190.75,
    "from_52w_high_pct": -0.87,
-   "vol_vs_20d": 0.9,
+   "vol_vs_20d": 1.05,
    "finnhub_last": 300.28,
    "finnhub_prev_close": 288.45,
    "verified": true
@@ -447,7 +447,7 @@
    "52w_high": 236.48,
    "52w_low": 146.49,
    "from_52w_high_pct": -11.73,
-   "vol_vs_20d": 0.71,
+   "vol_vs_20d": 0.76,
    "finnhub_last": 208.73,
    "finnhub_prev_close": 206.17,
    "verified": true
@@ -607,7 +607,7 @@
    "52w_high": 97.76,
    "52w_low": 72.78,
    "from_52w_high_pct": -16.95,
-   "vol_vs_20d": 0.77,
+   "vol_vs_20d": 0.79,
    "finnhub_last": 81.19,
    "finnhub_prev_close": 80,
    "verified": true
@@ -671,7 +671,7 @@
    "52w_high": 123.37,
    "52w_low": 92.19,
    "from_52w_high_pct": -0.7,
-   "vol_vs_20d": 1.02,
+   "vol_vs_20d": 1.06,
    "finnhub_last": 122.51,
    "finnhub_prev_close": 120.27,
    "verified": true
@@ -831,7 +831,7 @@
    "52w_high": 232.25,
    "52w_low": 152.8,
    "from_52w_high_pct": -27.32,
-   "vol_vs_20d": 1.3,
+   "vol_vs_20d": 1.33,
    "finnhub_last": 168.79,
    "finnhub_prev_close": 172.6,
    "verified": true
@@ -879,7 +879,7 @@
    "52w_high": 31.44,
    "52w_low": 23.62,
    "from_52w_high_pct": -9.48,
-   "vol_vs_20d": 0.77,
+   "vol_vs_20d": 0.81,
    "finnhub_last": 28.46,
    "finnhub_prev_close": 27.4,
    "verified": true
@@ -911,7 +911,7 @@
    "52w_high": 29.44,
    "52w_low": 19.89,
    "from_52w_high_pct": -22.28,
-   "vol_vs_20d": 0.8,
+   "vol_vs_20d": 0.94,
    "finnhub_last": 22.88,
    "finnhub_prev_close": 22.3,
    "verified": true
@@ -959,7 +959,7 @@
    "52w_high": 293.06,
    "52w_low": 178.45,
    "from_52w_high_pct": -21.16,
-   "vol_vs_20d": 0.7,
+   "vol_vs_20d": 0.78,
    "finnhub_last": 231.04,
    "finnhub_prev_close": 226.14,
    "verified": true
@@ -1039,7 +1039,7 @@
    "52w_high": 389.33,
    "52w_low": 267.0,
    "from_52w_high_pct": -16.76,
-   "vol_vs_20d": 0.54,
+   "vol_vs_20d": 0.56,
    "finnhub_last": 324.08,
    "finnhub_prev_close": 316.15,
    "verified": true
@@ -1391,7 +1391,7 @@
    "52w_high": 147.96,
    "52w_low": 99.53,
    "from_52w_high_pct": -23.05,
-   "vol_vs_20d": 0.93,
+   "vol_vs_20d": 0.95,
    "finnhub_last": 113.85,
    "finnhub_prev_close": 114.35,
    "verified": true
@@ -1455,7 +1455,7 @@
    "52w_high": 170.0,
    "52w_low": 122.78,
    "from_52w_high_pct": -15.38,
-   "vol_vs_20d": 0.87,
+   "vol_vs_20d": 0.91,
    "finnhub_last": 143.86,
    "finnhub_prev_close": 139.25,
    "verified": true
@@ -2103,14 +2103,14 @@
   "SPY": {
    "ticker": "SPY",
    "close_date": "2026-11-24",
-   "close": 718.58,
-   "day_pct": -0.51,
-   "5d_pct": -1.89,
-   "1m_pct": -6.11,
-   "3m_pct": -6.2,
+   "close": 718.78,
+   "day_pct": -0.49,
+   "5d_pct": -1.86,
+   "1m_pct": -6.09,
+   "3m_pct": -6.17,
    "52w_high": 781.62,
    "52w_low": 629.28,
-   "from_52w_high_pct": -8.07,
+   "from_52w_high_pct": -8.04,
    "vol_vs_20d": 0.99,
    "finnhub_last": 718.78,
    "finnhub_prev_close": 722.29,
@@ -2248,6 +2248,16 @@
   "AMZN": [],
   "GOOGL": [
    {
+    "form": "8-K",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526475973/d91615d8k.htm",
+    "description": "8-K",
+    "items": [
+     "8.01 Other events",
+     "9.01 Exhibits"
+    ]
+   },
+   {
     "form": "4",
     "date": "2026-11-23",
     "url": "https://www.sec.gov/Archives/edgar/data/1652044/000119312526472910/xslF345X06/ownership.xml",
@@ -2339,6 +2349,18 @@
   "BRK-B": [],
   "LLY": [],
   "JPM": [
+   {
+    "form": "424B2",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026123724/ea0313489-01_424b2.htm",
+    "description": "PRELIMINARY PRICING SUPPLEMENT"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426036853/form424b2.htm",
+    "description": "PRELIMINARY PRICING SUPPLEMENT"
+   },
    {
     "form": "424B2",
     "date": "2026-11-24",
@@ -3893,6 +3915,24 @@
    {
     "form": "424B2",
     "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036864/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036861/form424b2.htm",
+    "description": "FORM 424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036852/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-24",
     "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426036850/form424b2.htm",
     "description": "424B2"
    },
@@ -4858,6 +4898,18 @@
    {
     "form": "424B2",
     "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226057979/r11178wfc_424b2-39757.htm",
+    "description": "PRELIMINARY PRICING SUPPLEMENT NO. 442"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226057978/r11119wfc_424b2-39614.htm",
+    "description": "PRELIMINARY PRICING SUPPLEMENT NO. 436"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-24",
     "url": "https://www.sec.gov/Archives/edgar/data/72971/000183988226057965/r11185wfc_424b2-39768.htm",
     "description": "PRELIMINARY PRICING SUPPLEMENT NO. 125"
    },
@@ -5071,6 +5123,40 @@
   "QCOM": [
    {
     "form": "4",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000140/xslF345X06/edgardoc.xml",
+    "description": "PRIMARY DOCUMENT",
+    "form4": {
+     "owner": "Palkhiwala Akash J.",
+     "role": "EVP, CFO & COO",
+     "10b5_1_plan": false,
+     "transactions": []
+    }
+   },
+   {
+    "form": "4",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000139/xslF345X06/edgardoc.xml",
+    "description": "PRIMARY DOCUMENT",
+    "form4": {
+     "owner": "Amon Cristiano R",
+     "role": "Director, President & CEO",
+     "10b5_1_plan": false,
+     "transactions": []
+    }
+   },
+   {
+    "form": "8-K",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000138/qcom-20261120.htm",
+    "description": "8-K",
+    "items": [
+     "5.02 Executive/director change",
+     "9.01 Exhibits"
+    ]
+   },
+   {
+    "form": "4",
     "date": "2026-11-23",
     "url": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000135/xslF345X06/edgardoc.xml",
     "description": "PRIMARY DOCUMENT",
@@ -5164,6 +5250,72 @@
   "ISRG": [],
   "NOW": [],
   "GS": [
+   {
+    "form": "424B2",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526475979/gs-20261124.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526475960/gs-20261124.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526475959/gs-20261124.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526475956/gs-20261124.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526475939/spxvpf07_tax_table_adden.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526475922/woru2199_prelim.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526475914/gs-20261124.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526475912/gs-20261124.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526475910/gs-20261124.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526475906/gs-20261124.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526475874/gs-20261124.htm",
+    "description": "424B2"
+   },
    {
     "form": "424B2",
     "date": "2026-11-24",
@@ -7511,7 +7663,55 @@
     }
    }
   ],
-  "ORLY": [],
+  "ORLY": [
+   {
+    "form": "4",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/898173/000190338926000006/xslF345X06/form4-11242026_091135.xml",
+    "description": "",
+    "form4": {
+     "owner": "Mancini Christopher Andrew",
+     "role": "SVP OF PROF SALES & STORE OPS",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "M",
+       "type": "option exercise",
+       "shares": 9000.0,
+       "price": 16.71,
+       "value": 150390
+      },
+      {
+       "code": "S",
+       "type": "open-market sale",
+       "shares": 9000.0,
+       "price": 95.035,
+       "value": 855315
+      }
+     ]
+    }
+   },
+   {
+    "form": "4",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/898173/000151738026000006/xslF345X06/form4-11242026_091138.xml",
+    "description": "",
+    "form4": {
+     "owner": "Perlman Dana",
+     "role": "Director",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "G",
+       "type": "gift",
+       "shares": 265.0,
+       "price": 92.65,
+       "value": 24552
+      }
+     ]
+    }
+   }
+  ],
   "MCK": [],
   "PLTR": [
    {
@@ -8842,7 +9042,28 @@
     "description": "FORM 6-K"
    }
   ],
-  "HIMS": [],
+  "HIMS": [
+   {
+    "form": "4",
+    "date": "2026-11-24",
+    "url": "https://www.sec.gov/Archives/edgar/data/1773751/000183779626000008/xslF345X06/wk-form4_1795556762.xml",
+    "description": "FORM 4",
+    "form4": {
+     "owner": "Dudum Andrew",
+     "role": "Director, Chief Executive Officer, 10% owner",
+     "10b5_1_plan": false,
+     "transactions": [
+      {
+       "code": "G",
+       "type": "gift",
+       "shares": 673374.0,
+       "price": 0.0,
+       "value": 0
+      }
+     ]
+    }
+   }
+  ],
   "RKLB": [],
   "IONQ": [],
   "SMCI": [],
@@ -16376,16 +16597,6 @@
     "rev_actual": 890373000,
     "rev_est": 910769648
    },
-   "analysts": {
-    "period": "2026-11-01",
-    "strongBuy": 2,
-    "buy": 7,
-    "hold": 13,
-    "sell": 0,
-    "strongSell": 0,
-    "buy_change_vs_prior_month": 0,
-    "sell_change_vs_prior_month": 0
-   },
    "metrics": {
     "psTTM": 1.2303,
     "pbAnnual": 13.6649,
@@ -16395,33 +16606,7 @@
     "netProfitMarginTTM": -6.65,
     "beta": 2.7368472,
     "marketCapitalization": 3530.251
-   },
-   "news": [
-    {
-     "time": "11-24 08:00",
-     "source": "Yahoo",
-     "headline": "Hims & Hers Health, Inc. (HIMS) is Attracting Investor Attention: Here is What You Should Know",
-     "url": "https://finnhub.io/api/news?id=ce3d5934f1dbdb113a0b9fba7035c7e04ef32f4193d7b637a3dde65efa957565"
-    },
-    {
-     "time": "11-24 04:00",
-     "source": "Yahoo",
-     "headline": "Hims Brings Testosterone Care to the UK as Hims & Hers Accelerates International Growth",
-     "url": "https://finnhub.io/api/news?id=8deaea88689c0d2029afdcc763630bccf8d4ab7ded9caf5fdcb0e54f73bc8eaa"
-    },
-    {
-     "time": "11-24 00:06",
-     "source": "Yahoo",
-     "headline": "Can Sales Abroad Lift Hims & Hers Stock?",
-     "url": "https://finnhub.io/api/news?id=92e182abc0307d0f0c530e02b8f31dd11fe4cd13726a18950014894e99d315ee"
-    },
-    {
-     "time": "11-23 19:22",
-     "source": "Yahoo",
-     "headline": "Hims & Hers Sinks 17% in a Week as BofA Cuts Its Target to $21. Is It Time to Load Up?",
-     "url": "https://finnhub.io/api/news?id=2bdd7cbc8253a4399a38e12529913ae092bf075f398b18781798e09276acc7ac"
-    }
-   ]
+   }
   },
   "RKLB": {
    "next_earnings": {
@@ -17130,62 +17315,9 @@
     "netProfitMarginTTM": 7.78,
     "beta": 1.1795303,
     "marketCapitalization": 28530.545
-   },
-   "news": [
-    {
-     "time": "11-24 10:24",
-     "source": "Yahoo",
-     "headline": "Could EMCOR Stock's Winning Streak Be Luck?",
-     "url": "https://finnhub.io/api/news?id=9300e757b49a41e236122e891aa2f6b7e4c91b2672bb0b9da976855df15e6b73"
-    },
-    {
-     "time": "11-24 09:32",
-     "source": "Yahoo",
-     "headline": "EMCOR and D.R. Horton have been highlighted as Zacks Bull and Bear of the Day",
-     "url": "https://finnhub.io/api/news?id=564040d5730c790703ee0bd5c91c2ee8b6a7cc4cfad9504526201ca96329af91"
-    },
-    {
-     "time": "11-24 08:58",
-     "source": "Yahoo",
-     "headline": "Will EMCOR's $8.74B Data Center RPO Pipeline Keep Powering Growth?",
-     "url": "https://finnhub.io/api/news?id=f6f5cc170286cbef72e999161d2ee9c8eeb6b09cf0e23cafea068b8296aa978f"
-    },
-    {
-     "time": "11-24 08:00",
-     "source": "Yahoo",
-     "headline": "EMCOR Group, Inc. (EME) Is a Trending Stock: Facts to Know Before Betting on It",
-     "url": "https://finnhub.io/api/news?id=88c2e0f899d3fb540bfbebfad1944c3ac2b414fc4a1bfbc3ceae7f795dd80317"
-    },
-    {
-     "time": "11-24 03:00",
-     "source": "Yahoo",
-     "headline": "Bull of the Day: EMCOR Group, Inc. (EME)",
-     "url": "https://finnhub.io/api/news?id=12507dd43fa895dd421c57ad1915bb55957cda111526d05d1cb2135f2c58f3ea"
-    },
-    {
-     "time": "11-23 13:15",
-     "source": "Benzinga",
-     "headline": "$100 Invested In EMCOR Group 20 Years Ago Would Be Worth This Much Today",
-     "url": "https://finnhub.io/api/news?id=f4830d62a8842e240a05f3d3d6c650bf7a777c4e92a967aab723519fd584590a"
-    }
-   ]
+   }
   },
   "TMUS": {
-   "next_earnings": {
-    "date": "2027-02-09",
-    "hour": "amc",
-    "quarter": "2026Q4",
-    "eps_est": 2.79,
-    "rev_est": 25964256264
-   },
-   "last_earnings": {
-    "date": "2026-10-28",
-    "quarter": "2026Q3",
-    "eps_actual": 3.22,
-    "eps_est": 2.97,
-    "rev_actual": 23584000000,
-    "rev_est": 23600426460
-   },
    "analysts": {
     "period": "2026-11-01",
     "strongBuy": 7,
@@ -18591,12 +18723,6 @@
    "days_of_history": 8,
    "eps_rev_7d_pct": 0.0
   },
-  "TMUS": {
-   "quarter": "2026Q4",
-   "eps_est": 2.79,
-   "days_of_history": 8,
-   "eps_rev_7d_pct": 0.0
-  },
   "ADP": {
    "quarter": "2027Q2",
    "eps_est": 2.95,
@@ -19880,9 +20006,9 @@
    "fwd_pe": 11.47635,
    "ttm_pe": 10.179294,
    "peg": 4.02,
-   "target_mean": 45.68038,
-   "target_low": 39.354378,
-   "target_high": 63.9509,
+   "target_mean": 45.6834,
+   "target_low": 39.356976,
+   "target_high": 63.955124,
    "rating": "hold",
    "n_analysts": 12,
    "short_pct": 0.0121
@@ -20101,7 +20227,7 @@
    "short_pct": 0.1593
   },
   "RIVN": {
-   "fwd_pe": -6.439753,
+   "fwd_pe": -6.4751325,
    "target_mean": 17.74,
    "target_low": 10.0,
    "target_high": 25.0,
@@ -20146,5 +20272,11 @@
    "short_pct": 0.2188
   }
  },
- "errors": []
+ "errors": [
+  "finnhub/news/IONQ: HTTP 429 https://finnhub.io/api/v1/company-news",
+  "finnhub/news/EME: HTTP 429 https://finnhub.io/api/v1/company-news",
+  "finnhub/earnings/TMUS: HTTP 429 https://finnhub.io/api/v1/calendar/earnings",
+  "finnhub/recs/HIMS: HTTP 429 https://finnhub.io/api/v1/stock/recommendation",
+  "finnhub/news/HIMS: HTTP 429 https://finnhub.io/api/v1/company-news"
+ ]
 }

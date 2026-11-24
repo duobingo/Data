@@ -1,10 +1,14 @@
 # Trading desk data — close pull
-Generated 2026-11-24 16:29 ET (2026-11-24 21:29 UTC). Filings/news since 2026-11-22.
+Generated 2026-11-24 16:50 ET (2026-11-24 21:50 UTC). Filings/news since 2026-11-22.
 
 Use these numbers as the price source. A price marked ✓ matched two sources (Yahoo + Finnhub) within 0.5%; ✗ means single-source — label orders based on it UNVERIFIED PRICE.
 
 ## Data quality
-- All sources returned data.
+- finnhub/news/IONQ: HTTP 429 https://finnhub.io/api/v1/company-news
+- finnhub/news/EME: HTTP 429 https://finnhub.io/api/v1/company-news
+- finnhub/earnings/TMUS: HTTP 429 https://finnhub.io/api/v1/calendar/earnings
+- finnhub/recs/HIMS: HTTP 429 https://finnhub.io/api/v1/stock/recommendation
+- finnhub/news/HIMS: HTTP 429 https://finnhub.io/api/v1/company-news
 
 ## Prices
 | Group | Ticker | Close date | Close | ✓ | Day % | 5d % | 1m % | 3m % | From 52w high % | Vol vs 20d |
@@ -23,20 +27,20 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 | Tracked | V | 2026-11-24 | 416.78 | ✓ | 1.80 | 0.00 | 3.12 | 8.56 | -5.75 | 0.83 |
 | Tracked | MA | 2026-11-24 | 647.44 | ✓ | 1.88 | 0.26 | 5.53 | 8.18 | -5.07 | 0.80 |
 | Tracked | UNH | 2026-11-24 | 341.88 | ✓ | 1.73 | -12.27 | -16.76 | -14.75 | -25.94 | 1.05 |
-| Tracked | XOM | 2026-11-24 | 158.23 | ✓ | 0.85 | -5.37 | -14.26 | 0.03 | -16.06 | 0.67 |
+| Tracked | XOM | 2026-11-24 | 158.23 | ✓ | 0.85 | -5.37 | -14.26 | 0.03 | -16.06 | 0.71 |
 | Tracked | ORCL | 2026-11-24 | 109.50 | ✓ | -3.68 | -4.78 | -13.14 | -26.45 | -56.24 | 0.46 |
 | Tracked | COST | 2026-11-24 | 1,091.71 | ✓ | -0.56 | -1.65 | 8.61 | 14.18 | -2.84 | 0.94 |
 | Tracked | WMT | 2026-11-24 | 132.31 | ✓ | 2.11 | 3.76 | 9.99 | 26.81 | -2.11 | 0.93 |
 | Tracked | HD | 2026-11-24 | 353.69 | ✓ | 2.20 | 4.33 | 10.74 | 5.63 | -11.05 | 0.81 |
-| Tracked | PG | 2026-11-24 | 172.47 | ✓ | 1.69 | 0.44 | 7.85 | 18.94 | -0.65 | 0.76 |
+| Tracked | PG | 2026-11-24 | 172.47 | ✓ | 1.69 | 0.44 | 7.85 | 18.94 | -0.65 | 0.83 |
 | Tracked | JNJ | 2026-11-24 | 276.46 | ✓ | 2.37 | -0.80 | 3.82 | 2.39 | -4.75 | 0.78 |
 | Tracked | NFLX | 2026-11-24 | 58.87 | ✓ | 1.33 | -1.36 | -7.87 | -27.73 | -46.35 | 0.83 |
-| Tracked | ABBV | 2026-11-24 | 300.28 | ✓ | 4.10 | 2.55 | 4.72 | 14.22 | -0.87 | 0.90 |
+| Tracked | ABBV | 2026-11-24 | 300.28 | ✓ | 4.10 | 2.55 | 4.72 | 14.22 | -0.87 | 1.05 |
 | Tracked | BAC | 2026-11-24 | 48.56 | ✓ | 0.87 | -1.78 | -3.88 | -21.97 | -25.56 | 1.04 |
 | Tracked | CRM | 2026-11-24 | 193.26 | ✓ | 4.21 | -0.65 | -21.95 | -6.01 | -28.19 | 1.14 |
 | Tracked | KO | 2026-11-24 | 97.62 | ✓ | 1.81 | -1.18 | 5.31 | 8.37 | -2.92 | 1.01 |
 | Tracked | MRK | 2026-11-24 | 141.57 | ✓ | 4.50 | -1.26 | 0.68 | -7.53 | -9.78 | 1.45 |
-| Tracked | CVX | 2026-11-24 | 208.73 | ✓ | 1.24 | -3.42 | -10.03 | 4.26 | -11.73 | 0.71 |
+| Tracked | CVX | 2026-11-24 | 208.73 | ✓ | 1.24 | -3.42 | -10.03 | 4.26 | -11.73 | 0.76 |
 | Tracked | AMD | 2026-11-24 | 413.27 | ✓ | -8.86 | -17.91 | -22.21 | -14.07 | -37.24 | 1.03 |
 | Tracked | PEP | 2026-11-24 | 142.68 | ✓ | 1.76 | 0.46 | 5.33 | 0.34 | -16.79 | 0.93 |
 | Tracked | ADBE | 2026-11-24 | 232.08 | ✓ | 3.62 | -1.47 | -10.26 | -15.14 | -36.01 | 0.93 |
@@ -46,11 +50,11 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 | Tracked | ACN | 2026-11-24 | 232.32 | ✓ | 4.51 | -2.91 | -6.03 | 28.08 | -20.19 | 0.65 |
 | Tracked | MCD | 2026-11-24 | 280.70 | ✓ | 1.56 | 1.77 | 11.91 | 5.16 | -17.86 | 0.76 |
 | Tracked | ABT | 2026-11-24 | 105.39 | ✓ | 2.00 | 0.65 | 0.49 | -7.63 | -18.84 | 0.94 |
-| Tracked | WFC | 2026-11-24 | 81.19 | ✓ | 1.49 | -1.81 | -1.77 | -4.74 | -16.95 | 0.77 |
+| Tracked | WFC | 2026-11-24 | 81.19 | ✓ | 1.49 | -1.81 | -1.77 | -4.74 | -16.95 | 0.79 |
 | Tracked | IBM | 2026-11-24 | 235.62 | ✓ | 1.12 | 1.96 | -7.03 | 2.50 | -29.13 | 0.72 |
 | Tracked | GE | 2026-11-24 | 318.03 | ✓ | -1.01 | -2.56 | 10.26 | -10.26 | -18.21 | 0.86 |
 | Tracked | QCOM | 2026-11-24 | 164.96 | ✓ | -0.25 | -1.03 | -8.15 | 0.76 | -36.53 | 0.88 |
-| Tracked | DIS | 2026-11-24 | 122.51 | ✓ | 1.86 | 4.76 | 10.97 | 11.75 | -0.70 | 1.02 |
+| Tracked | DIS | 2026-11-24 | 122.51 | ✓ | 1.86 | 4.76 | 10.97 | 11.75 | -0.70 | 1.06 |
 | Tracked | TXN | 2026-11-24 | 258.44 | ✓ | -11.25 | -12.65 | -13.31 | -1.27 | -22.63 | 1.45 |
 | Tracked | INTU | 2026-11-24 | 279.42 | ✓ | 1.44 | -12.90 | -17.79 | -19.21 | -58.98 | 1.11 |
 | Tracked | AMGN | 2026-11-24 | 473.93 | ✓ | 5.54 | 3.50 | 6.59 | 7.63 | -2.08 | 1.04 |
@@ -60,20 +64,20 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 | Tracked | ISRG | 2026-11-24 | 434.46 | ✓ | 4.38 | 0.91 | -3.80 | 17.29 | -28.06 | 1.03 |
 | Tracked | NOW | 2026-11-24 | 91.74 | ✓ | 0.02 | -1.25 | -42.00 | -27.07 | -47.58 | 0.58 |
 | Tracked | GS | 2026-11-24 | 806.02 | ✓ | -2.14 | -8.15 | -9.77 | -22.53 | -30.15 | 1.19 |
-| Tracked | MS | 2026-11-24 | 168.79 | ✓ | -2.21 | -8.03 | -8.01 | -21.16 | -27.32 | 1.30 |
+| Tracked | MS | 2026-11-24 | 168.79 | ✓ | -2.21 | -8.03 | -8.01 | -21.16 | -27.32 | 1.33 |
 | Tracked | SPGI | 2026-11-24 | 455.17 | ✓ | 0.71 | 0.62 | 1.00 | 4.28 | -12.88 | 0.89 |
 | Tracked | UBER | 2026-11-24 | 64.70 | ✓ | 0.98 | -5.97 | -2.16 | -17.57 | -30.27 | 0.81 |
-| Tracked | PFE | 2026-11-24 | 28.46 | ✓ | 3.87 | -0.04 | -4.46 | 0.57 | -9.48 | 0.77 |
+| Tracked | PFE | 2026-11-24 | 28.46 | ✓ | 3.87 | -0.04 | -4.46 | 0.57 | -9.48 | 0.81 |
 | Tracked | RTX | 2026-11-24 | 195.33 | ✓ | 0.29 | -1.35 | -1.09 | -7.86 | -13.91 | 0.77 |
-| Tracked | T | 2026-11-24 | 22.88 | ✓ | 2.60 | 2.65 | 9.74 | -11.56 | -22.28 | 0.80 |
+| Tracked | T | 2026-11-24 | 22.88 | ✓ | 2.60 | 2.65 | 9.74 | -11.56 | -22.28 | 0.94 |
 | Tracked | BKNG | 2026-11-24 | 146.64 | ✓ | 1.17 | -5.06 | -4.24 | -29.80 | -33.59 | 0.88 |
 | Tracked | AXP | 2026-11-24 | 308.63 | ✓ | 0.56 | -2.26 | -2.04 | -8.19 | -20.35 | 0.81 |
-| Tracked | LOW | 2026-11-24 | 231.04 | ✓ | 2.17 | 4.80 | 16.56 | 9.83 | -21.16 | 0.70 |
+| Tracked | LOW | 2026-11-24 | 231.04 | ✓ | 2.17 | 4.80 | 16.56 | 9.83 | -21.16 | 0.78 |
 | Tracked | HON | 2026-11-24 | 224.82 | ✓ | 1.28 | 2.68 | 2.53 | 1.88 | -13.62 | 1.11 |
 | Tracked | UNP | 2026-11-24 | 290.83 | ✓ | 0.67 | -2.09 | -2.07 | -6.37 | -7.96 | 0.91 |
 | Tracked | BLK | 2026-11-24 | 1,146.03 | ✓ | 0.13 | -2.93 | 1.63 | -2.32 | -7.74 | 0.96 |
 | Tracked | NEE | 2026-11-24 | 84.58 | ✓ | 0.73 | 0.19 | 3.10 | 0.43 | -14.35 | 0.59 |
-| Tracked | SYK | 2026-11-24 | 324.08 | ✓ | 2.51 | 2.06 | 5.86 | -1.70 | -16.76 | 0.54 |
+| Tracked | SYK | 2026-11-24 | 324.08 | ✓ | 2.51 | 2.06 | 5.86 | -1.70 | -16.76 | 0.56 |
 | Tracked | PLD | 2026-11-24 | 127.32 | ✓ | 1.74 | 1.40 | 0.80 | -10.71 | -16.97 | 1.05 |
 | Tracked | COP | 2026-11-24 | 134.64 | ✓ | 1.85 | -3.47 | -11.05 | 3.09 | -12.73 | 0.71 |
 | Tracked | DE | 2026-11-24 | 613.76 | ✓ | -3.04 | -5.46 | -4.29 | -3.27 | -14.90 | 1.75 |
@@ -95,11 +99,11 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 | Tracked | ELV | 2026-11-24 | 391.17 | ✓ | 3.06 | -9.85 | -9.31 | -2.82 | -13.21 | 0.83 |
 | Tracked | MO | 2026-11-24 | 74.82 | ✓ | 1.38 | -3.41 | 1.63 | 8.25 | -6.44 | 0.87 |
 | Tracked | SCHW | 2026-11-24 | 93.91 | ✓ | 1.67 | 2.25 | 4.66 | -14.15 | -18.00 | 0.89 |
-| Tracked | C | 2026-11-24 | 113.85 | ✓ | -0.44 | -5.08 | -5.94 | -14.76 | -23.05 | 0.93 |
+| Tracked | C | 2026-11-24 | 113.85 | ✓ | -0.44 | -5.08 | -5.94 | -14.76 | -23.05 | 0.95 |
 | Tracked | SBUX | 2026-11-24 | 106.38 | ✓ | 0.02 | -1.03 | 3.59 | -1.94 | -4.59 | 0.98 |
 | Tracked | NKE | 2026-11-24 | 35.75 | ✓ | 5.89 | -0.28 | -5.70 | -7.36 | -48.29 | 1.24 |
 | Tracked | LULU | 2026-11-24 | 106.05 | ✓ | 1.36 | 1.83 | 3.05 | -8.85 | -53.07 | 1.04 |
-| Tracked | TJX | 2026-11-24 | 143.86 | ✓ | 3.31 | 10.79 | 0.11 | 5.14 | -15.38 | 0.87 |
+| Tracked | TJX | 2026-11-24 | 143.86 | ✓ | 3.31 | 10.79 | 0.11 | 5.14 | -15.38 | 0.91 |
 | Tracked | ORLY | 2026-11-24 | 95.43 | ✓ | 1.93 | 2.96 | 4.81 | 6.57 | -6.86 | 0.75 |
 | Tracked | MCK | 2026-11-24 | 1,078.09 | ✓ | 2.83 | -1.24 | 8.58 | 20.24 | -3.87 | 0.80 |
 | Tracked | PLTR | 2026-11-24 | 161.18 | ✓ | 1.14 | 2.95 | -18.94 | -9.19 | -24.31 | 0.77 |
@@ -145,13 +149,16 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 | Tracked | SOUN | 2026-11-24 | 2.62 | ✓ | -9.33 | -14.22 | -38.09 | -62.55 | -79.99 | 0.97 |
 | Tracked | ACHR | 2026-11-24 | 2.88 | ✓ | -6.19 | -18.18 | -26.90 | -51.19 | -69.00 | 0.99 |
 | Tracked | OKLO | 2026-11-24 | 19.20 | ✓ | -7.56 | -14.17 | -25.98 | -53.85 | -83.41 | 0.84 |
-| Benchmark | SPY | 2026-11-24 | 718.58 | ✓ | -0.51 | -1.89 | -6.11 | -6.20 | -8.07 | 0.99 |
+| Benchmark | SPY | 2026-11-24 | 718.78 | ✓ | -0.49 | -1.86 | -6.09 | -6.17 | -8.04 | 0.99 |
 | Benchmark | QQQ | 2026-11-24 | 638.10 | ✓ | -1.99 | -2.87 | -10.40 | -10.30 | -16.35 | 0.93 |
 
 ## SEC filings
 - **NVDA** 8-K (2026-11-23) — 5.02 Executive/director change; 9.01 Exhibits — [filing](https://www.sec.gov/Archives/edgar/data/1045810/000104581026000090/nvda-20261122.htm)
+- **GOOGL** 8-K (2026-11-24) — 8.01 Other events; 9.01 Exhibits — [filing](https://www.sec.gov/Archives/edgar/data/1652044/000119312526475973/d91615d8k.htm)
 - **GOOGL** 424B2 (2026-11-23) — [filing](https://www.sec.gov/Archives/edgar/data/1652044/000119312526470750/d115240d424b2.htm)
 - **META** 8-K (2026-11-23) — 8.01 Other events — [filing](https://www.sec.gov/Archives/edgar/data/1326801/000162828026075541/meta-20261118.htm)
+- **JPM** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/19617/000121390026123724/ea0313489-01_424b2.htm)
+- **JPM** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/19617/000191870426036853/form424b2.htm)
 - **JPM** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/19617/000191870426036849/form424b2.htm)
 - **JPM** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/19617/000191870426036848/form424b2.htm)
 - **JPM** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/19617/000191870426036846/form424b2.htm)
@@ -339,6 +346,9 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 - **JPM** 424B2 (2026-11-23) — [filing](https://www.sec.gov/Archives/edgar/data/19617/000121390026122847/ea0313181-01_424b2.htm)
 - **JPM** 424B2 (2026-11-23) — [filing](https://www.sec.gov/Archives/edgar/data/19617/000121390026122814/ea0313147-01_424b2.htm)
 - **V** 8-K (2026-11-23) — 5.02 Executive/director change — [filing](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000143/v-20261118.htm)
+- **BAC** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426036864/form424b2.htm)
+- **BAC** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426036861/form424b2.htm)
+- **BAC** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426036852/form424b2.htm)
 - **BAC** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426036850/form424b2.htm)
 - **BAC** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426036833/form424b2.htm)
 - **BAC** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426036825/form424b2.htm)
@@ -456,6 +466,8 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 - **BAC** 424B2 (2026-11-23) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426036420/form424b2.htm)
 - **KO** 8-K (2026-11-23) — 5.02 Executive/director change; 9.01 Exhibits — [filing](https://www.sec.gov/Archives/edgar/data/21344/000155278126000567/e26458_ko-8k.htm)
 - **AMD** S-3ASR (2026-11-23) — [filing](https://www.sec.gov/Archives/edgar/data/2488/000119312526472370/d171551ds3asr.htm)
+- **WFC** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/72971/000183988226057979/r11178wfc_424b2-39757.htm)
+- **WFC** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/72971/000183988226057978/r11119wfc_424b2-39614.htm)
 - **WFC** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/72971/000183988226057965/r11185wfc_424b2-39768.htm)
 - **WFC** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/72971/000183988226057963/r11188wfc_424b2-39770.htm)
 - **WFC** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/72971/000183988226057962/r11016wfc_424b2-39751.htm)
@@ -491,8 +503,20 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 - **WFC** 424B2 (2026-11-23) — [filing](https://www.sec.gov/Archives/edgar/data/72971/000183988226057677/r11052wfc_424b2-39418.htm)
 - **WFC** 424B2 (2026-11-23) — [filing](https://www.sec.gov/Archives/edgar/data/72971/000183988226057671/r11113wfc_424b2-39559.htm)
 - **WFC** 424B2 (2026-11-23) — [filing](https://www.sec.gov/Archives/edgar/data/72971/000183988226057662/r11109wfc_424b2-39570.htm)
+- **QCOM** 8-K (2026-11-24) — 5.02 Executive/director change; 9.01 Exhibits — [filing](https://www.sec.gov/Archives/edgar/data/804328/000080432826000138/qcom-20261120.htm)
 - **DIS** 8-K (2026-11-23) — 5.02 Executive/director change; 9.01 Exhibits — [filing](https://www.sec.gov/Archives/edgar/data/1744489/000174448926000069/dis-20261123.htm)
 - **AMGN** 8-K (2026-11-24) — 7.01 Reg FD disclosure; 9.01 Exhibits — [filing](https://www.sec.gov/Archives/edgar/data/318154/000119312526475833/amgn-20261124.htm)
+- **GS** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526475979/gs-20261124.htm)
+- **GS** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526475960/gs-20261124.htm)
+- **GS** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526475959/gs-20261124.htm)
+- **GS** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526475956/gs-20261124.htm)
+- **GS** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526475939/spxvpf07_tax_table_adden.htm)
+- **GS** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526475922/woru2199_prelim.htm)
+- **GS** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526475914/gs-20261124.htm)
+- **GS** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526475912/gs-20261124.htm)
+- **GS** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526475910/gs-20261124.htm)
+- **GS** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526475906/gs-20261124.htm)
+- **GS** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526475874/gs-20261124.htm)
 - **GS** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526475867/gs-20261124.htm)
 - **GS** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526475773/gs-20261124.htm)
 - **GS** 424B2 (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526475737/spxfpp96_prelim.htm)
@@ -827,6 +851,7 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 - **ETN** 2026-11-23 · Ruiz Sternadt Paulo (Director, See Remarks below.) · open-market BUY · 300 sh @ $322.63 = $96.8K  ← OPEN-MARKET BUY
 - **ETN** 2026-11-23 · Foster David B (See Remarks below.) · open-market BUY · 150 sh @ $323.60 = $48.5K  ← OPEN-MARKET BUY
 - **PANW** 2026-11-24 · Paul Josh D. (Chief Accounting Officer) · open-market sale (10b5-1 plan) · 1,100 sh @ $358.67 = $394.5K
+- **ORLY** 2026-11-24 · Mancini Christopher Andrew (SVP OF PROF SALES & STORE OPS) · open-market sale · 9,000 sh @ $95.03 = $855.3K
 - **PLTR** 2026-11-23 · Sankar Shyam (See Remarks) · open-market sale (10b5-1 plan) · 38,256 sh @ $153.83 = $5.9M
 - **PLTR** 2026-11-23 · Sankar Shyam (See Remarks) · open-market sale (10b5-1 plan) · 24,648 sh @ $154.85 = $3.8M
 - **PLTR** 2026-11-23 · Sankar Shyam (See Remarks) · open-market sale (10b5-1 plan) · 19,000 sh @ $155.72 = $3.0M
@@ -1069,7 +1094,7 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 | FIX | 2027-02-17 | amc | 2026Q4 | 14.15 | 0.35 | — | $3.9B | — |
 | DECK | 2027-01-27 | — | 2027Q3 | 3.65 | 0.00 | — | $2.0B | — |
 | EME | 2027-02-24 | bmo | 2026Q4 | 9.58 | 0.00 | — | $5.6B | 9.6 vs 8.44 (13.74%) |
-| TMUS | 2027-02-09 | amc | 2026Q4 | 2.79 | 0.00 | — | $26.0B | 3.22 vs 2.97 (8.42%) |
+| TMUS | — | — | — | — | — | — | — | — |
 | SPCX | — | — | — | — | — | — | — | — |
 | ADP | 2027-01-26 | — | 2027Q2 | 2.95 | 0.34 | — | $5.7B | 2.82 vs 2.79 (1.08%) |
 | PGR | 2027-03-01 | amc | 2026Q4 | 4.06 | — | — | $21.0B | — |
@@ -1199,7 +1224,6 @@ Estimate revisions build up from daily snapshots, so they fill in after the pipe
 | DASH | 2026-11-01 | 14 | 27 | 10 | 0 | 0 | -1 | 0 |
 | ABNB | 2026-11-01 | 10 | 22 | 17 | 1 | 0 | 1 | 0 |
 | NVO | 2026-11-01 | 4 | 6 | 20 | 5 | 1 | 0 | 2 |
-| HIMS | 2026-11-01 | 2 | 7 | 13 | 0 | 0 | 0 | 0 |
 | RKLB | 2026-11-01 | 8 | 17 | 5 | 0 | 0 | 2 | 0 |
 | IONQ | 2026-11-01 | 5 | 12 | 4 | 0 | 0 | 0 | 0 |
 | SMCI | 2026-11-01 | 0 | 4 | 14 | 5 | 2 | 0 | 0 |
@@ -1220,7 +1244,6 @@ Estimate revisions build up from daily snapshots, so they fill in after the pipe
 | MELI | 2026-11-01 | 8 | 17 | 5 | 0 | 0 | 0 | 0 |
 | ETN | 2026-11-01 | 9 | 18 | 6 | 0 | 0 | 0 | 0 |
 | BFLY | 2026-11-01 | 3 | 10 | 1 | 0 | 0 | 1 | 0 |
-| HIMS | 2026-11-01 | 2 | 7 | 13 | 0 | 0 | 0 | 0 |
 | SOFI | 2026-11-01 | 7 | 10 | 12 | 3 | 1 | 2 | 0 |
 | RKLB | 2026-11-01 | 8 | 17 | 5 | 0 | 0 | 2 | 0 |
 | IONQ | 2026-11-01 | 5 | 12 | 4 | 0 | 0 | 0 | 0 |
@@ -1479,7 +1502,7 @@ Estimate revisions build up from daily snapshots, so they fill in after the pipe
 | RBLX | -41.99 | — | 8.18 | 50.53 | -5.53 | 33.00–80.00 | buy (34) | 2.70 |
 | DASH | 21.00 | 66.44 | 0.91 | 250.39 | 56.37 | 200.00–340.00 | strong_buy (38) | 3.80 |
 | ABNB | 27.27 | 32.53 | 1.41 | 205.88 | 18.74 | 147.00–245.00 | buy (39) | 3.10 |
-| NVO | 11.48 | 10.18 | 4.02 | 45.68 | 13.32 | 39.35–63.95 | hold (12) | 1.20 |
+| NVO | 11.48 | 10.18 | 4.02 | 45.68 | 13.33 | 39.36–63.96 | hold (12) | 1.20 |
 | HIMS | 49.13 | — | 1.80 | 27.23 | 84.74 | 21.00–40.00 | hold (13) | 26.50 |
 | RKLB | 642.36 | — | — | 90.62 | 97.08 | 40.00–127.00 | buy (21) | 7.30 |
 | IONQ | -15.77 | 12.95 | — | 54.27 | 142.30 | 40.00–70.00 | strong_buy (14) | 11.80 |
@@ -1505,7 +1528,7 @@ Estimate revisions build up from daily snapshots, so they fill in after the pipe
 | SOFI | 14.36 | 23.38 | 0.41 | 20.67 | 60.69 | 12.00–30.00 | buy (23) | 17.50 |
 | RKLB | 642.36 | — | — | 90.62 | 97.08 | 40.00–127.00 | buy (21) | 7.30 |
 | IONQ | -15.77 | 12.95 | — | 54.27 | 142.30 | 40.00–70.00 | strong_buy (14) | 11.80 |
-| RIVN | -6.44 | — | — | 17.74 | 56.30 | 10.00–25.00 | buy (25) | 15.10 |
+| RIVN | -6.48 | — | — | 17.74 | 56.30 | 10.00–25.00 | buy (25) | 15.10 |
 | LCID | -0.40 | — | — | 5.55 | 110.23 | 1.00–17.00 | hold (10) | 60.40 |
 | SOUN | -41.45 | — | — | 11.17 | 326.21 | 5.00–17.00 | strong_buy (6) | 36.20 |
 | ACHR | -3.51 | — | — | 9.98 | 246.64 | 6.35–18.00 | buy (9) | 16.60 |
@@ -2270,12 +2293,6 @@ Estimate revisions build up from daily snapshots, so they fill in after the pipe
 - 11-23 05:12 · SeekingAlpha · [Novo Nordisk: The Wegovy Pill Opportunity Is Just Beginning](https://finnhub.io/api/news?id=df3deeda3426d037191f17ec66b067c0484429782ba29d68b76f62c2ff997022)
 - 11-23 04:01 · Benzinga · [Ozempic Maker Novo Nordisk Gets FDA Approval for Once-Weekly Growth Treatment for Pediatric Patients](https://finnhub.io/api/news?id=29159b081d7524b0114be0001fe5af33df61cca43f48bb220f4744baf03b3a9b)
 
-**HIMS**
-- 11-24 08:00 · Yahoo · [Hims & Hers Health, Inc. (HIMS) is Attracting Investor Attention: Here is What You Should Know](https://finnhub.io/api/news?id=ce3d5934f1dbdb113a0b9fba7035c7e04ef32f4193d7b637a3dde65efa957565)
-- 11-24 04:00 · Yahoo · [Hims Brings Testosterone Care to the UK as Hims & Hers Accelerates International Growth](https://finnhub.io/api/news?id=8deaea88689c0d2029afdcc763630bccf8d4ab7ded9caf5fdcb0e54f73bc8eaa)
-- 11-24 00:06 · Yahoo · [Can Sales Abroad Lift Hims & Hers Stock?](https://finnhub.io/api/news?id=92e182abc0307d0f0c530e02b8f31dd11fe4cd13726a18950014894e99d315ee)
-- 11-23 19:22 · Yahoo · [Hims & Hers Sinks 17% in a Week as BofA Cuts Its Target to $21. Is It Time to Load Up?](https://finnhub.io/api/news?id=2bdd7cbc8253a4399a38e12529913ae092bf075f398b18781798e09276acc7ac)
-
 **RKLB**
 - 11-24 14:13 · Yahoo · [Rocket Lab (RKLB) Has 117 Launches Booked. Barclays Has a View](https://finnhub.io/api/news?id=abd46a2c10c27560ecf34326bae3484ac2ed32f4d14fba036988ec62843a43f2)
 - 11-24 10:14 · Yahoo · [Why Rocket Lab Demand News Could Make ETFs Worth A Look](https://finnhub.io/api/news?id=13e5df50b036c5bbd0268fca5216829fe1f17b727bccbb8ab223ed14d2cfaae6)
@@ -2342,14 +2359,6 @@ Estimate revisions build up from daily snapshots, so they fill in after the pipe
 - 11-24 04:09 · Yahoo · [Comfort Systems USA (FIX) Stock Gets Fair Value Trim As Analysts Weigh Backlog And Margins](https://finnhub.io/api/news?id=11eac9ad429359a7be6cfbbc6a4a4d406d18ec78a9cb8f530afbf1d0a9edd061)
 - 11-23 14:01 · Yahoo · [Comfort Systems USA stands out as the top industrial stock to own](https://finnhub.io/api/news?id=3fc3b5a28b972316b82cf6451cac5980c6dd81ffa39f22a63d9ed8ea7445cf2c)
 
-**EME**
-- 11-24 10:24 · Yahoo · [Could EMCOR Stock's Winning Streak Be Luck?](https://finnhub.io/api/news?id=9300e757b49a41e236122e891aa2f6b7e4c91b2672bb0b9da976855df15e6b73)
-- 11-24 09:32 · Yahoo · [EMCOR and D.R. Horton have been highlighted as Zacks Bull and Bear of the Day](https://finnhub.io/api/news?id=564040d5730c790703ee0bd5c91c2ee8b6a7cc4cfad9504526201ca96329af91)
-- 11-24 08:58 · Yahoo · [Will EMCOR's $8.74B Data Center RPO Pipeline Keep Powering Growth?](https://finnhub.io/api/news?id=f6f5cc170286cbef72e999161d2ee9c8eeb6b09cf0e23cafea068b8296aa978f)
-- 11-24 08:00 · Yahoo · [EMCOR Group, Inc. (EME) Is a Trending Stock: Facts to Know Before Betting on It](https://finnhub.io/api/news?id=88c2e0f899d3fb540bfbebfad1944c3ac2b414fc4a1bfbc3ceae7f795dd80317)
-- 11-24 03:00 · Yahoo · [Bull of the Day: EMCOR Group, Inc. (EME)](https://finnhub.io/api/news?id=12507dd43fa895dd421c57ad1915bb55957cda111526d05d1cb2135f2c58f3ea)
-- 11-23 13:15 · Benzinga · [$100 Invested In EMCOR Group 20 Years Ago Would Be Worth This Much Today](https://finnhub.io/api/news?id=f4830d62a8842e240a05f3d3d6c650bf7a777c4e92a967aab723519fd584590a)
-
 **TMUS**
 - 11-24 09:11 · Yahoo · [Black Friday Gets a Magenta Makeover with More Deals from T-Mobile on the Latest Phones, Accessories and More](https://finnhub.io/api/news?id=80e7cfd906b91f94b4bb995cca894af0fb2c2e4e0f5a994969a738aaf9c0ee34)
 - 11-23 11:17 · Yahoo · [T-Mobile Has Raised Its Dividend 80% Since 2023. Here’s What Comes Next](https://finnhub.io/api/news?id=8df14d0db94261373e80f4f064b7e0497a581ff9bb220fd819b92468442fc5d3)
@@ -2388,12 +2397,6 @@ Estimate revisions build up from daily snapshots, so they fill in after the pipe
 - 11-24 11:56 · Yahoo · [Can Eaton's Solid Order Backlog Sustain Its Growth Momentum?](https://finnhub.io/api/news?id=753442d40416e8ca12b329708fdbe554e6ee8464b7e15cd2c869dcd5bc999021)
 - 11-23 12:43 · SeekingAlpha · [Eaton: A Great Quarter, And A Massive Improvement In The Risk-Reward](https://finnhub.io/api/news?id=2f372bfb7dfb3f551803340005af9c31ca584d53bed07fe355194fb308462485)
 - 11-23 02:57 · Benzinga · [Baird Maintains Outperform on Eaton Corp, Lowers Price Target to $375](https://finnhub.io/api/news?id=4525b01160018216aa2493968d514304787c0e6c16c01d7bb2c96112776f088c)
-
-**HIMS**
-- 11-24 08:00 · Yahoo · [Hims & Hers Health, Inc. (HIMS) is Attracting Investor Attention: Here is What You Should Know](https://finnhub.io/api/news?id=ce3d5934f1dbdb113a0b9fba7035c7e04ef32f4193d7b637a3dde65efa957565)
-- 11-24 04:00 · Yahoo · [Hims Brings Testosterone Care to the UK as Hims & Hers Accelerates International Growth](https://finnhub.io/api/news?id=8deaea88689c0d2029afdcc763630bccf8d4ab7ded9caf5fdcb0e54f73bc8eaa)
-- 11-24 00:06 · Yahoo · [Can Sales Abroad Lift Hims & Hers Stock?](https://finnhub.io/api/news?id=92e182abc0307d0f0c530e02b8f31dd11fe4cd13726a18950014894e99d315ee)
-- 11-23 19:22 · Yahoo · [Hims & Hers Sinks 17% in a Week as BofA Cuts Its Target to $21. Is It Time to Load Up?](https://finnhub.io/api/news?id=2bdd7cbc8253a4399a38e12529913ae092bf075f398b18781798e09276acc7ac)
 
 **SOFI**
 - 11-23 22:22 · Yahoo · [Credit Card Rate Cap Might Change The Case For Investing In SoFi Stock](https://finnhub.io/api/news?id=9885208128f200a0c3ffa5661c75ba731541e09f43b6408ea86c6d107e6a0171)
