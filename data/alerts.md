@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-24 06:40 ET
+# Alerts — watcher run 2026-11-24 07:49 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-24 07:49 | 1 | TXN | Down 4.0% (premarket) | TXN -4.0% at 279.48 vs 291.19 close (premarket, 07:45 ET) |  |
+| 11-24 07:49 | 1 | ADI | Down 9.5% (premarket) | ADI -9.5% at 342.88 vs 378.75 close (premarket, 07:48 ET) |  |
+| 11-24 07:49 | 2 | ADI | 8-K: 2.02 Earnings results | 8-K - ANALOG DEVICES INC (0000006281) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/6281/000000628126000087/0000006281-26-000087-index.htm) |
 | 11-24 06:40 | 1 | AMD | Down 4.3% (premarket) | AMD -4.3% at 434.00 vs 453.46 close (premarket, 06:40 ET) |  |
 | 11-24 06:40 | 1 | MU | Down 7.0% (premarket) | MU -7.0% at 658.00 vs 707.70 close (premarket, 06:40 ET) |  |
 | 11-24 06:40 | 1 | LRCX | Down 4.2% (premarket) | LRCX -4.2% at 201.00 vs 209.76 close (premarket, 06:30 ET) |  |
@@ -153,14 +156,19 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 04:58 | 1 | GOOGL | Up 4.5% (premarket) | GOOGL +4.5% at 277.34 vs 265.29 close (premarket, 04:55 ET) |  |
 | 11-23 04:58 | 1 | AVGO | Up 5.5% (premarket) | AVGO +5.5% at 321.11 vs 304.41 close (premarket, 04:55 ET) |  |
 | 11-23 04:58 | 1 | TSLA | Up 4.4% (premarket) | TSLA +4.4% at 361.19 vs 345.82 close (premarket, 04:55 ET) |  |
-| 11-23 04:58 | 1 | ORCL | Up 4.8% (premarket) | ORCL +4.8% at 106.05 vs 101.19 close (premarket, 04:57 ET) |  |
-| 11-23 04:58 | 1 | AMD | Up 5.6% (premarket) | AMD +5.6% at 448.00 vs 424.39 close (premarket, 04:55 ET) |  |
-| 11-23 04:58 | 1 | QCOM | Up 4.2% (premarket) | QCOM +4.2% at 156.19 vs 149.94 close (premarket, 04:50 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-24 07:49 | 2 | ANF | Up 11.8% (premarket) | ANF +11.8% at 157.00 vs 140.45 close (premarket, 07:45 ET) |  |
+| 11-24 07:49 | 2 | DKS | Up 18.1% (premarket) | DKS +18.1% at 157.87 vs 133.67 close (premarket, 07:45 ET) |  |
+| 11-24 07:49 | 2 | ANF | 8-K: 2.02 Earnings results | 8-K - ABERCROMBIE & FITCH CO /DE/ (0001018840) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1018840/000101884026000052/0001018840-26-000052-index.htm) |
+| 11-24 07:49 | 2 | SJM | 8-K: 2.02 Earnings results | 8-K - J M SMUCKER Co (0000091419) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/91419/000009141926000110/0000091419-26-000110-index.htm) |
+| 11-24 07:49 | 2 | DY | 8-K: 2.02 Earnings results | 8-K - DYCOM INDUSTRIES INC (0000067215) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/67215/000006721526000048/0000067215-26-000048-index.htm) |
+| 11-24 07:49 | 2 | DKS | 8-K: 2.02 Earnings results | 8-K - DICK'S SPORTING GOODS, INC. (0001089063) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1089063/000108906326000039/0001089063-26-000039-index.htm) |
+| 11-24 07:49 | 2 | BBY | 8-K: 2.02 Earnings results | 8-K - BEST BUY CO INC (0000764478) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/764478/000076447826000045/0000764478-26-000045-index.htm) |
+| 11-24 07:49 | 2 | BURL | 8-K: 2.02 Earnings results | 8-K - Burlington Stores, Inc. (0001579298) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1579298/000119312526473122/0001193125-26-473122-index.htm) |
 | 11-24 06:40 | 2 | DLTR | Up 12.3% (premarket) | DLTR +12.3% at 156.25 vs 139.10 close (premarket, 06:40 ET) |  |
 | 11-24 06:40 | 2 | SNDK | Down 12.4% (premarket) | SNDK -12.4% at 82.67 vs 94.39 close (premarket, 06:40 ET) |  |
 | 11-24 06:40 | 2 | SMTC | Down 13.2% (premarket) | SMTC -13.2% at 90.39 vs 104.13 close (premarket, 06:41 ET) |  |
@@ -303,14 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 10:07 | 2 | WCC | Up 8.1% (regular) | WCC +8.1% at 305.00 vs 282.04 close (regular, 10:05 ET) |  |
 | 11-23 08:54 | 2 | FTI | Up 10.5% (premarket) | FTI +10.5% at 64.85 vs 58.71 close (premarket, 08:00 ET) |  |
 | 11-23 08:54 | 2 | SITM | Up 8.1% (premarket) | SITM +8.1% at 390.50 vs 361.24 close (premarket, 08:10 ET) |  |
-| 11-23 08:54 | 2 | PNC | 8-K: 5.02 Executive/director change | 8-K - PNC FINANCIAL SERVICES GROUP, INC. (0000713676) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/713676/000162828026075375/0001628280-26-075375-index.htm) |
-| 11-23 07:24 | 2 | FORM | Up 8.2% (premarket) | FORM +8.2% at 79.00 vs 73.02 close (premarket, 07:00 ET) |  |
-| 11-23 07:24 | 2 | ONTO | Up 8.1% (premarket) | ONTO +8.1% at 184.01 vs 170.16 close (premarket, 06:30 ET) |  |
-| 11-23 07:24 | 2 | RMBS | Up 8.1% (premarket) | RMBS +8.1% at 71.70 vs 66.35 close (premarket, 05:55 ET) |  |
-| 11-23 07:24 | 2 | SMTC | Up 8.4% (premarket) | SMTC +8.4% at 95.01 vs 87.63 close (premarket, 07:22 ET) |  |
-| 11-23 06:10 | 2 | P | Up 8.6% (premarket) | P +8.6% at 100.00 vs 92.05 close (premarket, 06:10 ET) |  |
-| 11-23 06:10 | 2 | DOCN | Up 8.1% (premarket) | DOCN +8.1% at 72.14 vs 66.76 close (premarket, 05:45 ET) |  |
-| 11-23 04:58 | 2 | SNDK | Down 9.9% (premarket) | SNDK -9.9% at 85.06 vs 94.39 close (premarket, 04:55 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
@@ -318,7 +318,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 |---|---|---|---|---|---|
 | 11-23 10:07 | 2 | — | Market stress | Wall Street's 'Fear Gauge' just flashed a buy sign | [link](https://www.cnbc.com/2026/11/23/wall-streets-fear-gauge-just-flashed-a-buy-sign.html) |
 | 11-21 09:34 | 2 | — | Market stress | During Wall Street's worst week in over a year, we put money to work. What we're buying | [link](https://www.cnbc.com/investingclub/2026/11/21/during-wall-streets-worst-week-in-over-a-year-we-put-money-to-work-what-were-buying.html) |
-| 11-21 07:30 | 2 | — | Market stress | S&P 500 correction: Five forces behind the market sell-off | [link](https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html) |
 
 ## Watcher health
 
