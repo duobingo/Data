@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-24 07:49 ET
+# Alerts — watcher run 2026-11-24 09:24 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-24 09:24 | 1 | ADI | Down 13.4% (premarket) | ADI -13.4% at 328.12 vs 378.75 close (premarket, 09:20 ET) |  |
+| 11-24 09:24 | 2 | NVDA | Analyst | IREN Fell 42% This Month Even After The Market Jump on NVIDIA News: This Wall Street Pro Maintains That 440% Returns Are Coming After Q3 Earnings Downgrades | [link](https://finnhub.io/api/news?id=103bbb99289cc517936a2122a85cbe3b9549582992d23cb34db63bb7dd1430f3) |
+| 11-24 09:24 | 1 | TSLA | Deal | Why Tesla-SpaceX Merger Talks Face ‘More Friction Than People Assume’ | [link](https://finnhub.io/api/news?id=7aa17bc24e32fb932d2c451e97965edb142421161cdd6c44efc82c4d2b00c65c) |
+| 11-24 09:24 | 1 | TSLA | Deal | Tesla, SpaceX Reportedly Pick Board Members To Negotiate Elon Musk's Mega Merger | [link](https://finnhub.io/api/news?id=ebff9cebc4c43943c8db643216b7e48ac0f5ec4275d250f8de3f6731b29573a2) |
+| 11-24 09:24 | 1 | TMO | FDA/trial | Thermo Fisher Scientific Expands Clinicians' Ability to Monitor Multiple Myeloma with First-of-Its-Kind FDA Clearance | [link](https://finnhub.io/api/news?id=76c7b0287fab3a2e5f300943b880b96f4de235625dabfcb76018817c5b0bab1d) |
+| 11-24 09:24 | 2 | MU | Buyback/dividend | Micron Stock Is Counting on a Buyback Bounce. Why It’s No Slam Dunk. | [link](https://finnhub.io/api/news?id=487569755e211f13b0af1b6e5a641104115c23655bc6494024ee3868322173f9) |
 | 11-24 07:49 | 1 | TXN | Down 4.0% (premarket) | TXN -4.0% at 279.48 vs 291.19 close (premarket, 07:45 ET) |  |
 | 11-24 07:49 | 1 | ADI | Down 9.5% (premarket) | ADI -9.5% at 342.88 vs 378.75 close (premarket, 07:48 ET) |  |
 | 11-24 07:49 | 2 | ADI | 8-K: 2.02 Earnings results | 8-K - ANALOG DEVICES INC (0000006281) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/6281/000000628126000087/0000006281-26-000087-index.htm) |
@@ -150,17 +156,15 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 06:10 | 1 | RKLB | Up 9.8% (premarket) | RKLB +9.8% at 49.86 vs 45.42 close (premarket, 06:10 ET) |  |
 | 11-23 06:10 | 1 | EME | Up 4.4% (premarket) | EME +4.4% at 630.00 vs 603.32 close (premarket, 04:40 ET) |  |
 | 11-23 06:10 | 1 | RIVN | Up 6.0% (premarket) | RIVN +6.0% at 10.95 vs 10.33 close (premarket, 06:10 ET) |  |
-| 11-23 06:10 | 1 | SOUN | Up 6.5% (premarket) | SOUN +6.5% at 2.78 vs 2.61 close (premarket, 06:10 ET) |  |
-| 11-23 06:10 | 2 | CRWD | 8-K: 2.02 Earnings results | 8-K - CrowdStrike Holdings, Inc. (0001535527) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1535527/000153552726000035/0001535527-26-000035-index.htm) |
-| 11-23 04:58 | 1 | NVDA | Up 8.5% (premarket) | NVDA +8.5% at 136.18 vs 125.53 close (premarket, 04:55 ET) |  |
-| 11-23 04:58 | 1 | GOOGL | Up 4.5% (premarket) | GOOGL +4.5% at 277.34 vs 265.29 close (premarket, 04:55 ET) |  |
-| 11-23 04:58 | 1 | AVGO | Up 5.5% (premarket) | AVGO +5.5% at 321.11 vs 304.41 close (premarket, 04:55 ET) |  |
-| 11-23 04:58 | 1 | TSLA | Up 4.4% (premarket) | TSLA +4.4% at 361.19 vs 345.82 close (premarket, 04:55 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-24 09:24 | 2 | ANF | Up 8.1% (premarket) | ANF +8.1% at 151.89 vs 140.45 close (premarket, 09:23 ET) |  |
+| 11-24 09:24 | 2 | DKS | Up 12.4% (premarket) | DKS +12.4% at 150.26 vs 133.67 close (premarket, 09:20 ET) |  |
+| 11-24 09:24 | 2 | JAZZ | Down 9.9% (premarket) | JAZZ -9.9% at 210.00 vs 233.19 close (premarket, 09:23 ET) |  |
+| 11-24 09:24 | 2 | SOLV | 8-K: 5.02 Executive/director change | 8-K - Solventum Corp (0001964738) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1964738/000196473826000061/0001964738-26-000061-index.htm) |
 | 11-24 07:49 | 2 | ANF | Up 11.8% (premarket) | ANF +11.8% at 157.00 vs 140.45 close (premarket, 07:45 ET) |  |
 | 11-24 07:49 | 2 | DKS | Up 18.1% (premarket) | DKS +18.1% at 157.87 vs 133.67 close (premarket, 07:45 ET) |  |
 | 11-24 07:49 | 2 | ANF | 8-K: 2.02 Earnings results | 8-K - ABERCROMBIE & FITCH CO /DE/ (0001018840) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1018840/000101884026000052/0001018840-26-000052-index.htm) |
@@ -307,10 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 10:07 | 2 | TLN | Up 8.3% (regular) | TLN +8.3% at 360.45 vs 332.92 close (regular, 10:05 ET) |  |
 | 11-23 10:07 | 2 | TTMI | Up 17.2% (regular) | TTMI +17.2% at 68.97 vs 58.85 close (regular, 10:05 ET) |  |
 | 11-23 10:07 | 2 | VIAV | Up 12.9% (regular) | VIAV +12.9% at 30.16 vs 26.71 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 2 | VICR | Up 19.0% (regular) | VICR +19.0% at 148.91 vs 125.09 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 2 | WCC | Up 8.1% (regular) | WCC +8.1% at 305.00 vs 282.04 close (regular, 10:05 ET) |  |
-| 11-23 08:54 | 2 | FTI | Up 10.5% (premarket) | FTI +10.5% at 64.85 vs 58.71 close (premarket, 08:00 ET) |  |
-| 11-23 08:54 | 2 | SITM | Up 8.1% (premarket) | SITM +8.1% at 390.50 vs 361.24 close (premarket, 08:10 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
