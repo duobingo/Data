@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-24 15:59 ET
+# Alerts — watcher run 2026-11-24 17:00 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-24 17:00 | 1 | QCOM | 8-K: 5.02 Executive/director change | 8-K - QUALCOMM INC/DE (0000804328) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/804328/000080432826000138/0000804328-26-000138-index.htm) |
 | 11-24 15:59 | 1 | ANET | Down 5.6% (regular) | ANET -5.6% at 168.39 vs 178.31 close (regular, 15:55 ET) |  |
 | 11-24 15:59 | 1 | MDT | Down 4.3% (regular) | MDT -4.3% at 96.35 vs 100.72 close (regular, 15:55 ET) |  |
 | 11-24 15:59 | 1 | COIN | Down 6.0% (regular) | COIN -6.0% at 102.22 vs 108.78 close (regular, 15:55 ET) |  |
@@ -155,12 +156,24 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 10:07 | 1 | SHOP | Up 8.3% (regular) | SHOP +8.3% at 133.98 vs 123.72 close (regular, 10:05 ET) |  |
 | 11-23 10:07 | 1 | HOOD | Up 10.2% (regular) | HOOD +10.2% at 68.53 vs 62.17 close (regular, 10:05 ET) |  |
 | 11-23 10:07 | 1 | SOFI | Up 8.5% (regular) | SOFI +8.5% at 13.55 vs 12.48 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | COIN | Up 6.8% (regular) | COIN +6.8% at 108.94 vs 101.97 close (regular, 10:05 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-24 17:00 | 2 | GGG | 8-K: 1.01 Material agreement | 8-K - GRACO INC (0000042888) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/42888/000119312526476009/0001193125-26-476009-index.htm) |
+| 11-24 17:00 | 2 | ANF | 8-K: 5.02 Executive/director change | 8-K/A - ABERCROMBIE & FITCH CO /DE/ (0001018840) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1018840/000101884026000055/0001018840-26-000055-index.htm) |
+| 11-24 17:00 | 2 | WTRG | 8-K: 5.02 Executive/director change | 8-K - Essential Utilities, Inc. (0000078128) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/78128/000155278126000569/0001552781-26-000569-index.htm) |
+| 11-24 17:00 | 2 | HPQ | 8-K: 2.02 Earnings results | 8-K - HP INC (0000047217) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/47217/000004721726000054/0000047217-26-000054-index.htm) |
+| 11-24 17:00 | 2 | APH | 8-K: 1.01 Material agreement | 8-K - AMPHENOL CORP /DE/ (0000820313) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/820313/000110465926131603/0001104659-26-131603-index.htm) |
+| 11-24 17:00 | 2 | SARO | 8-K: 1.01 Material agreement | 8-K - StandardAero, Inc. (0002025410) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/2025410/000119312526475680/0001193125-26-475680-index.htm) |
+| 11-24 17:00 | 2 | ZBRA | 8-K: 1.01 Material agreement | 8-K - ZEBRA TECHNOLOGIES CORP (0000877212) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/877212/000162828026075724/0001628280-26-075724-index.htm) |
+| 11-24 17:00 | 2 | DELL | 8-K: 2.02 Earnings results | 8-K - Dell Technologies Inc. (0001571996) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1571996/000157199626000050/0001571996-26-000050-index.htm) |
+| 11-24 17:00 | 2 | STE | 8-K: 1.01 Material agreement | 8-K - STERIS plc (0001757898) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1757898/000119312526475644/0001193125-26-475644-index.htm) |
+| 11-24 17:00 | 2 | KBR | 8-K: 1.01 Material agreement | 8-K - KBR, INC. (0001357615) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1357615/000114036126045503/0001140361-26-045503-index.htm) |
+| 11-24 17:00 | 2 | KEYS | 8-K: 5.02 Executive/director change | 8-K/A - Keysight Technologies, Inc. (0001601046) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1601046/000160104626000045/0001601046-26-000045-index.htm) |
+| 11-24 17:00 | 2 | ADSK | 8-K: 2.02 Earnings results | 8-K - Autodesk, Inc. (0000769397) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/769397/000076939726000069/0000769397-26-000069-index.htm) |
+| 11-24 17:00 | 2 | PODD | 8-K: 5.02 Executive/director change | 8-K - INSULET CORP (0001145197) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1145197/000119312526475638/0001193125-26-475638-index.htm) |
 | 11-24 15:59 | 2 | BG | Down 8.7% (regular) | BG -8.7% at 83.94 vs 91.97 close (regular, 15:55 ET) |  |
 | 11-24 15:59 | 2 | ANF | Up 19.7% (regular) | ANF +19.7% at 168.13 vs 140.45 close (regular, 15:55 ET) |  |
 | 11-24 15:59 | 2 | DKS | Up 14.9% (regular) | DKS +14.9% at 153.58 vs 133.67 close (regular, 15:55 ET) |  |
@@ -298,19 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 12:26 | 2 | BDC | Up 9.1% (regular) | BDC +9.1% at 101.19 vs 92.79 close (regular, 12:25 ET) |  |
 | 11-23 12:26 | 2 | DOCN | Up 18.1% (regular) | DOCN +18.1% at 78.83 vs 66.76 close (regular, 12:25 ET) |  |
 | 11-23 12:26 | 2 | MKSI | Up 11.9% (regular) | MKSI +11.9% at 206.56 vs 184.52 close (regular, 12:25 ET) |  |
-| 11-23 11:16 | 2 | APH | Up 9.6% (regular) | APH +9.6% at 76.40 vs 69.72 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | BE | Up 21.3% (regular) | BE +21.3% at 172.72 vs 142.39 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | CIEN | Up 14.1% (regular) | CIEN +14.1% at 267.37 vs 234.37 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | GLW | Up 15.9% (regular) | GLW +15.9% at 109.41 vs 94.38 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | GNRC | Up 8.0% (regular) | GNRC +8.0% at 208.73 vs 193.22 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | MRNA | Up 8.6% (regular) | MRNA +8.6% at 211.86 vs 195.00 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | NTAP | Up 8.3% (regular) | NTAP +8.3% at 170.80 vs 157.65 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | NRG | Up 8.3% (regular) | NRG +8.3% at 95.06 vs 87.80 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | OKTA | Up 8.4% (regular) | OKTA +8.4% at 207.46 vs 191.46 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | PWR | Up 8.7% (regular) | PWR +8.7% at 607.91 vs 559.03 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | TWLO | Up 8.1% (regular) | TWLO +8.1% at 185.97 vs 172.10 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | BDC | Up 8.3% (regular) | BDC +8.3% at 100.46 vs 92.79 close (regular, 11:10 ET) |  |
-| 11-23 11:16 | 2 | CGNX | Up 9.6% (regular) | CGNX +9.6% at 48.63 vs 44.36 close (regular, 11:15 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
