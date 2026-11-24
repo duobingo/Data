@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-24 04:08 ET
+# Alerts — watcher run 2026-11-24 05:28 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-24 05:28 | 1 | NVDA | Down 4.7% (premarket) | NVDA -4.7% at 157.27 vs 165.05 close (premarket, 05:25 ET) |  |
+| 11-24 05:28 | 1 | SMCI | Down 4.4% (premarket) | SMCI -4.4% at 23.45 vs 24.53 close (premarket, 05:25 ET) |  |
 | 11-24 04:08 | 1 | MU | Down 4.8% (premarket) | MU -4.8% at 674.00 vs 707.70 close (premarket, 04:05 ET) |  |
 | 11-23 19:34 | 2 | VZ | Analyst | Forget AT&T and Verizon: Crown Castle Has More to Lose From Starlink’s 40x Upgrade | [link](https://finnhub.io/api/news?id=7f23cd8bd8e7b2e4ce10c8e9a44423c69cf39920d5591ca1745309d69d2b300a) |
 | 11-23 19:34 | 2 | T | Analyst | Forget AT&T and Verizon: Crown Castle Has More to Lose From Starlink’s 40x Upgrade | [link](https://finnhub.io/api/news?id=7f23cd8bd8e7b2e4ce10c8e9a44423c69cf39920d5591ca1745309d69d2b300a) |
@@ -154,13 +156,13 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 04:58 | 1 | KLAC | Up 8.5% (premarket) | KLAC +8.5% at 137.69 vs 126.87 close (premarket, 04:10 ET) |  |
 | 11-23 04:58 | 1 | ANET | Up 5.4% (premarket) | ANET +5.4% at 176.74 vs 167.62 close (premarket, 04:35 ET) |  |
 | 11-23 04:58 | 1 | PLTR | Up 4.9% (premarket) | PLTR +4.9% at 150.55 vs 143.49 close (premarket, 04:55 ET) |  |
-| 11-23 04:58 | 1 | SNOW | Up 4.4% (premarket) | SNOW +4.4% at 266.00 vs 254.82 close (premarket, 04:53 ET) |  |
-| 11-23 04:58 | 1 | SHOP | Up 5.6% (premarket) | SHOP +5.6% at 130.71 vs 123.72 close (premarket, 04:35 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-24 05:28 | 2 | HPE | Down 10.7% (premarket) | HPE -10.7% at 42.87 vs 48.02 close (premarket, 05:25 ET) |  |
+| 11-24 05:28 | 2 | SMTC | Down 10.1% (premarket) | SMTC -10.1% at 93.65 vs 104.13 close (premarket, 05:00 ET) |  |
 | 11-24 04:08 | 2 | HPE | Down 8.9% (premarket) | HPE -8.9% at 43.76 vs 48.02 close (premarket, 04:05 ET) |  |
 | 11-24 04:08 | 2 | SNDK | Down 10.9% (premarket) | SNDK -10.9% at 84.12 vs 94.39 close (premarket, 04:05 ET) |  |
 | 11-24 04:08 | 2 | SMTC | Down 8.1% (premarket) | SMTC -8.1% at 95.73 vs 104.13 close (premarket, 04:05 ET) |  |
@@ -309,8 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 04:58 | 2 | MKSI | Up 9.2% (premarket) | MKSI +9.2% at 201.47 vs 184.52 close (premarket, 04:05 ET) |  |
 | 11-23 04:58 | 2 | MTSI | Up 8.8% (premarket) | MTSI +8.8% at 212.00 vs 194.91 close (premarket, 04:10 ET) |  |
 | 11-23 04:58 | 2 | NVT | Up 11.5% (premarket) | NVT +11.5% at 113.55 vs 101.84 close (premarket, 04:20 ET) |  |
-| 11-23 04:58 | 2 | ONTO | Up 9.2% (premarket) | ONTO +9.2% at 185.88 vs 170.16 close (premarket, 04:05 ET) |  |
-| 11-23 04:58 | 2 | SMTC | Up 10.7% (premarket) | SMTC +10.7% at 97.00 vs 87.63 close (premarket, 04:20 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 

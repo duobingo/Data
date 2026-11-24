@@ -11372,8 +11372,64 @@
    "url": "",
    "move_pct": -8.07,
    "first_seen": "2026-11-24T04:08-05:00"
+  },
+  {
+   "id": "ca05a651ad7d3f6f",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "NVDA",
+   "name": "Nvidia",
+   "sector": "Information Technology",
+   "severity": 1,
+   "category": "Down 4.7% (premarket)",
+   "title": "NVDA -4.7% at 157.27 vs 165.05 close (premarket, 05:25 ET)",
+   "url": "",
+   "move_pct": -4.71,
+   "first_seen": "2026-11-24T05:28-05:00"
+  },
+  {
+   "id": "875119bdb10f112d",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "SMCI",
+   "name": "Supermicro",
+   "sector": "Information Technology",
+   "severity": 1,
+   "category": "Down 4.4% (premarket)",
+   "title": "SMCI -4.4% at 23.45 vs 24.53 close (premarket, 05:25 ET)",
+   "url": "",
+   "move_pct": -4.4,
+   "first_seen": "2026-11-24T05:28-05:00"
+  },
+  {
+   "id": "6cf0328101c5f70b",
+   "kind": "price",
+   "group": "universe",
+   "ticker": "HPE",
+   "name": "Hewlett Packard Enterprise",
+   "sector": "Information Technology",
+   "severity": 2,
+   "category": "Down 10.7% (premarket)",
+   "title": "HPE -10.7% at 42.87 vs 48.02 close (premarket, 05:25 ET)",
+   "url": "",
+   "move_pct": -10.72,
+   "first_seen": "2026-11-24T05:28-05:00"
+  },
+  {
+   "id": "cbfdf676e96b3324",
+   "kind": "price",
+   "group": "universe",
+   "ticker": "SMTC",
+   "name": "Semtech",
+   "sector": "Information Technology",
+   "severity": 2,
+   "category": "Down 10.1% (premarket)",
+   "title": "SMTC -10.1% at 93.65 vs 104.13 close (premarket, 05:00 ET)",
+   "url": "",
+   "move_pct": -10.06,
+   "first_seen": "2026-11-24T05:28-05:00"
   }
  ],
- "last_run": "2026-11-24T04:08-05:00",
+ "last_run": "2026-11-24T05:28-05:00",
  "errors": []
 }
