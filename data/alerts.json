@@ -11316,8 +11316,64 @@
    "url": "https://finnhub.io/api/news?id=7f23cd8bd8e7b2e4ce10c8e9a44423c69cf39920d5591ca1745309d69d2b300a",
    "published": "2026-11-23 18:28",
    "first_seen": "2026-11-23T19:34-05:00"
+  },
+  {
+   "id": "b7537038262db158",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "MU",
+   "name": "Micron Technology",
+   "sector": "Information Technology",
+   "severity": 1,
+   "category": "Down 4.8% (premarket)",
+   "title": "MU -4.8% at 674.00 vs 707.70 close (premarket, 04:05 ET)",
+   "url": "",
+   "move_pct": -4.76,
+   "first_seen": "2026-11-24T04:08-05:00"
+  },
+  {
+   "id": "9dfc1973d8c60ebf",
+   "kind": "price",
+   "group": "universe",
+   "ticker": "HPE",
+   "name": "Hewlett Packard Enterprise",
+   "sector": "Information Technology",
+   "severity": 2,
+   "category": "Down 8.9% (premarket)",
+   "title": "HPE -8.9% at 43.76 vs 48.02 close (premarket, 04:05 ET)",
+   "url": "",
+   "move_pct": -8.87,
+   "first_seen": "2026-11-24T04:08-05:00"
+  },
+  {
+   "id": "37d28918c1543660",
+   "kind": "price",
+   "group": "universe",
+   "ticker": "SNDK",
+   "name": "Sandisk",
+   "sector": "Information Technology",
+   "severity": 2,
+   "category": "Down 10.9% (premarket)",
+   "title": "SNDK -10.9% at 84.12 vs 94.39 close (premarket, 04:05 ET)",
+   "url": "",
+   "move_pct": -10.89,
+   "first_seen": "2026-11-24T04:08-05:00"
+  },
+  {
+   "id": "af05fa5561aeb58d",
+   "kind": "price",
+   "group": "universe",
+   "ticker": "SMTC",
+   "name": "Semtech",
+   "sector": "Information Technology",
+   "severity": 2,
+   "category": "Down 8.1% (premarket)",
+   "title": "SMTC -8.1% at 95.73 vs 104.13 close (premarket, 04:05 ET)",
+   "url": "",
+   "move_pct": -8.07,
+   "first_seen": "2026-11-24T04:08-05:00"
   }
  ],
- "last_run": "2026-11-24T02:53-05:00",
+ "last_run": "2026-11-24T04:08-05:00",
  "errors": []
 }
