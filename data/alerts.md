@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-24 15:06 ET
+# Alerts — watcher run 2026-11-24 15:59 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,10 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-24 15:59 | 1 | ANET | Down 5.6% (regular) | ANET -5.6% at 168.39 vs 178.31 close (regular, 15:55 ET) |  |
+| 11-24 15:59 | 1 | MDT | Down 4.3% (regular) | MDT -4.3% at 96.35 vs 100.72 close (regular, 15:55 ET) |  |
+| 11-24 15:59 | 1 | COIN | Down 6.0% (regular) | COIN -6.0% at 102.22 vs 108.78 close (regular, 15:55 ET) |  |
+| 11-24 15:59 | 1 | SOUN | Down 9.2% (regular) | SOUN -9.2% at 2.63 vs 2.89 close (regular, 15:55 ET) |  |
 | 11-24 15:06 | 1 | ORCL | Down 4.1% (regular) | ORCL -4.1% at 109.01 vs 113.68 close (regular, 15:05 ET) |  |
 | 11-24 14:01 | 1 | ABBV | Up 4.2% (regular) | ABBV +4.2% at 300.70 vs 288.45 close (regular, 14:00 ET) |  |
 | 11-24 14:01 | 1 | MRK | Up 4.4% (regular) | MRK +4.4% at 141.48 vs 135.47 close (regular, 14:00 ET) |  |
@@ -152,15 +156,16 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 10:07 | 1 | HOOD | Up 10.2% (regular) | HOOD +10.2% at 68.53 vs 62.17 close (regular, 10:05 ET) |  |
 | 11-23 10:07 | 1 | SOFI | Up 8.5% (regular) | SOFI +8.5% at 13.55 vs 12.48 close (regular, 10:05 ET) |  |
 | 11-23 10:07 | 1 | COIN | Up 6.8% (regular) | COIN +6.8% at 108.94 vs 101.97 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | APP | Up 7.9% (regular) | APP +7.9% at 375.95 vs 348.29 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | RBLX | Up 11.0% (regular) | RBLX +11.0% at 51.87 vs 46.72 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | DASH | Up 5.6% (regular) | DASH +5.6% at 161.15 vs 152.60 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | HIMS | Up 5.8% (regular) | HIMS +5.8% at 15.44 vs 14.60 close (regular, 10:05 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-24 15:59 | 2 | BG | Down 8.7% (regular) | BG -8.7% at 83.94 vs 91.97 close (regular, 15:55 ET) |  |
+| 11-24 15:59 | 2 | ANF | Up 19.7% (regular) | ANF +19.7% at 168.13 vs 140.45 close (regular, 15:55 ET) |  |
+| 11-24 15:59 | 2 | DKS | Up 14.9% (regular) | DKS +14.9% at 153.58 vs 133.67 close (regular, 15:55 ET) |  |
+| 11-24 15:59 | 2 | WDAY | 8-K: 2.02 Earnings results | 8-K - Workday, Inc. (0001327811) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1327811/000132781126000057/0001327811-26-000057-index.htm) |
+| 11-24 15:59 | 2 | NTNX | 8-K: 2.02 Earnings results; 5.02 Executive/director change | 8-K - Nutanix, Inc. (0001618732) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1618732/000117184326007693/0001171843-26-007693-index.htm) |
 | 11-24 15:06 | 2 | DELL | Down 12.0% (regular) | DELL -12.0% at 294.70 vs 334.91 close (regular, 15:05 ET) |  |
 | 11-24 15:06 | 2 | TER | Down 8.8% (regular) | TER -8.8% at 212.90 vs 233.51 close (regular, 15:05 ET) |  |
 | 11-24 15:06 | 2 | SANM | Down 9.5% (regular) | SANM -9.5% at 139.30 vs 153.88 close (regular, 15:05 ET) |  |
@@ -306,11 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 11:16 | 2 | TWLO | Up 8.1% (regular) | TWLO +8.1% at 185.97 vs 172.10 close (regular, 11:15 ET) |  |
 | 11-23 11:16 | 2 | BDC | Up 8.3% (regular) | BDC +8.3% at 100.46 vs 92.79 close (regular, 11:10 ET) |  |
 | 11-23 11:16 | 2 | CGNX | Up 9.6% (regular) | CGNX +9.6% at 48.63 vs 44.36 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | CRS | Up 9.5% (regular) | CRS +9.5% at 278.20 vs 254.00 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | FN | Up 15.7% (regular) | FN +15.7% at 329.89 vs 285.04 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | FORM | Up 14.1% (regular) | FORM +14.1% at 83.34 vs 73.02 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | HL | Up 8.1% (regular) | HL +8.1% at 11.37 vs 10.52 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 2 | IESC | Up 12.2% (regular) | IESC +12.2% at 175.10 vs 156.06 close (regular, 11:15 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
