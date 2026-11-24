@@ -11286,8 +11286,38 @@
    "url": "https://www.sec.gov/Archives/edgar/data/1811074/000119312526472518/0001193125-26-472518-index.htm",
    "published": "2026-11-23 16:43",
    "first_seen": "2026-11-23T17:36-05:00"
+  },
+  {
+   "id": "d88df608c607f424",
+   "kind": "news",
+   "group": "tracked",
+   "ticker": "VZ",
+   "name": "Verizon",
+   "sector": "Communication Services",
+   "severity": 2,
+   "category": "Analyst",
+   "title": "Forget AT&T and Verizon: Crown Castle Has More to Lose From Starlink\u2019s 40x Upgrade",
+   "source": "Yahoo",
+   "url": "https://finnhub.io/api/news?id=7f23cd8bd8e7b2e4ce10c8e9a44423c69cf39920d5591ca1745309d69d2b300a",
+   "published": "2026-11-23 18:28",
+   "first_seen": "2026-11-23T19:34-05:00"
+  },
+  {
+   "id": "00eed1e6e0875c59",
+   "kind": "news",
+   "group": "tracked",
+   "ticker": "T",
+   "name": "AT&T",
+   "sector": "Communication Services",
+   "severity": 2,
+   "category": "Analyst",
+   "title": "Forget AT&T and Verizon: Crown Castle Has More to Lose From Starlink\u2019s 40x Upgrade",
+   "source": "Yahoo",
+   "url": "https://finnhub.io/api/news?id=7f23cd8bd8e7b2e4ce10c8e9a44423c69cf39920d5591ca1745309d69d2b300a",
+   "published": "2026-11-23 18:28",
+   "first_seen": "2026-11-23T19:34-05:00"
   }
  ],
- "last_run": "2026-11-23T18:35-05:00",
+ "last_run": "2026-11-23T19:34-05:00",
  "errors": []
 }

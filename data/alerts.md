@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-23 18:35 ET
+# Alerts — watcher run 2026-11-23 19:34 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-23 19:34 | 2 | VZ | Analyst | Forget AT&T and Verizon: Crown Castle Has More to Lose From Starlink’s 40x Upgrade | [link](https://finnhub.io/api/news?id=7f23cd8bd8e7b2e4ce10c8e9a44423c69cf39920d5591ca1745309d69d2b300a) |
+| 11-23 19:34 | 2 | T | Analyst | Forget AT&T and Verizon: Crown Castle Has More to Lose From Starlink’s 40x Upgrade | [link](https://finnhub.io/api/news?id=7f23cd8bd8e7b2e4ce10c8e9a44423c69cf39920d5591ca1745309d69d2b300a) |
 | 11-23 17:36 | 1 | C | Up 4.1% (after-hours) | C +4.1% at 119.00 vs 114.35 close (after-hours, 16:45 ET) |  |
 | 11-23 17:36 | 1 | NVDA | Deal | Trump has a personal stake in Nvidia's future | [link](https://finnhub.io/api/news?id=85c4ae9dac0d5bb3dd55f5876f1d3e4566bf5b3a1ec98b53a27a216dc3d1df41) |
 | 11-23 16:35 | 1 | KO | 8-K: 5.02 Executive/director change | 8-K - COCA COLA CO (0000021344) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/21344/000155278126000567/0001552781-26-000567-index.htm) |
@@ -154,8 +156,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 04:58 | 1 | SNOW | Up 4.4% (premarket) | SNOW +4.4% at 266.00 vs 254.82 close (premarket, 04:53 ET) |  |
 | 11-23 04:58 | 1 | SHOP | Up 5.6% (premarket) | SHOP +5.6% at 130.71 vs 123.72 close (premarket, 04:35 ET) |  |
 | 11-23 04:58 | 1 | HOOD | Up 7.0% (premarket) | HOOD +7.0% at 66.54 vs 62.17 close (premarket, 04:55 ET) |  |
-| 11-23 04:58 | 1 | SOFI | Up 5.3% (premarket) | SOFI +5.3% at 13.14 vs 12.48 close (premarket, 04:55 ET) |  |
-| 11-23 04:58 | 1 | COIN | Up 5.1% (premarket) | COIN +5.1% at 107.22 vs 101.97 close (premarket, 04:56 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
