@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-25 09:43 ET
+# Alerts — watcher run 2026-11-25 11:50 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,27 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-25 11:50 | 1 | TSLA | Down 5.6% (regular) | TSLA -5.6% at 363.28 vs 384.68 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 1 | AMD | Down 9.5% (regular) | AMD -9.5% at 373.80 vs 413.27 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 1 | QCOM | Down 4.3% (regular) | QCOM -4.3% at 157.93 vs 164.96 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 1 | MU | Down 12.5% (regular) | MU -12.5% at 550.78 vs 629.79 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 1 | LRCX | Down 12.1% (regular) | LRCX -12.1% at 172.38 vs 196.16 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 1 | AMAT | Down 10.2% (regular) | AMAT -10.2% at 290.77 vs 323.76 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 1 | CRWD | Down 6.1% (regular) | CRWD -6.1% at 197.99 vs 210.86 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 1 | SNOW | Down 5.7% (regular) | SNOW -5.7% at 255.59 vs 271.09 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 1 | COIN | Down 5.3% (regular) | COIN -5.3% at 96.90 vs 102.35 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 1 | APP | Down 4.8% (regular) | APP -4.8% at 362.86 vs 381.11 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 1 | HIMS | Down 5.9% (regular) | HIMS -5.9% at 13.87 vs 14.74 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 1 | IONQ | Down 4.4% (regular) | IONQ -4.4% at 21.41 vs 22.40 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 1 | SMCI | Down 5.2% (regular) | SMCI -5.2% at 21.45 vs 22.62 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 1 | ARM | Down 8.4% (regular) | ARM -8.4% at 148.04 vs 161.56 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 1 | CEG | Down 5.4% (regular) | CEG -5.4% at 231.71 vs 244.84 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 1 | FIX | Down 6.6% (regular) | FIX -6.6% at 1024.10 vs 1096.56 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 1 | SPCX | Down 6.2% (regular) | SPCX -6.2% at 117.97 vs 125.81 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 1 | LCID | Down 6.1% (regular) | LCID -6.1% at 2.48 vs 2.64 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 2 | NVDA | Analyst | Nvidia's $270 Wall Street upgrade has a surprising catch | [link](https://finnhub.io/api/news?id=7a26957d0c046609205cb8c6932856635ec25d5b89c2d93c6906e5eae23e2184) |
+| 11-25 11:50 | 1 | TSLA | Deal | Tesla and SpaceX stocks sink as merger concerns mount | [link](https://finnhub.io/api/news?id=a392977d129ab4f26f68aabba9a6c3bbb7b7794b067b8f680043a10b457168ce) |
+| 11-25 11:50 | 2 | MS | Analyst | Ambarella downgraded by BofA, Morgan Stanley as memory squeeze hits demand | [link](https://finnhub.io/api/news?id=08d5f4cb33d5366aa1f1d36379ff5e09da2a02f6fc076d1e28f9466c1a2b50e1) |
 | 11-25 09:43 | 1 | NVDA | Down 8.8% (regular) | NVDA -8.8% at 141.69 vs 155.38 close (regular, 09:40 ET) |  |
 | 11-25 09:43 | 1 | AMZN | Down 5.6% (regular) | AMZN -5.6% at 238.23 vs 252.29 close (regular, 09:40 ET) |  |
 | 11-25 09:43 | 1 | GOOGL | Down 5.7% (regular) | GOOGL -5.7% at 263.27 vs 279.05 close (regular, 09:40 ET) |  |
@@ -135,32 +156,25 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-24 10:31 | 1 | OKLO | Down 7.8% (regular) | OKLO -7.8% at 19.15 vs 20.77 close (regular, 10:32 ET) |  |
 | 11-24 09:24 | 1 | ADI | Down 13.4% (premarket) | ADI -13.4% at 328.12 vs 378.75 close (premarket, 09:20 ET) |  |
 | 11-24 09:24 | 2 | NVDA | Analyst | IREN Fell 42% This Month Even After The Market Jump on NVIDIA News: This Wall Street Pro Maintains That 440% Returns Are Coming After Q3 Earnings Downgrades | [link](https://finnhub.io/api/news?id=103bbb99289cc517936a2122a85cbe3b9549582992d23cb34db63bb7dd1430f3) |
-| 11-24 09:24 | 1 | TSLA | Deal | Why Tesla-SpaceX Merger Talks Face ‘More Friction Than People Assume’ | [link](https://finnhub.io/api/news?id=7aa17bc24e32fb932d2c451e97965edb142421161cdd6c44efc82c4d2b00c65c) |
-| 11-24 09:24 | 1 | TSLA | Deal | Tesla, SpaceX Reportedly Pick Board Members To Negotiate Elon Musk's Mega Merger | [link](https://finnhub.io/api/news?id=ebff9cebc4c43943c8db643216b7e48ac0f5ec4275d250f8de3f6731b29573a2) |
-| 11-24 09:24 | 1 | TMO | FDA/trial | Thermo Fisher Scientific Expands Clinicians' Ability to Monitor Multiple Myeloma with First-of-Its-Kind FDA Clearance | [link](https://finnhub.io/api/news?id=76c7b0287fab3a2e5f300943b880b96f4de235625dabfcb76018817c5b0bab1d) |
-| 11-24 09:24 | 2 | MU | Buyback/dividend | Micron Stock Is Counting on a Buyback Bounce. Why It’s No Slam Dunk. | [link](https://finnhub.io/api/news?id=487569755e211f13b0af1b6e5a641104115c23655bc6494024ee3868322173f9) |
-| 11-24 07:49 | 1 | TXN | Down 4.0% (premarket) | TXN -4.0% at 279.48 vs 291.19 close (premarket, 07:45 ET) |  |
-| 11-24 07:49 | 1 | ADI | Down 9.5% (premarket) | ADI -9.5% at 342.88 vs 378.75 close (premarket, 07:48 ET) |  |
-| 11-24 07:49 | 2 | ADI | 8-K: 2.02 Earnings results | 8-K - ANALOG DEVICES INC (0000006281) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/6281/000000628126000087/0000006281-26-000087-index.htm) |
-| 11-24 06:40 | 1 | AMD | Down 4.3% (premarket) | AMD -4.3% at 434.00 vs 453.46 close (premarket, 06:40 ET) |  |
-| 11-24 06:40 | 1 | MU | Down 7.0% (premarket) | MU -7.0% at 658.00 vs 707.70 close (premarket, 06:40 ET) |  |
-| 11-24 06:40 | 1 | LRCX | Down 4.2% (premarket) | LRCX -4.2% at 201.00 vs 209.76 close (premarket, 06:30 ET) |  |
-| 11-24 06:40 | 1 | AMAT | Down 4.4% (premarket) | AMAT -4.4% at 331.62 vs 346.87 close (premarket, 06:37 ET) |  |
-| 11-24 06:40 | 1 | KLAC | Down 4.7% (premarket) | KLAC -4.7% at 139.00 vs 145.85 close (premarket, 06:37 ET) |  |
-| 11-24 06:40 | 1 | ARM | Down 4.8% (premarket) | ARM -4.8% at 168.25 vs 176.67 close (premarket, 06:25 ET) |  |
-| 11-24 06:40 | 2 | MDT | 8-K: 2.02 Earnings results | 8-K - Medtronic plc (0001613103) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1613103/000162828026075604/0001628280-26-075604-index.htm) |
-| 11-24 05:28 | 1 | NVDA | Down 4.7% (premarket) | NVDA -4.7% at 157.27 vs 165.05 close (premarket, 05:25 ET) |  |
-| 11-24 05:28 | 1 | SMCI | Down 4.4% (premarket) | SMCI -4.4% at 23.45 vs 24.53 close (premarket, 05:25 ET) |  |
-| 11-24 04:08 | 1 | MU | Down 4.8% (premarket) | MU -4.8% at 674.00 vs 707.70 close (premarket, 04:05 ET) |  |
-| 11-23 19:34 | 2 | VZ | Analyst | Forget AT&T and Verizon: Crown Castle Has More to Lose From Starlink’s 40x Upgrade | [link](https://finnhub.io/api/news?id=7f23cd8bd8e7b2e4ce10c8e9a44423c69cf39920d5591ca1745309d69d2b300a) |
-| 11-23 19:34 | 2 | T | Analyst | Forget AT&T and Verizon: Crown Castle Has More to Lose From Starlink’s 40x Upgrade | [link](https://finnhub.io/api/news?id=7f23cd8bd8e7b2e4ce10c8e9a44423c69cf39920d5591ca1745309d69d2b300a) |
-| 11-23 17:36 | 1 | C | Up 4.1% (after-hours) | C +4.1% at 119.00 vs 114.35 close (after-hours, 16:45 ET) |  |
-| 11-23 17:36 | 1 | NVDA | Deal | Trump has a personal stake in Nvidia's future | [link](https://finnhub.io/api/news?id=85c4ae9dac0d5bb3dd55f5876f1d3e4566bf5b3a1ec98b53a27a216dc3d1df41) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-25 11:50 | 2 | CIEN | Down 8.2% (regular) | CIEN -8.2% at 219.68 vs 239.27 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 2 | DDOG | Down 8.5% (regular) | DDOG -8.5% at 151.26 vs 165.38 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 2 | HPQ | Up 10.4% (regular) | HPQ +10.4% at 30.85 vs 27.94 close (regular, 11:51 ET) |  |
+| 11-25 11:50 | 2 | INTC | Down 9.6% (regular) | INTC -9.6% at 49.55 vs 54.80 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 2 | MRVL | Down 9.8% (regular) | MRVL -9.8% at 118.66 vs 131.57 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 2 | PWR | Down 8.3% (regular) | PWR -8.3% at 540.99 vs 589.64 close (regular, 11:51 ET) |  |
+| 11-25 11:50 | 2 | SNDK | Down 28.5% (regular) | SNDK -28.5% at 67.49 vs 94.39 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 2 | STX | Down 9.7% (regular) | STX -9.7% at 435.84 vs 482.48 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 2 | WDC | Down 10.1% (regular) | WDC -10.1% at 246.25 vs 273.95 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 2 | FN | Down 8.1% (regular) | FN -8.1% at 266.67 vs 290.12 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 2 | FORM | Down 8.3% (regular) | FORM -8.3% at 67.22 vs 73.30 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 2 | NTNX | Down 19.8% (regular) | NTNX -19.8% at 43.76 vs 54.59 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 2 | VICR | Down 8.1% (regular) | VICR -8.1% at 115.40 vs 125.55 close (regular, 11:50 ET) |  |
+| 11-25 11:50 | 2 | NXST | 8-K: 5.02 Executive/director change | 8-K - NEXSTAR MEDIA GROUP, INC. (0001142417) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1142417/000119312526477077/0001193125-26-477077-index.htm) |
 | 11-25 09:43 | 2 | BE | Down 11.1% (regular) | BE -11.1% at 138.98 vs 156.41 close (regular, 09:40 ET) |  |
 | 11-25 09:43 | 2 | CIEN | Down 9.1% (regular) | CIEN -9.1% at 217.44 vs 239.27 close (regular, 09:40 ET) |  |
 | 11-25 09:43 | 2 | COHR | Down 9.2% (regular) | COHR -9.2% at 178.21 vs 196.24 close (regular, 09:40 ET) |  |
@@ -297,20 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-24 06:40 | 2 | SMTC | Down 13.2% (premarket) | SMTC -13.2% at 90.39 vs 104.13 close (premarket, 06:41 ET) |  |
 | 11-24 06:40 | 2 | DLTR | 8-K: 2.02 Earnings results | 8-K - DOLLAR TREE, INC. (0000935703) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/935703/000093570326000136/0000935703-26-000136-index.htm) |
 | 11-24 06:40 | 2 | TEX | 8-K: 1.01 Material agreement | 8-K - TEREX CORP (0000097216) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/97216/000110465926131293/0001104659-26-131293-index.htm) |
-| 11-24 05:28 | 2 | HPE | Down 10.7% (premarket) | HPE -10.7% at 42.87 vs 48.02 close (premarket, 05:25 ET) |  |
-| 11-24 05:28 | 2 | SMTC | Down 10.1% (premarket) | SMTC -10.1% at 93.65 vs 104.13 close (premarket, 05:00 ET) |  |
-| 11-24 04:08 | 2 | HPE | Down 8.9% (premarket) | HPE -8.9% at 43.76 vs 48.02 close (premarket, 04:05 ET) |  |
-| 11-24 04:08 | 2 | SNDK | Down 10.9% (premarket) | SNDK -10.9% at 84.12 vs 94.39 close (premarket, 04:05 ET) |  |
-| 11-24 04:08 | 2 | SMTC | Down 8.1% (premarket) | SMTC -8.1% at 95.73 vs 104.13 close (premarket, 04:05 ET) |  |
-| 11-23 17:36 | 2 | PINS | 8-K: 5.02 Executive/director change | 8-K - PINTEREST, INC. (0001506293) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1506293/000162828026075546/0001628280-26-075546-index.htm) |
-| 11-23 17:36 | 2 | TPL | 8-K: 1.01 Material agreement | 8-K - Texas Pacific Land Corp (0001811074) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1811074/000119312526472518/0001193125-26-472518-index.htm) |
-| 11-23 16:35 | 2 | SMTC | Down 8.5% (after-hours) | SMTC -8.5% at 95.33 vs 104.13 close (after-hours, 16:35 ET) |  |
-| 11-23 16:35 | 2 | GPK | 8-K: 5.02 Executive/director change | 8-K - GRAPHIC PACKAGING HOLDING CO (0001408075) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1408075/000119312526472429/0001193125-26-472429-index.htm) |
-| 11-23 16:35 | 2 | FTI | 8-K: 1.01 Material agreement | 8-K - TechnipFMC plc (0001681459) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1681459/000162828026075503/0001628280-26-075503-index.htm) |
-| 11-23 16:35 | 2 | INGR | 8-K: 5.02 Executive/director change | 8-K - Ingredion Inc (0001046257) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1046257/000104625726000270/0001046257-26-000270-index.htm) |
-| 11-23 16:35 | 2 | SMTC | 8-K: 2.02 Earnings results | 8-K - SEMTECH CORP (0000088941) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/88941/000008894126000045/0000088941-26-000045-index.htm) |
-| 11-23 16:35 | 2 | ED | 8-K: 5.02 Executive/director change | 8-K - CONSOLIDATED EDISON INC (0001047862) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1047862/000119312526472369/0001193125-26-472369-index.htm) |
-| 11-23 16:35 | 2 | J | 8-K: 2.02 Earnings results | 8-K - JACOBS SOLUTIONS INC. (0000052988) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/52988/000162828026075492/0001628280-26-075492-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
