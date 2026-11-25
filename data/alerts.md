@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-25 11:50 ET
+# Alerts — watcher run 2026-11-25 12:54 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,17 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-25 12:54 | 1 | ORCL | Down 5.2% (regular) | ORCL -5.2% at 103.77 vs 109.50 close (regular, 12:50 ET) |  |
+| 11-25 12:54 | 1 | AMD | Down 5.5% (regular) | AMD -5.5% at 390.42 vs 413.27 close (regular, 12:50 ET) |  |
+| 11-25 12:54 | 1 | ACN | Up 4.8% (regular) | ACN +4.8% at 243.41 vs 232.32 close (regular, 12:50 ET) |  |
+| 11-25 12:54 | 1 | MU | Down 8.9% (regular) | MU -8.9% at 573.84 vs 629.79 close (regular, 12:50 ET) |  |
+| 11-25 12:54 | 1 | LRCX | Down 8.6% (regular) | LRCX -8.6% at 179.28 vs 196.16 close (regular, 12:50 ET) |  |
+| 11-25 12:54 | 1 | ANET | Down 5.5% (regular) | ANET -5.5% at 159.24 vs 168.56 close (regular, 12:50 ET) |  |
+| 11-25 12:54 | 1 | DASH | Up 5.5% (regular) | DASH +5.5% at 168.98 vs 160.13 close (regular, 12:50 ET) |  |
+| 11-25 12:54 | 1 | TSM | Down 4.2% (regular) | TSM -4.2% at 334.45 vs 349.20 close (regular, 12:50 ET) |  |
+| 11-25 12:54 | 1 | ASML | Down 4.2% (regular) | ASML -4.2% at 1280.45 vs 1336.06 close (regular, 12:50 ET) |  |
+| 11-25 12:54 | 1 | BFLY | Down 4.1% (regular) | BFLY -4.1% at 5.37 vs 5.60 close (regular, 12:50 ET) |  |
+| 11-25 12:54 | 1 | ACHR | Up 4.5% (regular) | ACHR +4.5% at 3.01 vs 2.88 close (regular, 12:50 ET) |  |
 | 11-25 11:50 | 1 | TSLA | Down 5.6% (regular) | TSLA -5.6% at 363.28 vs 384.68 close (regular, 11:50 ET) |  |
 | 11-25 11:50 | 1 | AMD | Down 9.5% (regular) | AMD -9.5% at 373.80 vs 413.27 close (regular, 11:50 ET) |  |
 | 11-25 11:50 | 1 | QCOM | Down 4.3% (regular) | QCOM -4.3% at 157.93 vs 164.96 close (regular, 11:50 ET) |  |
@@ -145,22 +156,13 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-24 10:31 | 1 | NKE | Up 4.5% (regular) | NKE +4.5% at 35.29 vs 33.76 close (regular, 10:30 ET) |  |
 | 11-24 10:31 | 1 | COIN | Down 4.3% (regular) | COIN -4.3% at 104.08 vs 108.78 close (regular, 10:30 ET) |  |
 | 11-24 10:31 | 1 | TTWO | Up 5.3% (regular) | TTWO +5.3% at 220.47 vs 209.36 close (regular, 10:32 ET) |  |
-| 11-24 10:31 | 1 | RKLB | Down 9.0% (regular) | RKLB -9.0% at 45.15 vs 49.63 close (regular, 10:30 ET) |  |
-| 11-24 10:31 | 1 | SMCI | Down 7.7% (regular) | SMCI -7.7% at 22.65 vs 24.53 close (regular, 10:30 ET) |  |
-| 11-24 10:31 | 1 | ARM | Down 8.2% (regular) | ARM -8.2% at 162.23 vs 176.67 close (regular, 10:30 ET) |  |
-| 11-24 10:31 | 1 | TSM | Down 5.3% (regular) | TSM -5.3% at 344.39 vs 363.60 close (regular, 10:30 ET) |  |
-| 11-24 10:31 | 1 | FIX | Down 5.0% (regular) | FIX -5.0% at 1100.59 vs 1158.53 close (regular, 10:30 ET) |  |
-| 11-24 10:31 | 1 | SPCX | Down 5.7% (regular) | SPCX -5.7% at 125.69 vs 133.35 close (regular, 10:30 ET) |  |
-| 11-24 10:31 | 1 | SOUN | Down 7.8% (regular) | SOUN -7.8% at 2.67 vs 2.89 close (regular, 10:30 ET) |  |
-| 11-24 10:31 | 1 | ACHR | Down 7.7% (regular) | ACHR -7.7% at 2.84 vs 3.07 close (regular, 10:30 ET) |  |
-| 11-24 10:31 | 1 | OKLO | Down 7.8% (regular) | OKLO -7.8% at 19.15 vs 20.77 close (regular, 10:32 ET) |  |
-| 11-24 09:24 | 1 | ADI | Down 13.4% (premarket) | ADI -13.4% at 328.12 vs 378.75 close (premarket, 09:20 ET) |  |
-| 11-24 09:24 | 2 | NVDA | Analyst | IREN Fell 42% This Month Even After The Market Jump on NVIDIA News: This Wall Street Pro Maintains That 440% Returns Are Coming After Q3 Earnings Downgrades | [link](https://finnhub.io/api/news?id=103bbb99289cc517936a2122a85cbe3b9549582992d23cb34db63bb7dd1430f3) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-25 12:54 | 2 | NTNX | Down 17.5% (regular) | NTNX -17.5% at 45.03 vs 54.59 close (regular, 12:50 ET) |  |
+| 11-25 12:54 | 2 | RH | Up 8.0% (regular) | RH +8.0% at 111.74 vs 103.45 close (regular, 12:50 ET) |  |
 | 11-25 11:50 | 2 | CIEN | Down 8.2% (regular) | CIEN -8.2% at 219.68 vs 239.27 close (regular, 11:50 ET) |  |
 | 11-25 11:50 | 2 | DDOG | Down 8.5% (regular) | DDOG -8.5% at 151.26 vs 165.38 close (regular, 11:50 ET) |  |
 | 11-25 11:50 | 2 | HPQ | Up 10.4% (regular) | HPQ +10.4% at 30.85 vs 27.94 close (regular, 11:51 ET) |  |
@@ -309,13 +311,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-24 06:40 | 2 | DLTR | Up 12.3% (premarket) | DLTR +12.3% at 156.25 vs 139.10 close (premarket, 06:40 ET) |  |
 | 11-24 06:40 | 2 | SNDK | Down 12.4% (premarket) | SNDK -12.4% at 82.67 vs 94.39 close (premarket, 06:40 ET) |  |
 | 11-24 06:40 | 2 | SMTC | Down 13.2% (premarket) | SMTC -13.2% at 90.39 vs 104.13 close (premarket, 06:41 ET) |  |
-| 11-24 06:40 | 2 | DLTR | 8-K: 2.02 Earnings results | 8-K - DOLLAR TREE, INC. (0000935703) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/935703/000093570326000136/0000935703-26-000136-index.htm) |
-| 11-24 06:40 | 2 | TEX | 8-K: 1.01 Material agreement | 8-K - TEREX CORP (0000097216) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/97216/000110465926131293/0001104659-26-131293-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-25 12:54 | 2 | — | Market stress | Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return | [link](https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html) |
 | 11-25 07:04 | 2 | — | Inflation/jobs | Nasdaq futures slide over 2% as AI losses deepen; inflation data in focus - Reuters | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5) |
 | 11-23 10:07 | 2 | — | Market stress | Wall Street's 'Fear Gauge' just flashed a buy sign | [link](https://www.cnbc.com/2026/11/23/wall-streets-fear-gauge-just-flashed-a-buy-sign.html) |
 
