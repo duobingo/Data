@@ -1,21 +1,6 @@
 {
  "alerts": [
   {
-   "id": "cab026d2c49c1193",
-   "kind": "macro",
-   "group": "market",
-   "ticker": "",
-   "name": "",
-   "sector": "",
-   "severity": 2,
-   "category": "Market stress",
-   "title": "Five military officers injured in Jordan's helicopter crash, army says - Reuters",
-   "source": "Reuters",
-   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZlNsOHNTUlpqakhGa1lzZXpqM0Z0dXlSR1FoMG5McXIzUXQ0NWRLSHBpdTJBOHNzb2s4c2JCQ1p2aVZxd0xBMGtIYnRSUW90THB5Q1RGbjlXWlRMTXVwX2VhdXRZNmRCZlpTVEhLVEZ6N21tWlZlekxuRUY3YV80S3hCRzVkZDlPbkVpWG81ejl2N2dXQndWSjhMOUc3UjljZUswbVFSNWt4TndHX2dwYmVFbk9XYWxmLTlQblo0TDRFQklOSFpzMEExZw?oc=5",
-   "published": "2026-11-18 04:40",
-   "first_seen": "2026-11-18T05:44-05:00"
-  },
-  {
    "id": "4a5a53e4db025591",
    "kind": "price",
    "group": "tracked",
@@ -12936,8 +12921,64 @@
    "url": "",
    "move_pct": -12.13,
    "first_seen": "2026-11-25T04:54-05:00"
+  },
+  {
+   "id": "60160878fd8b4406",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "MU",
+   "name": "Micron Technology",
+   "sector": "Information Technology",
+   "severity": 1,
+   "category": "Down 5.4% (premarket)",
+   "title": "MU -5.4% at 595.60 vs 629.79 close (premarket, 06:00 ET)",
+   "url": "",
+   "move_pct": -5.43,
+   "first_seen": "2026-11-25T06:00-05:00"
+  },
+  {
+   "id": "e90688b5f3ab255a",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "PANW",
+   "name": "Palo Alto Networks",
+   "sector": "Information Technology",
+   "severity": 1,
+   "category": "Down 4.0% (premarket)",
+   "title": "PANW -4.0% at 338.86 vs 352.99 close (premarket, 05:56 ET)",
+   "url": "",
+   "move_pct": -4.0,
+   "first_seen": "2026-11-25T06:00-05:00"
+  },
+  {
+   "id": "7a6ded403d4faead",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "CRWD",
+   "name": "CrowdStrike",
+   "sector": "Information Technology",
+   "severity": 1,
+   "category": "Down 4.4% (premarket)",
+   "title": "CRWD -4.4% at 201.52 vs 210.86 close (premarket, 05:50 ET)",
+   "url": "",
+   "move_pct": -4.43,
+   "first_seen": "2026-11-25T06:00-05:00"
+  },
+  {
+   "id": "efe195e32b49c395",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "BFLY",
+   "name": "",
+   "sector": "",
+   "severity": 1,
+   "category": "Down 8.0% (premarket)",
+   "title": "BFLY -8.0% at 5.15 vs 5.60 close (premarket, 05:30 ET)",
+   "url": "",
+   "move_pct": -8.04,
+   "first_seen": "2026-11-25T06:00-05:00"
   }
  ],
- "last_run": "2026-11-25T04:54-05:00",
+ "last_run": "2026-11-25T06:00-05:00",
  "errors": []
 }

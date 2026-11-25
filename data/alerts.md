@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-25 04:54 ET
+# Alerts — watcher run 2026-11-25 06:00 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,10 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-25 06:00 | 1 | MU | Down 5.4% (premarket) | MU -5.4% at 595.60 vs 629.79 close (premarket, 06:00 ET) |  |
+| 11-25 06:00 | 1 | PANW | Down 4.0% (premarket) | PANW -4.0% at 338.86 vs 352.99 close (premarket, 05:56 ET) |  |
+| 11-25 06:00 | 1 | CRWD | Down 4.4% (premarket) | CRWD -4.4% at 201.52 vs 210.86 close (premarket, 05:50 ET) |  |
+| 11-25 06:00 | 1 | BFLY | Down 8.0% (premarket) | BFLY -8.0% at 5.15 vs 5.60 close (premarket, 05:30 ET) |  |
 | 11-25 04:54 | 1 | NVDA | Down 5.1% (premarket) | NVDA -5.1% at 147.42 vs 155.38 close (premarket, 04:50 ET) |  |
 | 11-25 04:54 | 1 | ORCL | Down 4.2% (premarket) | ORCL -4.2% at 104.90 vs 109.50 close (premarket, 04:50 ET) |  |
 | 11-25 04:54 | 1 | AMD | Down 5.7% (premarket) | AMD -5.7% at 389.60 vs 413.27 close (premarket, 04:50 ET) |  |
@@ -152,10 +156,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 10:07 | 1 | TXN | Up 11.8% (regular) | TXN +11.8% at 294.91 vs 263.75 close (regular, 10:05 ET) |  |
 | 11-23 10:07 | 1 | CAT | Up 6.9% (regular) | CAT +6.9% at 545.57 vs 510.45 close (regular, 10:05 ET) |  |
 | 11-23 10:07 | 1 | NOW | Up 4.8% (regular) | NOW +4.8% at 91.83 vs 87.61 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | GS | Up 4.3% (regular) | GS +4.3% at 825.01 vs 790.69 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | MS | Up 4.4% (regular) | MS +4.4% at 173.04 vs 165.67 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | ETN | Up 7.9% (regular) | ETN +7.9% at 335.89 vs 311.33 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | MU | Up 17.6% (regular) | MU +17.6% at 699.12 vs 594.51 close (regular, 10:05 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
