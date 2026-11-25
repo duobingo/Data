@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-25 16:59 ET
+# Alerts — watcher run 2026-11-25 17:58 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-25 17:58 | 2 | PANW | Legal/regulatory | Palo Alto Networks sued over alleged accounting fraud claims | [link](https://finnhub.io/api/news?id=ebe3fe358eb1ebafced9cf502229aada72d7564b0b52a2ac901b66bf0d3bea01) |
 | 11-25 16:59 | 1 | GS | Down 4.5% (after-hours) | GS -4.5% at 765.02 vs 801.03 close (after-hours, 16:40 ET) |  |
 | 11-25 16:59 | 1 | PANW | Down 5.1% (after-hours) | PANW -5.1% at 338.14 vs 356.14 close (after-hours, 16:55 ET) |  |
 | 11-25 16:59 | 1 | VRTX | Down 7.3% (after-hours) | VRTX -7.3% at 523.00 vs 564.12 close (after-hours, 16:50 ET) |  |
@@ -155,7 +156,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-24 10:31 | 1 | CRM | Up 4.7% (regular) | CRM +4.7% at 194.16 vs 185.46 close (regular, 10:32 ET) |  |
 | 11-24 10:31 | 1 | AMD | Down 9.7% (regular) | AMD -9.7% at 409.47 vs 453.46 close (regular, 10:30 ET) |  |
 | 11-24 10:31 | 1 | ACN | Up 5.1% (regular) | ACN +5.1% at 233.63 vs 222.29 close (regular, 10:30 ET) |  |
-| 11-24 10:31 | 1 | TXN | Down 8.9% (regular) | TXN -8.9% at 265.17 vs 291.19 close (regular, 10:30 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
