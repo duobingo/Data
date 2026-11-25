@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-25 07:04 ET
+# Alerts — watcher run 2026-11-25 08:27 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-25 08:27 | 1 | GOOGL | Down 4.2% (premarket) | GOOGL -4.2% at 267.21 vs 279.05 close (premarket, 08:25 ET) |  |
+| 11-25 08:27 | 1 | AVGO | Down 4.1% (premarket) | AVGO -4.1% at 288.67 vs 301.08 close (premarket, 08:25 ET) |  |
+| 11-25 08:27 | 1 | DE | Down 4.5% (premarket) | DE -4.5% at 586.12 vs 613.76 close (premarket, 08:25 ET) |  |
+| 11-25 08:27 | 1 | SNOW | Down 4.0% (premarket) | SNOW -4.0% at 260.20 vs 271.09 close (premarket, 08:10 ET) |  |
+| 11-25 08:27 | 1 | ARM | Down 5.8% (premarket) | ARM -5.8% at 152.26 vs 161.56 close (premarket, 08:25 ET) |  |
+| 11-25 08:27 | 1 | BFLY | Down 5.2% (premarket) | BFLY -5.2% at 5.31 vs 5.60 close (premarket, 07:35 ET) |  |
 | 11-25 07:04 | 1 | AMD | Down 6.7% (premarket) | AMD -6.7% at 385.57 vs 413.27 close (premarket, 07:05 ET) |  |
 | 11-25 07:04 | 1 | AMAT | Down 6.1% (premarket) | AMAT -6.1% at 304.00 vs 323.76 close (premarket, 07:00 ET) |  |
 | 11-25 07:04 | 1 | HOOD | Down 4.0% (premarket) | HOOD -4.0% at 63.01 vs 65.65 close (premarket, 07:00 ET) |  |
@@ -150,17 +156,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 11:16 | 1 | CEG | Up 5.9% (regular) | CEG +5.9% at 251.45 vs 237.41 close (regular, 11:15 ET) |  |
 | 11-23 11:16 | 1 | SPCX | Up 6.8% (regular) | SPCX +6.8% at 136.49 vs 127.79 close (regular, 11:15 ET) |  |
 | 11-23 11:16 | 1 | KKR | Up 4.8% (regular) | KKR +4.8% at 92.81 vs 88.54 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 1 | SOUN | Up 11.5% (regular) | SOUN +11.5% at 2.91 vs 2.61 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 1 | ACHR | Up 9.3% (regular) | ACHR +9.3% at 3.18 vs 2.91 close (regular, 11:15 ET) |  |
-| 11-23 11:16 | 1 | AMZN | Deal | Amazon agrees to buy Decart AI technology and team in reported $7.5 billion deal | [link](https://finnhub.io/api/news?id=cf8b6000dd1cbdc2e9584ba200dbaad9a7842ab72c9bd972a3001a451ab6ceb6) |
-| 11-23 11:16 | 1 | CRWD | Deal | Zscaler Jumps 21% as CrowdStrike Moves to Acquire It | [link](https://finnhub.io/api/news?id=450809b5f7353f177accc1a97a76657cb6e37125814a4ea1bdc52da37a0a6a3e) |
-| 11-23 10:07 | 1 | MSFT | Up 4.1% (regular) | MSFT +4.1% at 504.52 vs 484.52 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | NVDA | Up 32.7% (regular) | NVDA +32.7% at 166.61 vs 125.53 close (regular, 10:05 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-25 08:27 | 2 | FE | 8-K: 1.01 Material agreement | 8-K - FIRSTENERGY CORP (0001031296) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1031296/000119312526476850/0001193125-26-476850-index.htm) |
 | 11-25 04:54 | 2 | SNDK | Down 22.8% (premarket) | SNDK -22.8% at 72.90 vs 94.39 close (premarket, 04:55 ET) |  |
 | 11-25 04:54 | 2 | WDAY | Down 10.2% (premarket) | WDAY -10.2% at 161.00 vs 179.23 close (premarket, 04:25 ET) |  |
 | 11-25 04:54 | 2 | NTNX | Down 12.1% (premarket) | NTNX -12.1% at 47.97 vs 54.59 close (premarket, 04:40 ET) |  |
@@ -310,7 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 13:21 | 2 | FLS | Up 8.1% (regular) | FLS +8.1% at 82.91 vs 76.72 close (regular, 13:20 ET) |  |
 | 11-23 13:21 | 2 | PATH | Up 8.3% (regular) | PATH +8.3% at 11.86 vs 10.96 close (regular, 13:20 ET) |  |
 | 11-23 13:21 | 2 | WCC | Up 9.0% (regular) | WCC +9.0% at 307.48 vs 282.04 close (regular, 13:20 ET) |  |
-| 11-23 12:26 | 2 | NRG | Up 9.4% (regular) | NRG +9.4% at 96.02 vs 87.80 close (regular, 12:25 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
