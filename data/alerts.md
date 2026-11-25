@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-25 03:46 ET
+# Alerts — watcher run 2026-11-25 04:54 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,18 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-25 04:54 | 1 | NVDA | Down 5.1% (premarket) | NVDA -5.1% at 147.42 vs 155.38 close (premarket, 04:50 ET) |  |
+| 11-25 04:54 | 1 | ORCL | Down 4.2% (premarket) | ORCL -4.2% at 104.90 vs 109.50 close (premarket, 04:50 ET) |  |
+| 11-25 04:54 | 1 | AMD | Down 5.7% (premarket) | AMD -5.7% at 389.60 vs 413.27 close (premarket, 04:50 ET) |  |
+| 11-25 04:54 | 1 | MU | Down 6.0% (premarket) | MU -6.0% at 591.76 vs 629.79 close (premarket, 04:50 ET) |  |
+| 11-25 04:54 | 1 | LRCX | Down 4.7% (premarket) | LRCX -4.7% at 186.90 vs 196.16 close (premarket, 04:30 ET) |  |
+| 11-25 04:54 | 1 | AMAT | Down 5.1% (premarket) | AMAT -5.1% at 307.18 vs 323.76 close (premarket, 04:54 ET) |  |
+| 11-25 04:54 | 1 | KLAC | Down 5.5% (premarket) | KLAC -5.5% at 126.36 vs 133.65 close (premarket, 04:50 ET) |  |
+| 11-25 04:54 | 1 | ANET | Down 4.7% (premarket) | ANET -4.7% at 160.64 vs 168.56 close (premarket, 04:51 ET) |  |
+| 11-25 04:54 | 1 | PLTR | Down 4.1% (premarket) | PLTR -4.1% at 154.50 vs 161.18 close (premarket, 04:54 ET) |  |
+| 11-25 04:54 | 1 | SMCI | Down 4.2% (premarket) | SMCI -4.2% at 21.68 vs 22.62 close (premarket, 04:50 ET) |  |
+| 11-25 04:54 | 1 | ARM | Down 6.3% (premarket) | ARM -6.3% at 151.32 vs 161.56 close (premarket, 04:54 ET) |  |
+| 11-25 04:54 | 1 | FIX | Down 5.1% (premarket) | FIX -5.1% at 1041.00 vs 1096.56 close (premarket, 04:54 ET) |  |
 | 11-24 17:00 | 1 | QCOM | 8-K: 5.02 Executive/director change | 8-K - QUALCOMM INC/DE (0000804328) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/804328/000080432826000138/0000804328-26-000138-index.htm) |
 | 11-24 15:59 | 1 | ANET | Down 5.6% (regular) | ANET -5.6% at 168.39 vs 178.31 close (regular, 15:55 ET) |  |
 | 11-24 15:59 | 1 | MDT | Down 4.3% (regular) | MDT -4.3% at 96.35 vs 100.72 close (regular, 15:55 ET) |  |
@@ -144,23 +156,14 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 10:07 | 1 | MS | Up 4.4% (regular) | MS +4.4% at 173.04 vs 165.67 close (regular, 10:05 ET) |  |
 | 11-23 10:07 | 1 | ETN | Up 7.9% (regular) | ETN +7.9% at 335.89 vs 311.33 close (regular, 10:05 ET) |  |
 | 11-23 10:07 | 1 | MU | Up 17.6% (regular) | MU +17.6% at 699.12 vs 594.51 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | LRCX | Up 15.0% (regular) | LRCX +15.0% at 210.73 vs 183.27 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | AMAT | Up 13.3% (regular) | AMAT +13.3% at 342.95 vs 302.63 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | KLAC | Up 12.5% (regular) | KLAC +12.5% at 142.70 vs 126.87 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | PANW | Up 4.4% (regular) | PANW +4.4% at 358.36 vs 343.32 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | ANET | Up 9.2% (regular) | ANET +9.2% at 182.99 vs 167.62 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | ADI | Up 10.4% (regular) | ADI +10.4% at 381.79 vs 345.92 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | PLTR | Up 10.1% (regular) | PLTR +10.1% at 158.03 vs 143.49 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | CRWD | Down 10.0% (regular) | CRWD -10.0% at 206.56 vs 229.44 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | SNOW | Up 7.4% (regular) | SNOW +7.4% at 273.73 vs 254.82 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | SHOP | Up 8.3% (regular) | SHOP +8.3% at 133.98 vs 123.72 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | HOOD | Up 10.2% (regular) | HOOD +10.2% at 68.53 vs 62.17 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | SOFI | Up 8.5% (regular) | SOFI +8.5% at 13.55 vs 12.48 close (regular, 10:05 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-25 04:54 | 2 | SNDK | Down 22.8% (premarket) | SNDK -22.8% at 72.90 vs 94.39 close (premarket, 04:55 ET) |  |
+| 11-25 04:54 | 2 | WDAY | Down 10.2% (premarket) | WDAY -10.2% at 161.00 vs 179.23 close (premarket, 04:25 ET) |  |
+| 11-25 04:54 | 2 | NTNX | Down 12.1% (premarket) | NTNX -12.1% at 47.97 vs 54.59 close (premarket, 04:40 ET) |  |
 | 11-24 18:52 | 2 | NTNX | Down 8.6% (after-hours) | NTNX -8.6% at 49.91 vs 54.59 close (after-hours, 18:40 ET) |  |
 | 11-24 18:52 | 2 | OC | Down 10.9% (after-hours) | OC -10.9% at 103.19 vs 115.87 close (after-hours, 18:20 ET) |  |
 | 11-24 17:59 | 2 | NVST | 8-K: 1.01 Material agreement | 8-K - Envista Holdings Corp (0001757073) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1757073/000121390026123771/0001213900-26-123771-index.htm) |
@@ -308,9 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 13:21 | 2 | PATH | Up 8.3% (regular) | PATH +8.3% at 11.86 vs 10.96 close (regular, 13:20 ET) |  |
 | 11-23 13:21 | 2 | WCC | Up 9.0% (regular) | WCC +9.0% at 307.48 vs 282.04 close (regular, 13:20 ET) |  |
 | 11-23 12:26 | 2 | NRG | Up 9.4% (regular) | NRG +9.4% at 96.02 vs 87.80 close (regular, 12:25 ET) |  |
-| 11-23 12:26 | 2 | NXPI | Up 8.5% (regular) | NXPI +8.5% at 255.07 vs 235.15 close (regular, 12:25 ET) |  |
-| 11-23 12:26 | 2 | STX | Up 14.1% (regular) | STX +14.1% at 521.44 vs 457.01 close (regular, 12:25 ET) |  |
-| 11-23 12:26 | 2 | TER | Up 13.7% (regular) | TER +13.7% at 232.92 vs 204.78 close (regular, 12:25 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
