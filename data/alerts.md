@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-25 16:00 ET
+# Alerts — watcher run 2026-11-25 16:59 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,10 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-25 16:59 | 1 | GS | Down 4.5% (after-hours) | GS -4.5% at 765.02 vs 801.03 close (after-hours, 16:40 ET) |  |
+| 11-25 16:59 | 1 | PANW | Down 5.1% (after-hours) | PANW -5.1% at 338.14 vs 356.14 close (after-hours, 16:55 ET) |  |
+| 11-25 16:59 | 1 | VRTX | Down 7.3% (after-hours) | VRTX -7.3% at 523.00 vs 564.12 close (after-hours, 16:50 ET) |  |
+| 11-25 16:59 | 1 | AXP | 8-K: 5.02 Executive/director change | 8-K - AMERICAN EXPRESS CO (0000004962) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/4962/000000496226000440/0000004962-26-000440-index.htm) |
 | 11-25 15:00 | 1 | MU | Down 5.0% (regular) | MU -5.0% at 598.40 vs 629.79 close (regular, 15:00 ET) |  |
 | 11-25 13:55 | 1 | NVDA | Down 4.6% (regular) | NVDA -4.6% at 148.21 vs 155.38 close (regular, 13:55 ET) |  |
 | 11-25 13:55 | 1 | IBM | Up 4.3% (regular) | IBM +4.3% at 245.74 vs 235.62 close (regular, 13:55 ET) |  |
@@ -152,15 +156,15 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-24 10:31 | 1 | AMD | Down 9.7% (regular) | AMD -9.7% at 409.47 vs 453.46 close (regular, 10:30 ET) |  |
 | 11-24 10:31 | 1 | ACN | Up 5.1% (regular) | ACN +5.1% at 233.63 vs 222.29 close (regular, 10:30 ET) |  |
 | 11-24 10:31 | 1 | TXN | Down 8.9% (regular) | TXN -8.9% at 265.17 vs 291.19 close (regular, 10:30 ET) |  |
-| 11-24 10:31 | 1 | INTU | Up 4.6% (regular) | INTU +4.6% at 288.02 vs 275.46 close (regular, 10:30 ET) |  |
-| 11-24 10:31 | 1 | ETN | Down 4.6% (regular) | ETN -4.6% at 321.03 vs 336.34 close (regular, 10:30 ET) |  |
-| 11-24 10:31 | 1 | MU | Down 10.1% (regular) | MU -10.1% at 636.37 vs 707.70 close (regular, 10:30 ET) |  |
-| 11-24 10:31 | 1 | LRCX | Down 6.9% (regular) | LRCX -6.9% at 195.32 vs 209.76 close (regular, 10:30 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-25 16:59 | 2 | NXPI | 8-K: 1.01 Material agreement | 8-K - NXP Semiconductors N.V. (0001413447) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1413447/000119312526478623/0001193125-26-478623-index.htm) |
+| 11-25 16:59 | 2 | AXON | 8-K: 5.02 Executive/director change | 8-K - AXON ENTERPRISE, INC. (0001069183) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1069183/000162828026075976/0001628280-26-075976-index.htm) |
+| 11-25 16:59 | 2 | AMT | 8-K: 1.01 Material agreement | 8-K - AMERICAN TOWER CORP /MA/ (0001053507) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1053507/000119312526478472/0001193125-26-478472-index.htm) |
+| 11-25 16:59 | 2 | MDLZ | 8-K: 5.02 Executive/director change | 8-K - Mondelez International, Inc. (0001103982) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1103982/000162828026075952/0001628280-26-075952-index.htm) |
 | 11-25 15:00 | 2 | CAR | Up 8.1% (regular) | CAR +8.1% at 139.83 vs 129.38 close (regular, 15:00 ET) |  |
 | 11-25 15:00 | 2 | NTNX | Down 14.9% (regular) | NTNX -14.9% at 46.44 vs 54.59 close (regular, 15:00 ET) |  |
 | 11-25 13:55 | 2 | AXON | Up 8.1% (regular) | AXON +8.1% at 345.26 vs 319.32 close (regular, 13:55 ET) |  |
@@ -307,10 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-24 09:24 | 2 | SOLV | 8-K: 5.02 Executive/director change | 8-K - Solventum Corp (0001964738) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1964738/000196473826000061/0001964738-26-000061-index.htm) |
 | 11-24 07:49 | 2 | ANF | Up 11.8% (premarket) | ANF +11.8% at 157.00 vs 140.45 close (premarket, 07:45 ET) |  |
 | 11-24 07:49 | 2 | DKS | Up 18.1% (premarket) | DKS +18.1% at 157.87 vs 133.67 close (premarket, 07:45 ET) |  |
-| 11-24 07:49 | 2 | ANF | 8-K: 2.02 Earnings results | 8-K - ABERCROMBIE & FITCH CO /DE/ (0001018840) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1018840/000101884026000052/0001018840-26-000052-index.htm) |
-| 11-24 07:49 | 2 | SJM | 8-K: 2.02 Earnings results | 8-K - J M SMUCKER Co (0000091419) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/91419/000009141926000110/0000091419-26-000110-index.htm) |
-| 11-24 07:49 | 2 | DY | 8-K: 2.02 Earnings results | 8-K - DYCOM INDUSTRIES INC (0000067215) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/67215/000006721526000048/0000067215-26-000048-index.htm) |
-| 11-24 07:49 | 2 | DKS | 8-K: 2.02 Earnings results | 8-K - DICK'S SPORTING GOODS, INC. (0001089063) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1089063/000108906326000039/0001089063-26-000039-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
