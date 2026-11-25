@@ -1,7 +1,7 @@
 {
  "mode": "close",
- "generated_utc": "2026-11-25 21:32",
- "generated_et": "2026-11-25 16:32",
+ "generated_utc": "2026-11-25 21:50",
+ "generated_et": "2026-11-25 16:50",
  "since": "2026-11-23",
  "prices": {
   "AAPL": {
@@ -2858,6 +2858,24 @@
    {
     "form": "424B2",
     "date": "2026-11-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026124206/ea0313610-01_424b2.htm",
+    "description": "PRICING SUPPLEMENT"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026124204/ea0313589-01_424b2.htm",
+    "description": "PRICING SUPPLEMENT"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000191870426037055/form424b2.htm",
+    "description": "PRELIMINARY PRICING SUPPLEMENT"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-25",
     "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026124199/ea0313599-01_424b2.htm",
     "description": "PRELIMINARY PRICING SUPPLEMENT"
    },
@@ -5275,6 +5293,54 @@
    {
     "form": "424B2",
     "date": "2026-11-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426037065/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426037063/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426037062/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426037060/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426037059/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426037058/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426037057/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426037056/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-25",
     "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426037052/form424b2.htm",
     "description": "424B2"
    },
@@ -7210,6 +7276,12 @@
    {
     "form": "424B2",
     "date": "2026-11-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526478578/mofca757_prelim.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-25",
     "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526478545/gs-20261125.htm",
     "description": "424B2"
    },
@@ -8526,6 +8598,12 @@
    {
     "form": "424B2",
     "date": "2026-11-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226058143/ms20169_424b2-39934.htm",
+    "description": "PRELIMINARY PRICING SUPPLEMENT NO. 20,169"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-25",
     "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226058114/ms20104_424b2-39922.htm",
     "description": "PRICING SUPPLEMENT NO. 20,104"
    },
@@ -8997,7 +9075,14 @@
     ]
    }
   ],
-  "LOW": [],
+  "LOW": [
+   {
+    "form": "10-Q",
+    "date": "2026-11-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/60667/000006066726000130/low-20261030.htm",
+    "description": "FORM 10-Q"
+   }
+  ],
   "HON": [],
   "UNP": [],
   "BLK": [],
@@ -10062,6 +10147,12 @@
    }
   ],
   "C": [
+   {
+    "form": "424B2",
+    "date": "2026-11-25",
+    "url": "https://www.sec.gov/Archives/edgar/data/831001/000191870426037061/form424b2.htm",
+    "description": "PRELIMINARY PRICING SUPPLEMENT"
+   },
    {
     "form": "424B2",
     "date": "2026-11-25",
@@ -18774,6 +18865,12 @@
    },
    "news": [
     {
+     "time": "11-25 16:20",
+     "source": "Fintel",
+     "headline": "Deere & Company Reports Net Income of $1.051 Billion for Fourth Quarter, $4.860 Billion for Fiscal Year",
+     "url": "https://finnhub.io/api/news?id=82582e9f4c9c1e06d4f9dd423bc5bd1c9ff11a9adbd7edf473a4b61f057f38da"
+    },
+    {
      "time": "11-25 13:45",
      "source": "Yahoo",
      "headline": "Why Is Deere (DE) Stock Up Today? Q4 Results and Strong Early Orders",
@@ -18802,12 +18899,6 @@
      "source": "Yahoo",
      "headline": "Deere & Company Q4 Earnings Call Highlights",
      "url": "https://finnhub.io/api/news?id=2c8ebfebf4ab7f1c23b5c1dfea202ec8e66ea19ce31733524af5507e7d90d692"
-    },
-    {
-     "time": "11-25 12:54",
-     "source": "Yahoo",
-     "headline": "Deere Stock Rises, Defying Weak Earnings Guidance",
-     "url": "https://finnhub.io/api/news?id=c8dc03e1f90ff1e96e68d80992f9a710ac9d3c5ad6ce47ca023402b55d6158dc"
     }
    ]
   },
@@ -20481,21 +20572,7 @@
     "netProfitMarginTTM": 14.27,
     "beta": 0.48600942,
     "marketCapitalization": 76539.516
-   },
-   "news": [
-    {
-     "time": "11-25 07:30",
-     "source": "Yahoo",
-     "headline": "If You Invested $1000 in O'Reilly Automotive a Decade Ago, This is How Much It'd Be Worth Now",
-     "url": "https://finnhub.io/api/news?id=e43eb49cbc939d632b40912fae715069785bd7950dd48c645e1d8f81fffe3c2e"
-    },
-    {
-     "time": "11-24 14:30",
-     "source": "Benzinga",
-     "headline": "If You Invested $100 In O'Reilly Automotive Stock 15 Years Ago, You Would Have This Much Today",
-     "url": "https://finnhub.io/api/news?id=fb6a48d22137dbefa2bb50b6dc5e34179641a42002d3c64b39672cd291721d81"
-    }
-   ]
+   }
   },
   "MCK": {
    "next_earnings": {
@@ -20673,6 +20750,12 @@
    },
    "news": [
     {
+     "time": "11-25 11:44",
+     "source": "SeekingAlpha",
+     "headline": "CrowdStrike: Ticking The Top With Zscaler Deal",
+     "url": "https://finnhub.io/api/news?id=8fd03032c9b813191c5dc4a950628da80152f2c816f06ef7b613f09aaa802311"
+    },
+    {
      "time": "11-25 08:05",
      "source": "Yahoo",
      "headline": "CrowdStrike Sees a Path to the \u201cLargest AI Safety and Security Company\u201d Ever. Zscaler Must Deliver $1 Billion of Synergies",
@@ -20701,12 +20784,6 @@
      "source": "SeekingAlpha",
      "headline": "CrowdStrike: An Interesting And Large Tie-Up With Zscaler",
      "url": "https://finnhub.io/api/news?id=6e45c459c44f2d49882206637a6d7ff1a0b095b2a0cafe7f2acb71b499ec44b9"
-    },
-    {
-     "time": "11-24 23:32",
-     "source": "Yahoo",
-     "headline": "CrowdStrike: 3 Key Takeaways for Long-Term Investors",
-     "url": "https://finnhub.io/api/news?id=21864d92a8874b77a90933b5c8edc7b4e6bc51c8b499ce7b07cddbb2628e015c"
     }
    ]
   },
@@ -21180,16 +21257,6 @@
     "rev_actual": 1601300000,
     "rev_est": 1609635531
    },
-   "analysts": {
-    "period": "2026-11-01",
-    "strongBuy": 12,
-    "buy": 24,
-    "hold": 3,
-    "sell": 0,
-    "strongSell": 0,
-    "buy_change_vs_prior_month": 0,
-    "sell_change_vs_prior_month": 0
-   },
    "metrics": {
     "psTTM": 6.469,
     "pbAnnual": 10.4167,
@@ -21199,45 +21266,7 @@
     "netProfitMarginTTM": -3.75,
     "beta": 0.8134812,
     "marketCapitalization": 41464.453
-   },
-   "news": [
-    {
-     "time": "11-25 08:04",
-     "source": "Yahoo",
-     "headline": "Did Take-Two Stock Beat A Falling Market?",
-     "url": "https://finnhub.io/api/news?id=f64c994a3d2e0c7b9e28e4b6d6782a401ae9ff14108580599f03fc415a0a1d70"
-    },
-    {
-     "time": "11-24 11:05",
-     "source": "Yahoo",
-     "headline": "Grand Theft Auto VI Is Finally Here. Is Take-Two Stock a Buy?",
-     "url": "https://finnhub.io/api/news?id=fbb4afff427eb4234733c085fbd2691949bba638f1746ba52307faf60814d0fc"
-    },
-    {
-     "time": "11-24 11:01",
-     "source": "Yahoo",
-     "headline": "Take-Two Interactive (TTWO) Stock Is Up 4.6% Today Without Company News",
-     "url": "https://finnhub.io/api/news?id=512934820f2f46f8f77c49af956a9be7cb966cc625541e7c99bd4724e7c39c0c"
-    },
-    {
-     "time": "11-23 22:47",
-     "source": "Yahoo",
-     "headline": "GTA 6 broke every record, and Take-Two's real test starts now",
-     "url": "https://finnhub.io/api/news?id=3602d2b239c8466221f5827e28cb23aebf210151aef65e65c13dd69138799644"
-    },
-    {
-     "time": "11-23 18:33",
-     "source": "Yahoo",
-     "headline": "S&P 500, Nasdaq End Best Session Since April Last Year On Optimism Led By Jensen Huang\u2019s Reinstatement \u2014 NVDA, NASA, TTWO, AMZN In Focus",
-     "url": "https://finnhub.io/api/news?id=ddb2d770f30059adbbc65d86ade40edd6805413fc599edc8859f2a43f266c7db"
-    },
-    {
-     "time": "11-23 14:28",
-     "source": "Yahoo",
-     "headline": "GTA VI Broke Every Record in 24 Hours, So Why Did Take-Two Shareholders Sell?",
-     "url": "https://finnhub.io/api/news?id=88a8b2719b785cbd0bb4bf6ab7103f8eba6146ca9d5e2d82b5c6f9b532e3763c"
-    }
-   ]
+   }
   },
   "RBLX": {
    "next_earnings": {
@@ -21883,16 +21912,6 @@
     "eps_est": 33.48,
     "rev_est": 1718656238185
    },
-   "analysts": {
-    "period": "2026-11-01",
-    "strongBuy": 12,
-    "buy": 28,
-    "hold": 2,
-    "sell": 0,
-    "strongSell": 0,
-    "buy_change_vs_prior_month": 0,
-    "sell_change_vs_prior_month": 0
-   },
    "metrics": {
     "peTTM": 22.6973,
     "peExclExtraTTM": 22.6973,
@@ -21905,45 +21924,7 @@
     "netProfitMarginTTM": 51.53,
     "beta": 0.90231615,
     "marketCapitalization": 57829184
-   },
-   "news": [
-    {
-     "time": "11-25 07:18",
-     "source": "Fintel",
-     "headline": "Taiwan Semiconductor Manufacturing Company Limited Reports Monthly Operational Activities for October 2026",
-     "url": "https://finnhub.io/api/news?id=6473a32e675b7aacc9659f93c3170f5b5968e15c8f44dae1e9c76e4cae12c4ef"
-    },
-    {
-     "time": "11-25 06:39",
-     "source": "Fintel",
-     "headline": "Taiwan Semiconductor Manufacturing Company Limited Announces Adjustment to Cash Dividend Per Share",
-     "url": "https://finnhub.io/api/news?id=d4a0a213e02ac618665ca8085340974c594eb4601d4e35087c0b4b91656b5f8b"
-    },
-    {
-     "time": "11-25 05:28",
-     "source": "Benzinga",
-     "headline": "TSMC Has a 'Substantially Wider Moat' Than Nvidia, Says Investor Joseph Carlson",
-     "url": "https://finnhub.io/api/news?id=57a0e64dc8e6195b868f991f408d13ef6a20f7d0fc5e29817e6e47801282a495"
-    },
-    {
-     "time": "11-25 04:39",
-     "source": "Benzinga",
-     "headline": "Jim Cramer Backs DuPont, Says Buy Nvidia",
-     "url": "https://finnhub.io/api/news?id=9ad99d5a7b2867abf1e97936d136eb97ea8320e4c29ea01f2161541d6fa723bf"
-    },
-    {
-     "time": "11-25 02:16",
-     "source": "Benzinga",
-     "headline": "What Is Going on With AMD Stock on Wednesday?",
-     "url": "https://finnhub.io/api/news?id=3f027d543ea75047a06022dfeb4cdca2f6e892da174656105b165ff79877aa67"
-    },
-    {
-     "time": "11-24 23:10",
-     "source": "SeekingAlpha",
-     "headline": "TSMC: AI Kingmaker Trading At A Bargain Price",
-     "url": "https://finnhub.io/api/news?id=e18527b6ab2a9b1b063c442439d4a928d39227e425adf1015cc4e2b4e709c9da"
-    }
-   ]
+   }
   },
   "ASML": {
    "next_earnings": {
@@ -22620,23 +22601,6 @@
    ]
   },
   "BX": {
-   "next_earnings": {
-    "date": "2027-01-27",
-    "hour": "amc",
-    "quarter": "2026Q4",
-    "eps_est": 1.79,
-    "rev_est": 4458205392
-   },
-   "analysts": {
-    "period": "2026-11-01",
-    "strongBuy": 7,
-    "buy": 14,
-    "hold": 12,
-    "sell": 0,
-    "strongSell": 0,
-    "buy_change_vs_prior_month": 0,
-    "sell_change_vs_prior_month": 0
-   },
    "metrics": {
     "peTTM": 40.9897,
     "peExclExtraTTM": 40.9897,
@@ -23889,12 +23853,6 @@
    "quarter": "2026Q4",
    "eps_est": 4.06,
    "days_of_history": 4
-  },
-  "BX": {
-   "quarter": "2026Q4",
-   "eps_est": 1.79,
-   "days_of_history": 9,
-   "eps_rev_7d_pct": 1.13
   },
   "KKR": {
    "quarter": "2026Q4",
@@ -25287,9 +25245,9 @@
    "fwd_pe": 11.664253,
    "ttm_pe": 10.34596,
    "peg": 0.46,
-   "target_mean": 45.721237,
-   "target_low": 39.389576,
-   "target_high": 64.0081,
+   "target_mean": 45.733936,
+   "target_low": 39.400517,
+   "target_high": 64.02587,
    "rating": "hold",
    "n_analysts": 12,
    "short_pct": 0.0128
@@ -25552,5 +25510,13 @@
    "short_pct": 0.2336
   }
  },
- "errors": []
+ "errors": [
+  "finnhub/news/ORLY: HTTP 429 https://finnhub.io/api/v1/company-news",
+  "finnhub/recs/TTWO: HTTP 429 https://finnhub.io/api/v1/stock/recommendation",
+  "finnhub/news/TTWO: HTTP 429 https://finnhub.io/api/v1/company-news",
+  "finnhub/recs/TSM: HTTP 429 https://finnhub.io/api/v1/stock/recommendation",
+  "finnhub/news/TSM: HTTP 429 https://finnhub.io/api/v1/company-news",
+  "finnhub/earnings/BX: HTTP 429 https://finnhub.io/api/v1/calendar/earnings",
+  "finnhub/recs/BX: HTTP 429 https://finnhub.io/api/v1/stock/recommendation"
+ ]
 }

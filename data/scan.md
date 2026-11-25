@@ -1,4 +1,4 @@
-# Short-term scan — 2026-11-25 16:48 ET
+# Short-term scan — 2026-11-25 17:07 ET
 Universe: S&P 500 + S&P 400 (903 names, 909 priced). Filters: price ≥ $10, avg daily dollar volume ≥ $20M, no semiconductors, no names from the tracked list. These are candidates; check news, catalysts and the trading rules before proposing a trade.
 
 ## Market regime
@@ -7,7 +7,7 @@ Universe: S&P 500 + S&P 400 (903 names, 909 priced). Filters: price ≥ $10, avg
 ## 1. Earnings reactions (beat EPS and revenue, jumped ≥4% on ≥2× volume, still above the reaction-day low and within 5% of the reaction-day close)
 | Ticker | Company | Reported | Reaction day | Reaction % | Gap % | Vol × | EPS surprise % | Rev surprise % | Since % | Reaction-day low | Close |
 |---|---|---|---|---|---|---|---|---|---|---|---|
-| HPQ | HP Inc. · Information Technology | 2026-11-24 amc | 2026-11-25 | 11.49 | 7.19 | 2.85 | 9.80 | 2.50 | 0.0 | 29.7 | 31.15 |
+| HPQ | HP Inc. · Information Technology | 2026-11-24 amc | 2026-11-25 | 11.49 | 7.19 | 2.86 | 9.80 | 2.50 | 0.0 | 29.7 | 31.15 |
 
 ## 2. Breakouts (new 52-week high on ≥1.8× volume, closed near the high, above 50- and 200-day)
 | Ticker | Company | Close | Day % | Vol × | 1m % | 3m % | RSI | ATR | Day low |
@@ -68,30 +68,30 @@ How to use: for each loser, find the reason. If it's fear, a sector selloff or a
 **Losers**
 | Ticker | Company | Day % | Gap % | Vol × | 1m % | From 52w high % | RSI | vs 200-day % | Flags |
 |---|---|---|---|---|---|---|---|---|---|
-| SNDK | Sandisk · Information Technology | -22.02 | -24.45 | 1.45 | -53.30 | -75.00 | 24.1 | -54.19 |  |
+| SNDK | Sandisk · Information Technology | -22.02 | -24.45 | 1.46 | -53.30 | -75.00 | 24.1 | -54.19 |  |
 | NTNX | Nutanix · Information Technology | -15.19 | -16.2 | 5.36 | -36.35 | -39.10 | 23.0 | -14.20 |  |
-| LRCX | Lam Research · Information Technology | -5.68 | -6.8 | 1.76 | -23.18 | -57.80 | 35.9 | -34.60 | Tracked, Semi |
-| ORCL | Oracle Corporation · Information Technology | -5.13 | -5.72 | 1.07 | -20.42 | -58.50 | 37.7 | -31.86 | Tracked |
-| MU | Micron Technology · Information Technology | -4.53 | -8.71 | 1.73 | -35.26 | -52.10 | 35.7 | -22.57 | Tracked, Semi |
+| LRCX | Lam Research · Information Technology | -5.68 | -6.8 | 1.79 | -23.18 | -57.80 | 35.9 | -34.60 | Tracked, Semi |
+| ORCL | Oracle Corporation · Information Technology | -5.13 | -5.72 | 1.09 | -20.42 | -58.50 | 37.7 | -31.86 | Tracked |
+| MU | Micron Technology · Information Technology | -4.53 | -8.71 | 1.74 | -35.26 | -52.10 | 35.7 | -22.57 | Tracked, Semi |
 | BRKR | Bruker · Health Care | -4.47 | -3.81 | 1.03 | -6.75 | -17.90 | 44.6 | 9.94 |  |
-| DDOG | Datadog · Information Technology | -4.31 | -4.31 | 1.5 | -43.65 | -47.40 | 29.9 | -22.12 |  |
-| J | Jacobs Solutions · Industrials | -4.27 | -1.88 | 2.07 | -1.92 | -10.20 | 41.8 | 7.61 |  |
+| DDOG | Datadog · Information Technology | -4.31 | -4.31 | 1.51 | -43.65 | -47.40 | 29.9 | -22.12 |  |
+| J | Jacobs Solutions · Industrials | -4.27 | -1.88 | 2.14 | -1.92 | -10.20 | 41.8 | 7.61 |  |
 | PWR | Quanta Services · Industrials | -4.1 | -3.58 | 1.85 | -2.31 | -28.30 | 44.5 | -11.11 |  |
 | WST | West Pharmaceutical Services · Health Care | -4.07 | -1.45 | 1.7 | -6.36 | -14.90 | 35.9 | 13.78 |  |
 
 **Gainers**
 | Ticker | Company | Day % | Gap % | Vol × | 1m % | From 52w high % | RSI | vs 200-day % | Flags |
 |---|---|---|---|---|---|---|---|---|---|
-| HPQ | HP Inc. · Information Technology | 11.49 | 7.19 | 2.85 | -7.24 | -14.00 | 57.4 | 22.83 |  |
+| HPQ | HP Inc. · Information Technology | 11.49 | 7.19 | 2.86 | -7.24 | -14.00 | 57.4 | 22.83 |  |
 | CAR | Avis Budget Group · Industrials | 9.62 | -0.29 | 1.34 | 38.75 | -83.30 | 74.7 | -7.91 |  |
 | RH | RH · Consumer Discretionary | 8.67 | -2.72 | 1.3 | -20.13 | -53.00 | 40.6 | -22.69 |  |
 | CHTR | Charter Communications · Communication Services | 8.39 | 0.26 | 1.21 | 40.35 | -42.00 | 67.5 | -6.89 |  |
 | CNH | CNH Industrial · Industrials | 8.0 | -2.64 | 1.58 | 6.64 | -17.80 | 52.6 | 4.58 |  |
 | KNF | Knife River Corporation · Materials | 7.77 | -0.96 | 0.56 | -2.10 | -44.20 | 49.1 | -25.86 |  |
 | SMTC | Semtech · Information Technology | 7.48 | -6.8 | 1.19 | -35.62 | -54.00 | 39.6 | -26.98 | Semi |
-| AXON | Axon Enterprise · Industrials | 7.43 | -2.72 | 1.5 | -19.45 | -48.40 | 47.6 | -25.61 |  |
+| AXON | Axon Enterprise · Industrials | 7.43 | -2.61 | 1.5 | -19.45 | -48.40 | 47.6 | -25.61 |  |
 | FND | Floor & Decor · Consumer Discretionary | 7.07 | 0.79 | 1.47 | 6.70 | -33.40 | 57.8 | -2.07 |  |
-| CDW | CDW Corporation · Information Technology | 6.59 | -2.11 | 0.99 | 8.40 | -0.40 | 59.4 | 28.47 |  |
+| CDW | CDW Corporation · Information Technology | 6.59 | -2.11 | 1.0 | 8.40 | -0.40 | 59.4 | 28.47 |  |
 
 ## Data quality
 - insider: index 2026-11-25: 403 Client Error: Forbidden for url: https://www.sec.gov/Archives/edgar/daily-index/2026/QTR4/form.20261125.idx

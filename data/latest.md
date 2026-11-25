@@ -1,10 +1,16 @@
 # Trading desk data — close pull
-Generated 2026-11-25 16:32 ET (2026-11-25 21:32 UTC). Filings/news since 2026-11-23.
+Generated 2026-11-25 16:50 ET (2026-11-25 21:50 UTC). Filings/news since 2026-11-23.
 
 Use these numbers as the price source. A price marked ✓ matched two sources (Yahoo + Finnhub) within 0.5%; ✗ means single-source — label orders based on it UNVERIFIED PRICE.
 
 ## Data quality
-- All sources returned data.
+- finnhub/news/ORLY: HTTP 429 https://finnhub.io/api/v1/company-news
+- finnhub/recs/TTWO: HTTP 429 https://finnhub.io/api/v1/stock/recommendation
+- finnhub/news/TTWO: HTTP 429 https://finnhub.io/api/v1/company-news
+- finnhub/recs/TSM: HTTP 429 https://finnhub.io/api/v1/stock/recommendation
+- finnhub/news/TSM: HTTP 429 https://finnhub.io/api/v1/company-news
+- finnhub/earnings/BX: HTTP 429 https://finnhub.io/api/v1/calendar/earnings
+- finnhub/recs/BX: HTTP 429 https://finnhub.io/api/v1/stock/recommendation
 
 ## Prices
 | Group | Ticker | Close date | Close | ✓ | Day % | 5d % | 1m % | 3m % | From 52w high % | Vol vs 20d |
@@ -153,6 +159,9 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 - **GOOGL** 8-K (2026-11-24) — 8.01 Other events; 9.01 Exhibits — [filing](https://www.sec.gov/Archives/edgar/data/1652044/000119312526475973/d91615d8k.htm)
 - **GOOGL** 424B2 (2026-11-23) — [filing](https://www.sec.gov/Archives/edgar/data/1652044/000119312526470750/d115240d424b2.htm)
 - **META** 8-K (2026-11-23) — 8.01 Other events — [filing](https://www.sec.gov/Archives/edgar/data/1326801/000162828026075541/meta-20261118.htm)
+- **JPM** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/19617/000121390026124206/ea0313610-01_424b2.htm)
+- **JPM** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/19617/000121390026124204/ea0313589-01_424b2.htm)
+- **JPM** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/19617/000191870426037055/form424b2.htm)
 - **JPM** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/19617/000121390026124199/ea0313599-01_424b2.htm)
 - **JPM** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/19617/000121390026124168/ea0313432-01_424b2.htm)
 - **JPM** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/19617/000121390026124161/ea0313552-01_424b2.htm)
@@ -419,6 +428,14 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 - **JPM** 424B2 (2026-11-23) — [filing](https://www.sec.gov/Archives/edgar/data/19617/000121390026122847/ea0313181-01_424b2.htm)
 - **JPM** 424B2 (2026-11-23) — [filing](https://www.sec.gov/Archives/edgar/data/19617/000121390026122814/ea0313147-01_424b2.htm)
 - **V** 8-K (2026-11-23) — 5.02 Executive/director change — [filing](https://www.sec.gov/Archives/edgar/data/1403161/000140316126000143/v-20261118.htm)
+- **BAC** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426037065/form424b2.htm)
+- **BAC** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426037063/form424b2.htm)
+- **BAC** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426037062/form424b2.htm)
+- **BAC** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426037060/form424b2.htm)
+- **BAC** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426037059/form424b2.htm)
+- **BAC** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426037058/form424b2.htm)
+- **BAC** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426037057/form424b2.htm)
+- **BAC** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426037056/form424b2.htm)
 - **BAC** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426037052/form424b2.htm)
 - **BAC** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426037051/form424b2.htm)
 - **BAC** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/70858/000191870426037050/form424b2.htm)
@@ -667,6 +684,7 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 - **DIS** 8-K (2026-11-23) — 5.02 Executive/director change; 9.01 Exhibits — [filing](https://www.sec.gov/Archives/edgar/data/1744489/000174448926000069/dis-20261123.htm)
 - **INTU** DEF 14A (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/896878/000089687826000053/intu-20261125.htm)
 - **AMGN** 8-K (2026-11-24) — 7.01 Reg FD disclosure; 9.01 Exhibits — [filing](https://www.sec.gov/Archives/edgar/data/318154/000119312526475833/amgn-20261124.htm)
+- **GS** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526478578/mofca757_prelim.htm)
 - **GS** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526478545/gs-20261125.htm)
 - **GS** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526478543/gs-20261125.htm)
 - **GS** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000095010326018222/dp257538_424b2-sparc079.htm)
@@ -886,6 +904,7 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 - **GS** 424B2 (2026-11-23) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526470607/icsng001_auto_prelim.htm)
 - **GS** 424B2 (2026-11-23) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526470580/spxnh119_auto_prelim.htm)
 - **GS** 424B2 (2026-11-23) — [filing](https://www.sec.gov/Archives/edgar/data/886982/000119312526470568/amendment_no._1_to_mofca.htm)
+- **MS** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226058143/ms20169_424b2-39934.htm)
 - **MS** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226058114/ms20104_424b2-39922.htm)
 - **MS** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226058112/ms19807_424b2-39910.htm)
 - **MS** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226058107/ms19808_424b2-39906.htm)
@@ -963,6 +982,7 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 - **MS** 424B2 (2026-11-23) — [filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226057576/ms20155_424b2-39533.htm)
 - **MS** 424B2 (2026-11-23) — [filing](https://www.sec.gov/Archives/edgar/data/895421/000183988226057575/ms20151_424b2-39526.htm)
 - **AXP** 8-K (2026-11-25) — 5.02 Executive/director change — [filing](https://www.sec.gov/Archives/edgar/data/4962/000000496226000440/axp-20261125.htm)
+- **LOW** 10-Q (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/60667/000006066726000130/low-20261030.htm)
 - **DE** 8-K (2026-11-25) — 2.02 Earnings results; 7.01 Reg FD disclosure; 9.01 Exhibits — [filing](https://www.sec.gov/Archives/edgar/data/315189/000110465926131741/de-20261125x8k.htm)
 - **MU** DEF 14A (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/723125/000072312526000034/mu-20261124.htm)
 - **ADI** 10-K (2026-11-24) — [filing](https://www.sec.gov/Archives/edgar/data/6281/000000628126000089/adi-20261031.htm)
@@ -970,6 +990,7 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 - **BMY** 8-K (2026-11-23) — 5.02 Executive/director change; 9.01 Exhibits — [filing](https://www.sec.gov/Archives/edgar/data/14272/000114036126045300/ef20086209_8k.htm)
 - **MDT** 8-K (2026-11-24) — 2.02 Earnings results; 9.01 Exhibits — [filing](https://www.sec.gov/Archives/edgar/data/1613103/000162828026075604/mdt-20261124.htm)
 - **SCHW** S-3ASR (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/316709/000119312526476928/d105287ds3asr.htm)
+- **C** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/831001/000191870426037061/form424b2.htm)
 - **C** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326018224/dp257596_424b2-us26t4520d.htm)
 - **C** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/831001/000191870426037053/form424b2.htm)
 - **C** 424B2 (2026-11-25) — [filing](https://www.sec.gov/Archives/edgar/data/831001/000095010326018217/dp257524_424b2-us26t3545.htm)
@@ -1625,7 +1646,7 @@ Use these numbers as the price source. A price marked ✓ matched two sources (Y
 | SPCX | — | — | — | — | — | — | — | — |
 | ADP | 2027-01-26 | — | 2027Q2 | 2.95 | 0.34 | — | $5.7B | 2.82 vs 2.79 (1.08%) |
 | PGR | 2027-03-01 | amc | 2026Q4 | 4.06 | — | — | $21.0B | — |
-| BX | 2027-01-27 | amc | 2026Q4 | 1.79 | 1.13 | — | $4.5B | — |
+| BX | — | — | — | — | — | — | — | — |
 | KKR | 2027-02-03 | amc | 2026Q4 | 3.67 | 0.27 | — | $3.8B | 1.78 vs 1.6 (11.25%) |
 | MELI | 2027-02-22 | amc | 2026Q4 | 10.27 | 0.00 | — | $12.2B | 8.83 vs 9.55 (-7.54%) |
 | ETN | 2027-02-01 | amc | 2026Q4 | 4.19 | 0.00 | — | $8.9B | 3.68 vs 3.58 (2.79%) |
@@ -1746,7 +1767,6 @@ Estimate revisions build up from daily snapshots, so they fill in after the pipe
 | SOFI | 2026-11-01 | 7 | 10 | 12 | 3 | 1 | 2 | 0 |
 | COIN | 2026-11-01 | 10 | 21 | 14 | 1 | 1 | 0 | 0 |
 | APP | 2026-11-01 | 10 | 19 | 8 | 0 | 0 | 0 | 0 |
-| TTWO | 2026-11-01 | 12 | 24 | 3 | 0 | 0 | 0 | 0 |
 | RBLX | 2026-11-01 | 6 | 16 | 19 | 1 | 2 | 0 | 0 |
 | DASH | 2026-11-01 | 14 | 27 | 10 | 0 | 0 | -1 | 0 |
 | ABNB | 2026-11-01 | 10 | 22 | 17 | 1 | 0 | 1 | 0 |
@@ -1756,7 +1776,6 @@ Estimate revisions build up from daily snapshots, so they fill in after the pipe
 | IONQ | 2026-11-01 | 5 | 12 | 4 | 0 | 0 | 0 | 0 |
 | SMCI | 2026-11-01 | 0 | 4 | 14 | 5 | 2 | 0 | 0 |
 | ARM | 2026-11-01 | 7 | 23 | 16 | 1 | 1 | 1 | 0 |
-| TSM | 2026-11-01 | 12 | 28 | 2 | 0 | 0 | 0 | 0 |
 | ASML | 2026-11-01 | 9 | 27 | 4 | 2 | 0 | 0 | 0 |
 | VST | 2026-11-01 | 8 | 17 | 2 | 0 | 0 | 3 | 0 |
 | CEG | 2026-11-01 | 6 | 19 | 4 | 0 | 0 | 2 | 0 |
@@ -1767,7 +1786,6 @@ Estimate revisions build up from daily snapshots, so they fill in after the pipe
 | SPCX | 2026-11-01 | 14 | 24 | 9 | 1 | 1 | 1 | -1 |
 | ADP | 2026-11-01 | 3 | 4 | 14 | 1 | 1 | -1 | 0 |
 | PGR | 2026-11-01 | 3 | 8 | 19 | 1 | 0 | 0 | 0 |
-| BX | 2026-11-01 | 7 | 14 | 12 | 0 | 0 | 0 | 0 |
 | KKR | 2026-11-01 | 6 | 17 | 5 | 0 | 0 | 0 | 0 |
 | MELI | 2026-11-01 | 8 | 17 | 5 | 0 | 0 | 0 | 0 |
 | ETN | 2026-11-01 | 9 | 18 | 6 | 0 | 0 | 0 | 0 |
@@ -2031,7 +2049,7 @@ Estimate revisions build up from daily snapshots, so they fill in after the pipe
 | RBLX | -43.67 | — | — | 50.53 | -9.16 | 33.00–80.00 | buy (34) | 2.70 |
 | DASH | 21.82 | 69.05 | 3.08 | 250.39 | 50.48 | 200.00–340.00 | strong_buy (38) | 3.80 |
 | ABNB | 27.07 | 32.30 | 3.76 | 205.88 | 19.59 | 147.00–245.00 | buy (39) | 3.20 |
-| NVO | 11.66 | 10.35 | 0.46 | 45.72 | 11.60 | 39.39–64.01 | hold (12) | 1.30 |
+| NVO | 11.66 | 10.35 | 0.46 | 45.73 | 11.63 | 39.40–64.03 | hold (12) | 1.30 |
 | HIMS | 48.83 | — | — | 27.23 | 85.88 | 21.00–40.00 | hold (13) | 26.80 |
 | RKLB | 656.89 | — | — | 90.62 | 92.72 | 40.00–127.00 | buy (21) | 7.20 |
 | IONQ | -16.57 | 13.61 | — | 54.27 | 130.56 | 40.00–70.00 | strong_buy (14) | 11.50 |
@@ -2595,12 +2613,12 @@ Estimate revisions build up from daily snapshots, so they fill in after the pipe
 - 11-24 08:10 · Yahoo · [ConocoPhillips Hikes Dividend 11%—How Safe Is the Payout if Oil Keeps Falling?](https://finnhub.io/api/news?id=099c7a977d155faac1c37fd5e051d74779012e91d243adb51608e41d280416bf)
 
 **DE**
+- 11-25 16:20 · Fintel · [Deere & Company Reports Net Income of $1.051 Billion for Fourth Quarter, $4.860 Billion for Fiscal Year](https://finnhub.io/api/news?id=82582e9f4c9c1e06d4f9dd423bc5bd1c9ff11a9adbd7edf473a4b61f057f38da)
 - 11-25 13:45 · Yahoo · [Why Is Deere (DE) Stock Up Today? Q4 Results and Strong Early Orders](https://finnhub.io/api/news?id=7d15dd08be5ea72692087a5750d7b4f9758a6cb42e7d88ff4cdfe19fec52b4ed)
 - 11-25 13:45 · Yahoo · [Why CNH (CNH) Stock Is Up Today: Deere Earnings Lift Farm Gear](https://finnhub.io/api/news?id=cd62dd436750c74bb30b68dd15a2698e019624cf0146d9fa3ff4a64a0d66bfe6)
 - 11-25 13:37 · Yahoo · [Anthropic, Nvidia, Micron, HP Inc., Dell, Deere, and More Stocks That Explain Today’s Market](https://finnhub.io/api/news?id=e90ca90663abae20139ce2648b22ce7adbf2bd644711c46aac6dfa4457875169)
 - 11-25 13:22 · Yahoo · [John Deere stock whipsaws on uncertain farm rebound](https://finnhub.io/api/news?id=2f6ed579d416da8ed3e53eaf0852720ed5f87ab97e1b02102ced7a24e8206b0a)
 - 11-25 13:12 · Yahoo · [Deere & Company Q4 Earnings Call Highlights](https://finnhub.io/api/news?id=2c8ebfebf4ab7f1c23b5c1dfea202ec8e66ea19ce31733524af5507e7d90d692)
-- 11-25 12:54 · Yahoo · [Deere Stock Rises, Defying Weak Earnings Guidance](https://finnhub.io/api/news?id=c8dc03e1f90ff1e96e68d80992f9a710ac9d3c5ad6ce47ca023402b55d6158dc)
 
 **ETN**
 - 11-25 07:43 · Yahoo · [Did Eaton Stock Fall Alone Or With Its Group?](https://finnhub.io/api/news?id=fff5118da2e75f68aab4a9a12048024ced699dd49c14b632c5696e290ab83292)
@@ -2786,12 +2804,12 @@ Estimate revisions build up from daily snapshots, so they fill in after the pipe
 - 11-25 06:46 · SeekingAlpha · [Palantir: Already Off To A Strong 2027](https://finnhub.io/api/news?id=60bf587869d2bbfc612187097dc00e71248202460441da297a92e5a155224d4a)
 
 **CRWD**
+- 11-25 11:44 · SeekingAlpha · [CrowdStrike: Ticking The Top With Zscaler Deal](https://finnhub.io/api/news?id=8fd03032c9b813191c5dc4a950628da80152f2c816f06ef7b613f09aaa802311)
 - 11-25 08:05 · Yahoo · [CrowdStrike Sees a Path to the “Largest AI Safety and Security Company” Ever. Zscaler Must Deliver $1 Billion of Synergies](https://finnhub.io/api/news?id=b33876d78d225485e056f1953770e46a11c283fafc2fce7f83a5629273012f52)
 - 11-25 08:00 · Yahoo · [CrowdStrike to Participate in Upcoming Investor Conferences](https://finnhub.io/api/news?id=50e3d0022f6a115a0e0eab932a41298e2c1ed092170aa5e814f028bf8fa91d5d)
 - 11-25 07:50 · Yahoo · [Jefferies Downgraded Zscaler but Raised Its Target to $260. Here’s How CrowdStrike Gets It There](https://finnhub.io/api/news?id=95a22e4b4ed3a190a2825dca2f189531f62c312a2da80259fe6a69f1683c51e7)
 - 11-25 06:36 · Yahoo · [CrowdStrike CEO Says Security Has Gone “From the Brakes to the Gas” as Fortune 50 Clients Pause AI Rollouts](https://finnhub.io/api/news?id=ae33891c26c7620fe67eac01c0d3642acd4bab208f729816cea01fc641ecdfaa)
 - 11-25 01:08 · SeekingAlpha · [CrowdStrike: An Interesting And Large Tie-Up With Zscaler](https://finnhub.io/api/news?id=6e45c459c44f2d49882206637a6d7ff1a0b095b2a0cafe7f2acb71b499ec44b9)
-- 11-24 23:32 · Yahoo · [CrowdStrike: 3 Key Takeaways for Long-Term Investors](https://finnhub.io/api/news?id=21864d92a8874b77a90933b5c8edc7b4e6bc51c8b499ce7b07cddbb2628e015c)
 
 **SNOW**
 - 11-25 02:08 · Yahoo · [Snowflake (SNOW) Stock Looks Rich Relative To Future Cash Flow](https://finnhub.io/api/news?id=fffc1e7020338187def3ca19904c6643ee6bf8678cc91cd94174005c2d0c6d84)
@@ -2840,14 +2858,6 @@ Estimate revisions build up from daily snapshots, so they fill in after the pipe
 - 11-24 02:25 · Benzinga · [BTIG Reiterates Buy on AppLovin, Maintains $450 Price Target](https://finnhub.io/api/news?id=ca602c24b28dfca4f938967c8159df4d5e480fe4878db0b64490fe57f5acbb63)
 - 11-23 21:12 · Yahoo · [AppLovin Is Down 28% in a Year. CEO Says “We Have Every Mobile Gaming Company Live, Probably.” Time to Buy?](https://finnhub.io/api/news?id=fa30b26c2419c4d686ebe2fb45b9d74af3ddfe5980228062516c528b91a9a70e)
 - 11-23 10:32 · Yahoo · [AppLovin Q3 Beat & Q4 Guidance Put AI Growth & Margins to the Test](https://finnhub.io/api/news?id=876bacd62221d04ba0f5792e63f7a9e5869ddd545f6a960d34b68c015038d58d)
-
-**TTWO**
-- 11-25 08:04 · Yahoo · [Did Take-Two Stock Beat A Falling Market?](https://finnhub.io/api/news?id=f64c994a3d2e0c7b9e28e4b6d6782a401ae9ff14108580599f03fc415a0a1d70)
-- 11-24 11:05 · Yahoo · [Grand Theft Auto VI Is Finally Here. Is Take-Two Stock a Buy?](https://finnhub.io/api/news?id=fbb4afff427eb4234733c085fbd2691949bba638f1746ba52307faf60814d0fc)
-- 11-24 11:01 · Yahoo · [Take-Two Interactive (TTWO) Stock Is Up 4.6% Today Without Company News](https://finnhub.io/api/news?id=512934820f2f46f8f77c49af956a9be7cb966cc625541e7c99bd4724e7c39c0c)
-- 11-23 22:47 · Yahoo · [GTA 6 broke every record, and Take-Two's real test starts now](https://finnhub.io/api/news?id=3602d2b239c8466221f5827e28cb23aebf210151aef65e65c13dd69138799644)
-- 11-23 18:33 · Yahoo · [S&P 500, Nasdaq End Best Session Since April Last Year On Optimism Led By Jensen Huang’s Reinstatement — NVDA, NASA, TTWO, AMZN In Focus](https://finnhub.io/api/news?id=ddb2d770f30059adbbc65d86ade40edd6805413fc599edc8859f2a43f266c7db)
-- 11-23 14:28 · Yahoo · [GTA VI Broke Every Record in 24 Hours, So Why Did Take-Two Shareholders Sell?](https://finnhub.io/api/news?id=88a8b2719b785cbd0bb4bf6ab7103f8eba6146ca9d5e2d82b5c6f9b532e3763c)
 
 **RBLX**
 - 11-24 11:59 · Yahoo · [Cathie Wood and 9 Other Big Funds Sold Roblox Last Quarter, While 8 Bought. Who’s Right?](https://finnhub.io/api/news?id=4e4394df046551b530f0c2bfa794d18ee485c3f9b45e82b114bc48a1d1bbbe40)
@@ -2911,14 +2921,6 @@ Estimate revisions build up from daily snapshots, so they fill in after the pipe
 - 11-25 08:03 · Yahoo · [ARM Holdings near-term technical outlook: bearish setup with key levels to watch](https://finnhub.io/api/news?id=b3c79856b2ca44128477809e4159edc5426c30b1442e88ae2f3c241cedef58c8)
 - 11-25 07:01 · Yahoo · [MARKETS LIVE: Wall Street, FTSE losses continue as technology shares plunge](https://finnhub.io/api/news?id=e647ace54240702204971d3d53d638cb18a179213ec092755451fb398c0d3ee6)
 - 11-25 05:44 · Benzinga · [Why Is Arm Stock Falling on Wednesday?](https://finnhub.io/api/news?id=6fb9bbc513239c4da2807f229ee058b5d42ec717ae7e04e3d2631b0069c2faad)
-
-**TSM**
-- 11-25 07:18 · Fintel · [Taiwan Semiconductor Manufacturing Company Limited Reports Monthly Operational Activities for October 2026](https://finnhub.io/api/news?id=6473a32e675b7aacc9659f93c3170f5b5968e15c8f44dae1e9c76e4cae12c4ef)
-- 11-25 06:39 · Fintel · [Taiwan Semiconductor Manufacturing Company Limited Announces Adjustment to Cash Dividend Per Share](https://finnhub.io/api/news?id=d4a0a213e02ac618665ca8085340974c594eb4601d4e35087c0b4b91656b5f8b)
-- 11-25 05:28 · Benzinga · [TSMC Has a 'Substantially Wider Moat' Than Nvidia, Says Investor Joseph Carlson](https://finnhub.io/api/news?id=57a0e64dc8e6195b868f991f408d13ef6a20f7d0fc5e29817e6e47801282a495)
-- 11-25 04:39 · Benzinga · [Jim Cramer Backs DuPont, Says Buy Nvidia](https://finnhub.io/api/news?id=9ad99d5a7b2867abf1e97936d136eb97ea8320e4c29ea01f2161541d6fa723bf)
-- 11-25 02:16 · Benzinga · [What Is Going on With AMD Stock on Wednesday?](https://finnhub.io/api/news?id=3f027d543ea75047a06022dfeb4cdca2f6e892da174656105b165ff79877aa67)
-- 11-24 23:10 · SeekingAlpha · [TSMC: AI Kingmaker Trading At A Bargain Price](https://finnhub.io/api/news?id=e18527b6ab2a9b1b063c442439d4a928d39227e425adf1015cc4e2b4e709c9da)
 
 **ASML**
 - 11-25 12:17 · Yahoo · [ASML Stocks Drop 6.1% as Dutch Lawmakers Fight US Chip Curb Bill](https://finnhub.io/api/news?id=8faf9676d5f86369c8c9e9a8aed168ac39dfa0833eeb71235f8dcc4385503072)
