@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-25 06:00 ET
+# Alerts — watcher run 2026-11-25 07:04 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,16 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-25 07:04 | 1 | AMD | Down 6.7% (premarket) | AMD -6.7% at 385.57 vs 413.27 close (premarket, 07:05 ET) |  |
+| 11-25 07:04 | 1 | AMAT | Down 6.1% (premarket) | AMAT -6.1% at 304.00 vs 323.76 close (premarket, 07:00 ET) |  |
+| 11-25 07:04 | 1 | HOOD | Down 4.0% (premarket) | HOOD -4.0% at 63.01 vs 65.65 close (premarket, 07:00 ET) |  |
+| 11-25 07:04 | 1 | RKLB | Down 4.3% (premarket) | RKLB -4.3% at 44.00 vs 45.98 close (premarket, 07:00 ET) |  |
+| 11-25 07:04 | 1 | IONQ | Down 4.9% (premarket) | IONQ -4.9% at 21.31 vs 22.40 close (premarket, 07:00 ET) |  |
+| 11-25 07:04 | 1 | TSM | Down 4.8% (premarket) | TSM -4.8% at 332.52 vs 349.20 close (premarket, 07:00 ET) |  |
+| 11-25 07:04 | 1 | ASML | Down 4.8% (premarket) | ASML -4.8% at 1271.85 vs 1336.06 close (premarket, 07:00 ET) |  |
+| 11-25 07:04 | 1 | OKLO | Down 4.2% (premarket) | OKLO -4.2% at 18.39 vs 19.20 close (premarket, 07:00 ET) |  |
+| 11-25 07:04 | 1 | TSLA | Deal | Tesla and SpaceX $3.5 Trillion Merger Talks Take a Major Step Forward | [link](https://finnhub.io/api/news?id=865b409cb40a22a2094a9eca79519a67f4e35425bb9b5e4830ba6f8800088cac) |
+| 11-25 07:04 | 2 | DE | 8-K: 2.02 Earnings results | 8-K - DEERE & CO (0000315189) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/315189/000110465926131741/0001104659-26-131741-index.htm) |
 | 11-25 06:00 | 1 | MU | Down 5.4% (premarket) | MU -5.4% at 595.60 vs 629.79 close (premarket, 06:00 ET) |  |
 | 11-25 06:00 | 1 | PANW | Down 4.0% (premarket) | PANW -4.0% at 338.86 vs 352.99 close (premarket, 05:56 ET) |  |
 | 11-25 06:00 | 1 | CRWD | Down 4.4% (premarket) | CRWD -4.4% at 201.52 vs 210.86 close (premarket, 05:50 ET) |  |
@@ -146,16 +156,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-23 11:16 | 1 | CRWD | Deal | Zscaler Jumps 21% as CrowdStrike Moves to Acquire It | [link](https://finnhub.io/api/news?id=450809b5f7353f177accc1a97a76657cb6e37125814a4ea1bdc52da37a0a6a3e) |
 | 11-23 10:07 | 1 | MSFT | Up 4.1% (regular) | MSFT +4.1% at 504.52 vs 484.52 close (regular, 10:05 ET) |  |
 | 11-23 10:07 | 1 | NVDA | Up 32.7% (regular) | NVDA +32.7% at 166.61 vs 125.53 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | GOOGL | Up 6.1% (regular) | GOOGL +6.1% at 281.53 vs 265.29 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | META | Up 5.0% (regular) | META +5.0% at 589.06 vs 560.84 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | TSLA | Up 12.5% (regular) | TSLA +12.5% at 388.99 vs 345.82 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | ORCL | Up 13.4% (regular) | ORCL +13.4% at 114.76 vs 101.19 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | AMD | Up 5.2% (regular) | AMD +5.2% at 446.58 vs 424.39 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | CSCO | Up 6.0% (regular) | CSCO +6.0% at 96.04 vs 90.64 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | QCOM | Up 8.8% (regular) | QCOM +8.8% at 163.20 vs 149.94 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | TXN | Up 11.8% (regular) | TXN +11.8% at 294.91 vs 263.75 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | CAT | Up 6.9% (regular) | CAT +6.9% at 545.57 vs 510.45 close (regular, 10:05 ET) |  |
-| 11-23 10:07 | 1 | NOW | Up 4.8% (regular) | NOW +4.8% at 91.83 vs 87.61 close (regular, 10:05 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
@@ -316,6 +316,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-25 07:04 | 2 | — | Inflation/jobs | Nasdaq futures slide over 2% as AI losses deepen; inflation data in focus - Reuters | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5) |
 | 11-23 10:07 | 2 | — | Market stress | Wall Street's 'Fear Gauge' just flashed a buy sign | [link](https://www.cnbc.com/2026/11/23/wall-streets-fear-gauge-just-flashed-a-buy-sign.html) |
 
 ## Watcher health
