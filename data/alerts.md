@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-25 13:55 ET
+# Alerts — watcher run 2026-11-25 15:00 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-25 15:00 | 1 | MU | Down 5.0% (regular) | MU -5.0% at 598.40 vs 629.79 close (regular, 15:00 ET) |  |
 | 11-25 13:55 | 1 | NVDA | Down 4.6% (regular) | NVDA -4.6% at 148.21 vs 155.38 close (regular, 13:55 ET) |  |
 | 11-25 13:55 | 1 | IBM | Up 4.3% (regular) | IBM +4.3% at 245.74 vs 235.62 close (regular, 13:55 ET) |  |
 | 11-25 13:55 | 1 | DE | Up 5.1% (regular) | DE +5.1% at 645.33 vs 613.76 close (regular, 13:55 ET) |  |
@@ -155,12 +156,13 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-24 10:31 | 1 | ETN | Down 4.6% (regular) | ETN -4.6% at 321.03 vs 336.34 close (regular, 10:30 ET) |  |
 | 11-24 10:31 | 1 | MU | Down 10.1% (regular) | MU -10.1% at 636.37 vs 707.70 close (regular, 10:30 ET) |  |
 | 11-24 10:31 | 1 | LRCX | Down 6.9% (regular) | LRCX -6.9% at 195.32 vs 209.76 close (regular, 10:30 ET) |  |
-| 11-24 10:31 | 1 | AMAT | Down 7.0% (regular) | AMAT -7.0% at 322.43 vs 346.87 close (regular, 10:30 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-25 15:00 | 2 | CAR | Up 8.1% (regular) | CAR +8.1% at 139.83 vs 129.38 close (regular, 15:00 ET) |  |
+| 11-25 15:00 | 2 | NTNX | Down 14.9% (regular) | NTNX -14.9% at 46.44 vs 54.59 close (regular, 15:00 ET) |  |
 | 11-25 13:55 | 2 | AXON | Up 8.1% (regular) | AXON +8.1% at 345.26 vs 319.32 close (regular, 13:55 ET) |  |
 | 11-25 13:55 | 2 | CHTR | Up 8.2% (regular) | CHTR +8.2% at 146.96 vs 135.87 close (regular, 13:55 ET) |  |
 | 11-25 13:55 | 2 | SNDK | Down 23.7% (regular) | SNDK -23.7% at 72.04 vs 94.39 close (regular, 13:55 ET) |  |
@@ -309,8 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-24 07:49 | 2 | SJM | 8-K: 2.02 Earnings results | 8-K - J M SMUCKER Co (0000091419) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/91419/000009141926000110/0000091419-26-000110-index.htm) |
 | 11-24 07:49 | 2 | DY | 8-K: 2.02 Earnings results | 8-K - DYCOM INDUSTRIES INC (0000067215) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/67215/000006721526000048/0000067215-26-000048-index.htm) |
 | 11-24 07:49 | 2 | DKS | 8-K: 2.02 Earnings results | 8-K - DICK'S SPORTING GOODS, INC. (0001089063) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1089063/000108906326000039/0001089063-26-000039-index.htm) |
-| 11-24 07:49 | 2 | BBY | 8-K: 2.02 Earnings results | 8-K - BEST BUY CO INC (0000764478) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/764478/000076447826000045/0000764478-26-000045-index.htm) |
-| 11-24 07:49 | 2 | BURL | 8-K: 2.02 Earnings results | 8-K - Burlington Stores, Inc. (0001579298) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1579298/000119312526473122/0001193125-26-473122-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
