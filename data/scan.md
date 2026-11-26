@@ -1,4 +1,4 @@
-# Short-term scan — 2026-11-26 16:42 ET
+# Short-term scan — 2026-11-26 17:00 ET
 Universe: S&P 500 + S&P 400 (903 names, 910 priced). Filters: price ≥ $10, avg daily dollar volume ≥ $20M, no semiconductors, no names from the tracked list. These are candidates; check news, catalysts and the trading rules before proposing a trade.
 
 ## Market regime

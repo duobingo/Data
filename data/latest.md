@@ -1,5 +1,5 @@
 # Trading desk data — close pull
-Generated 2026-11-26 16:26 ET (2026-11-26 21:26 UTC). Filings/news since 2026-11-24.
+Generated 2026-11-26 16:44 ET (2026-11-26 21:44 UTC). Filings/news since 2026-11-24.
 
 Use these numbers as the price source. A price marked ✓ matched two sources (Yahoo + Finnhub) within 0.5%; ✗ means single-source — label orders based on it UNVERIFIED PRICE.
 
@@ -1712,7 +1712,7 @@ Estimate revisions build up from daily snapshots, so they fill in after the pipe
 | RBLX | -43.67 | — | — | 50.53 | -9.16 | 33.00–80.00 | buy (34) | 2.70 |
 | DASH | 21.82 | 69.05 | 3.08 | 250.39 | 50.48 | 200.00–340.00 | strong_buy (38) | 3.80 |
 | ABNB | 27.07 | 32.30 | 3.76 | 205.88 | 19.59 | 147.00–245.00 | buy (39) | 3.20 |
-| NVO | 11.66 | 10.35 | 0.48 | 45.70 | 11.54 | 39.37–63.97 | hold (12) | 1.30 |
+| NVO | 11.66 | 10.35 | 0.48 | 45.70 | 11.54 | 39.37–63.98 | hold (12) | 1.30 |
 | HIMS | 48.83 | — | — | 27.23 | 85.88 | 21.00–40.00 | hold (13) | 26.80 |
 | RKLB | 656.89 | — | — | 90.62 | 92.72 | 40.00–127.00 | buy (21) | 7.20 |
 | IONQ | -16.57 | 13.61 | — | 54.27 | 130.56 | 40.00–70.00 | strong_buy (14) | 11.50 |

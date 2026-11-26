@@ -1,7 +1,7 @@
 {
  "mode": "close",
- "generated_utc": "2026-11-26 21:26",
- "generated_et": "2026-11-26 16:26",
+ "generated_utc": "2026-11-26 21:44",
+ "generated_et": "2026-11-26 16:44",
  "since": "2026-11-24",
  "prices": {
   "AAPL": {
@@ -21935,9 +21935,9 @@
    "fwd_pe": 11.664253,
    "ttm_pe": 10.34596,
    "peg": 0.48,
-   "target_mean": 45.697548,
-   "target_low": 39.369167,
-   "target_high": 63.97493,
+   "target_mean": 45.69815,
+   "target_low": 39.369686,
+   "target_high": 63.975777,
    "rating": "hold",
    "n_analysts": 12,
    "short_pct": 0.0128
