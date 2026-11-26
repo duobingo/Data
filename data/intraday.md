@@ -1,4 +1,4 @@
-# Intraday snapshot — 2026-11-26 11:50 ET
+# Intraday snapshot — 2026-11-26 13:36 ET
 Prices from Yahoo Finance (may lag the market by up to ~15 minutes). Not used for orders; for checking where things stand during the day. Full universe in data/universe_intraday.csv.
 
 | Group | Ticker | Last | Day % | Day low | Day high |
@@ -65,7 +65,7 @@ Prices from Yahoo Finance (may lag the market by up to ~15 minutes). Not used fo
 | Tracked | LOW | 235.65 | 2.00 | 228.01 | 237.15 |
 | Tracked | HON | 225.10 | 0.12 | 217.53 | 226.93 |
 | Tracked | UNP | 298.38 | 2.60 | 286.95 | 299.29 |
-| Tracked | BLK | — | — | — | — |
+| Tracked | BLK | 1,141.86 | -0.36 | 1,103.49 | 1,149.02 |
 | Tracked | NEE | 85.41 | 0.98 | 84.62 | 85.87 |
 | Tracked | SYK | 332.90 | 2.72 | 322.58 | 334.73 |
 | Tracked | PLD | 127.03 | -0.23 | 125.62 | 128.03 |
