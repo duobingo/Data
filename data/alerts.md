@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-26 08:25 ET
+# Alerts — watcher run 2026-11-26 09:38 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-26 09:38 | 1 | VRTX | Down 7.3% (regular) | VRTX -7.3% at 523.14 vs 564.12 close (regular, 19:55 ET) |  |
 | 11-26 04:51 | 1 | VRTX | Down 7.3% (premarket) | VRTX -7.3% at 523.14 vs 564.12 close (premarket, 19:55 ET) |  |
 | 11-25 20:15 | 2 | MSFT | Restructuring | Microsoft's Green Card Filings Reveal A Striking Pattern After Mass Layoffs. Trump's New Rule Could Freeze Sponsorships For Two Years. | [link](https://finnhub.io/api/news?id=50a30bb11dcb9838d602bc541d5cb1ba3446c6f63216bea4dc6ea7009ee03417) |
 | 11-25 17:58 | 2 | PANW | Legal/regulatory | Palo Alto Networks sued over alleged accounting fraud claims | [link](https://finnhub.io/api/news?id=ebe3fe358eb1ebafced9cf502229aada72d7564b0b52a2ac901b66bf0d3bea01) |
@@ -155,12 +156,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-24 11:48 | 1 | IONQ | Down 4.3% (regular) | IONQ -4.3% at 22.34 vs 23.34 close (regular, 11:45 ET) |  |
 | 11-24 11:48 | 1 | ASML | Down 4.2% (regular) | ASML -4.2% at 1325.31 vs 1383.78 close (regular, 11:45 ET) |  |
 | 11-24 10:31 | 1 | NVDA | Down 7.2% (regular) | NVDA -7.2% at 153.12 vs 165.05 close (regular, 10:30 ET) |  |
-| 11-24 10:31 | 1 | CRM | Up 4.7% (regular) | CRM +4.7% at 194.16 vs 185.46 close (regular, 10:32 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-26 09:38 | 2 | SNDK | Down 18.8% (regular) | SNDK -18.8% at 76.68 vs 94.39 close (regular, 19:55 ET) |  |
 | 11-26 04:51 | 2 | SNDK | Down 18.8% (premarket) | SNDK -18.8% at 76.68 vs 94.39 close (premarket, 19:55 ET) |  |
 | 11-25 16:59 | 2 | NXPI | 8-K: 1.01 Material agreement | 8-K - NXP Semiconductors N.V. (0001413447) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1413447/000119312526478623/0001193125-26-478623-index.htm) |
 | 11-25 16:59 | 2 | AXON | 8-K: 5.02 Executive/director change | 8-K - AXON ENTERPRISE, INC. (0001069183) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1069183/000162828026075976/0001628280-26-075976-index.htm) |
@@ -310,7 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-24 09:24 | 2 | DKS | Up 12.4% (premarket) | DKS +12.4% at 150.26 vs 133.67 close (premarket, 09:20 ET) |  |
 | 11-24 09:24 | 2 | JAZZ | Down 9.9% (premarket) | JAZZ -9.9% at 210.00 vs 233.19 close (premarket, 09:23 ET) |  |
 | 11-24 09:24 | 2 | SOLV | 8-K: 5.02 Executive/director change | 8-K - Solventum Corp (0001964738) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1964738/000196473826000061/0001964738-26-000061-index.htm) |
-| 11-24 07:49 | 2 | ANF | Up 11.8% (premarket) | ANF +11.8% at 157.00 vs 140.45 close (premarket, 07:45 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
