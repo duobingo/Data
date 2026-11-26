@@ -1,62 +1,6 @@
 {
  "alerts": [
   {
-   "id": "8f71b53e07724bb7",
-   "kind": "price",
-   "group": "tracked",
-   "ticker": "UBER",
-   "name": "Uber",
-   "sector": "Industrials",
-   "severity": 1,
-   "category": "Down 4.6% (regular)",
-   "title": "UBER -4.6% at 65.57 vs 68.76 close (regular, 14:25 ET)",
-   "url": "",
-   "move_pct": -4.64,
-   "first_seen": "2026-11-19T14:29-05:00"
-  },
-  {
-   "id": "2d7199e2a9feccae",
-   "kind": "price",
-   "group": "tracked",
-   "ticker": "DECK",
-   "name": "Deckers Brands",
-   "sector": "Consumer Discretionary",
-   "severity": 1,
-   "category": "Down 5.0% (regular)",
-   "title": "DECK -5.0% at 79.40 vs 83.60 close (regular, 14:25 ET)",
-   "url": "",
-   "move_pct": -5.02,
-   "first_seen": "2026-11-19T14:29-05:00"
-  },
-  {
-   "id": "ba6f173102760d39",
-   "kind": "price",
-   "group": "tracked",
-   "ticker": "MELI",
-   "name": "",
-   "sector": "",
-   "severity": 1,
-   "category": "Down 4.4% (regular)",
-   "title": "MELI -4.4% at 1360.80 vs 1423.11 close (regular, 14:25 ET)",
-   "url": "",
-   "move_pct": -4.38,
-   "first_seen": "2026-11-19T14:29-05:00"
-  },
-  {
-   "id": "0e291c91d7d3ef63",
-   "kind": "price",
-   "group": "universe",
-   "ticker": "WSM",
-   "name": "Williams-Sonoma, Inc.",
-   "sector": "Consumer Discretionary",
-   "severity": 2,
-   "category": "Down 16.1% (regular)",
-   "title": "WSM -16.1% at 218.26 vs 260.09 close (regular, 14:30 ET)",
-   "url": "",
-   "move_pct": -16.08,
-   "first_seen": "2026-11-19T14:29-05:00"
-  },
-  {
    "id": "e507311f2b6d5ac9",
    "kind": "price",
    "group": "tracked",
@@ -13227,6 +13171,6 @@
    "first_seen": "2026-11-26T09:38-05:00"
   }
  ],
- "last_run": "2026-11-26T14:01-05:00",
+ "last_run": "2026-11-26T15:08-05:00",
  "errors": []
 }
