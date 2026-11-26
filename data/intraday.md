@@ -1,4 +1,4 @@
-# Intraday snapshot — 2026-11-26 13:36 ET
+# Intraday snapshot — 2026-11-26 14:49 ET
 Prices from Yahoo Finance (may lag the market by up to ~15 minutes). Not used for orders; for checking where things stand during the day. Full universe in data/universe_intraday.csv.
 
 | Group | Ticker | Last | Day % | Day low | Day high |
