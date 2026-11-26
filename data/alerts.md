@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-26 09:38 ET
+# Alerts — watcher run 2026-11-26 10:43 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -319,7 +319,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-26 07:04 | 2 | — | Policy/trade | How Trump's proposed tariffs for India compare with rival nations - Reuters | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNazJTSjI3dk40ZnhoM2ZJR2N2eXp0NUFoaWUxNUI4NW9wV19YWEtpd24tS0t5YnFHV2YzSkRmSXdiTnR6cjRuMTROY1d1VlQ2NUR3UjNNMUJkeU5XQVBOeUQ1VnVTQmtQU3BVOUNndHdyeUhvWDcxdmRHMGtheVJCREs4UzdCWS1VVDQwcmdQYWtILXltMHRhN1UxeTVtdGhuMFhpemlOdDRkLTB5?oc=5) |
 | 11-25 12:54 | 2 | — | Market stress | Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return | [link](https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html) |
 | 11-25 07:04 | 2 | — | Inflation/jobs | Nasdaq futures slide over 2% as AI losses deepen; inflation data in focus - Reuters | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5) |
-| 11-23 10:07 | 2 | — | Market stress | Wall Street's 'Fear Gauge' just flashed a buy sign | [link](https://www.cnbc.com/2026/11/23/wall-streets-fear-gauge-just-flashed-a-buy-sign.html) |
 
 ## Watcher health
 
