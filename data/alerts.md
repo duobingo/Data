@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-27 16:40 ET
+# Alerts — watcher run 2026-11-27 17:40 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -237,19 +237,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-24 18:52 | 2 | OC | Down 10.9% (after-hours) | OC -10.9% at 103.19 vs 115.87 close (after-hours, 18:20 ET) |  |
 | 11-24 17:59 | 2 | NVST | 8-K: 1.01 Material agreement | 8-K - Envista Holdings Corp (0001757073) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1757073/000121390026123771/0001213900-26-123771-index.htm) |
 | 11-24 17:59 | 2 | PYPL | 8-K: 5.02 Executive/director change | 8-K/A - PayPal Holdings, Inc. (0001633917) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1633917/000119312526476056/0001193125-26-476056-index.htm) |
-| 11-24 17:00 | 2 | GGG | 8-K: 1.01 Material agreement | 8-K - GRACO INC (0000042888) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/42888/000119312526476009/0001193125-26-476009-index.htm) |
-| 11-24 17:00 | 2 | ANF | 8-K: 5.02 Executive/director change | 8-K/A - ABERCROMBIE & FITCH CO /DE/ (0001018840) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1018840/000101884026000055/0001018840-26-000055-index.htm) |
-| 11-24 17:00 | 2 | WTRG | 8-K: 5.02 Executive/director change | 8-K - Essential Utilities, Inc. (0000078128) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/78128/000155278126000569/0001552781-26-000569-index.htm) |
-| 11-24 17:00 | 2 | HPQ | 8-K: 2.02 Earnings results | 8-K - HP INC (0000047217) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/47217/000004721726000054/0000047217-26-000054-index.htm) |
-| 11-24 17:00 | 2 | APH | 8-K: 1.01 Material agreement | 8-K - AMPHENOL CORP /DE/ (0000820313) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/820313/000110465926131603/0001104659-26-131603-index.htm) |
-| 11-24 17:00 | 2 | SARO | 8-K: 1.01 Material agreement | 8-K - StandardAero, Inc. (0002025410) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/2025410/000119312526475680/0001193125-26-475680-index.htm) |
-| 11-24 17:00 | 2 | ZBRA | 8-K: 1.01 Material agreement | 8-K - ZEBRA TECHNOLOGIES CORP (0000877212) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/877212/000162828026075724/0001628280-26-075724-index.htm) |
-| 11-24 17:00 | 2 | DELL | 8-K: 2.02 Earnings results | 8-K - Dell Technologies Inc. (0001571996) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1571996/000157199626000050/0001571996-26-000050-index.htm) |
-| 11-24 17:00 | 2 | STE | 8-K: 1.01 Material agreement | 8-K - STERIS plc (0001757898) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1757898/000119312526475644/0001193125-26-475644-index.htm) |
-| 11-24 17:00 | 2 | KBR | 8-K: 1.01 Material agreement | 8-K - KBR, INC. (0001357615) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1357615/000114036126045503/0001140361-26-045503-index.htm) |
-| 11-24 17:00 | 2 | KEYS | 8-K: 5.02 Executive/director change | 8-K/A - Keysight Technologies, Inc. (0001601046) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1601046/000160104626000045/0001601046-26-000045-index.htm) |
-| 11-24 17:00 | 2 | ADSK | 8-K: 2.02 Earnings results | 8-K - Autodesk, Inc. (0000769397) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/769397/000076939726000069/0000769397-26-000069-index.htm) |
-| 11-24 17:00 | 2 | PODD | 8-K: 5.02 Executive/director change | 8-K - INSULET CORP (0001145197) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1145197/000119312526475638/0001193125-26-475638-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
