@@ -1,4 +1,4 @@
-# Intraday snapshot — 2026-11-27 14:43 ET
+# Intraday snapshot — 2026-11-27 15:39 ET
 Prices from Yahoo Finance (may lag the market by up to ~15 minutes). Not used for orders; for checking where things stand during the day. Full universe in data/universe_intraday.csv.
 
 | Group | Ticker | Last | Day % | Day low | Day high |
@@ -75,7 +75,7 @@ Prices from Yahoo Finance (may lag the market by up to ~15 minutes). Not used fo
 | Tracked | MU | 646.95 | 7.60 | 607.27 | 654.33 |
 | Tracked | LRCX | 192.69 | 4.15 | 182.72 | 194.44 |
 | Tracked | AMAT | 322.04 | 3.49 | 307.62 | 324.99 |
-| Tracked | KLAC | — | — | — | — |
+| Tracked | KLAC | 140.86 | 4.96 | 133.75 | 142.18 |
 | Tracked | PANW | 366.76 | 2.98 | 338.57 | 367.26 |
 | Tracked | ANET | 174.73 | 6.55 | 166.86 | 175.09 |
 | Tracked | ADI | 346.00 | 3.87 | 333.61 | 349.00 |
