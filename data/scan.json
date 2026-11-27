@@ -1,5 +1,5 @@
 {
- "generated_et": "2026-11-27 16:46",
+ "generated_et": "2026-11-27 17:03",
  "mode": "close",
  "universe": 903,
  "priced": 909,
@@ -919,7 +919,7 @@
    "rsi_5d_ago": 35.9,
    "clv": 0.84,
    "day_low": 607.27,
-   "atr14": 51.96,
+   "atr14": 51.97,
    "core": true,
    "semi": true
   },
@@ -1264,6 +1264,6 @@
  ],
  "errors": [
   "insider: index 2026-11-26: 403 Client Error: Forbidden for url: https://www.sec.gov/Archives/edgar/daily-index/2026/QTR4/form.20261126.idx",
-  "insider: index 2026-11-27: 403 Client Error: Forbidden for url: https://www.sec.gov/Archives/edgar/daily-index/2026/QTR4/form.20261127.idx"
+  "insider: index 2026-11-27: 503 Server Error: Service Unavailable for url: https://www.sec.gov/Archives/edgar/daily-index/2026/QTR4/form.20261127.idx"
  ]
 }

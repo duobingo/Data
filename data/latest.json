@@ -1,7 +1,7 @@
 {
  "mode": "close",
- "generated_utc": "2026-11-27 21:29",
- "generated_et": "2026-11-27 16:29",
+ "generated_utc": "2026-11-27 21:47",
+ "generated_et": "2026-11-27 16:47",
  "since": "2026-11-25",
  "prices": {
   "AAPL": {
@@ -2218,6 +2218,18 @@
    {
     "form": "424B2",
     "date": "2026-11-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026124596/ea0313783-01_424b2.htm",
+    "description": "PRICING SUPPLEMENT"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026124593/ea0313768-01_424b2.htm",
+    "description": "PRELIMINARY PRICING SUPPLEMENT"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-27",
     "url": "https://www.sec.gov/Archives/edgar/data/19617/000121390026124590/ea0313748-01_424b2.htm",
     "description": "PRELIMINARY PRICING SUPPLEMENT"
    },
@@ -4006,6 +4018,24 @@
    {
     "form": "424B2",
     "date": "2026-11-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426037415/bofa-424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426037414/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426037413/form424b2.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-27",
     "url": "https://www.sec.gov/Archives/edgar/data/70858/000191870426037412/bofa-424b2.htm",
     "description": "424B2"
    },
@@ -5344,6 +5374,18 @@
    {
     "form": "424B2",
     "date": "2026-11-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526480340/womxsx35_prelim.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526480332/gs-20261127.htm",
+    "description": "424B2"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-27",
     "url": "https://www.sec.gov/Archives/edgar/data/886982/000119312526480298/gs-20261127.htm",
     "description": "424B2"
    },
@@ -6105,6 +6147,18 @@
    }
   ],
   "MS": [
+   {
+    "form": "424B2",
+    "date": "2026-11-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226058507/ms20143_424b2-40215.htm",
+    "description": "PRELIMINARY PRICING SUPPLEMENT NO. 20,143"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/895421/000183988226058506/ms20135_424b2-40207.htm",
+    "description": "PRELIMINARY PRICING SUPPLEMENT NO. 20,135"
+   },
    {
     "form": "424B2",
     "date": "2026-11-27",
@@ -6962,6 +7016,18 @@
    }
   ],
   "C": [
+   {
+    "form": "424B2",
+    "date": "2026-11-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326018409/dp257693_424b2-us26t4234d.htm",
+    "description": "PRICING SUPPLEMENT"
+   },
+   {
+    "form": "424B2",
+    "date": "2026-11-27",
+    "url": "https://www.sec.gov/Archives/edgar/data/831001/000095010326018405/dp257697_424b2-us26t0516d.htm",
+    "description": "PRICING SUPPLEMENT"
+   },
    {
     "form": "424B2",
     "date": "2026-11-27",
@@ -18698,7 +18764,7 @@
    "short_pct": 0.0099
   },
   "MSFT": {
-   "fwd_pe": 20.364996,
+   "fwd_pe": 20.36254,
    "ttm_pe": 25.72286,
    "peg": 1.56,
    "target_mean": 637.3617,
@@ -18731,7 +18797,7 @@
    "short_pct": 0.010299999
   },
   "GOOGL": {
-   "fwd_pe": 17.97432,
+   "fwd_pe": 17.977129,
    "ttm_pe": 14.358224,
    "peg": 0.49,
    "target_mean": 395.1078,
@@ -18742,8 +18808,8 @@
    "short_pct": 0.0134000005
   },
   "META": {
-   "fwd_pe": 17.688295,
-   "ttm_pe": 20.750908,
+   "fwd_pe": 17.630196,
+   "ttm_pe": 21.458889,
    "peg": 1.28,
    "target_mean": 842.53656,
    "target_low": 650.0,
@@ -18753,7 +18819,7 @@
    "short_pct": 0.0271
   },
   "AVGO": {
-   "fwd_pe": 16.111628,
+   "fwd_pe": 16.156197,
    "ttm_pe": 39.890167,
    "peg": 0.95,
    "target_mean": 523.28064,
@@ -18764,7 +18830,7 @@
    "short_pct": 0.0123000005
   },
   "TSLA": {
-   "fwd_pe": 185.25209,
+   "fwd_pe": 184.86168,
    "ttm_pe": 439.56042,
    "peg": 38.0,
    "target_mean": 419.05,
@@ -18808,7 +18874,7 @@
    "short_pct": 0.009
   },
   "V": {
-   "fwd_pe": 25.061258,
+   "fwd_pe": 25.072699,
    "ttm_pe": 34.866882,
    "peg": 1.96,
    "target_mean": 454.10422,
@@ -18863,7 +18929,7 @@
    "short_pct": 0.026800001
   },
   "COST": {
-   "fwd_pe": 43.836197,
+   "fwd_pe": 43.807266,
    "ttm_pe": 52.881023,
    "peg": 4.07,
    "target_mean": 1083.6945,
@@ -18885,7 +18951,7 @@
    "short_pct": 0.0189
   },
   "HD": {
-   "fwd_pe": 22.999403,
+   "fwd_pe": 23.039715,
    "ttm_pe": 25.149305,
    "peg": 244.48,
    "target_mean": 375.40625,
@@ -18984,7 +19050,7 @@
    "short_pct": 0.011
   },
   "CVX": {
-   "fwd_pe": 12.859804,
+   "fwd_pe": 12.875086,
    "ttm_pe": 15.598385,
    "peg": 0.71,
    "target_mean": 241.625,
@@ -18995,7 +19061,7 @@
    "short_pct": 0.0119
   },
   "AMD": {
-   "fwd_pe": 24.06928,
+   "fwd_pe": 24.112055,
    "ttm_pe": 90.713684,
    "peg": 12.81,
    "target_mean": 649.8857,
@@ -19028,7 +19094,7 @@
    "short_pct": 0.0521
   },
   "TMO": {
-   "fwd_pe": 24.581738,
+   "fwd_pe": 24.584684,
    "ttm_pe": 36.02532,
    "peg": 16.98,
    "target_mean": 755.1223,
@@ -19050,7 +19116,7 @@
    "short_pct": 0.0162
   },
   "CSCO": {
-   "fwd_pe": 16.02153,
+   "fwd_pe": 16.041393,
    "ttm_pe": 25.808512,
    "peg": 3.72,
    "target_mean": 129.04167,
@@ -19160,8 +19226,8 @@
    "short_pct": 0.030299999
   },
   "INTU": {
-   "fwd_pe": 10.102286,
-   "ttm_pe": 16.521265,
+   "fwd_pe": 10.521754,
+   "ttm_pe": 15.477519,
    "peg": 0.85,
    "target_mean": 358.54813,
    "target_low": 270.0,
@@ -19270,7 +19336,7 @@
    "short_pct": 0.0148
   },
   "UBER": {
-   "fwd_pe": 15.123657,
+   "fwd_pe": 15.116349,
    "ttm_pe": 39.194115,
    "peg": 0.78,
    "target_mean": 98.16174,
@@ -19281,7 +19347,7 @@
    "short_pct": 0.023699999
   },
   "PFE": {
-   "fwd_pe": 9.654444,
+   "fwd_pe": 9.657158,
    "ttm_pe": 40.74286,
    "peg": 13.59,
    "target_mean": 30.22115,
@@ -19413,7 +19479,7 @@
    "short_pct": 0.0209
   },
   "COP": {
-   "fwd_pe": 11.902484,
+   "fwd_pe": 12.072425,
    "ttm_pe": 14.4151745,
    "peg": 0.61,
    "target_mean": 152.7037,
@@ -19424,7 +19490,7 @@
    "short_pct": 0.0154
   },
   "DE": {
-   "fwd_pe": 28.556078,
+   "fwd_pe": 28.53926,
    "ttm_pe": 36.36687,
    "peg": 41.71,
    "target_mean": 699.18176,
@@ -19468,7 +19534,7 @@
    "short_pct": 0.023599999
   },
   "AMAT": {
-   "fwd_pe": 13.121397,
+   "fwd_pe": 12.998955,
    "ttm_pe": 25.518227,
    "peg": 1.89,
    "target_mean": 557.37146,
@@ -19480,7 +19546,7 @@
   },
   "KLAC": {
    "fwd_pe": 19.869436,
-   "ttm_pe": 30.688452,
+   "ttm_pe": 35.303257,
    "peg": 2.06,
    "target_mean": 218.26923,
    "target_low": 145.0,
@@ -19545,7 +19611,7 @@
    "short_pct": 0.025899999
   },
   "GILD": {
-   "fwd_pe": 17.43997,
+   "fwd_pe": 17.485435,
    "target_mean": 175.92308,
    "target_low": 131.0,
    "target_high": 200.0,
@@ -19675,7 +19741,7 @@
    "short_pct": 0.1245
   },
   "TJX": {
-   "fwd_pe": 25.207287,
+   "fwd_pe": 25.234673,
    "ttm_pe": 26.092558,
    "peg": 1.25,
    "target_mean": 165.4,
@@ -19697,7 +19763,7 @@
    "short_pct": 0.030299999
   },
   "MCK": {
-   "fwd_pe": 20.505339,
+   "fwd_pe": 20.468517,
    "ttm_pe": 27.744648,
    "peg": 1.39,
    "target_mean": 1174.2858,
@@ -19708,7 +19774,7 @@
    "short_pct": 0.0165
   },
   "PLTR": {
-   "fwd_pe": 67.81631,
+   "fwd_pe": 67.652954,
    "ttm_pe": 121.24648,
    "peg": 1.08,
    "target_mean": 222.9,
@@ -19760,7 +19826,7 @@
    "short_pct": 0.0468
   },
   "SOFI": {
-   "fwd_pe": 14.932207,
+   "fwd_pe": 14.861996,
    "ttm_pe": 24.30909,
    "peg": 5.12,
    "target_mean": 20.55909,
@@ -19771,7 +19837,7 @@
    "short_pct": 0.15689999
   },
   "COIN": {
-   "fwd_pe": 42.28089,
+   "fwd_pe": 42.024426,
    "target_mean": 188.37944,
    "target_low": 110.0,
    "target_high": 280.0,
@@ -19791,7 +19857,7 @@
    "short_pct": 0.0444
   },
   "TTWO": {
-   "fwd_pe": 22.818007,
+   "fwd_pe": 22.57196,
    "target_mean": 285.48,
    "target_low": 170.0,
    "target_high": 350.0,
@@ -19834,9 +19900,9 @@
    "fwd_pe": 11.692723,
    "ttm_pe": 10.371212,
    "peg": 0.48,
-   "target_mean": 45.53899,
-   "target_low": 39.232567,
-   "target_high": 63.752956,
+   "target_mean": 45.55372,
+   "target_low": 39.245255,
+   "target_high": 63.77358,
    "rating": "hold",
    "n_analysts": 12,
    "short_pct": 0.0128
@@ -19906,9 +19972,9 @@
    "fwd_pe": 20.912222,
    "ttm_pe": 32.623524,
    "peg": 1.58,
-   "target_mean": 2128.2327,
-   "target_low": 845.97046,
-   "target_high": 2855.1875,
+   "target_mean": 2128.931,
+   "target_low": 846.2481,
+   "target_high": 2856.1245,
    "rating": "strong_buy",
    "n_analysts": 16,
    "short_pct": 0.004

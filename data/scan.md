@@ -1,5 +1,5 @@
-# Short-term scan — 2026-11-27 16:46 ET
-Universe: S&P 500 + S&P 400 (903 names, 909 priced). Filters: price ≥ $10, avg daily dollar volume ≥ $20M, no semiconductors, no names from the tracked list. These are candidates; check news, catalysts and the trading rules before proposing a trade.
+# Short-term scan — 2026-11-27 17:03 ET
+Universe: S&P 500 + S&P 400 (903 names, 910 priced). Filters: price ≥ $10, avg daily dollar volume ≥ $20M, no semiconductors, no names from the tracked list. These are candidates; check news, catalysts and the trading rules before proposing a trade.
 
 ## Market regime
 - **RISK-OFF** · SPY 728.32 (-3.81% vs 50-day, -0.68% vs 200-day) · VIX 23.81
@@ -93,4 +93,4 @@ How to use: for each loser, find the reason. If it's fear, a sector selloff or a
 
 ## Data quality
 - insider: index 2026-11-26: 403 Client Error: Forbidden for url: https://www.sec.gov/Archives/edgar/daily-index/2026/QTR4/form.20261126.idx
-- insider: index 2026-11-27: 403 Client Error: Forbidden for url: https://www.sec.gov/Archives/edgar/daily-index/2026/QTR4/form.20261127.idx
+- insider: index 2026-11-27: 503 Server Error: Service Unavailable for url: https://www.sec.gov/Archives/edgar/daily-index/2026/QTR4/form.20261127.idx
