@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-27 13:13 ET
+# Alerts — watcher run 2026-11-27 14:27 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,11 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-27 14:27 | 1 | ACN | Down 6.2% (regular) | ACN -6.2% at 225.64 vs 240.49 close (regular, 13:55 ET) |  |
+| 11-27 14:27 | 1 | C | Up 4.1% (regular) | C +4.1% at 118.02 vs 113.33 close (regular, 14:05 ET) |  |
+| 11-27 14:27 | 1 | IONQ | Up 5.6% (regular) | IONQ +5.6% at 24.86 vs 23.54 close (regular, 14:20 ET) |  |
+| 11-27 14:27 | 1 | BFLY | Up 6.5% (regular) | BFLY +6.5% at 5.85 vs 5.49 close (regular, 13:20 ET) |  |
+| 11-27 14:27 | 1 | RIVN | Up 4.2% (regular) | RIVN +4.2% at 12.20 vs 11.71 close (regular, 14:20 ET) |  |
 | 11-27 13:13 | 1 | AMD | Up 4.2% (regular) | AMD +4.2% at 423.00 vs 406.03 close (regular, 13:10 ET) |  |
 | 11-27 13:13 | 1 | KLAC | Up 4.9% (regular) | KLAC +4.9% at 140.73 vs 134.20 close (regular, 13:05 ET) |  |
 | 11-27 13:13 | 1 | ARM | Up 6.2% (regular) | ARM +6.2% at 171.51 vs 161.51 close (regular, 13:05 ET) |  |
@@ -151,16 +156,13 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-25 06:00 | 1 | BFLY | Down 8.0% (premarket) | BFLY -8.0% at 5.15 vs 5.60 close (premarket, 05:30 ET) |  |
 | 11-25 04:54 | 1 | NVDA | Down 5.1% (premarket) | NVDA -5.1% at 147.42 vs 155.38 close (premarket, 04:50 ET) |  |
 | 11-25 04:54 | 1 | ORCL | Down 4.2% (premarket) | ORCL -4.2% at 104.90 vs 109.50 close (premarket, 04:50 ET) |  |
-| 11-25 04:54 | 1 | AMD | Down 5.7% (premarket) | AMD -5.7% at 389.60 vs 413.27 close (premarket, 04:50 ET) |  |
-| 11-25 04:54 | 1 | MU | Down 6.0% (premarket) | MU -6.0% at 591.76 vs 629.79 close (premarket, 04:50 ET) |  |
-| 11-25 04:54 | 1 | LRCX | Down 4.7% (premarket) | LRCX -4.7% at 186.90 vs 196.16 close (premarket, 04:30 ET) |  |
-| 11-25 04:54 | 1 | AMAT | Down 5.1% (premarket) | AMAT -5.1% at 307.18 vs 323.76 close (premarket, 04:54 ET) |  |
-| 11-25 04:54 | 1 | KLAC | Down 5.5% (premarket) | KLAC -5.5% at 126.36 vs 133.65 close (premarket, 04:50 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-27 14:27 | 2 | COHR | Up 14.8% (regular) | COHR +14.8% at 225.20 vs 196.19 close (regular, 14:25 ET) |  |
+| 11-27 14:27 | 2 | RDDT | Up 8.7% (regular) | RDDT +8.7% at 99.46 vs 91.51 close (regular, 14:05 ET) |  |
 | 11-27 13:13 | 2 | COHR | Up 15.2% (regular) | COHR +15.2% at 226.00 vs 196.19 close (regular, 13:10 ET) |  |
 | 11-27 13:13 | 2 | LITE | Up 8.1% (regular) | LITE +8.1% at 515.01 vs 476.58 close (regular, 13:10 ET) |  |
 | 11-27 13:13 | 2 | MTSI | Up 8.7% (regular) | MTSI +8.7% at 217.34 vs 199.94 close (regular, 13:05 ET) |  |
@@ -253,9 +255,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-24 15:06 | 2 | SANM | Down 9.5% (regular) | SANM -9.5% at 139.30 vs 153.88 close (regular, 15:05 ET) |  |
 | 11-24 15:06 | 2 | CW | 8-K: 5.02 Executive/director change | 8-K - CURTISS WRIGHT CORP (0000026324) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/26324/000162828026075678/0001628280-26-075678-index.htm) |
 | 11-24 15:06 | 2 | CW | 8-K: 5.02 Executive/director change | 8-K/A - CURTISS WRIGHT CORP (0000026324) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/26324/000162828026075677/0001628280-26-075677-index.htm) |
-| 11-24 14:01 | 2 | P | Down 8.5% (regular) | P -8.5% at 92.42 vs 101.01 close (regular, 14:00 ET) |  |
-| 11-24 14:01 | 2 | ANF | Up 23.9% (regular) | ANF +23.9% at 173.99 vs 140.45 close (regular, 14:00 ET) |  |
-| 11-24 14:01 | 2 | BURL | Up 8.9% (regular) | BURL +8.9% at 256.04 vs 235.16 close (regular, 14:00 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
@@ -267,4 +266,4 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 ## Watcher health
 
-- All checks ran.
+- news/merger: HTTPSConnectionPool(host='finnhub.io', port=443): Read timed out. (read timeout=20)
