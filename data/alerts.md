@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-27 04:10 ET
+# Alerts — watcher run 2026-11-27 05:28 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-27 05:28 | 2 | TXN | Analyst | Will Earnings Upgrades Change Texas Instruments Stock Narrative | [link](https://finnhub.io/api/news?id=c82bbbd71cd35becb0fa455de0b7e23d54bba7bb2e1849275d169154f6b13ac4) |
 | 11-27 04:10 | 1 | VRTX | Down 7.3% (premarket) | VRTX -7.3% at 523.14 vs 564.12 close (premarket, 19:55 ET) |  |
 | 11-26 17:24 | 1 | MO | Deal | Marlboro Maker Altria Eyes Takeover Of $34 Billion Tobacco Giant. It Has Until Christmas Eve To Decide. | [link](https://finnhub.io/api/news?id=4355ae7fdcd70424b9f9db65afa901b99c9dacdeb187b3c272f427994286de2f) |
 | 11-26 16:19 | 1 | VRTX | Down 7.3% (after-hours) | VRTX -7.3% at 523.14 vs 564.12 close (after-hours, 19:55 ET) |  |
@@ -155,7 +156,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-24 11:48 | 1 | HOOD | Down 4.7% (regular) | HOOD -4.7% at 64.21 vs 67.37 close (regular, 11:45 ET) |  |
 | 11-24 11:48 | 1 | TTWO | Up 6.3% (regular) | TTWO +6.3% at 222.60 vs 209.36 close (regular, 11:45 ET) |  |
 | 11-24 11:48 | 1 | RBLX | Up 4.1% (regular) | RBLX +4.1% at 53.77 vs 51.65 close (regular, 11:45 ET) |  |
-| 11-24 11:48 | 1 | RKLB | Down 8.2% (regular) | RKLB -8.2% at 45.54 vs 49.63 close (regular, 11:45 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
