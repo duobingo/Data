@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-27 14:27 ET
+# Alerts — watcher run 2026-11-27 15:38 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,9 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-27 15:38 | 1 | ACHR | Up 6.1% (regular) | ACHR +6.1% at 3.23 vs 3.04 close (regular, 15:30 ET) |  |
+| 11-27 15:38 | 2 | AMD | Analyst | AMD Stocks Rise Despite Erste Group Downgrade on Valuation | [link](https://finnhub.io/api/news?id=098ee2c774d0732b0376ef4eca591c1e8716eb3a65f85b006d31879eb25ce692) |
+| 11-27 15:38 | 2 | RTX | Contract/customer | RTX Unit Pratt & Whitney Wins $2.5 Billion Navy Contract | [link](https://finnhub.io/api/news?id=104bab81f65ed881d267ac66227ad28bfce1b7eabc9ea0992a1aae01c13e327f) |
 | 11-27 14:27 | 1 | ACN | Down 6.2% (regular) | ACN -6.2% at 225.64 vs 240.49 close (regular, 13:55 ET) |  |
 | 11-27 14:27 | 1 | C | Up 4.1% (regular) | C +4.1% at 118.02 vs 113.33 close (regular, 14:05 ET) |  |
 | 11-27 14:27 | 1 | IONQ | Up 5.6% (regular) | IONQ +5.6% at 24.86 vs 23.54 close (regular, 14:20 ET) |  |
@@ -153,14 +156,13 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-25 06:00 | 1 | MU | Down 5.4% (premarket) | MU -5.4% at 595.60 vs 629.79 close (premarket, 06:00 ET) |  |
 | 11-25 06:00 | 1 | PANW | Down 4.0% (premarket) | PANW -4.0% at 338.86 vs 352.99 close (premarket, 05:56 ET) |  |
 | 11-25 06:00 | 1 | CRWD | Down 4.4% (premarket) | CRWD -4.4% at 201.52 vs 210.86 close (premarket, 05:50 ET) |  |
-| 11-25 06:00 | 1 | BFLY | Down 8.0% (premarket) | BFLY -8.0% at 5.15 vs 5.60 close (premarket, 05:30 ET) |  |
-| 11-25 04:54 | 1 | NVDA | Down 5.1% (premarket) | NVDA -5.1% at 147.42 vs 155.38 close (premarket, 04:50 ET) |  |
-| 11-25 04:54 | 1 | ORCL | Down 4.2% (premarket) | ORCL -4.2% at 104.90 vs 109.50 close (premarket, 04:50 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-27 15:38 | 2 | RVTY | Up 20.2% (regular) | RVTY +20.2% at 181.26 vs 150.82 close (regular, 14:15 ET) |  |
+| 11-27 15:38 | 2 | CDE | Up 8.3% (regular) | CDE +8.3% at 12.73 vs 11.75 close (regular, 15:35 ET) |  |
 | 11-27 14:27 | 2 | COHR | Up 14.8% (regular) | COHR +14.8% at 225.20 vs 196.19 close (regular, 14:25 ET) |  |
 | 11-27 14:27 | 2 | RDDT | Up 8.7% (regular) | RDDT +8.7% at 99.46 vs 91.51 close (regular, 14:05 ET) |  |
 | 11-27 13:13 | 2 | COHR | Up 15.2% (regular) | COHR +15.2% at 226.00 vs 196.19 close (regular, 13:10 ET) |  |
@@ -250,11 +252,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-24 15:59 | 2 | DKS | Up 14.9% (regular) | DKS +14.9% at 153.58 vs 133.67 close (regular, 15:55 ET) |  |
 | 11-24 15:59 | 2 | WDAY | 8-K: 2.02 Earnings results | 8-K - Workday, Inc. (0001327811) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1327811/000132781126000057/0001327811-26-000057-index.htm) |
 | 11-24 15:59 | 2 | NTNX | 8-K: 2.02 Earnings results; 5.02 Executive/director change | 8-K - Nutanix, Inc. (0001618732) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1618732/000117184326007693/0001171843-26-007693-index.htm) |
-| 11-24 15:06 | 2 | DELL | Down 12.0% (regular) | DELL -12.0% at 294.70 vs 334.91 close (regular, 15:05 ET) |  |
-| 11-24 15:06 | 2 | TER | Down 8.8% (regular) | TER -8.8% at 212.90 vs 233.51 close (regular, 15:05 ET) |  |
-| 11-24 15:06 | 2 | SANM | Down 9.5% (regular) | SANM -9.5% at 139.30 vs 153.88 close (regular, 15:05 ET) |  |
-| 11-24 15:06 | 2 | CW | 8-K: 5.02 Executive/director change | 8-K - CURTISS WRIGHT CORP (0000026324) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/26324/000162828026075678/0001628280-26-075678-index.htm) |
-| 11-24 15:06 | 2 | CW | 8-K: 5.02 Executive/director change | 8-K/A - CURTISS WRIGHT CORP (0000026324) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/26324/000162828026075677/0001628280-26-075677-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
@@ -266,4 +263,4 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 ## Watcher health
 
-- news/merger: HTTPSConnectionPool(host='finnhub.io', port=443): Read timed out. (read timeout=20)
+- All checks ran.
