@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-27 11:06 ET
+# Alerts — watcher run 2026-11-27 12:14 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,13 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-27 12:14 | 1 | QCOM | Up 6.1% (regular) | QCOM +6.1% at 178.89 vs 168.66 close (regular, 12:15 ET) |  |
+| 11-27 12:14 | 1 | TXN | Up 4.1% (regular) | TXN +4.1% at 281.39 vs 270.19 close (regular, 12:15 ET) |  |
+| 11-27 12:14 | 1 | ANET | Up 6.4% (regular) | ANET +6.4% at 174.45 vs 163.99 close (regular, 12:15 ET) |  |
+| 11-27 12:14 | 1 | VRTX | Down 5.6% (regular) | VRTX -5.6% at 532.77 vs 564.12 close (regular, 12:15 ET) |  |
+| 11-27 12:14 | 1 | RKLB | Up 6.5% (regular) | RKLB +6.5% at 50.06 vs 47.02 close (regular, 12:15 ET) |  |
+| 11-27 12:14 | 1 | ARM | Up 4.3% (regular) | ARM +4.3% at 168.49 vs 161.51 close (regular, 12:15 ET) |  |
+| 11-27 12:14 | 1 | BFLY | Up 4.6% (regular) | BFLY +4.6% at 5.74 vs 5.49 close (regular, 12:10 ET) |  |
 | 11-27 11:06 | 1 | AMZN | Up 4.0% (regular) | AMZN +4.0% at 254.28 vs 244.43 close (regular, 11:05 ET) |  |
 | 11-27 11:06 | 1 | TSLA | Up 4.9% (regular) | TSLA +4.9% at 398.77 vs 380.14 close (regular, 11:05 ET) |  |
 | 11-27 11:06 | 1 | QCOM | Up 4.6% (regular) | QCOM +4.6% at 176.38 vs 168.66 close (regular, 11:05 ET) |  |
@@ -149,13 +156,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-25 04:54 | 1 | SMCI | Down 4.2% (premarket) | SMCI -4.2% at 21.68 vs 22.62 close (premarket, 04:50 ET) |  |
 | 11-25 04:54 | 1 | ARM | Down 6.3% (premarket) | ARM -6.3% at 151.32 vs 161.56 close (premarket, 04:54 ET) |  |
 | 11-25 04:54 | 1 | FIX | Down 5.1% (premarket) | FIX -5.1% at 1041.00 vs 1096.56 close (premarket, 04:54 ET) |  |
-| 11-24 17:00 | 1 | QCOM | 8-K: 5.02 Executive/director change | 8-K - QUALCOMM INC/DE (0000804328) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/804328/000080432826000138/0000804328-26-000138-index.htm) |
-| 11-24 15:59 | 1 | ANET | Down 5.6% (regular) | ANET -5.6% at 168.39 vs 178.31 close (regular, 15:55 ET) |  |
-| 11-24 15:59 | 1 | MDT | Down 4.3% (regular) | MDT -4.3% at 96.35 vs 100.72 close (regular, 15:55 ET) |  |
-| 11-24 15:59 | 1 | COIN | Down 6.0% (regular) | COIN -6.0% at 102.22 vs 108.78 close (regular, 15:55 ET) |  |
-| 11-24 15:59 | 1 | SOUN | Down 9.2% (regular) | SOUN -9.2% at 2.63 vs 2.89 close (regular, 15:55 ET) |  |
-| 11-24 15:06 | 1 | ORCL | Down 4.1% (regular) | ORCL -4.1% at 109.01 vs 113.68 close (regular, 15:05 ET) |  |
-| 11-24 14:01 | 1 | ABBV | Up 4.2% (regular) | ABBV +4.2% at 300.70 vs 288.45 close (regular, 14:00 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
@@ -263,18 +263,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-24 12:56 | 2 | PINS | Up 13.5% (regular) | PINS +13.5% at 19.17 vs 16.90 close (regular, 12:58 ET) |  |
 | 11-24 12:56 | 2 | RMBS | Down 8.9% (regular) | RMBS -8.9% at 68.91 vs 75.68 close (regular, 12:55 ET) |  |
 | 11-24 12:56 | 2 | TEX | Up 8.5% (regular) | TEX +8.5% at 59.19 vs 54.53 close (regular, 12:55 ET) |  |
-| 11-24 11:48 | 2 | CIEN | Down 9.4% (regular) | CIEN -9.4% at 239.76 vs 264.73 close (regular, 11:45 ET) |  |
-| 11-24 11:48 | 2 | CSGP | Up 8.1% (regular) | CSGP +8.1% at 32.64 vs 30.20 close (regular, 11:45 ET) |  |
-| 11-24 11:48 | 2 | FLEX | Down 10.6% (regular) | FLEX -10.6% at 66.10 vs 73.94 close (regular, 11:45 ET) |  |
-| 11-24 11:48 | 2 | HPE | Down 16.4% (regular) | HPE -16.4% at 40.13 vs 48.02 close (regular, 11:45 ET) |  |
-| 11-24 11:48 | 2 | INTC | Down 8.6% (regular) | INTC -8.6% at 54.54 vs 59.66 close (regular, 11:45 ET) |  |
-| 11-24 11:48 | 2 | LITE | Down 10.7% (regular) | LITE -10.7% at 486.20 vs 544.38 close (regular, 11:45 ET) |  |
-| 11-24 11:48 | 2 | MRVL | Down 10.0% (regular) | MRVL -10.0% at 130.24 vs 144.74 close (regular, 11:45 ET) |  |
-| 11-24 11:48 | 2 | AEIS | Down 9.4% (regular) | AEIS -9.4% at 194.02 vs 214.07 close (regular, 11:45 ET) |  |
-| 11-24 11:48 | 2 | ALGM | Down 8.8% (regular) | ALGM -8.8% at 26.72 vs 29.30 close (regular, 11:45 ET) |  |
-| 11-24 11:48 | 2 | MTSI | Down 12.5% (regular) | MTSI -12.5% at 202.47 vs 231.30 close (regular, 11:45 ET) |  |
-| 11-24 11:48 | 2 | TTMI | Down 12.9% (regular) | TTMI -12.9% at 59.73 vs 68.57 close (regular, 11:45 ET) |  |
-| 11-24 11:48 | 2 | VIAV | Down 9.7% (regular) | VIAV -9.7% at 26.77 vs 29.66 close (regular, 11:45 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
