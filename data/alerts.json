@@ -1,49 +1,6 @@
 {
  "alerts": [
   {
-   "id": "c68e9f7901308060",
-   "kind": "price",
-   "group": "tracked",
-   "ticker": "CRWD",
-   "name": "CrowdStrike",
-   "sector": "Information Technology",
-   "severity": 1,
-   "category": "Down 5.6% (after-hours)",
-   "title": "CRWD -5.6% at 216.50 vs 229.44 close (after-hours, 17:45 ET)",
-   "url": "",
-   "move_pct": -5.64,
-   "first_seen": "2026-11-20T17:50-05:00"
-  },
-  {
-   "id": "5eff7a1fd97c833b",
-   "kind": "news",
-   "group": "tracked",
-   "ticker": "NVDA",
-   "name": "Nvidia",
-   "sector": "Information Technology",
-   "severity": 2,
-   "category": "Legal/regulatory",
-   "title": "Nvidia\u2019s Stock Slide Deepens After Report of SEC Accounting Probe",
-   "source": "Yahoo",
-   "url": "https://finnhub.io/api/news?id=8ea45aa89b25bf662ec532ef89c9c04f096153d6e9dc711db4f16a9cd9d560e8",
-   "published": "2026-11-20 16:43",
-   "first_seen": "2026-11-20T17:50-05:00"
-  },
-  {
-   "id": "24e2c6df0458fbe0",
-   "kind": "filing",
-   "group": "universe",
-   "ticker": "TSN",
-   "name": "Tyson Foods",
-   "sector": "",
-   "severity": 2,
-   "category": "8-K: 5.02 Executive/director change",
-   "title": "8-K - TYSON FOODS, INC. (0000100493) (Filer)",
-   "url": "https://www.sec.gov/Archives/edgar/data/100493/000010049326000085/0000100493-26-000085-index.htm",
-   "published": "2026-11-20 17:10",
-   "first_seen": "2026-11-20T17:50-05:00"
-  },
-  {
    "id": "9a67d0878e762472",
    "kind": "price",
    "group": "tracked",
@@ -10594,6 +10551,6 @@
    "first_seen": "2026-11-27T16:40-05:00"
   }
  ],
- "last_run": "2026-11-27T17:40-05:00",
+ "last_run": "2026-11-27T18:37-05:00",
  "errors": []
 }

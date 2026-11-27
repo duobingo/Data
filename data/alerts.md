@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-27 17:40 ET
+# Alerts — watcher run 2026-11-27 18:37 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -235,8 +235,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-25 04:54 | 2 | NTNX | Down 12.1% (premarket) | NTNX -12.1% at 47.97 vs 54.59 close (premarket, 04:40 ET) |  |
 | 11-24 18:52 | 2 | NTNX | Down 8.6% (after-hours) | NTNX -8.6% at 49.91 vs 54.59 close (after-hours, 18:40 ET) |  |
 | 11-24 18:52 | 2 | OC | Down 10.9% (after-hours) | OC -10.9% at 103.19 vs 115.87 close (after-hours, 18:20 ET) |  |
-| 11-24 17:59 | 2 | NVST | 8-K: 1.01 Material agreement | 8-K - Envista Holdings Corp (0001757073) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1757073/000121390026123771/0001213900-26-123771-index.htm) |
-| 11-24 17:59 | 2 | PYPL | 8-K: 5.02 Executive/director change | 8-K/A - PayPal Holdings, Inc. (0001633917) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1633917/000119312526476056/0001193125-26-476056-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
