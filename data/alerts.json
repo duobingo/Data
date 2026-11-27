@@ -1,20 +1,6 @@
 {
  "alerts": [
   {
-   "id": "27c02c64955c6666",
-   "kind": "price",
-   "group": "universe",
-   "ticker": "DTE",
-   "name": "DTE Energy",
-   "sector": "Utilities",
-   "severity": 2,
-   "category": "Down 11.8% (after-hours)",
-   "title": "DTE -11.8% at 120.00 vs 136.13 close (after-hours, 18:30 ET)",
-   "url": "",
-   "move_pct": -11.85,
-   "first_seen": "2026-11-19T19:28-05:00"
-  },
-  {
    "id": "b7f65e9db9e88712",
    "kind": "price",
    "group": "tracked",
@@ -13003,6 +12989,6 @@
    "first_seen": "2026-11-26T17:24-05:00"
   }
  ],
- "last_run": "2026-11-26T19:26-05:00",
+ "last_run": "2026-11-26T20:54-05:00",
  "errors": []
 }
