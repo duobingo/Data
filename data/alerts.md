@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-27 09:05 ET
+# Alerts — watcher run 2026-11-27 10:02 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,8 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-27 10:02 | 1 | VRTX | Down 8.8% (regular) | VRTX -8.8% at 514.53 vs 564.12 close (regular, 10:00 ET) |  |
+| 11-27 10:02 | 1 | SHOP | Up 5.4% (regular) | SHOP +5.4% at 140.54 vs 133.40 close (regular, 10:00 ET) |  |
 | 11-27 07:47 | 2 | AMD | Analyst | AMD Stock Gets A Downgrade From Erste Group – Analyst Flags Valuation Concerns, Low Potential For Share Gains | [link](https://finnhub.io/api/news?id=aecdc45d18341b37d90e2f76ede6d5ba4b6b4cd088833dc2dba7f10042d71957) |
 | 11-27 07:47 | 1 | UBER | Deal | Uber Secures 87.13% of Delivery Hero Shares in Takeover Bid | [link](https://finnhub.io/api/news?id=e8c1cbc232c57dc616939b9e8a47d2594911accf846bc4089c96d7f1fd9b7179) |
 | 11-27 05:28 | 2 | TXN | Analyst | Will Earnings Upgrades Change Texas Instruments Stock Narrative | [link](https://finnhub.io/api/news?id=c82bbbd71cd35becb0fa455de0b7e23d54bba7bb2e1849275d169154f6b13ac4) |
@@ -154,13 +156,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-24 11:48 | 1 | AVGO | Down 4.1% (regular) | AVGO -4.1% at 300.85 vs 313.55 close (regular, 11:45 ET) |  |
 | 11-24 11:48 | 1 | TXN | Down 9.9% (regular) | TXN -9.9% at 262.29 vs 291.19 close (regular, 11:45 ET) |  |
 | 11-24 11:48 | 1 | KLAC | Down 10.4% (regular) | KLAC -10.4% at 130.74 vs 145.85 close (regular, 11:45 ET) |  |
-| 11-24 11:48 | 1 | ADI | Down 18.1% (regular) | ADI -18.1% at 310.04 vs 378.75 close (regular, 11:45 ET) |  |
-| 11-24 11:48 | 1 | HOOD | Down 4.7% (regular) | HOOD -4.7% at 64.21 vs 67.37 close (regular, 11:45 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-27 10:02 | 2 | SNDK | Down 15.4% (regular) | SNDK -15.4% at 79.89 vs 94.39 close (regular, 10:00 ET) |  |
 | 11-27 04:10 | 2 | SNDK | Down 18.8% (premarket) | SNDK -18.8% at 76.68 vs 94.39 close (premarket, 19:55 ET) |  |
 | 11-26 16:19 | 2 | SNDK | Down 18.8% (after-hours) | SNDK -18.8% at 76.68 vs 94.39 close (after-hours, 19:55 ET) |  |
 | 11-26 09:38 | 2 | SNDK | Down 18.8% (regular) | SNDK -18.8% at 76.68 vs 94.39 close (regular, 19:55 ET) |  |
@@ -309,8 +310,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-24 10:31 | 2 | TTMI | Down 11.6% (regular) | TTMI -11.6% at 60.61 vs 68.57 close (regular, 10:30 ET) |  |
 | 11-24 10:31 | 2 | VIAV | Down 8.5% (regular) | VIAV -8.5% at 27.13 vs 29.66 close (regular, 10:30 ET) |  |
 | 11-24 10:31 | 2 | VICR | Down 11.3% (regular) | VICR -11.3% at 126.01 vs 142.04 close (regular, 10:30 ET) |  |
-| 11-24 09:24 | 2 | ANF | Up 8.1% (premarket) | ANF +8.1% at 151.89 vs 140.45 close (premarket, 09:23 ET) |  |
-| 11-24 09:24 | 2 | DKS | Up 12.4% (premarket) | DKS +12.4% at 150.26 vs 133.67 close (premarket, 09:20 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
