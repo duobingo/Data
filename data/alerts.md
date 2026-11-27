@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-27 12:14 ET
+# Alerts — watcher run 2026-11-27 13:13 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,11 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-27 13:13 | 1 | AMD | Up 4.2% (regular) | AMD +4.2% at 423.00 vs 406.03 close (regular, 13:10 ET) |  |
+| 11-27 13:13 | 1 | KLAC | Up 4.9% (regular) | KLAC +4.9% at 140.73 vs 134.20 close (regular, 13:05 ET) |  |
+| 11-27 13:13 | 1 | ARM | Up 6.2% (regular) | ARM +6.2% at 171.51 vs 161.51 close (regular, 13:05 ET) |  |
+| 11-27 13:13 | 1 | SPCX | Up 4.3% (regular) | SPCX +4.3% at 132.97 vs 127.44 close (regular, 13:10 ET) |  |
+| 11-27 13:13 | 1 | OKLO | Up 7.6% (regular) | OKLO +7.6% at 20.95 vs 19.47 close (regular, 13:10 ET) |  |
 | 11-27 12:14 | 1 | QCOM | Up 6.1% (regular) | QCOM +6.1% at 178.89 vs 168.66 close (regular, 12:15 ET) |  |
 | 11-27 12:14 | 1 | TXN | Up 4.1% (regular) | TXN +4.1% at 281.39 vs 270.19 close (regular, 12:15 ET) |  |
 | 11-27 12:14 | 1 | ANET | Up 6.4% (regular) | ANET +6.4% at 174.45 vs 163.99 close (regular, 12:15 ET) |  |
@@ -151,16 +156,16 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-25 04:54 | 1 | LRCX | Down 4.7% (premarket) | LRCX -4.7% at 186.90 vs 196.16 close (premarket, 04:30 ET) |  |
 | 11-25 04:54 | 1 | AMAT | Down 5.1% (premarket) | AMAT -5.1% at 307.18 vs 323.76 close (premarket, 04:54 ET) |  |
 | 11-25 04:54 | 1 | KLAC | Down 5.5% (premarket) | KLAC -5.5% at 126.36 vs 133.65 close (premarket, 04:50 ET) |  |
-| 11-25 04:54 | 1 | ANET | Down 4.7% (premarket) | ANET -4.7% at 160.64 vs 168.56 close (premarket, 04:51 ET) |  |
-| 11-25 04:54 | 1 | PLTR | Down 4.1% (premarket) | PLTR -4.1% at 154.50 vs 161.18 close (premarket, 04:54 ET) |  |
-| 11-25 04:54 | 1 | SMCI | Down 4.2% (premarket) | SMCI -4.2% at 21.68 vs 22.62 close (premarket, 04:50 ET) |  |
-| 11-25 04:54 | 1 | ARM | Down 6.3% (premarket) | ARM -6.3% at 151.32 vs 161.56 close (premarket, 04:54 ET) |  |
-| 11-25 04:54 | 1 | FIX | Down 5.1% (premarket) | FIX -5.1% at 1041.00 vs 1096.56 close (premarket, 04:54 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-27 13:13 | 2 | COHR | Up 15.2% (regular) | COHR +15.2% at 226.00 vs 196.19 close (regular, 13:10 ET) |  |
+| 11-27 13:13 | 2 | LITE | Up 8.1% (regular) | LITE +8.1% at 515.01 vs 476.58 close (regular, 13:10 ET) |  |
+| 11-27 13:13 | 2 | MTSI | Up 8.7% (regular) | MTSI +8.7% at 217.34 vs 199.94 close (regular, 13:05 ET) |  |
+| 11-27 13:13 | 2 | TTMI | Up 8.7% (regular) | TTMI +8.7% at 63.26 vs 58.17 close (regular, 13:05 ET) |  |
+| 11-27 13:13 | 2 | CCL | 8-K: 5.02 Executive/director change | 8-K - Carnival Corp Ltd. (0000815097) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/815097/000081509726000117/0000815097-26-000117-index.htm) |
 | 11-27 11:06 | 2 | COHR | Up 10.6% (regular) | COHR +10.6% at 217.05 vs 196.19 close (regular, 11:05 ET) |  |
 | 11-27 11:06 | 2 | SNDK | Down 11.8% (regular) | SNDK -11.8% at 83.28 vs 94.39 close (regular, 11:05 ET) |  |
 | 11-27 10:02 | 2 | SNDK | Down 15.4% (regular) | SNDK -15.4% at 79.89 vs 94.39 close (regular, 10:00 ET) |  |
@@ -251,18 +256,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-24 14:01 | 2 | P | Down 8.5% (regular) | P -8.5% at 92.42 vs 101.01 close (regular, 14:00 ET) |  |
 | 11-24 14:01 | 2 | ANF | Up 23.9% (regular) | ANF +23.9% at 173.99 vs 140.45 close (regular, 14:00 ET) |  |
 | 11-24 14:01 | 2 | BURL | Up 8.9% (regular) | BURL +8.9% at 256.04 vs 235.16 close (regular, 14:00 ET) |  |
-| 11-24 12:56 | 2 | BE | Down 8.3% (regular) | BE -8.3% at 154.27 vs 168.15 close (regular, 12:55 ET) |  |
-| 11-24 12:56 | 2 | COHR | Down 8.3% (regular) | COHR -8.3% at 197.96 vs 215.81 close (regular, 12:55 ET) |  |
-| 11-24 12:56 | 2 | DLTR | Up 12.0% (regular) | DLTR +12.0% at 155.82 vs 139.10 close (regular, 12:55 ET) |  |
-| 11-24 12:56 | 2 | MPWR | Down 8.9% (regular) | MPWR -8.9% at 1215.80 vs 1333.88 close (regular, 12:55 ET) |  |
-| 11-24 12:56 | 2 | SNDK | Down 17.6% (regular) | SNDK -17.6% at 77.75 vs 94.39 close (regular, 12:55 ET) |  |
-| 11-24 12:56 | 2 | ARWR | Up 10.6% (regular) | ARWR +10.6% at 48.73 vs 44.04 close (regular, 12:55 ET) |  |
-| 11-24 12:56 | 2 | CYTK | Up 9.6% (regular) | CYTK +9.6% at 58.93 vs 53.79 close (regular, 12:55 ET) |  |
-| 11-24 12:56 | 2 | ENTG | Down 9.0% (regular) | ENTG -9.0% at 129.31 vs 142.06 close (regular, 12:55 ET) |  |
-| 11-24 12:56 | 2 | FORM | Down 10.8% (regular) | FORM -10.8% at 72.80 vs 81.57 close (regular, 12:55 ET) |  |
-| 11-24 12:56 | 2 | PINS | Up 13.5% (regular) | PINS +13.5% at 19.17 vs 16.90 close (regular, 12:58 ET) |  |
-| 11-24 12:56 | 2 | RMBS | Down 8.9% (regular) | RMBS -8.9% at 68.91 vs 75.68 close (regular, 12:55 ET) |  |
-| 11-24 12:56 | 2 | TEX | Up 8.5% (regular) | TEX +8.5% at 59.19 vs 54.53 close (regular, 12:55 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
