@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-27 02:54 ET
+# Alerts — watcher run 2026-11-27 04:10 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-27 04:10 | 1 | VRTX | Down 7.3% (premarket) | VRTX -7.3% at 523.14 vs 564.12 close (premarket, 19:55 ET) |  |
 | 11-26 17:24 | 1 | MO | Deal | Marlboro Maker Altria Eyes Takeover Of $34 Billion Tobacco Giant. It Has Until Christmas Eve To Decide. | [link](https://finnhub.io/api/news?id=4355ae7fdcd70424b9f9db65afa901b99c9dacdeb187b3c272f427994286de2f) |
 | 11-26 16:19 | 1 | VRTX | Down 7.3% (after-hours) | VRTX -7.3% at 523.14 vs 564.12 close (after-hours, 19:55 ET) |  |
 | 11-26 09:38 | 1 | VRTX | Down 7.3% (regular) | VRTX -7.3% at 523.14 vs 564.12 close (regular, 19:55 ET) |  |
@@ -155,12 +156,12 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-24 11:48 | 1 | TTWO | Up 6.3% (regular) | TTWO +6.3% at 222.60 vs 209.36 close (regular, 11:45 ET) |  |
 | 11-24 11:48 | 1 | RBLX | Up 4.1% (regular) | RBLX +4.1% at 53.77 vs 51.65 close (regular, 11:45 ET) |  |
 | 11-24 11:48 | 1 | RKLB | Down 8.2% (regular) | RKLB -8.2% at 45.54 vs 49.63 close (regular, 11:45 ET) |  |
-| 11-24 11:48 | 1 | IONQ | Down 4.3% (regular) | IONQ -4.3% at 22.34 vs 23.34 close (regular, 11:45 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-27 04:10 | 2 | SNDK | Down 18.8% (premarket) | SNDK -18.8% at 76.68 vs 94.39 close (premarket, 19:55 ET) |  |
 | 11-26 16:19 | 2 | SNDK | Down 18.8% (after-hours) | SNDK -18.8% at 76.68 vs 94.39 close (after-hours, 19:55 ET) |  |
 | 11-26 09:38 | 2 | SNDK | Down 18.8% (regular) | SNDK -18.8% at 76.68 vs 94.39 close (regular, 19:55 ET) |  |
 | 11-26 04:51 | 2 | SNDK | Down 18.8% (premarket) | SNDK -18.8% at 76.68 vs 94.39 close (premarket, 19:55 ET) |  |
@@ -310,7 +311,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-24 10:31 | 2 | VICR | Down 11.3% (regular) | VICR -11.3% at 126.01 vs 142.04 close (regular, 10:30 ET) |  |
 | 11-24 09:24 | 2 | ANF | Up 8.1% (premarket) | ANF +8.1% at 151.89 vs 140.45 close (premarket, 09:23 ET) |  |
 | 11-24 09:24 | 2 | DKS | Up 12.4% (premarket) | DKS +12.4% at 150.26 vs 133.67 close (premarket, 09:20 ET) |  |
-| 11-24 09:24 | 2 | JAZZ | Down 9.9% (premarket) | JAZZ -9.9% at 210.00 vs 233.19 close (premarket, 09:23 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 

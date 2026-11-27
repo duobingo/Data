@@ -12987,8 +12987,36 @@
    "url": "https://finnhub.io/api/news?id=4355ae7fdcd70424b9f9db65afa901b99c9dacdeb187b3c272f427994286de2f",
    "published": "2026-11-26 16:21",
    "first_seen": "2026-11-26T17:24-05:00"
+  },
+  {
+   "id": "360b49d4deadea77",
+   "kind": "price",
+   "group": "tracked",
+   "ticker": "VRTX",
+   "name": "Vertex Pharmaceuticals",
+   "sector": "Health Care",
+   "severity": 1,
+   "category": "Down 7.3% (premarket)",
+   "title": "VRTX -7.3% at 523.14 vs 564.12 close (premarket, 19:55 ET)",
+   "url": "",
+   "move_pct": -7.26,
+   "first_seen": "2026-11-27T04:10-05:00"
+  },
+  {
+   "id": "bec53c467f3dabec",
+   "kind": "price",
+   "group": "universe",
+   "ticker": "SNDK",
+   "name": "Sandisk",
+   "sector": "Information Technology",
+   "severity": 2,
+   "category": "Down 18.8% (premarket)",
+   "title": "SNDK -18.8% at 76.68 vs 94.39 close (premarket, 19:55 ET)",
+   "url": "",
+   "move_pct": -18.77,
+   "first_seen": "2026-11-27T04:10-05:00"
   }
  ],
- "last_run": "2026-11-27T02:54-05:00",
+ "last_run": "2026-11-27T04:10-05:00",
  "errors": []
 }
