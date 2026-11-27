@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-27 15:38 ET
+# Alerts — watcher run 2026-11-27 16:40 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -6,6 +6,7 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-27 16:40 | 1 | ACN | Down 6.7% (after-hours) | ACN -6.7% at 225.64 vs 241.84 close (after-hours, 14:10 ET) |  |
 | 11-27 15:38 | 1 | ACHR | Up 6.1% (regular) | ACHR +6.1% at 3.23 vs 3.04 close (regular, 15:30 ET) |  |
 | 11-27 15:38 | 2 | AMD | Analyst | AMD Stocks Rise Despite Erste Group Downgrade on Valuation | [link](https://finnhub.io/api/news?id=098ee2c774d0732b0376ef4eca591c1e8716eb3a65f85b006d31879eb25ce692) |
 | 11-27 15:38 | 2 | RTX | Contract/customer | RTX Unit Pratt & Whitney Wins $2.5 Billion Navy Contract | [link](https://finnhub.io/api/news?id=104bab81f65ed881d267ac66227ad28bfce1b7eabc9ea0992a1aae01c13e327f) |
@@ -155,12 +156,14 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-25 07:04 | 2 | DE | 8-K: 2.02 Earnings results | 8-K - DEERE & CO (0000315189) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/315189/000110465926131741/0001104659-26-131741-index.htm) |
 | 11-25 06:00 | 1 | MU | Down 5.4% (premarket) | MU -5.4% at 595.60 vs 629.79 close (premarket, 06:00 ET) |  |
 | 11-25 06:00 | 1 | PANW | Down 4.0% (premarket) | PANW -4.0% at 338.86 vs 352.99 close (premarket, 05:56 ET) |  |
-| 11-25 06:00 | 1 | CRWD | Down 4.4% (premarket) | CRWD -4.4% at 201.52 vs 210.86 close (premarket, 05:50 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
 | First seen (ET) | Sev | Ticker | Type | What | Link |
 |---|---|---|---|---|---|
+| 11-27 16:40 | 2 | RVTY | Up 19.8% (after-hours) | RVTY +19.8% at 181.26 vs 151.27 close (after-hours, 14:15 ET) |  |
+| 11-27 16:40 | 2 | SLM | Down 9.8% (after-hours) | SLM -9.8% at 15.60 vs 17.30 close (after-hours, 14:15 ET) |  |
+| 11-27 16:40 | 2 | VTRS | 8-K: 5.02 Executive/director change | 8-K - Viatris Inc (0001792044) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1792044/000114036126045892/0001140361-26-045892-index.htm) |
 | 11-27 15:38 | 2 | RVTY | Up 20.2% (regular) | RVTY +20.2% at 181.26 vs 150.82 close (regular, 14:15 ET) |  |
 | 11-27 15:38 | 2 | CDE | Up 8.3% (regular) | CDE +8.3% at 12.73 vs 11.75 close (regular, 15:35 ET) |  |
 | 11-27 14:27 | 2 | COHR | Up 14.8% (regular) | COHR +14.8% at 225.20 vs 196.19 close (regular, 14:25 ET) |  |
@@ -247,11 +250,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-24 17:00 | 2 | KEYS | 8-K: 5.02 Executive/director change | 8-K/A - Keysight Technologies, Inc. (0001601046) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1601046/000160104626000045/0001601046-26-000045-index.htm) |
 | 11-24 17:00 | 2 | ADSK | 8-K: 2.02 Earnings results | 8-K - Autodesk, Inc. (0000769397) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/769397/000076939726000069/0000769397-26-000069-index.htm) |
 | 11-24 17:00 | 2 | PODD | 8-K: 5.02 Executive/director change | 8-K - INSULET CORP (0001145197) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1145197/000119312526475638/0001193125-26-475638-index.htm) |
-| 11-24 15:59 | 2 | BG | Down 8.7% (regular) | BG -8.7% at 83.94 vs 91.97 close (regular, 15:55 ET) |  |
-| 11-24 15:59 | 2 | ANF | Up 19.7% (regular) | ANF +19.7% at 168.13 vs 140.45 close (regular, 15:55 ET) |  |
-| 11-24 15:59 | 2 | DKS | Up 14.9% (regular) | DKS +14.9% at 153.58 vs 133.67 close (regular, 15:55 ET) |  |
-| 11-24 15:59 | 2 | WDAY | 8-K: 2.02 Earnings results | 8-K - Workday, Inc. (0001327811) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1327811/000132781126000057/0001327811-26-000057-index.htm) |
-| 11-24 15:59 | 2 | NTNX | 8-K: 2.02 Earnings results; 5.02 Executive/director change | 8-K - Nutanix, Inc. (0001618732) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1618732/000117184326007693/0001171843-26-007693-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
