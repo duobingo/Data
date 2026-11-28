@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-28 07:37 ET
+# Alerts — watcher run 2026-11-28 08:51 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -138,12 +138,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-25 09:43 | 1 | ACHR | Down 6.8% (regular) | ACHR -6.8% at 2.68 vs 2.88 close (regular, 09:40 ET) |  |
 | 11-25 09:43 | 1 | OKLO | Down 8.2% (regular) | OKLO -8.2% at 17.62 vs 19.20 close (regular, 09:40 ET) |  |
 | 11-25 09:43 | 1 | BMY | FDA/trial | Bristol-Myers Squibb Reports Mixed Phase 3 Trial Results for Sotyktu in Systemic Lupus Erythematosus | [link](https://finnhub.io/api/news?id=b6b79d76b856a0d76b620fb01b235a9b538d9769b56880b80b0a815155da3775) |
-| 11-25 08:27 | 1 | GOOGL | Down 4.2% (premarket) | GOOGL -4.2% at 267.21 vs 279.05 close (premarket, 08:25 ET) |  |
-| 11-25 08:27 | 1 | AVGO | Down 4.1% (premarket) | AVGO -4.1% at 288.67 vs 301.08 close (premarket, 08:25 ET) |  |
-| 11-25 08:27 | 1 | DE | Down 4.5% (premarket) | DE -4.5% at 586.12 vs 613.76 close (premarket, 08:25 ET) |  |
-| 11-25 08:27 | 1 | SNOW | Down 4.0% (premarket) | SNOW -4.0% at 260.20 vs 271.09 close (premarket, 08:10 ET) |  |
-| 11-25 08:27 | 1 | ARM | Down 5.8% (premarket) | ARM -5.8% at 152.26 vs 161.56 close (premarket, 08:25 ET) |  |
-| 11-25 08:27 | 1 | BFLY | Down 5.2% (premarket) | BFLY -5.2% at 5.31 vs 5.60 close (premarket, 07:35 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
@@ -217,7 +211,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-25 09:43 | 2 | VICR | Down 9.7% (regular) | VICR -9.7% at 113.40 vs 125.55 close (regular, 09:40 ET) |  |
 | 11-25 09:43 | 2 | IRT | 8-K: 5.02 Executive/director change | 8-K - INDEPENDENCE REALTY TRUST, INC. (0001466085) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1466085/000143774926038246/0001437749-26-038246-index.htm) |
 | 11-25 09:43 | 2 | WEX | 8-K: 1.01 Material agreement | 8-K - WEX Inc. (0001309108) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1309108/000114036126045592/0001140361-26-045592-index.htm) |
-| 11-25 08:27 | 2 | FE | 8-K: 1.01 Material agreement | 8-K - FIRSTENERGY CORP (0001031296) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1031296/000119312526476850/0001193125-26-476850-index.htm) |
 
 ## Market-wide news (Fed, data, policy)
 
