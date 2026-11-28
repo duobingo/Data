@@ -1,20 +1,6 @@
 {
  "alerts": [
   {
-   "id": "9a67d0878e762472",
-   "kind": "price",
-   "group": "tracked",
-   "ticker": "KLAC",
-   "name": "KLA Corporation",
-   "sector": "Information Technology",
-   "severity": 1,
-   "category": "Up 4.1% (after-hours)",
-   "title": "KLAC +4.1% at 132.10 vs 126.87 close (after-hours, 18:42 ET)",
-   "url": "",
-   "move_pct": 4.12,
-   "first_seen": "2026-11-20T18:50-05:00"
-  },
-  {
    "id": "ea4a91265afa7043",
    "kind": "news",
    "group": "tracked",
@@ -10551,6 +10537,6 @@
    "first_seen": "2026-11-27T16:40-05:00"
   }
  ],
- "last_run": "2026-11-27T18:37-05:00",
+ "last_run": "2026-11-27T19:38-05:00",
  "errors": []
 }

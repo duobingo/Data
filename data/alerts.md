@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-27 18:37 ET
+# Alerts — watcher run 2026-11-27 19:38 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -233,8 +233,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-25 04:54 | 2 | SNDK | Down 22.8% (premarket) | SNDK -22.8% at 72.90 vs 94.39 close (premarket, 04:55 ET) |  |
 | 11-25 04:54 | 2 | WDAY | Down 10.2% (premarket) | WDAY -10.2% at 161.00 vs 179.23 close (premarket, 04:25 ET) |  |
 | 11-25 04:54 | 2 | NTNX | Down 12.1% (premarket) | NTNX -12.1% at 47.97 vs 54.59 close (premarket, 04:40 ET) |  |
-| 11-24 18:52 | 2 | NTNX | Down 8.6% (after-hours) | NTNX -8.6% at 49.91 vs 54.59 close (after-hours, 18:40 ET) |  |
-| 11-24 18:52 | 2 | OC | Down 10.9% (after-hours) | OC -10.9% at 103.19 vs 115.87 close (after-hours, 18:20 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
