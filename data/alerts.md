@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-28 04:37 ET
+# Alerts — watcher run 2026-11-28 05:37 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -230,9 +230,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-25 09:43 | 2 | IRT | 8-K: 5.02 Executive/director change | 8-K - INDEPENDENCE REALTY TRUST, INC. (0001466085) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1466085/000143774926038246/0001437749-26-038246-index.htm) |
 | 11-25 09:43 | 2 | WEX | 8-K: 1.01 Material agreement | 8-K - WEX Inc. (0001309108) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1309108/000114036126045592/0001140361-26-045592-index.htm) |
 | 11-25 08:27 | 2 | FE | 8-K: 1.01 Material agreement | 8-K - FIRSTENERGY CORP (0001031296) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/1031296/000119312526476850/0001193125-26-476850-index.htm) |
-| 11-25 04:54 | 2 | SNDK | Down 22.8% (premarket) | SNDK -22.8% at 72.90 vs 94.39 close (premarket, 04:55 ET) |  |
-| 11-25 04:54 | 2 | WDAY | Down 10.2% (premarket) | WDAY -10.2% at 161.00 vs 179.23 close (premarket, 04:25 ET) |  |
-| 11-25 04:54 | 2 | NTNX | Down 12.1% (premarket) | NTNX -12.1% at 47.97 vs 54.59 close (premarket, 04:40 ET) |  |
 
 ## Market-wide news (Fed, data, policy)
 
