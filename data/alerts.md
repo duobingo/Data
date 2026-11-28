@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-28 06:35 ET
+# Alerts — watcher run 2026-11-28 07:37 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -144,16 +144,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-25 08:27 | 1 | SNOW | Down 4.0% (premarket) | SNOW -4.0% at 260.20 vs 271.09 close (premarket, 08:10 ET) |  |
 | 11-25 08:27 | 1 | ARM | Down 5.8% (premarket) | ARM -5.8% at 152.26 vs 161.56 close (premarket, 08:25 ET) |  |
 | 11-25 08:27 | 1 | BFLY | Down 5.2% (premarket) | BFLY -5.2% at 5.31 vs 5.60 close (premarket, 07:35 ET) |  |
-| 11-25 07:04 | 1 | AMD | Down 6.7% (premarket) | AMD -6.7% at 385.57 vs 413.27 close (premarket, 07:05 ET) |  |
-| 11-25 07:04 | 1 | AMAT | Down 6.1% (premarket) | AMAT -6.1% at 304.00 vs 323.76 close (premarket, 07:00 ET) |  |
-| 11-25 07:04 | 1 | HOOD | Down 4.0% (premarket) | HOOD -4.0% at 63.01 vs 65.65 close (premarket, 07:00 ET) |  |
-| 11-25 07:04 | 1 | RKLB | Down 4.3% (premarket) | RKLB -4.3% at 44.00 vs 45.98 close (premarket, 07:00 ET) |  |
-| 11-25 07:04 | 1 | IONQ | Down 4.9% (premarket) | IONQ -4.9% at 21.31 vs 22.40 close (premarket, 07:00 ET) |  |
-| 11-25 07:04 | 1 | TSM | Down 4.8% (premarket) | TSM -4.8% at 332.52 vs 349.20 close (premarket, 07:00 ET) |  |
-| 11-25 07:04 | 1 | ASML | Down 4.8% (premarket) | ASML -4.8% at 1271.85 vs 1336.06 close (premarket, 07:00 ET) |  |
-| 11-25 07:04 | 1 | OKLO | Down 4.2% (premarket) | OKLO -4.2% at 18.39 vs 19.20 close (premarket, 07:00 ET) |  |
-| 11-25 07:04 | 1 | TSLA | Deal | Tesla and SpaceX $3.5 Trillion Merger Talks Take a Major Step Forward | [link](https://finnhub.io/api/news?id=865b409cb40a22a2094a9eca79519a67f4e35425bb9b5e4830ba6f8800088cac) |
-| 11-25 07:04 | 2 | DE | 8-K: 2.02 Earnings results | 8-K - DEERE & CO (0000315189) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/315189/000110465926131741/0001104659-26-131741-index.htm) |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
@@ -235,7 +225,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 |---|---|---|---|---|---|
 | 11-26 07:04 | 2 | — | Policy/trade | How Trump's proposed tariffs for India compare with rival nations - Reuters | [link](https://news.google.com/rss/articles/CBMirAFBVV95cUxNazJTSjI3dk40ZnhoM2ZJR2N2eXp0NUFoaWUxNUI4NW9wV19YWEtpd24tS0t5YnFHV2YzSkRmSXdiTnR6cjRuMTROY1d1VlQ2NUR3UjNNMUJkeU5XQVBOeUQ1VnVTQmtQU3BVOUNndHdyeUhvWDcxdmRHMGtheVJCREs4UzdCWS1VVDQwcmdQYWtILXltMHRhN1UxeTVtdGhuMFhpemlOdDRkLTB5?oc=5) |
 | 11-25 12:54 | 2 | — | Market stress | Nvidia leads tech sell-off as Huang comeback rally fizzles and AI concerns return | [link](https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html) |
-| 11-25 07:04 | 2 | — | Inflation/jobs | Nasdaq futures slide over 2% as AI losses deepen; inflation data in focus - Reuters | [link](https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5) |
 
 ## Watcher health
 

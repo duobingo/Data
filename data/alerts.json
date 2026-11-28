@@ -1,21 +1,6 @@
 {
  "alerts": [
   {
-   "id": "fd73b4af56009ae5",
-   "kind": "macro",
-   "group": "market",
-   "ticker": "",
-   "name": "",
-   "sector": "",
-   "severity": 2,
-   "category": "Market stress",
-   "title": "S&P 500 correction: Five forces behind the market sell-off",
-   "source": "CNBC",
-   "url": "https://www.cnbc.com/2026/11/20/sp-500-correction-market-sell-off.html",
-   "published": "2026-11-21 06:29",
-   "first_seen": "2026-11-21T07:30-05:00"
-  },
-  {
    "id": "ae613ffdaa07a109",
    "kind": "macro",
    "group": "market",
@@ -10522,6 +10507,6 @@
    "first_seen": "2026-11-27T16:40-05:00"
   }
  ],
- "last_run": "2026-11-28T06:35-05:00",
+ "last_run": "2026-11-28T07:37-05:00",
  "errors": []
 }
