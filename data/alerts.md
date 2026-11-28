@@ -1,4 +1,4 @@
-# Alerts — watcher run 2026-11-28 05:37 ET
+# Alerts — watcher run 2026-11-28 06:35 ET
 
 Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headlines, SEC 8-Ks). Last 72 hours, newest first. 'First seen' = when the watcher caught it. Severity 1 = know now; 2 = worth a look. Desk runs: read everything first seen since your last run.
 
@@ -154,8 +154,6 @@ Rule-based hits from the 20-minute watcher (prices incl. pre/after-hours, headli
 | 11-25 07:04 | 1 | OKLO | Down 4.2% (premarket) | OKLO -4.2% at 18.39 vs 19.20 close (premarket, 07:00 ET) |  |
 | 11-25 07:04 | 1 | TSLA | Deal | Tesla and SpaceX $3.5 Trillion Merger Talks Take a Major Step Forward | [link](https://finnhub.io/api/news?id=865b409cb40a22a2094a9eca79519a67f4e35425bb9b5e4830ba6f8800088cac) |
 | 11-25 07:04 | 2 | DE | 8-K: 2.02 Earnings results | 8-K - DEERE & CO (0000315189) (Filer) | [link](https://www.sec.gov/Archives/edgar/data/315189/000110465926131741/0001104659-26-131741-index.htm) |
-| 11-25 06:00 | 1 | MU | Down 5.4% (premarket) | MU -5.4% at 595.60 vs 629.79 close (premarket, 06:00 ET) |  |
-| 11-25 06:00 | 1 | PANW | Down 4.0% (premarket) | PANW -4.0% at 338.86 vs 352.99 close (premarket, 05:56 ET) |  |
 
 ## Market radar (S&P 500/400 movers, news, filings)
 
